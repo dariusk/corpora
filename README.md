@@ -10,7 +10,7 @@ I'm also hoping that this can be used as a teaching tool: maybe someone has thre
 
 Since Corpora is more data than code, I have chosen to CC0 license this (rather than MIT license or similar).
 
-![http://i.creativecommons.org/p/zero/1.0/88x31.png](http://creativecommons.org/publicdomain/zero/1.0/)
+<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png"></a>
 
 To the extent possible under law, [Darius Kazemi](http://tinysubversions.com) has waived all copyright and related or neighboring rights to Corpora. This work is published from: United States.
 
