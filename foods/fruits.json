@@ -1,4 +1,5 @@
 {
+  "description": "A list of fruits.",
     "fruits": [
         "apple",
         "apricot",
