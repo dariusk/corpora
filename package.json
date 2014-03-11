@@ -1,0 +1,23 @@
+{
+  "name": "corpora",
+  "version": "0.0.1",
+  "description": "A collection of small corpuses of interesting data for the creation of weird internet stuff.",
+  "devDependencies": {
+    "grunt": "^0.4.3",
+    "grunt-jsonlint": "^1.0.4",
+    "grunt-cli": "^0.1.13"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dariusk/corpora.git"
+  },
+  "author": "Darius Kazemi",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/dariusk/corpora/issues"
+  },
+  "homepage": "https://github.com/dariusk/corpora"
+}
