@@ -1,7 +1,7 @@
 {
   "name": "corpora",
   "version": "0.0.1",
-  "description": "A collection of small corpuses of interesting data for the creation of bots and similar stuff.",
+  "description": "A collection of small corpuses of interesting data for the creation of weird internet stuff.",
   "devDependencies": {
     "grunt": "^0.4.3",
     "grunt-jsonlint": "^1.0.4"
