@@ -30,6 +30,10 @@ This project is not meant to replace exhaustive APIs -- if you want nouns, and y
 We accept pull requests to this repository. Some guidelines:
 
  * BY SUBMITTING DATA AS A PULL REQUEST, YOU AGREE TO OUR APPLYING A [CC0](http://creativecommons.org/publicdomain/zero/1.0/) FREE CULTURE LICENSE TO THE DATA, MEANING THAT ANYONE CAN USE THE DATA FOR ANY REASON WITHOUT ATTRIBUTION IN PERPETUITY.
- * Please submit all data as JSON format, and please [JSONLint](http://jsonlint.com/) your files before submitting.
+ * Please submit all data as JSON format, and please [JSONLint](http://jsonlint.com/) your files before submitting -- also, thanks to [Matt Rothenberg](https://github.com/mroth) we have Travis-CI testing, which will jsonlint your pull request automatically. If you see a test failure notification in your PR after you submit, there's a problem with your JSON!
  * Keep individual files to about 1000 "things" maximum. Fewer than 1000 is fine, too.
  * If you'd like attribution, I'm happy to include your name in this Readme file. Just remember that nobody who uses this data is obligated to include attribution in their own projects.
+
+Contributors:
+
+ * Tyler Kellen ([tkellen](https://github.com/tkellen)): prefixes and suffixes
