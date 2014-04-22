@@ -1,0 +1,409 @@
+{
+    "description": "Corporations of the NASDAQ 100",
+    "corporations": [
+        {
+            "symbol": "AAPL",
+            "name": "Apple"
+        },
+        {
+            "symbol": "ADBE",
+            "name": "Adobe Systems"
+        },
+        {
+            "symbol": "ADI",
+            "name": "Analog Devices"
+        },
+        {
+            "symbol": "ADP",
+            "name": "Automatic Data Processing"
+        },
+        {
+            "symbol": "ADSK",
+            "name": "Autodesk"
+        },
+        {
+            "symbol": "AKAM",
+            "name": "Akamai Technologies"
+        },
+        {
+            "symbol": "ALTR",
+            "name": "Altera"
+        },
+        {
+            "symbol": "ALXN",
+            "name": "Alexion Pharmaceuticals"
+        },
+        {
+            "symbol": "AMAT",
+            "name": "Applied Materials"
+        },
+        {
+            "symbol": "AMGN",
+            "name": "Amgen"
+        },
+        {
+            "symbol": "AMZN",
+            "name": "Amazon.com"
+        },
+        {
+            "symbol": "ATVI",
+            "name": "Activision Blizzard"
+        },
+        {
+            "symbol": "AVGO",
+            "name": "Avago Technologies Limited"
+        },
+        {
+            "symbol": "BBBY",
+            "name": "Bed Bath & Beyond"
+        },
+        {
+            "symbol": "BIDU",
+            "name": "Baidu"
+        },
+        {
+            "symbol": "BIIB",
+            "name": "Biogen Idec"
+        },
+        {
+            "symbol": "BRCM",
+            "name": "Broadcom"
+        },
+        {
+            "symbol": "CA",
+            "name": "CA"
+        },
+        {
+            "symbol": "CELG",
+            "name": "Celgene"
+        },
+        {
+            "symbol": "CERN",
+            "name": "Cerner"
+        },
+        {
+            "symbol": "CHKP",
+            "name": "Check Point Software Technologies Ltd."
+        },
+        {
+            "symbol": "CHRW",
+            "name": "C.H. Robinson Worldwide"
+        },
+        {
+            "symbol": "CHTR",
+            "name": "Charter Communications"
+        },
+        {
+            "symbol": "CMCSA",
+            "name": "Comcast"
+        },
+        {
+            "symbol": "COST",
+            "name": "Costco Wholesale"
+        },
+        {
+            "symbol": "CSCO",
+            "name": "Cisco Systems"
+        },
+        {
+            "symbol": "CTRX",
+            "name": "Catamaran"
+        },
+        {
+            "symbol": "CTSH",
+            "name": "Cognizant Technology Solutions"
+        },
+        {
+            "symbol": "CTXS",
+            "name": "Citrix Systems"
+        },
+        {
+            "symbol": "DISCA",
+            "name": "Discovery Communications"
+        },
+        {
+            "symbol": "DISH",
+            "name": "DISH Network"
+        },
+        {
+            "symbol": "DLTR",
+            "name": "Dollar Tree"
+        },
+        {
+            "symbol": "DTV",
+            "name": "DIRECTV"
+        },
+        {
+            "symbol": "EBAY",
+            "name": "eBay"
+        },
+        {
+            "symbol": "EQIX",
+            "name": "Equinix"
+        },
+        {
+            "symbol": "ESRX",
+            "name": "Express Scripts Holding Company"
+        },
+        {
+            "symbol": "EXPD",
+            "name": "Expeditors International of Washington"
+        },
+        {
+            "symbol": "EXPE",
+            "name": "Expedia"
+        },
+        {
+            "symbol": "FAST",
+            "name": "Fastenal Company"
+        },
+        {
+            "symbol": "FB",
+            "name": "Facebook"
+        },
+        {
+            "symbol": "FFIV",
+            "name": "F5 Networks"
+        },
+        {
+            "symbol": "FISV",
+            "name": "Fiserv"
+        },
+        {
+            "symbol": "FOXA",
+            "name": "Twenty-First Century Fox"
+        },
+        {
+            "symbol": "GILD",
+            "name": "Gilead Sciences"
+        },
+        {
+            "symbol": "GMCR",
+            "name": "Keurig Green Mountain"
+        },
+        {
+            "symbol": "GOOG",
+            "name": "Google"
+        },
+        {
+            "symbol": "GOOGL",
+            "name": "Google"
+        },
+        {
+            "symbol": "GRMN",
+            "name": "Garmin Ltd."
+        },
+        {
+            "symbol": "HSIC",
+            "name": "Henry Schein"
+        },
+        {
+            "symbol": "ILMN",
+            "name": "Illumina"
+        },
+        {
+            "symbol": "INTC",
+            "name": "Intel"
+        },
+        {
+            "symbol": "INTU",
+            "name": "Intuit"
+        },
+        {
+            "symbol": "ISRG",
+            "name": "Intuitive Surgical"
+        },
+        {
+            "symbol": "KLAC",
+            "name": "KLA-Tencor"
+        },
+        {
+            "symbol": "KRFT",
+            "name": "Kraft Foods Group"
+        },
+        {
+            "symbol": "LBTYA",
+            "name": "Liberty Global plc"
+        },
+        {
+            "symbol": "LINTA",
+            "name": "Liberty Interactive"
+        },
+        {
+            "symbol": "LLTC",
+            "name": "Linear Technology"
+        },
+        {
+            "symbol": "LMCA",
+            "name": "Liberty Media"
+        },
+        {
+            "symbol": "MAR",
+            "name": "Marriott International"
+        },
+        {
+            "symbol": "MAT",
+            "name": "Mattel"
+        },
+        {
+            "symbol": "MDLZ",
+            "name": "Mondelez International"
+        },
+        {
+            "symbol": "MNST",
+            "name": "Monster Beverage"
+        },
+        {
+            "symbol": "MSFT",
+            "name": "Microsoft"
+        },
+        {
+            "symbol": "MU",
+            "name": "Micron Technology"
+        },
+        {
+            "symbol": "MXIM",
+            "name": "Maxim Integrated Products"
+        },
+        {
+            "symbol": "MYL",
+            "name": "Mylan"
+        },
+        {
+            "symbol": "NFLX",
+            "name": "Netflix"
+        },
+        {
+            "symbol": "NTAP",
+            "name": "NetApp"
+        },
+        {
+            "symbol": "NVDA",
+            "name": "NVIDIA"
+        },
+        {
+            "symbol": "NXPI",
+            "name": "NXP Semiconductors N.V."
+        },
+        {
+            "symbol": "ORLY",
+            "name": "O'Reilly Automotive"
+        },
+        {
+            "symbol": "PAYX",
+            "name": "Paychex"
+        },
+        {
+            "symbol": "PCAR",
+            "name": "PACCAR"
+        },
+        {
+            "symbol": "PCLN",
+            "name": "The Priceline Group"
+        },
+        {
+            "symbol": "QCOM",
+            "name": "QUALCOMM"
+        },
+        {
+            "symbol": "REGN",
+            "name": "Regeneron Pharmaceuticals"
+        },
+        {
+            "symbol": "ROST",
+            "name": "Ross Stores"
+        },
+        {
+            "symbol": "SBAC",
+            "name": "SBA Communications"
+        },
+        {
+            "symbol": "SBUX",
+            "name": "Starbucks"
+        },
+        {
+            "symbol": "SIAL",
+            "name": "Sigma-Aldrich"
+        },
+        {
+            "symbol": "SIRI",
+            "name": "Sirius XM Holdings"
+        },
+        {
+            "symbol": "SNDK",
+            "name": "SanDisk"
+        },
+        {
+            "symbol": "SPLS",
+            "name": "Staples"
+        },
+        {
+            "symbol": "SRCL",
+            "name": "Stericycle"
+        },
+        {
+            "symbol": "STX",
+            "name": "Seagate Technology."
+        },
+        {
+            "symbol": "SYMC",
+            "name": "Symantec"
+        },
+        {
+            "symbol": "TRIP",
+            "name": "TripAdvisor"
+        },
+        {
+            "symbol": "TSCO",
+            "name": "Tractor Supply Company"
+        },
+        {
+            "symbol": "TSLA",
+            "name": "Tesla Motors"
+        },
+        {
+            "symbol": "TXN",
+            "name": "Texas Instruments"
+        },
+        {
+            "symbol": "VIAB",
+            "name": "Viacom"
+        },
+        {
+            "symbol": "VIP",
+            "name": "VimpelCom Ltd."
+        },
+        {
+            "symbol": "VOD",
+            "name": "Vodafone Group Plc"
+        },
+        {
+            "symbol": "VRSK",
+            "name": "Verisk Analytics"
+        },
+        {
+            "symbol": "VRTX",
+            "name": "Vertex Pharmaceuticals"
+        },
+        {
+            "symbol": "WDC",
+            "name": "Western Digital"
+        },
+        {
+            "symbol": "WFM",
+            "name": "Whole Foods Market"
+        },
+        {
+            "symbol": "WYNN",
+            "name": "Wynn Resorts, Limited"
+        },
+        {
+            "symbol": "XLNX",
+            "name": "Xilinx"
+        },
+        {
+            "symbol": "YHOO",
+            "name": "Yahoo!"
+        }
+    ]
+}
