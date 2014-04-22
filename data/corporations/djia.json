@@ -1,0 +1,125 @@
+{
+    "description": "Corporations of the Dow Jones Industrial Average",
+    "corporations": [
+        {
+            "symbol": "MMM",
+            "name": "3M"
+        },
+        {
+            "symbol": "AXP",
+            "name": "American Express"
+        },
+        {
+            "symbol": "T",
+            "name": "AT&T"
+        },
+        {
+            "symbol": "BA",
+            "name": "Boeing"
+        },
+        {
+            "symbol": "CAT",
+            "name": "Caterpillar"
+        },
+        {
+            "symbol": "CVX",
+            "name": "Chevron"
+        },
+        {
+            "symbol": "CSCO",
+            "name": "Cisco Systems"
+        },
+        {
+            "symbol": "DD",
+            "name": "duPont"
+        },
+        {
+            "symbol": "XOM",
+            "name": "Exxon Mobil"
+        },
+        {
+            "symbol": "GE",
+            "name": "General Electric"
+        },
+        {
+            "symbol": "GS",
+            "name": "Goldman Sachs"
+        },
+        {
+            "symbol": "HD",
+            "name": "Home Depot"
+        },
+        {
+            "symbol": "INTC",
+            "name": "Intel"
+        },
+        {
+            "symbol": "IBM",
+            "name": "IBM"
+        },
+        {
+            "symbol": "JNJ",
+            "name": "Johnson & Johnson"
+        },
+        {
+            "symbol": "JPM",
+            "name": "JPMorgan Chase"
+        },
+        {
+            "symbol": "MCD",
+            "name": "McDonald's"
+        },
+        {
+            "symbol": "MRK",
+            "name": "Merck"
+        },
+        {
+            "symbol": "MSFT",
+            "name": "Microsoft"
+        },
+        {
+            "symbol": "NKE",
+            "name": "Nike"
+        },
+        {
+            "symbol": "PFE",
+            "name": "Pfizer"
+        },
+        {
+            "symbol": "PG",
+            "name": "Procter & Gamble"
+        },
+        {
+            "symbol": "KO",
+            "name": "Coca-Cola"
+        },
+        {
+            "symbol": "TRV",
+            "name": "Travelers Companies"
+        },
+        {
+            "symbol": "UTX",
+            "name": "United Technologies"
+        },
+        {
+            "symbol": "UNH",
+            "name": "UnitedHealth Group"
+        },
+        {
+            "symbol": "VZ",
+            "name": "Verizon Communications"
+        },
+        {
+            "symbol": "V",
+            "name": "Visa"
+        },
+        {
+            "symbol": "WMT",
+            "name": "Wal-Mart"
+        },
+        {
+            "symbol": "DIS",
+            "name": "Walt Disney"
+        }
+    ]
+}
