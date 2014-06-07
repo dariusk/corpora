@@ -1,0 +1,149 @@
+{
+    "description": "A list of laundry care instructions",
+    "laundry_care_instructions": [
+        {
+            "category": "Washing",
+            "instruction": "Machine Wash, Normal"
+        },
+        {
+            "category": "Washing",
+            "instruction": "Machine Wash, Cold"
+        },
+        {
+            "category": "Washing",
+            "instruction": "Machine Wash, Warm"
+        },
+        {
+            "category": "Washing",
+            "instruction": "Machine Wash, Hot"
+        },
+        {
+            "category": "Washing",
+            "instruction": "Machine Wash, Permanent Press"
+        },
+        {
+            "category": "Washing",
+            "instruction": "Machine Wash, Gentle or Delicate"
+        },
+        {
+            "category": "Washing",
+            "instruction": "Hand Wash"
+        },
+        {
+            "category": "Washing",
+            "instruction": "Do Not Wash"
+        },
+        {
+            "category": "Bleaching",
+            "instruction": "Bleach When Needed"
+        },
+        {
+            "category": "Bleaching",
+            "instruction": "Non-Chlorine Bleach When Needed"
+        },
+        {
+            "category": "Bleaching",
+            "instruction": "Do Not Bleach"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Tumble Dry, Normal"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Tumble Dry, Normal, Low Heat"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Tumble Dry, Normal, Medium Heat"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Tumble Dry, Normal, High Heat"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Tumble Dry, Normal, No Heat"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Tumble Dry, Permanent Press"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Tumble Dry, Gentle"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Do Not Tumble Dry"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Do Not Dry"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Line Dry"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Drip Dry"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Dry Flat"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Dry In Shade"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Line Dry In Shade"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Dry Flat In Shade"
+        },
+        {
+            "category": "Drying",
+            "instruction": "Drip Dry In Shade"
+        },
+        {
+            "category": "Wringing",
+            "instruction": "Do Not Wring"
+        },
+        {
+            "category": "Ironing",
+            "instruction": "Iron At Low Temperature"
+        },
+        {
+            "category": "Ironing",
+            "instruction": "Iron At Medium Temperature"
+        },
+        {
+            "category": "Ironing",
+            "instruction": "Iron"
+        },
+        {
+            "category": "Ironing",
+            "instruction": "Iron At High Temperature"
+        },
+        {
+            "category": "Ironing",
+            "instruction": "Do Not Iron"
+        },
+        {
+            "category": "Ironing",
+            "instruction": "Do Not Steam"
+        },
+        {
+            "category": "Drycleaning",
+            "instruction": "Dryclean"
+        },
+        {
+            "category": "Drycleaning",
+            "instruction": "Do Not Dryclean"
+        }
+    ]
+}
