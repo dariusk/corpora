@@ -1,0 +1,93 @@
+{
+	"description": "Deceased drummers from the fictional rock band Spinal Tap, taken from Wikipedia.",
+	"deceasedDrummers": [{
+		"name": {
+			"first": "John",
+			"nick": "Stumpy",
+			"last": "Pepys"
+		},
+		"joined": 1964,
+		"died": 1966,
+		"demise": "Died in a bizarre gardening accident, that the authorities said was \"best left unsolved.\""
+	},
+	{
+		"name": {
+			"first": "Eric",
+			"nick": "Stumpy Joe",
+			"last": "Childs"
+		},
+		"joined": 1966,
+		"died": 1967,
+		"demise": "Choked on vomit of unknown origin, perhaps but not necessarily his own, because \"you can't really dust for vomit.\""
+	},
+	{
+		"name": {
+			"first": "Peter",
+			"nick": "James",
+			"last": "Bond"
+		},
+		"joined": 1967,
+		"died": 1977,
+		"demise": "Spontaneously combusted on stage during a jazz festival on the Isle of Lucy, leaving behind what has been described alternatively as a \"globule\" or a \"stain\""
+	},
+	{
+		"name": {
+			"first": "Mick",
+			"nick": "",
+			"last": "Shrimpton"
+		},
+		"joined": 1977,
+		"died": 1982,
+		"demise": "Exploded onstage."
+	},
+	{
+		"name": {
+			"first": "Joe",
+			"nick": "Mama",
+			"last": "Besser"
+		},
+		"joined": 1982,
+		"died": 1982,
+		"demise": "Claimed he \"couldn't take this 4/4 shit\"; according to an MTV interview with Spinal Tap in November 1991, he disappeared along with the equipment during their Japanese tour. He is either dead or playing jazz. The name is a play on that of Joe Besser, who similarly had a short-lived and ill-fitted stint as a member of The Three Stooges."
+	},
+	{
+		"name": {
+			"first": "Richard",
+			"nick": "Ric",
+			"last": "Shrimpton"
+		},
+		"joined": 1982,
+		"died": 1999,
+		"demise": "Allegedly sold his dialysis machine for drugs; presumed dead."
+	},
+	{
+		"name": {
+			"first": "Sammy",
+			"nick": "Stumpy",
+			"last": "Bateman"
+		},
+		"joined": 1999,
+		"died": 2001,
+		"demise": "Died trying to jump over a tank full of sharks while on a tricycle in a freak show."
+	},
+	{
+		"name": {
+			"first": "Scott",
+			"nick": "Skippy",
+			"last": "Scuffleton"
+		},
+		"joined": 2001,
+		"died": 2007,
+		"demise": "Fate unknown."
+	},
+	{
+		"name": {
+			"first": "Chris",
+			"nick": "Poppa",
+			"last": "Cadeau"
+		},
+		"joined": 2007,
+		"died": 2008,
+		"demise": "Eaten by his pet python Cleopatra."
+	}]
+}
