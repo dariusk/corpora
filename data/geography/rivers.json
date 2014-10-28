@@ -1,0 +1,1101 @@
+{
+  "description": "A list of rivers.",
+  "source": "http://en.wikipedia.org/wiki/List_of_rivers_by_length",
+  "rivers": [
+    {
+      "name": "Nile",
+      "confluences": ["Kagera"],
+      "outflow": "Mediterranean"
+    },
+    {
+      "name": "Kagera",
+      "confluences": ["Nile"],
+      "outflow": "Mediterranean"
+    },
+    {
+      "name": "Amazon",
+      "confluences": ["Ucayali","Apurímac"],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Ucayali",
+      "confluences": ["Amazon","Apurímac"],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Apurímac",
+      "confluences": ["Amazon","Ucayali"],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Yangtze",
+      "confluences": [],
+      "outflow": "East China Sea"
+    },
+    {
+      "name": "Mississippi",
+      "confluences": ["Missouri","Jefferson"],
+      "outflow": "Gulf of Mexico"
+    },
+    {
+      "name": "Missouri",
+      "confluences": ["Mississippi","Jefferson"],
+      "outflow": "Gulf of Mexico"
+    },
+    {
+      "name": "Jefferson",
+      "confluences": ["Mississippi","Missouri"],
+      "outflow": "Gulf of Mexico"
+    },
+    {
+      "name": "Yenisei",
+      "confluences": ["Angara","Selenge"],
+      "outflow": "Kara Sea"
+    },
+    {
+      "name": "Angara",
+      "confluences": ["Yenisei","Selenge"],
+      "outflow": "Kara Sea"
+    },
+    {
+      "name": "Selenge",
+      "confluences": ["Yenisei","Angara"],
+      "outflow": "Kara Sea"
+    },
+    {
+      "name": "Huang He",
+      "confluences": [],
+      "outflow": "Bohai Sea"
+    },
+    {
+      "name": "Ob",
+      "confluences": ["Irtysh"],
+      "outflow": "Gulf of Ob"
+    },
+    {
+      "name": "Irtysh",
+      "confluences": ["Ob"],
+      "outflow": "Gulf of Ob"
+    },
+    {
+      "name": "Paraná",
+      "confluences": ["Río de la Plata"],
+      "outflow": "Río de la Plata"
+    },
+    {
+      "name": "Río de la Plata",
+      "confluences": ["Paraná"],
+      "outflow": "Río de la Plata"
+    },
+    {
+      "name": "Congo",
+      "confluences": ["Chambeshi"],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Chambeshi",
+      "confluences": ["Congo"],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Amur",
+      "confluences": ["Argun"],
+      "outflow": "Sea of Okhotsk"
+    },
+    {
+      "name": "Argun",
+      "confluences": ["Amur"],
+      "outflow": "Sea of Okhotsk"
+    },
+    {
+      "name": "Lena",
+      "confluences": [],
+      "outflow": "Laptev Sea"
+    },
+    {
+      "name": "Mekong",
+      "confluences": [],
+      "outflow": "South China Sea"
+    },
+    {
+      "name": "Mackenzie",
+      "confluences": ["Slave","Peace","Finlay"],
+      "outflow": "Beaufort Sea"
+    },
+    {
+      "name": "Slave",
+      "confluences": ["Mackenzie","Peace","Finlay"],
+      "outflow": "Beaufort Sea"
+    },
+    {
+      "name": "Peace",
+      "confluences": ["Mackenzie","Slave","Finlay"],
+      "outflow": "Beaufort Sea"
+    },
+    {
+      "name": "Finlay",
+      "confluences": ["Mackenzie","Slave","Peace"],
+      "outflow": "Beaufort Sea"
+    },
+    {
+      "name": "Niger",
+      "confluences": [],
+      "outflow": "Gulf of Guinea"
+    },
+    {
+      "name": "Murray",
+      "confluences": ["Darling"],
+      "outflow": "Southern Ocean"
+    },
+    {
+      "name": "Darling",
+      "confluences": ["Murray"],
+      "outflow": "Southern Ocean"
+    },
+    {
+      "name": "Tocantins",
+      "confluences": ["Araguaia"],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Araguaia",
+      "confluences": ["Tocantins"],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Volga",
+      "confluences": [],
+      "outflow": "Caspian Sea"
+    },
+    {
+      "name": "Shatt al-Arab",
+      "confluences": ["Euphrates"],
+      "outflow": "Persian Gulf"
+    },
+    {
+      "name": "Euphrates",
+      "confluences": ["Shatt al-Arab"],
+      "outflow": "Persian Gulf"
+    },
+    {
+      "name": "Madeira",
+      "confluences": ["Mamoré","Grande","Caine","Rocha"],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Mamoré",
+      "confluences": ["Madeira","Grande","Caine","Rocha"],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Grande",
+      "confluences": ["Madeira","Mamoré","Caine","Rocha"],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Caine",
+      "confluences": ["Madeira","Mamoré","Grande","Rocha"],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Rocha",
+      "confluences": ["Madeira","Mamoré","Grande","Caine"],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Purús",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Yukon",
+      "confluences": [],
+      "outflow": "Bering Sea"
+    },
+    {
+      "name": "Indus",
+      "confluences": [],
+      "outflow": "Arabian Sea"
+    },
+    {
+      "name": "São Francisco",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Syr Darya",
+      "confluences": ["Naryn"],
+      "outflow": "Aral Sea"
+    },
+    {
+      "name": "Naryn",
+      "confluences": ["Syr Darya"],
+      "outflow": "Aral Sea"
+    },
+    {
+      "name": "Salween",
+      "confluences": [],
+      "outflow": "Andaman Sea"
+    },
+    {
+      "name": "Saint Lawrence",
+      "confluences": ["Niagara","Detroit","Saint Clair","Saint Marys","Saint Louis"],
+      "outflow": "Gulf of Saint Lawrence"
+    },
+    {
+      "name": "Niagara",
+      "confluences": ["Saint Lawrence","Detroit","Saint Clair","Saint Marys","Saint Louis"],
+      "outflow": "Gulf of Saint Lawrence"
+    },
+    {
+      "name": "Detroit",
+      "confluences": ["Saint Lawrence","Niagara","Saint Clair","Saint Marys","Saint Louis"],
+      "outflow": "Gulf of Saint Lawrence"
+    },
+    {
+      "name": "Saint Clair",
+      "confluences": ["Saint Lawrence","Niagara","Detroit","Saint Marys","Saint Louis"],
+      "outflow": "Gulf of Saint Lawrence"
+    },
+    {
+      "name": "Saint Marys",
+      "confluences": ["Saint Lawrence","Niagara","Detroit","Saint Clair","Saint Louis"],
+      "outflow": "Gulf of Saint Lawrence"
+    },
+    {
+      "name": "Saint Louis",
+      "confluences": ["Saint Lawrence","Niagara","Detroit","Saint Clair","Saint Marys"],
+      "outflow": "Gulf of Saint Lawrence"
+    },
+    {
+      "name": "Rio Grande",
+      "confluences": [],
+      "outflow": "Gulf of Mexico"
+    },
+    {
+      "name": "Lower Tunguska",
+      "confluences": [],
+      "outflow": "Yenisei"
+    },
+    {
+      "name": "Brahmaputra",
+      "confluences": ["Tsangpo"],
+      "outflow": "Ganges"
+    },
+    {
+      "name": "Tsangpo",
+      "confluences": ["Brahmaputra"],
+      "outflow": "Ganges"
+    },
+    {
+      "name": "Danube",
+      "confluences": ["Breg"],
+      "outflow": "Black Sea"
+    },
+    {
+      "name": "Breg",
+      "confluences": ["Danube"],
+      "outflow": "Black Sea"
+    },
+    {
+      "name": "Zambezi",
+      "confluences": [],
+      "outflow": "Mozambique Channel"
+    },
+    {
+      "name": "Vilyuy",
+      "confluences": [],
+      "outflow": "Lena"
+    },
+    {
+      "name": "Araguaia",
+      "confluences": [],
+      "outflow": "Tocantins"
+    },
+    {
+      "name": "Ganges",
+      "confluences": ["Hooghly","Padma"],
+      "outflow": "Bay of Bengal"
+    },
+    {
+      "name": "Hooghly",
+      "confluences": ["Ganges","Padma"],
+      "outflow": "Bay of Bengal"
+    },
+    {
+      "name": "Padma",
+      "confluences": ["Ganges","Hooghly"],
+      "outflow": "Bay of Bengal"
+    },
+    {
+      "name": "Amu Darya",
+      "confluences": ["Panj"],
+      "outflow": "Aral Sea"
+    },
+    {
+      "name": "Panj",
+      "confluences": ["Amu Darya"],
+      "outflow": "Aral Sea"
+    },
+    {
+      "name": "Japurá",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Nelson",
+      "confluences": ["Saskatchewan"],
+      "outflow": "Hudson Bay"
+    },
+    {
+      "name": "Saskatchewan",
+      "confluences": ["Nelson"],
+      "outflow": "Hudson Bay"
+    },
+    {
+      "name": "Paraguay",
+      "confluences": [],
+      "outflow": "Paraná"
+    },
+    {
+      "name": "Kolyma",
+      "confluences": [],
+      "outflow": "East Siberian Sea"
+    },
+    {
+      "name": "Pilcomayo",
+      "confluences": [],
+      "outflow": "Paraguay"
+    },
+    {
+      "name": "Upper Ob",
+      "confluences": ["Katun"],
+      "outflow": "Ob"
+    },
+    {
+      "name": "Katun",
+      "confluences": ["Upper Ob"],
+      "outflow": "Ob"
+    },
+    {
+      "name": "Ishim",
+      "confluences": [],
+      "outflow": "Irtysh"
+    },
+    {
+      "name": "Juruá",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Ural",
+      "confluences": [],
+      "outflow": "Caspian Sea"
+    },
+    {
+      "name": "Arkansas",
+      "confluences": [],
+      "outflow": "Mississippi"
+    },
+    {
+      "name": "Colorado",
+      "confluences": [],
+      "outflow": "Gulf of California"
+    },
+    {
+      "name": "Olenyok",
+      "confluences": [],
+      "outflow": "Laptev Sea"
+    },
+    {
+      "name": "Dnieper",
+      "confluences": [],
+      "outflow": "Black Sea"
+    },
+    {
+      "name": "Aldan",
+      "confluences": [],
+      "outflow": "Lena"
+    },
+    {
+      "name": "Ubangi",
+      "confluences": ["Uele"],
+      "outflow": "Congo"
+    },
+    {
+      "name": "Uele",
+      "confluences": ["Ubangi"],
+      "outflow": "Congo"
+    },
+    {
+      "name": "Negro",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Columbia",
+      "confluences": [],
+      "outflow": "Pacific Ocean"
+    },
+    {
+      "name": "Pearl",
+      "confluences": ["Zhu Jiang"],
+      "outflow": "South China Sea"
+    },
+    {
+      "name": "Zhu Jiang",
+      "confluences": ["Pearl"],
+      "outflow": "South China Sea"
+    },
+    {
+      "name": "Red",
+      "confluences": [],
+      "outflow": "Mississippi"
+    },
+    {
+      "name": "Ayeyarwady",
+      "confluences": [],
+      "outflow": "Andaman Sea"
+    },
+    {
+      "name": "Kasai",
+      "confluences": [],
+      "outflow": "Congo"
+    },
+    {
+      "name": "Ohio",
+      "confluences": ["Allegheny"],
+      "outflow": "Mississippi"
+    },
+    {
+      "name": "Allegheny",
+      "confluences": ["Ohio"],
+      "outflow": "Mississippi"
+    },
+    {
+      "name": "Orinoco",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Tarim",
+      "confluences": [],
+      "outflow": "Lop Nur"
+    },
+    {
+      "name": "Xingu",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Orange",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Northern Salado",
+      "confluences": [],
+      "outflow": "Paraná"
+    },
+    {
+      "name": "Vitim",
+      "confluences": [],
+      "outflow": "Lena"
+    },
+    {
+      "name": "Tigris",
+      "confluences": [],
+      "outflow": "Shatt al-Arab"
+    },
+    {
+      "name": "Songhua",
+      "confluences": [],
+      "outflow": "Amur"
+    },
+    {
+      "name": "Tapajós",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Don",
+      "confluences": [],
+      "outflow": "Sea of Azov"
+    },
+    {
+      "name": "Stony Tunguska",
+      "confluences": [],
+      "outflow": "Yenisei"
+    },
+    {
+      "name": "Pechora",
+      "confluences": [],
+      "outflow": "Barents Sea"
+    },
+    {
+      "name": "Kama",
+      "confluences": [],
+      "outflow": "Volga"
+    },
+    {
+      "name": "Limpopo",
+      "confluences": [],
+      "outflow": "Indian Ocean"
+    },
+    {
+      "name": "Guaporé",
+      "confluences": [],
+      "outflow": "Mamoré"
+    },
+    {
+      "name": "Indigirka",
+      "confluences": [],
+      "outflow": "East Siberian Sea"
+    },
+    {
+      "name": "Snake",
+      "confluences": [],
+      "outflow": "Columbia"
+    },
+    {
+      "name": "Senegal",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Uruguay",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Murrumbidgee",
+      "confluences": [],
+      "outflow": "Murray"
+    },
+    {
+      "name": "Blue Nile",
+      "confluences": [],
+      "outflow": "Nile"
+    },
+    {
+      "name": "Churchill",
+      "confluences": [],
+      "outflow": "Nile"
+    },
+    {
+      "name": "Khatanga",
+      "confluences": [],
+      "outflow": "Laptev Sea"
+    },
+    {
+      "name": "Okavango",
+      "confluences": [],
+      "outflow": "Okavango Delta"
+    },
+    {
+      "name": "Volta",
+      "confluences": [],
+      "outflow": "Gulf of Guinea"
+    },
+    {
+      "name": "Beni",
+      "confluences": [],
+      "outflow": "Madeira"
+    },
+    {
+      "name": "Platte",
+      "confluences": [],
+      "outflow": "Missouri"
+    },
+    {
+      "name": "Tobol",
+      "confluences": [],
+      "outflow": "Irtysh"
+    },
+    {
+      "name": "Jubba",
+      "confluences": ["Shebelle"],
+      "outflow": "Indian Ocean"
+    },
+    {
+      "name": "Shebelle",
+      "confluences": ["Jubba"],
+      "outflow": "Indian Ocean"
+    },
+    {
+      "name": "Içá",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Magdalena",
+      "confluences": [],
+      "outflow": "Caribbean"
+    },
+    {
+      "name": "Han",
+      "confluences": [],
+      "outflow": "Yangtze"
+    },
+    {
+      "name": "Oka",
+      "confluences": [],
+      "outflow": "Volga"
+    },
+    {
+      "name": "Pecos",
+      "confluences": [],
+      "outflow": "Rio Grande"
+    },
+    {
+      "name": "Upper Yenisei",
+      "confluences": ["Little Yenisei"],
+      "outflow": "Yenisei"
+    },
+    {
+      "name": "Little Yenisei",
+      "confluences": ["Upper Yenisei"],
+      "outflow": "Yenisei"
+    },
+    {
+      "name": "Godavari",
+      "confluences": [],
+      "outflow": "Bay of Bengal"
+    },
+    {
+      "name": "Guapay",
+      "confluences": [],
+      "outflow": "Ichilo"
+    },
+    {
+      "name": "Belaya",
+      "confluences": [],
+      "outflow": "Kama"
+    },
+    {
+      "name": "Cooper",
+      "confluences": ["Barcoo"],
+      "outflow": "Lake Eyre"
+    },
+    {
+      "name": "Barcoo",
+      "confluences": ["Cooper"],
+      "outflow": "Lake Eyre"
+    },
+    {
+      "name": "Marañón",
+      "confluences": [],
+      "outflow": "Amazon"
+    },
+    {
+      "name": "Dniester",
+      "confluences": [],
+      "outflow": "Black Sea"
+    },
+    {
+      "name": "Benue",
+      "confluences": [],
+      "outflow": "Niger"
+    },
+    {
+      "name": "Ili",
+      "confluences": [],
+      "outflow": "Lake Balkhash"
+    },
+    {
+      "name": "Warburton",
+      "confluences": ["Georgina"],
+      "outflow": "Lake Eyre"
+    },
+    {
+      "name": "Georgina",
+      "confluences": ["Warburton"],
+      "outflow": "Lake Eyre"
+    },
+    {
+      "name": "Sutlej",
+      "confluences": [],
+      "outflow": "Chenab"
+    },
+    {
+      "name": "Yamuna",
+      "confluences": [],
+      "outflow": "Ganges"
+    },
+    {
+      "name": "Vyatka",
+      "confluences": [],
+      "outflow": "Kama"
+    },
+    {
+      "name": "Fraser",
+      "confluences": [],
+      "outflow": "Pacific Ocean"
+    },
+    {
+      "name": "Mtkvari",
+      "confluences": [],
+      "outflow": "Caspian Sea"
+    },
+    {
+      "name": "Grande",
+      "confluences": [],
+      "outflow": "Paraná"
+    },
+    {
+      "name": "Brazos",
+      "confluences": [],
+      "outflow": "Gulf of Mexico"
+    },
+    {
+      "name": "Cauca",
+      "confluences": [],
+      "outflow": "Magdalena"
+    },
+    {
+      "name": "Liao",
+      "confluences": [],
+      "outflow": "Bohai Sea"
+    },
+    {
+      "name": "Yalong",
+      "confluences": [],
+      "outflow": "Yangtze"
+    },
+    {
+      "name": "Iguaçu",
+      "confluences": [],
+      "outflow": "Paraná"
+    },
+    {
+      "name": "Olyokma",
+      "confluences": [],
+      "outflow": "Lena"
+    },
+    {
+      "name": "Northern Dvina",
+      "confluences": ["Sukhona"],
+      "outflow": "White Sea"
+    },
+    {
+      "name": "Sukhona",
+      "confluences": ["Northern Dvina"],
+      "outflow": "White Sea"
+    },
+    {
+      "name": "Krishna",
+      "confluences": [],
+      "outflow": "Bay of Bengal"
+    },
+    {
+      "name": "Iriri",
+      "confluences": [],
+      "outflow": "Xingu"
+    },
+    {
+      "name": "Narmada",
+      "confluences": [],
+      "outflow": "Arabian Sea"
+    },
+    {
+      "name": "Lomami",
+      "confluences": [],
+      "outflow": "Congo"
+    },
+    {
+      "name": "Ottawa",
+      "confluences": [],
+      "outflow": "Saint Lawrence"
+    },
+    {
+      "name": "Lerma",
+      "confluences": ["Rio Grande de Santiago"],
+      "outflow": "Pacific Ocean"
+    },
+    {
+      "name": "Rio Grande de Santiago",
+      "confluences": ["Lerma"],
+      "outflow": "Pacific Ocean"
+    },
+    {
+      "name": "Elbe",
+      "confluences": ["Vltava"],
+      "outflow": "North Sea"
+    },
+    {
+      "name": "Vltava",
+      "confluences": ["Elbe"],
+      "outflow": "North Sea"
+    },
+    {
+      "name": "Zeya",
+      "confluences": [],
+      "outflow": "Amur"
+    },
+    {
+      "name": "Juruena",
+      "confluences": [],
+      "outflow": "Tapajós"
+    },
+    {
+      "name": "Upper Mississippi",
+      "confluences": [],
+      "outflow": "Mississippi"
+    },
+    {
+      "name": "Rhine",
+      "confluences": [],
+      "outflow": "North Sea"
+    },
+    {
+      "name": "Athabasca",
+      "confluences": [],
+      "outflow": "Mackenzie"
+    },
+    {
+      "name": "Canadian",
+      "confluences": [],
+      "outflow": "Arkansas"
+    },
+    {
+      "name": "North Saskatchewan",
+      "confluences": [],
+      "outflow": "Saskatchewan"
+    },
+    {
+      "name": "Vaal",
+      "confluences": [],
+      "outflow": "Orange"
+    },
+    {
+      "name": "Shire",
+      "confluences": [],
+      "outflow": "Zambezi"
+    },
+    {
+      "name": "Nen",
+      "confluences": [],
+      "outflow": "Songhua"
+    },
+    {
+      "name": "Kızıl",
+      "confluences": [],
+      "outflow": "Black Sea"
+    },
+    {
+      "name": "Green",
+      "confluences": [],
+      "outflow": "Colorado"
+    },
+    {
+      "name": "Milk",
+      "confluences": [],
+      "outflow": "Missouri"
+    },
+    {
+      "name": "Chindwin",
+      "confluences": [],
+      "outflow": "Ayeyarwady"
+    },
+    {
+      "name": "Sankuru",
+      "confluences": [],
+      "outflow": "Kasai"
+    },
+    {
+      "name": "Wu",
+      "confluences": [],
+      "outflow": "Yangtze"
+    },
+    {
+      "name": "James",
+      "confluences": [],
+      "outflow": "Missouri"
+    },
+    {
+      "name": "Kapuas",
+      "confluences": [],
+      "outflow": "South China Sea"
+    },
+    {
+      "name": "Desna",
+      "confluences": [],
+      "outflow": "Dnieper"
+    },
+    {
+      "name": "Helmand",
+      "confluences": [],
+      "outflow": "Hamun-i-Helmand"
+    },
+    {
+      "name": "Madre de Dios",
+      "confluences": [],
+      "outflow": "Beni"
+    },
+    {
+      "name": "Tietê",
+      "confluences": [],
+      "outflow": "Paraná"
+    },
+    {
+      "name": "Vychegda",
+      "confluences": [],
+      "outflow": "Northern Dvina"
+    },
+    {
+      "name": "Sepik",
+      "confluences": [],
+      "outflow": "Pacific Ocean"
+    },
+    {
+      "name": "Cimarron",
+      "confluences": [],
+      "outflow": "Arkansas"
+    },
+    {
+      "name": "Anadyr",
+      "confluences": [],
+      "outflow": "Gulf of Anadyr"
+    },
+    {
+      "name": "Paraíba do Sul",
+      "confluences": [],
+      "outflow": "Pacific Ocean"
+    },
+    {
+      "name": "Jialing River",
+      "confluences": [],
+      "outflow": "Yangtze"
+    },
+    {
+      "name": "Liard",
+      "confluences": [],
+      "outflow": "Mackenzie"
+    },
+    {
+      "name": "Cumberland",
+      "confluences": [],
+      "outflow": "Mississippi"
+    },
+    {
+      "name": "White",
+      "confluences": [],
+      "outflow": "Mississippi"
+    },
+    {
+      "name": "Huallaga",
+      "confluences": [],
+      "outflow": "Marañón"
+    },
+    {
+      "name": "Kwango",
+      "confluences": [],
+      "outflow": "Kasai"
+    },
+    {
+      "name": "Draa",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Gambia",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Chenab",
+      "confluences": [],
+      "outflow": "Indus"
+    },
+    {
+      "name": "Yellowstone",
+      "confluences": [],
+      "outflow": "Missouri"
+    },
+    {
+      "name": "Ghaghara",
+      "confluences": [],
+      "outflow": "Ganges"
+    },
+    {
+      "name": "Huai",
+      "confluences": [],
+      "outflow": "Yangtze"
+    },
+    {
+      "name": "Aras",
+      "confluences": [],
+      "outflow": "Kura"
+    },
+    {
+      "name": "Seversky Donets",
+      "confluences": [],
+      "outflow": "Don"
+    },
+    {
+      "name": "Bermejo",
+      "confluences": [],
+      "outflow": "Paraguay"
+    },
+    {
+      "name": "Fly",
+      "confluences": [],
+      "outflow": "Gulf of Papua"
+    },
+    {
+      "name": "Guaviare",
+      "confluences": [],
+      "outflow": "Orinoco"
+    },
+    {
+      "name": "Kuskokwim",
+      "confluences": [],
+      "outflow": "Bering Sea"
+    },
+    {
+      "name": "Tennessee",
+      "confluences": [],
+      "outflow": "Ohio"
+    },
+    {
+      "name": "Vistula",
+      "confluences": [],
+      "outflow": "Baltic Sea"
+    },
+    {
+      "name": "Aruwimi",
+      "confluences": [],
+      "outflow": "Congo"
+    },
+    {
+      "name": "Daugava",
+      "confluences": [],
+      "outflow": "Gulf of Riga"
+    },
+    {
+      "name": "Gila",
+      "confluences": [],
+      "outflow": "Colorado"
+    },
+    {
+      "name": "Loire",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Essequibo",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    },
+    {
+      "name": "Khoper",
+      "confluences": [],
+      "outflow": "Don"
+    },
+    {
+      "name": "Tagus",
+      "confluences": [],
+      "outflow": "Atlantic Ocean"
+    }
+  ]
+}
