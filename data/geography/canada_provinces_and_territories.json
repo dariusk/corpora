@@ -1,0 +1,16 @@
+{
+"description": "A list of Canadian provinces and territories.",
+"provinces": [
+"alberta",
+"british columbia",
+"manitoba",
+"new brunswick",
+"newfoundland and labrador",
+"nova scotia",
+"ontario",
+"prince edward island",
+"quebec",
+"saskatchewan"
+],
+"territories": [ "northwest territories", "nunavut", "yukon"]
+}
