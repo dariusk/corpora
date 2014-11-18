@@ -1,0 +1,220 @@
+{
+    "pregnancy": [
+        {
+            "week": 3,
+            "fruit": "Poppyseed"
+        },
+        {
+            "week": 4,
+            "fruit": "Poppyseed"
+        },
+        {
+            "week": 5,
+            "fruit": "Lentil",
+            "inches": 0.13
+        },
+        {
+            "week": 6,
+            "fruit": "Peanut",
+            "inches": 0.75
+        },
+        {
+            "week": 7,
+            "fruit": "Raspberry",
+            "inches": 1.1
+        },
+        {
+            "week": 8,
+            "fruit": "Grape",
+            "inches": 1.2,
+            "pounds": 0.0025
+        },
+        {
+            "week": 10,
+            "fruit": "Baby Carrot",
+            "inches": 2,
+            "pounds": 0.00875
+        },
+        {
+            "week": 11,
+            "fruit": "Lime",
+            "inches": 2.5,
+            "pounds": 0.015625
+        },
+        {
+            "week": 12,
+            "fruit": "Plum",
+            "inches": 3,
+            "pounds": 0.030625
+        },
+        {
+            "week": 13,
+            "fruit": "Apricot",
+            "inches": 3.7,
+            "pounds": 0.050625
+        },
+        {
+            "week": 14,
+            "fruit": "Lemon",
+            "inches": 3.8,
+            "pounds": 0.09375
+        },
+        {
+            "week": 15,
+            "fruit": "Apple",
+            "inches": 4.5,
+            "pounds": 0.15625
+        },
+        {
+            "week": 16,
+            "fruit": "Avocado",
+            "inches": 4.9,
+            "pounds": 0.21875
+        },
+        {
+            "week": 17,
+            "fruit": "Sweet Potato",
+            "inches": 6.1,
+            "pounds": 0.36875
+        },
+        {
+            "week": 18,
+            "fruit": "Green Pepper",
+            "inches": 6.2,
+            "pounds": 0.41875
+        },
+        {
+            "week": 19,
+            "fruit": "Onion",
+            "inches": 6.7,
+            "pounds": 0.4375
+        },
+        {
+            "week": 20,
+            "fruit": "Mango",
+            "inches": 7.6,
+            "pounds": 0.45
+        },
+        {
+            "week": 21,
+            "fruit": "Pomegranate",
+            "inches": 8.5,
+            "pounds": 0.48125
+        },
+
+        {
+            "week": 22,
+            "fruit": "Ear of Corn",
+            "inches": 10.2,
+            "pounds": 0.5625
+        },
+        {
+            "week": 23,
+            "fruit": "Grapefruit",
+            "inches": 11.2,
+            "pounds": 0.65
+        },
+        {
+            "week": 24,
+            "fruit": "Cantaloupe",
+            "inches": 12.5,
+            "pounds": 0.8
+        },
+        {
+            "week": 25,
+            "fruit": "Zucchini",
+            "inches": 13,
+            "pounds": 1
+        },
+        {
+            "week": 26,
+            "fruit": "Lettuce",
+            "inches": 13.4,
+            "pounds": 1.2
+        },
+        {
+            "week": 27,
+            "fruit": "Acorn Squash",
+            "inches": 13.8,
+            "pounds": 1.3
+        },
+        {
+            "week": 28,
+            "fruit": "Eggplant",
+            "inches": 14.2,
+            "pounds": 2.2
+        },
+        {
+            "week": 29,
+            "fruit": "Cabbage",
+            "inches": 14.5,
+            "pounds": 2.8
+        },
+        {
+            "week": 30,
+            "fruit": "Cucumber",
+            "inches": 15.1,
+            "pounds": 3.1
+        },
+        {
+            "week": 31,
+            "fruit": "Celery Stalk",
+            "inches": 15.5,
+            "pounds": 3.8
+        },
+        {
+            "week": 32,
+            "fruit": "Squash",
+            "inches": 16.1,
+            "pounds": 4.2
+        },
+        {
+            "week": 33,
+            "fruit": "Jicama",
+            "inches": 16.5,
+            "pounds": 4.9
+        },
+        {
+            "week": 34,
+            "fruit": "Butternut Squash",
+            "inches": 17.2,
+            "pounds": 5.2
+        },
+        {
+            "week": 35,
+            "fruit": "Coconut",
+            "inches": 17.5,
+            "pounds": 5.8
+        },
+        {
+            "week": 36,
+            "fruit": "Honeydew",
+            "inches": 17.7,
+            "pounds": 6.1
+        },
+        {
+            "week": 37,
+            "fruit": "Winter Melon",
+            "inches": 18.1,
+            "pounds": 6.4
+        },
+        {
+            "week": 38,
+            "fruit": "Pineapple",
+            "inches": 19,
+            "pounds": 6.8
+        },
+        {
+            "week": 39,
+            "fruit": "Watermelon",
+            "inches": 20,
+            "pounds": 7
+        },
+        {
+            "week": 40,
+            "fruit": "Pumpkin",
+            "inches": 21,
+            "pounds": 8
+        }
+    ]
+}
