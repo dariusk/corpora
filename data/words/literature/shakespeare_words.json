@@ -1,1296 +1,322 @@
 {
-   "description":"Words coined by shakespeare",
-   "words": [
-	{
-	   "source":"The Tempest -- a Latin word that meant \"to abstain from alcoholic drink\" was generalized to sexual behavior as well",
-	   "word":"abstemious"
-	},
-	{
-	   "source":"Love's Labour's Lost; this is just an English form of \"Academy\", the Greek for Plato's grove",
-	   "word":"academe"
-	},
-	{
-	   "source":"Othello",
-	   "word":"accommodation"
-	},
-	{
-	   "source":"n.",
-	   "word":"accused"
-	},
-	{
-	   "source":"Henry V / Othello",
-	   "word":"addiction"
-	},
-	{
-	   "source":"several; seems unlikely",
-	   "word":"admirable"
-	},
-	{
-	   "source":"adj.",
-	   "word":"advertising"
-	},
-	{
-	   "source":"Othello",
-	   "word":"aerial"
-	},
-	{
-	   "source":"Romeo and Juliet; Spanish \"aligarto\" was already in use in English",
-	   "word":"alligator"
-	},
-	{
-	   "source":"13 instances; first known use as a noun",
-	   "word":"amazement"
-	},
-	{
-	   "source":"I Henry IV; first attestation in English of the Spanish word for dried edible fish",
-	   "word":"anchovy"
-	},
-	{
-	   "source":"\"apostrophas\"",
-	   "word":"apostrophe"
-	},
-	{
-	   "source":"Measure for Measure / Timon of Athens",
-	   "word":"arch-villain"
-	},
-	{
-	   "source":"2 Henry VI / Hamlet; \"rouse\" was the usual form",
-	   "word":"to arouse"
-	},
-	{
-	   "source":"Macbeth; \"assassin\" was already in use and derives from \"hashish eater\"",
-	   "word":"assassination"
-	},
-	{
-	   "source":"several; \"auspice\" was a Roman practice of fortune-telling by bird flight",
-	   "word":"auspicious"
-	},
-	{
-	   "source":"I Henry VI",
-	   "word":"bachelorship"
-	},
-	{
-	   "source":"I Henry VI; this is just a pun on a known word",
-	   "word":"backing"
-	},
-	{
-	   "source":"II Henry VI, actually \"bandetto\", the first attestation in English of a familiar Italian word for people \"banned\", i.e., outlaws",
-	   "word":"bandit"
-	},
-	{
-	   "source":"in the sense of \"barefaced power\"",
-	   "word":"barefaced"
-	},
-	{
-	   "source":"in the sense of fantasy without grounding in fact",
-	   "word":"baseless"
-	},
-	{
-	   "source":"several, merely means \"possessing a beach\"",
-	   "word":"beached"
-	},
-	{
-	   "source":"The Taming of the Shrew",
-	   "word":"bedazzled"
-	},
-	{
-	   "source":"A Midsummer Night's Dream, merely means a place to sleep on the ground",
-	   "word":"bedroom"
-	},
-	{
-	   "source":"Measure for Measure",
-	   "word":"belongings"
-	},
-	{
-	   "source":"Henry V",
-	   "word":"to besmirch"
-	},
-	{
-	   "source":"Coriolanus; first attestation",
-	   "word":"birthplace"
-	},
-	{
-	   "source":"King Lear; first use as a verb",
-	   "word":"to blanket"
-	},
-	{
-	   "source":"I Henry IV",
-	   "word":"bloodstained"
-	},
-	{
-	   "source":"A Lover's Complaint",
-	   "word":"blusterer"
-	},
-	{
-	   "source":"I Henry VI",
-	   "word":"bold-faced"
-	},
-	{
-	   "source":"Richard III",
-	   "word":"bottled"
-	},
-	{
-	   "source":"Romeo and Juliet; first attestation of onomopoeic word",
-	   "word":"bump"
-	},
-	{
-	   "source":"Hamlet; means gossipper",
-	   "word":"buzzer"
-	},
-	{
-	   "source":"Timon of Athens, first attestation as a verb",
-	   "word":"to cake"
-	},
-	{
-	   "source":"Timon of Athens",
-	   "word":"to castigate"
-	},
-	{
-	   "source":"As You Like It; from coetous,a buyer of provisions",
-	   "word":"to cater"
-	},
-	{
-	   "source":"3 Henry VI / 2 Henry IV",
-	   "word":"clangor"
-	},
-	{
-	   "source":"Macbeth; first attestation as a verb, and in an older sense of \"to challenge\"; though the noun was familiar as someone who would fight for another",
-	   "word":"to champion "
-	},
-	{
-	   "source":"As You Like It / Cymbeline; first attestation in the sense of \"indirect\"",
-	   "word":"circumstantial"
-	},
-	{
-	   "source":"King John; first use to mean \"lack of emotion\"",
-	   "word":"cold-blooded"
-	},
-	{
-	   "source":"Antony and Cleopatra",
-	   "word":"coldhearted"
-	},
-	{
-	   "source":"several; seems to have been a common word",
-	   "word":"compact"
-	},
-	{
-	   "source":"Othello",
-	   "word":"to comply"
-	},
-	{
-	   "source":"The Merchant of Venice, several of the histories; seems to have been already in use",
-	   "word":"to compromise"
-	},
-	{
-	   "source":"Macbeth; first use in English of a Scandinavian verb",
-	   "word":"to cow"
-	},
-	{
-	   "source":"Twelfth Night; \"consanguinity\" was already in use",
-	   "word":"consanguineous"
-	},
-	{
-	   "source":"n.",
-	   "word":"control"
-	},
-	{
-	   "source":"Titus Andronicus / Pericles",
-	   "word":"countless"
-	},
-	{
-	   "source":"several, seems unikely",
-	   "word":"courtship"
-	},
-	{
-	   "source":"Love's Labour's Lost; Latin term",
-	   "word":"critic"
-	},
-	{
-	   "source":"not in today's sense",
-	   "word":"critical"
-	},
-	{
-	   "source":"The Two Gentlemen of Verona",
-	   "word":"cruelhearted"
-	},
-	{
-	   "source":"Cymbeline",
-	   "word":"Dalmatians"
-	},
-	{
-	   "source":"Macbeth",
-	   "word":"dauntless"
-	},
-	{
-	   "source":"I Henry IV, King John; first use as a noun, the standard had been \"dawning\"",
-	   "word":"dawn"
-	},
-	{
-	   "source":"several, must have been a common expression",
-	   "word":"day's work"
-	},
-	{
-	   "source":"II Henry IV; in the sense of a noise that is loud but does not produce real deafness",
-	   "word":"deafening"
-	},
-	{
-	   "source":"several; already a word in Latin",
-	   "word":"to denote"
-	},
-	{
-	   "source":"???",
-	   "word":"depository"
-	},
-	{
-	   "source":"Richard III / Titus Andronicus; the verb was in use but this is the first attestation as a noun",
-	   "word":"discontent"
-	},
-	{
-	   "source":"several, seems unlikely",
-	   "word":"design"
-	},
-	{
-	   "source":"Twelfth Night",
-	   "word":"dexterously"
-	},
-	{
-	   "source":"several, seems already familiar",
-	   "word":"dialogue"
-	},
-	{
-	   "source":"I Henry VI; means \"not graceful\"",
-	   "word":"disgraceful"
-	},
-	{
-	   "source":"Henry V",
-	   "word":"dishearten"
-	},
-	{
-	   "source":"King Lear, refers to anatomy",
-	   "word":"to dislocate"
-	},
-	{
-	   "source":"Timon of Athens",
-	   "word":"distasteful"
-	},
-	{
-	   "source":"Hamlet / Measure for Measure; seems possible",
-	   "word":"distracted"
-	},
-	{
-	   "source":"Henry V / King Lear; probably already in use as referring to a royal title",
-	   "word":"divest"
-	},
-	{
-	   "source":"Love's Labour's Lost; from a Dutch word",
-	   "word":"domineering"
-	},
-	{
-	   "source":"I Henry IV, supposedly first use as an adjective",
-	   "word":"downstairs"
-	},
-	{
-	   "source":"Timon of Athens",
-	   "word":"droplet "
-	},
-	{
-	   "source":"Macbeth; first use as a verb",
-	   "word":"to drug"
-	},
-	{
-	   "source":"I Henry IV / Macbeth, seems already familiar as a term for body wasting",
-	   "word":"to dwindle"
-	},
-	{
-	   "source":"Love's Labour's Lost",
-	   "word":"to educate"
-	},
-	{
-	   "source":"King Lear; first use as a verb",
-	   "word":"to elbow"
-	},
-	{
-	   "source":"I Henry VI; first use as a noun",
-	   "word":"embrace"
-	},
-	{
-	   "source":"Much Ado about Nothing",
-	   "word":"employer"
-	},
-	{
-	   "source":"several, obviously familiar",
-	   "word":"employment"
-	},
-	{
-	   "source":"several, seems simply the first attestation",
-	   "word":"engagement"
-	},
-	{
-	   "source":"Othello",
-	   "word":"to enmesh"
-	},
-	{
-	   "source":"Othello",
-	   "word":"to ensnare"
-	},
-	{
-	   "source":"Troilus and Cressida",
-	   "word":"enrapt"
-	},
-	{
-	   "source":"Antony and Cleopatra",
-	   "word":"enthroned"
-	},
-	{
-	   "source":"King Lear; first use as an adjective, though the noun was old",
-	   "word":"epileptic"
-	},
-	{
-	   "source":"Othello / All's Well that Ends Well; first use as adjective, though the verb \"to equivocate\" was familiar",
-	   "word":"equivocal"
-	},
-	{
-	   "source":"As You Like It",
-	   "word":"eventful"
-	},
-	{
-	   "source":"Hamlet / Troilus and Cressida; both times as plural; first use as a noun",
-	   "word":"excitement "
-	},
-	{
-	   "source":"several, supposedly first use as noun",
-	   "word":"expedience"
-	},
-	{
-	   "source":"several, supposedly first use as noun",
-	   "word":"exposure"
-	},
-	{
-	   "source":"The Tempest",
-	   "word":"eyeball"
-	},
-	{
-	   "source":"II Henry IV; means \"tears\"",
-	   "word":"eyedrops"
-	},
-	{
-	   "source":"The Taming of the Shrew",
-	   "word":"eyesore"
-	},
-	{
-	   "source":"Hamlet, first attestation",
-	   "word":"fanged"
-	},
-	{
-	   "source":"The Merry Wives of Windsor; first known use of the compound",
-	   "word":"farmhouse"
-	},
-	{
-	   "source":"several, seems already familiar",
-	   "word":"far-off"
-	},
-	{
-	   "source":"Timon of Athens / Troilus and Cressida",
-	   "word":"fashionable"
-	},
-	{
-	   "source":"not today's sense",
-	   "word":"fathomless"
-	},
-	{
-	   "source":"Macbeth",
-	   "word":"fitful"
-	},
-	{
-	   "source":"not current sense",
-	   "word":"fixture"
-	},
-	{
-	   "source":"King Lear; first use as an adjective",
-	   "word":"flawed"
-	},
-	{
-	   "source":"A Midsummer Night's Dream",
-	   "word":"flowery"
-	},
-	{
-	   "source":"King Lear",
-	   "word":"foppish"
-	},
-	{
-	   "source":"The Comedy of Errors",
-	   "word":"fortune-teller"
-	},
-	{
-	   "source":"I Henry IV; first use as a verb",
-	   "word":"to forward"
-	},
-	{
-	   "source":"several, seems already familiar",
-	   "word":"foul-mouthed"
-	},
-	{
-	   "source":"Cymbeline",
-	   "word":"freezing"
-	},
-	{
-	   "source":"several; \"frugality\" was already in common use",
-	   "word":"frugal"
-	},
-	{
-	   "source":"Pericles",
-	   "word":"full-grown "
-	},
-	{
-	   "source":"Troilus and Cressida",
-	   "word":"gallantry"
-	},
-	{
-	   "source":"several, obviously already known",
-	   "word":"generous"
-	},
-	{
-	   "source":"several, \"to gloom\" was a verb",
-	   "word":"gloomy"
-	},
-	{
-	   "source":"several; the word had originally meant red-and-warm",
-	   "word":"glow"
-	},
-	{
-	   "source":"Measure for Measure; alteration of knurled which was a standard word for bumpy",
-	   "word":"gnarled"
-	},
-	{
-	   "source":"several, seems familiar",
-	   "word":"go-between"
-	},
-	{
-	   "source":"The Comedy of Errors; first use as a verb; \"gossip\" was one's familiar friends",
-	   "word":"to gossip"
-	},
-	{
-	   "source":"III Henry VI, seems already familiar and was an Old Norse word",
-	   "word":"gust"
-	},
-	{
-	   "source":"King Lear",
-	   "word":"half-blooded"
-	},
-	{
-	   "source":"Othello, first use in today's sense",
-	   "word":"hint"
-	},
-	{
-	   "source":"I Henry IV, alleged; seems already familiar",
-	   "word":"hob-nails"
-	},
-	{
-	   "source":"Twelfth Night; older term was \"hab, nab\", and not in today's sense",
-	   "word":"hobnob"
-	},
-	{
-	   "source":"several, seems already familiar",
-	   "word":"homely"
-	},
-	{
-	   "source":"Love's Labour's Lost",
-	   "word":"honey-tongued"
-	},
-	{
-	   "source":"already known from falconry",
-	   "word":"hoodwinked"
-	},
-	{
-	   "source":"several, seems like a word that is already familiar",
-	   "word":"hostile"
-	},
-	{
-	   "source":"The Merry Wives of Windsor / King Lear",
-	   "word":"hot-blooded"
-	},
-	{
-	   "source":"The Taming of the Shrew; seems unlikely",
-	   "word":"housekeeping"
-	},
-	{
-	   "source":"several, clearly familiar",
-	   "word":"howl"
-	},
-	{
-	   "source":"Love's Labour's Lost, first attestation as a verb",
-	   "word":"to humor"
-	},
-	{
-	   "source":"can't find",
-	   "word":"hunchbacked"
-	},
-	{
-	   "source":"Comedy of Errors, first attestation as verb",
-	   "word":"to hurry"
-	},
-	{
-	   "source":"can't find",
-	   "word":"ill-tempered"
-	},
-	{
-	   "source":"King Lear, first use as noun",
-	   "word":"immediacy"
-	},
-	{
-	   "source":"2 Henry IV",
-	   "word":"impartial"
-	},
-	{
-	   "source":"Macbeth, first use as verb, though \"impediment\" was already widely used",
-	   "word":"to impede"
-	},
-	{
-	   "source":"several, and not used in the modern sense",
-	   "word":"import"
-	},
-	{
-	   "source":"King Lear, first attestation as a noun",
-	   "word":"immediacy"
-	},
-	{
-	   "source":"Cymbeline, first attestation as an adverb",
-	   "word":"importantly"
-	},
-	{
-	   "source":"All's Well that Ends Well; \"audible\" was already in use",
-	   "word":"inaudible"
-	},
-	{
-	   "source":"Romeo and Juliet",
-	   "word":"inauspicious"
-	},
-	{
-	   "source":"not in today's sense",
-	   "word":"indistinguishable"
-	},
-	{
-	   "source":"several, seems unlikely",
-	   "word":"inducement"
-	},
-	{
-	   "source":"II Henry IV, not in present sense",
-	   "word":"investment"
-	},
-	{
-	   "word":"\r\n"
-	},
-	{
-	   "source":"The Merry Wives of Windsor; signifies \"flirting\"",
-	   "word":"invitation"
-	},
-	{
-	   "word":"invulnerable King John / Hamlet / The Tempest; first attestation for the negative; Coriolanus has unvulnerable)\r\n"
-	},
-	{
-	   "source":"several, seems already a term of contempt",
-	   "word":"jaded"
-	},
-	{
-	   "source":"I Henry VI; usual term had been \"Day of Judgement\"",
-	   "word":"Judgement Day"
-	},
-	{
-	   "source":"Merry Wives of Windsor; first attestation as an adjective",
-	   "word":"juiced"
-	},
-	{
-	   "source":"several, first attestation of the participle, though surely not its first use",
-	   "word":"kissing"
-	},
-	{
-	   "source":"As You Like It",
-	   "word":"lackluster"
-	},
-	{
-	   "source":"Romeo and Juliet",
-	   "word":"ladybird"
-	},
-	{
-	   "source":"several, seems already familiare",
-	   "word":"to lament"
-	},
-	{
-	   "source":"several, first attestation as a verb, though already familiar as a noun",
-	   "word":"to lapse"
-	},
-	{
-	   "source":"first use as a verb; \"laundress\" was in common use",
-	   "word":"to launder"
-	},
-	{
-	   "source":"The Merchant of Venice",
-	   "word":"laughable"
-	},
-	{
-	   "source":"Antony and Cleopatra / The Tempest",
-	   "word":"leaky"
-	},
-	{
-	   "source":"Henry V; first attestation but seems unlikely as a coinage",
-	   "word":"leapfrog"
-	},
-	{
-	   "source":"several, seems unlikely",
-	   "word":"lonely "
-	},
-	{
-	   "source":"can't find",
-	   "word":"long-legged"
-	},
-	{
-	   "source":"can't find",
-	   "word":"love letter"
-	},
-	{
-	   "source":"several, seems already known",
-	   "word":"to lower"
-	},
-	{
-	   "source":"first use as noun",
-	   "word":"luggage"
-	},
-	{
-	   "source":"Twelfth Night / All's Well that Ends Well",
-	   "word":"lustrous"
-	},
-	{
-	   "source":"several, attestation as adjective; the noun had become popular just before",
-	   "word":"madcap"
-	},
-	{
-	   "source":"several, first use as adjective",
-	   "word":"majestic "
-	},
-	{
-	   "source":"I Henry IV; first attestation as adverb",
-	   "word":"majestically"
-	},
-	{
-	   "source":"Twelfth Night, seems possible",
-	   "word":"malignancy"
-	},
-	{
-	   "source":"Love's Labour's Lost / Midsummer Night's Dream; first attestation as noun",
-	   "word":"manager"
-	},
-	{
-	   "source":"As You Like It; first use as adjective",
-	   "word":"marketable"
-	},
-	{
-	   "source":"All's Well that Ends Well",
-	   "word":"militarist"
-	},
-	{
-	   "source":"Midsummer Night's Dream",
-	   "word":"mimic"
-	},
-	{
-	   "source":"Julius Caesar; first use as noun, though \"to misgive\" was in common use",
-	   "word":"misgiving"
-	},
-	{
-	   "source":"several, seems unlikely",
-	   "word":"misplaced"
-	},
-	{
-	   "source":"1 Henry IV; not in the present sense",
-	   "word":"to misquote"
-	},
-	{
-	   "source":"Love's Labours Lost",
-	   "word":"money's worth"
-	},
-	{
-	   "source":"several, seems unlikely",
-	   "word":"monumental"
-	},
-	{
-	   "source":"A Midsummer Night's Dream",
-	   "word":"moonbeam"
-	},
-	{
-	   "source":"Merchant of Venice / Much Ado About Nothing\u000b",
-	   "word":"mortifying"
-	},
-	{
-	   "source":"Henry V",
-	   "word":"motionless"
-	},
-	{
-	   "source":"Cymbeline; the sense is \"hillbilly\"",
-	   "word":"mountaineer"
-	},
-	{
-	   "source":"Macbeth",
-	   "word":"multitudinous"
-	},
-	{
-	   "source":"several, obviously already known",
-	   "word":"neglect"
-	},
-	{
-	   "source":"Much Ado about Nothing / Twelfth Night; verb from the Latin",
-	   "word":"to negotiate"
-	},
-	{
-	   "source":"Venus and Adonis / I Henry IV",
-	   "word":"new-fallen"
-	},
-	{
-	   "source":"Love's Labour's Lost / As You Like It",
-	   "word":"new-fangled"
-	},
-	{
-	   "source":"several, seems already a familiar expression",
-	   "word":"nimble-footed"
-	},
-	{
-	   "source":"King Lear / All's Well that Ends Well",
-	   "word":"noiseless"
-	},
-	{
-	   "source":"King Lear, first attestation as a transitive verb",
-	   "word":"to numb"
-	},
-	{
-	   "source":"several; straight from Latin",
-	   "word":"obscene"
-	},
-	{
-	   "source":"first use of the adverb; comes from \"obsequies\", or funeral rites",
-	   "word":"obsequiously"
-	},
-	{
-	   "word":"\r\n"
-	},
-	{
-	   "source":"Hamlet, first attestation as a noun",
-	   "word":"outbreak"
-	},
-	{
-	   "source":"I Henry IV",
-	   "word":"to outdare"
-	},
-	{
-	   "source":"can't find",
-	   "word":"to outgrow"
-	},
-	{
-	   "source":"can't find",
-	   "word":"to outweigh "
-	},
-	{
-	   "source":"II Henry IV",
-	   "word":"over-cool"
-	},
-	{
-	   "source":"can't find",
-	   "word":"overgrowth"
-	},
-	{
-	   "source":"II Henry VI ;first-use of the familiar compound",
-	   "word":"over-ripened"
-	},
-	{
-	   "word":"over-weathered The Merchant of Venice)\r\n"
-	},
-	{
-	   "source":"can't find",
-	   "word":"overview"
-	},
-	{
-	   "source":"Pericles Prince of Tyre",
-	   "word":"pageantry"
-	},
-	{
-	   "source":"A Midsummer Night's Dream",
-	   "word":"pale-faced"
-	},
-	{
-	   "source":"several; was already a proverb",
-	   "word":"to pander"
-	},
-	{
-	   "word":"\r\n"
-	},
-	{
-	   "source":"several, seems already in common use for a stuffy teacher",
-	   "word":"pedant"
-	},
-	{
-	   "source":"King John / Cymbeline",
-	   "word":"perplex"
-	},
-	{
-	   "source":"Sonnets / Hamlet; first use as a noun",
-	   "word":"perusal"
-	},
-	{
-	   "source":"Antony and Cleopatra / Coriolanus; first use as a verb",
-	   "word":"to petition"
-	},
-	{
-	   "source":"several, seems very unlikely",
-	   "word":"pious"
-	},
-	{
-	   "source":"several, seems known",
-	   "word":"posture"
-	},
-	{
-	   "source":"several; first attestation of the adjective, though the noun was in use",
-	   "word":"premeditated"
-	},
-	{
-	   "source":"???",
-	   "word":"priceless"
-	},
-	{
-	   "source":"Othello / Love's Labour's Lost",
-	   "word":"Promethean"
-	},
-	{
-	   "source":"not today's sense",
-	   "word":"protester"
-	},
-	{
-	   "source":"2 Henry VI",
-	   "word":"published"
-	},
-	{
-	   "source":"As You Like It",
-	   "word":"puking"
-	},
-	{
-	   "source":"King John / Henry V",
-	   "word":"puppy-dog"
-	},
-	{
-	   "source":"several; seems very unlikely",
-	   "word":"on purpose"
-	},
-	{
-	   "source":"As You Like It / Taming of the Shrew",
-	   "word":"quarrelsome"
-	},
-	{
-	   "source":"As You Like It; first use of the gerund",
-	   "word":"questing"
-	},
-	{
-	   "source":"several, seems already in use",
-	   "word":"in question "
-	},
-	{
-	   "source":"several; first use as noun",
-	   "word":"radiance"
-	},
-	{
-	   "source":"The Merry Wives of Windsor / Hamlet; loan-word from Dutch or previously-unattested English word?",
-	   "word":"to rant"
-	},
-	{
-	   "source":"2 Henry VI, Comedy of Errors, Richard III, all early plays, seems unlikely",
-	   "word":"rancorous"
-	},
-	{
-	   "source":"I Henry VI",
-	   "word":"raw-boned"
-	},
-	{
-	   "source":"Much Ado about Nothing; first use as adjective",
-	   "word":"reclusive"
-	},
-	{
-	   "source":"Troilus and Cressida / Coriolanus; seems already in use",
-	   "word":"reinforcement"
-	},
-	{
-	   "source":"???",
-	   "word":"reliance"
-	},
-	{
-	   "source":"several, first attestation of this form",
-	   "word":"remorseless"
-	},
-	{
-	   "source":"several, obviously already in use",
-	   "word":"reprieve"
-	},
-	{
-	   "source":"several, obviously already in use",
-	   "word":"resolve"
-	},
-	{
-	   "source":"King Lear",
-	   "word":"restoration"
-	},
-	{
-	   "source":"several, seems already familiar",
-	   "word":"restraint"
-	},
-	{
-	   "source":"II Henry IV; refers to military retreat; first use as noun",
-	   "word":"retirement"
-	},
-	{
-	   "source":"several, obviously already familiar",
-	   "word":"revolting"
-	},
-	{
-	   "source":"King Lear; first attestation as verb; noun was well-known",
-	   "word":"to rival"
-	},
-	{
-	   "source":"Midsummer Night's Dream; first attestation as adjective, noun was well-known",
-	   "word":"rival"
-	},
-	{
-	   "source":"II Henry IV; first attestation of the compound",
-	   "word":"roadway"
-	},
-	{
-	   "source":"As You Like It; first use as noun",
-	   "word":"rumination"
-	},
-	{
-	   "source":"Timon of Athens; not today's usage",
-	   "word":"sacrificial"
-	},
-	{
-	   "source":"Measure for Measure / Tempest",
-	   "word":"sanctimonious"
-	},
-	{
-	   "source":"Othello / Cymbeline",
-	   "word":"satisfying"
-	},
-	{
-	   "source":"several; the word was obviously already in use",
-	   "word":"savage"
-	},
-	{
-	   "source":"King John / Henry V; first use as this form",
-	   "word":"savagery"
-	},
-	{
-	   "source":"Julius Caesar / Much Ado about Nothing",
-	   "word":"schoolboy"
-	},
-	{
-	   "source":"The Merchant of Venice",
-	   "word":"scrubbed"
-	},
-	{
-	   "source":"Antony and Cleopatra; first use as noun, though the verb was familiar",
-	   "word":"scuffle"
-	},
-	{
-	   "source":"Othello",
-	   "word":"seamy-side"
-	},
-	{
-	   "source":"II Henry VI; first use as a verb; the adjective was well-known",
-	   "word":"to secure"
-	},
-	{
-	   "source":"Pericles Prince of Tyre, seems unlikely",
-	   "word":"shipwrecked"
-	},
-	{
-	   "source":"Richard II; first known use of the phrase",
-	   "word":"shooting star"
-	},
-	{
-	   "source":"Timon of Athens; first use as a noun; verb already well-known",
-	   "word":"shudder"
-	},
-	{
-	   "source":"alleged; obviously not Shakespeare's",
-	   "word":"silk"
-	},
-	{
-	   "source":"obviously not Shakespeare's",
-	   "word":"stocking "
-	},
-	{
-	   "source":"Othello",
-	   "word":"silliness"
-	},
-	{
-	   "source":"I Henry IV; first use of the familiar term",
-	   "word":"skim milk"
-	},
-	{
-	   "source":"Measure for Measure; supposed first use of the verb",
-	   "word":"to sneak"
-	},
-	{
-	   "source":"2 Henry VI / 3 Henry VI; first use of the familiar phrase",
-	   "word":"soft-hearted"
-	},
-	{
-	   "source":"Coriolanus; not in today's sense",
-	   "word":"spectacled"
-	},
-	{
-	   "source":"II Henry VI; first use as adjective",
-	   "word":"splitting"
-	},
-	{
-	   "source":"Richard III / Comedy of Errors / All's Well that Ends Well; supposed first use",
-	   "word":"sportive"
-	},
-	{
-	   "source":"Othello; supposed first use, as with \"to swagger\"",
-	   "word":"to squabble"
-	},
-	{
-	   "source":"Macbeth; first use as adjective",
-	   "word":"stealthy"
-	},
-	{
-	   "source":"can't find, obviously not Shakespeare's",
-	   "word":"stillborn"
-	},
-	{
-	   "source":"Antony and Cleopatra",
-	   "word":"to submerge"
-	},
-	{
-	   "source":"Titus Andronicus, seems dubious",
-	   "word":"successful "
-	},
-	{
-	   "source":"Othello; supposed first use as a descriptor",
-	   "word":"suffocating"
-	},
-	{
-	   "source":"I Henry VI",
-	   "word":"to sully"
-	},
-	{
-	   "source":"Love's Labour's Lost",
-	   "word":"superscript"
-	},
-	{
-	   "source":"Love's Labour's Lost; also Hamlet but not in today's sense",
-	   "word":"to supervise"
-	},
-	{
-	   "source":"II Henry IV, others; in context this seems to be already a well-known word",
-	   "word":"to swagger"
-	},
-	{
-	   "source":"first use to mean \"twig\"",
-	   "word":"switch"
-	},
-	{
-	   "source":"All's Well that Ends Well; first use of adverb",
-	   "word":"tardily"
-	},
-	{
-	   "source":"King Lear; \"tardy\" as adjective was well-known",
-	   "word":"tardiness"
-	},
-	{
-	   "source":"All's Well that Ends Well; first use of the adverb",
-	   "word":"threateningly"
-	},
-	{
-	   "source":"The Merry Wives of Windsor; first use as an adverb",
-	   "word":"tightly"
-	},
-	{
-	   "source":"Richard II",
-	   "word":"time-honored"
-	},
-	{
-	   "source":"can't find; seems unlikely",
-	   "word":"title page"
-	},
-	{
-	   "source":"several; first use as a verb",
-	   "word":"to torture "
-	},
-	{
-	   "source":"Richard III; first use as adjective",
-	   "word":"traditional"
-	},
-	{
-	   "source":"Othello; \"tranquility\" was an old word",
-	   "word":"tranquil"
-	},
-	{
-	   "source":"All's Well that Ends Well; first attestation of the noun",
-	   "word":"transcendence"
-	},
-	{
-	   "source":"III Henry VI / Julius Caesar / Troilus and Cressida; seems first attestation of a phrase already in use",
-	   "word":"tongue-tied"
-	},
-	{
-	   "source":"King Lear",
-	   "word":"unaccommodated"
-	},
-	{
-	   "source":"Venus and Adonis; first use as an adverb; the adjective was not yet in use",
-	   "word":"unaware"
-	},
-	{
-	   "source":"Coriolanus, first use as a negative",
-	   "word":"to unclog"
-	},
-	{
-	   "source":"Titus Andronicus",
-	   "word":"unappeased"
-	},
-	{
-	   "source":"The Merchant of Venice",
-	   "word":"unchanging"
-	},
-	{
-	   "source":"As You Like It; not in today's sense",
-	   "word":"unclaimed"
-	},
-	{
-	   "source":"Romeo and Juliet",
-	   "word":"uncomfortable"
-	},
-	{
-	   "source":"???",
-	   "word":"to uncurl"
-	},
-	{
-	   "source":"The Merchant of Venice",
-	   "word":"to undervalue"
-	},
-	{
-	   "source":"The Taming of the Shrew; seems unlikely",
-	   "word":"to undress"
-	},
-	{
-	   "source":"Winter's Tale",
-	   "word":"unearthly"
-	},
-	{
-	   "source":"Love's Labour's Lost, seems possible",
-	   "word":"uneducated"
-	},
-	{
-	   "source":"Richard III / King Lear",
-	   "word":"ungoverned"
-	},
-	{
-	   "source":"Hamlet",
-	   "word":"to unhand "
-	},
-	{
-	   "source":"Much Ado about Nothing",
-	   "word":"unmitigated"
-	},
-	{
-	   "source":"King Lear; in the sense of \"still unknown\"",
-	   "word":"unpublished"
-	},
-	{
-	   "source":"Macbeth, first use of the negative",
-	   "word":"unreal"
-	},
-	{
-	   "source":"Titus Andronicus / Henry VIII; supposed first use of the form",
-	   "word":"unsolicited"
-	},
-	{
-	   "source":"Richard III; not in today's sense, but \"is the sword unswung?\"",
-	   "word":"unswayed"
-	},
-	{
-	   "source":"Richard III / Richard II",
-	   "word":"unwillingness"
-	},
-	{
-	   "source":"I Henry IV; supposedly first use as an adjective",
-	   "word":"upstairs"
-	},
-	{
-	   "source":"Richard III / Comedy of Errors; first attestation as a noun\r\n",
-	   "word":"urging"
-	},
-	{
-	   "source":"several, seems already familiar",
-	   "word":"useful"
-	},
-	{
-	   "source":"Love's Labour's Lost, others",
-	   "word":"varied"
-	},
-	{
-	   "source":"Rape of Lucrece, not present sense",
-	   "word":"vastly"
-	},
-	{
-	   "word":"\r\n"
-	},
-	{
-	   "source":"Measure for Measure; means \"invisible\"",
-	   "word":"viewless"
-	},
-	{
-	   "source":"Macbeth; used in today's sense",
-	   "word":"vulnerable"
-	},
-	{
-	   "source":"The Tempest; first use of the phrase",
-	   "word":"watchdog"
-	},
-	{
-	   "source":"The Merry Wives of Windsor; first known use of the compound",
-	   "word":"well-behaved"
-	},
-	{
-	   "source":"II Henry IV; first use of the familiar compound",
-	   "word":"well-bred"
-	},
-	{
-	   "source":"I Henry IV",
-	   "word":"well-read"
-	},
-	{
-	   "source":"Twelfth Night",
-	   "word":"whirligig"
-	},
-	{
-	   "source":"???",
-	   "word":"to widen"
-	},
-	{
-	   "source":"Sonnet 97 / Coriolanus; first use as an adjective",
-	   "word":"widowed"
-	},
-	{
-	   "source":"Romeo and Juliet / 2 Henry IV; seems unlikely",
-	   "word":"worn out"
-	},
-	{
-	   "source":"III Henry VI, several others; seems just a first attestation",
-	   "word":"worthless"
-	},
-	{
-	   "source":"I Henry VI; first attestation of this adjectival form",
-	   "word":"yelping"
-	},
-	{
-	   "source":"Love's Labour Lost; simply a loan-word from Italian commedia dell'arte",
-	    "word":"zany"
-	}
-
-    ]
-}
+    "description":"Words coined by shakespeare",
+    "words": ["abstemious",
+	      "academe",
+	      "accommodation",
+	      "accused",
+	      "addiction",
+	      "admirable",
+	      "advertising",
+	      "aerial",
+	      "alligator",
+	      "amazement",
+	      "anchovy",
+	      "apostrophe",
+	      "arch-villain",
+	      "to arouse",
+	      "assassination",
+	      "auspicious",
+	      "bachelorship",
+	      "backing",
+	      "bandit",
+	      "barefaced",
+	      "baseless",
+	      "beached",
+	      "bedazzled",
+	      "bedroom",
+	      "belongings",
+	      "to besmirch",
+	      "birthplace",
+	      "to blanket",
+	      "bloodstained",
+	      "blusterer",
+	      "bold-faced",
+	      "bottled",
+	      "bump",
+	      "buzzer",
+	      "to cake",
+	      "to castigate",
+	      "to cater",
+	      "clangor",
+	      "to champion ",
+	      "circumstantial",
+	      "cold-blooded",
+	      "coldhearted",
+	      "compact",
+	      "to comply",
+	      "to compromise",
+	      "to cow",
+	      "consanguineous",
+	      "control",
+	      "countless",
+	      "courtship",
+	      "critic",
+	      "critical",
+	      "cruelhearted",
+	      "Dalmatians",
+	      "dauntless",
+	      "dawn",
+	      "day's work",
+	      "deafening",
+	      "to denote",
+	      "depository",
+	      "discontent",
+	      "design",
+	      "dexterously",
+	      "dialogue",
+	      "disgraceful",
+	      "dishearten",
+	      "to dislocate",
+	      "distasteful",
+	      "distracted",
+	      "divest",
+	      "domineering",
+	      "downstairs",
+	      "droplet ",
+	      "to drug",
+	      "to dwindle",
+	      "to educate",
+	      "to elbow",
+	      "embrace",
+	      "employer",
+	      "employment",
+	      "engagement",
+	      "to enmesh",
+	      "to ensnare",
+	      "enrapt",
+	      "enthroned",
+	      "epileptic",
+	      "equivocal",
+	      "eventful",
+	      "excitement ",
+	      "expedience",
+	      "exposure",
+	      "eyeball",
+	      "eyedrops",
+	      "eyesore",
+	      "fanged",
+	      "farmhouse",
+	      "far-off",
+	      "fashionable",
+	      "fathomless",
+	      "fitful",
+	      "fixture",
+	      "flawed",
+	      "flowery",
+	      "foppish",
+	      "fortune-teller",
+	      "to forward",
+	      "foul-mouthed",
+	      "freezing",
+	      "frugal",
+	      "full-grown ",
+	      "gallantry",
+	      "generous",
+	      "gloomy",
+	      "glow",
+	      "gnarled",
+	      "go-between",
+	      "to gossip",
+	      "gust",
+	      "half-blooded",
+	      "hint",
+	      "hob-nails",
+	      "hobnob",
+	      "homely",
+	      "honey-tongued",
+	      "hoodwinked",
+	      "hostile",
+	      "hot-blooded",
+	      "housekeeping",
+	      "howl",
+	      "to humor",
+	      "hunchbacked",
+	      "to hurry",
+	      "ill-tempered",
+	      "immediacy",
+	      "impartial",
+	      "to impede",
+	      "import",
+	      "immediacy",
+	      "importantly",
+	      "inaudible",
+	      "inauspicious",
+	      "indistinguishable",
+	      "inducement",
+	      "investment",
+	      "invitation",
+	      "invulnerable",
+	      "jaded",
+	      "Judgement Day",
+	      "juiced",
+	      "kissing",
+	      "lackluster",
+	      "ladybird",
+	      "to lament",
+	      "to lapse",
+	      "to launder",
+	      "laughable",
+	      "leaky",
+	      "leapfrog",
+	      "lonely ",
+	      "long-legged",
+	      "love letter",
+	      "to lower",
+	      "luggage",
+	      "lustrous",
+	      "madcap",
+	      "majestic ",
+	      "majestically",
+	      "malignancy",
+	      "manager",
+	      "marketable",
+	      "militarist",
+	      "mimic",
+	      "misgiving",
+	      "misplaced",
+	      "to misquote",
+	      "money's worth",
+	      "monumental",
+	      "moonbeam",
+	      "mortifying",
+	      "motionless",
+	      "mountaineer",
+	      "multitudinous",
+	      "neglect",
+	      "to negotiate",
+	      "new-fallen",
+	      "new-fangled",
+	      "nimble-footed",
+	      "noiseless",
+	      "to numb",
+	      "obscene",
+	      "obsequiously",
+	      "outbreak",
+	      "to outdare",
+	      "to outgrow",
+	      "to outweigh ",
+	      "over-cool",
+	      "overgrowth",
+	      "over-ripened",
+	      "over-weathered",
+	      "overview",
+	      "pageantry",
+	      "pale-faced",
+	      "to pander",
+	      "pedant",
+	      "perplex",
+	      "perusal",
+	      "to petition",
+	      "pious",
+	      "posture",
+	      "premeditated",
+	      "priceless",
+	      "Promethean",
+	      "protester",
+	      "published",
+	      "puking",
+	      "puppy-dog",
+	      "on purpose",
+	      "quarrelsome",
+	      "questing",
+	      "in question ",
+	      "radiance",
+	      "to rant",
+	      "rancorous",
+	      "raw-boned",
+	      "reclusive",
+	      "reinforcement",
+	      "reliance",
+	      "remorseless",
+	      "reprieve",
+	      "resolve",
+	      "restoration",
+	      "restraint",
+	      "retirement",
+	      "revolting",
+	      "to rival",
+	      "rival",
+	      "roadway",
+	      "rumination",
+	      "sacrificial",
+	      "sanctimonious",
+	      "satisfying",
+	      "savage",
+	      "savagery",
+	      "schoolboy",
+	      "scrubbed",
+	      "scuffle",
+	      "seamy-side",
+	      "to secure",
+	      "shipwrecked",
+	      "shooting star",
+	      "shudder",
+	      "silk",
+	      "stocking ",
+	      "silliness",
+	      "skim milk",
+	      "to sneak",
+	      "soft-hearted",
+	      "spectacled",
+	      "splitting",
+	      "sportive",
+	      "to squabble",
+	      "stealthy",
+	      "stillborn",
+	      "to submerge",
+	      "successful ",
+	      "suffocating",
+	      "to sully",
+	      "superscript",
+	      "to supervise",
+	      "to swagger",
+	      "switch",
+	      "tardily",
+	      "tardiness",
+	      "threateningly",
+	      "tightly",
+	      "time-honored",
+	      "title page",
+	      "to torture ",
+	      "traditional",
+	      "tranquil",
+	      "transcendence",
+	      "tongue-tied",
+	      "unaccommodated",
+	      "unaware",
+	      "to unclog",
+	      "unappeased",
+	      "unchanging",
+	      "unclaimed",
+	      "uncomfortable",
+	      "to uncurl",
+	      "to undervalue",
+	      "to undress",
+	      "unearthly",
+	      "uneducated",
+	      "ungoverned",
+	      "to unhand ",
+	      "unmitigated",
+	      "unpublished",
+	      "unreal",
+	      "unsolicited",
+	      "unswayed",
+	      "unwillingness",
+	      "upstairs",
+	      "urging",
+	      "useful",
+	      "varied",
+	      "vastly",
+	      "viewless",
+	      "vulnerable",
+	      "watchdog",
+	      "well-behaved",
+	      "well-bred",
+	      "well-read",
+	      "whirligig",
+	      "to widen",
+	      "widowed",
+	      "worn out",
+	      "worthless",
+	      "yelping",
+	      "zany"]}
