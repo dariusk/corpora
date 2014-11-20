@@ -1,8 +1,5 @@
-// Words coined by Shakespeare
-// sourced from http://www.pathguy.com/shakeswo.htm
-
 {
-    "description":"Words coined by Shakespeare",
+    "description":"Words coined by Shakespeare, from http://www.pathguy.com/shakeswo.htm",
     "words": ["abstemious",
 	      "academe",
 	      "accommodation",
