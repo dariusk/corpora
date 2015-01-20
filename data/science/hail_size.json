@@ -1,0 +1,85 @@
+{
+    "description": "Analogous objects for various hail sizes, adapted from http://www.spc.noaa.gov/misc/tables/hailsize.htm",
+    "hail": [
+        {
+            "inches": 0.5,
+            "analogs": [
+                "marble",
+                "moth ball"
+            ]
+        },
+        {
+            "inches": 0.75,
+            "analogs": [
+                "penny"
+            ]
+        },
+        {
+            "inches": 0.88,
+            "analogs": [
+                "nickel"
+            ]
+        },
+        {
+            "inches": 1,
+            "analogs": [
+                "quarter"
+            ]
+        },
+        {
+            "inches": 1.25,
+            "analogs": [
+                "half-dollar"
+            ]
+        },
+        {
+            "inches": 1.5,
+            "analogs": [
+                "walnut",
+                "ping-pong ball"
+            ]
+        },
+        {
+            "inches": 1.75,
+            "analogs": [
+                "golf ball"
+            ]
+        },
+        {
+            "inches": 2,
+            "analogs": [
+                "egg"
+            ]
+        },
+        {
+            "inches": 2.5,
+            "analogs": [
+                "tennis ball"
+            ]
+        },
+        {
+            "inches": 2.75,
+            "analogs": [
+                "baseball"
+            ]
+        },
+        {
+            "inches": 3,
+            "analogs": [
+                "tea cup"
+            ]
+        },
+        {
+            "inches": 4,
+            "analogs": [
+                "grapefruit"
+            ]
+        },
+        {
+            "inches": 4.5,
+            "analogs": [
+                "softball"
+            ]
+        }
+    ]
+}
