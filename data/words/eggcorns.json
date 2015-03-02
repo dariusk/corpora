@@ -39,8 +39,8 @@
       "correct": "champing at the bit"
     },
     {
-      "mistakes": ["You've got another thing coming"],
-      "correct": "You've got another think coming"
+      "mistakes": ["you've got another thing coming"],
+      "correct": "you've got another think coming"
     },
     {
       "mistakes": ["statue of limitations"],
