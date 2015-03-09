@@ -60,15 +60,15 @@
     },
     {
       "mistakes": ["pour through a book"],
-      "correct": "pre through a book"
+      "correct": "pore through a book"
     },
     {
       "mistakes": ["speak your peace"],
       "correct": "speak your piece"
     },
     {
-      "mistakes": ["peaked my interest", "peeked my interest"],
-      "correct": "piqued my interest"
+      "mistakes": ["peak your interest", "peek your interest"],
+      "correct": "pique your interest"
     },
     {
       "mistakes": ["flush out the details"],
@@ -79,8 +79,8 @@
       "correct": "doesn't pass muster"
     },
     {
-      "mistakes": ["doesn't jive with my experience"],
-      "correct": "doesn't jibe with my experience"
+      "mistakes": ["doesn't jive with"],
+      "correct": "doesn't jibe with"
     },
     {
       "mistakes": ["mute point"],
@@ -164,7 +164,7 @@
     },
     {
       "mistakes": ["slight of hand"],
-      "correct": "wring your neck"
+      "correct": "sleight of hand"
     },
     {
       "mistakes": ["take another tact"],
