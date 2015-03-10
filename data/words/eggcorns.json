@@ -12,7 +12,7 @@
     },
     {
       "mistakes": ["test your metal", "test your medal"],
-      "correct": "test your metal"
+      "correct": "test your mettle"
     },
     {
       "mistakes": ["could care less"],
@@ -48,7 +48,7 @@
     },
     {
       "mistakes": ["ripe with conflict"],
-      "correct": ["rife with conflict"]
+      "correct": "rife with conflict"
     },
     {
       "mistakes": ["hone in on a problem"],
@@ -69,6 +69,10 @@
     {
       "mistakes": ["peak your interest", "peek your interest"],
       "correct": "pique your interest"
+    },
+    {
+      "mistakes": ["sneak peak"],
+      "correct": "sneak peek"
     },
     {
       "mistakes": ["flush out the details"],
