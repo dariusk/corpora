@@ -12,7 +12,7 @@
     },
     {
       "mistakes": ["test your metal", "test your medal"],
-      "correct": "test your metal"
+      "correct": "test your mettle"
     },
     {
       "mistakes": ["could care less"],
@@ -148,7 +148,7 @@
     },
     {
       "mistakes": ["old wise tale"],
-      "correct": "old wive's tale"
+      "correct": "old wives' tale"
     },
     {
       "mistakes": ["one foul swoop", "one fowl swoop"],
