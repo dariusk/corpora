@@ -28,6 +28,7 @@ This project is not meant to replace exhaustive APIs -- if you want nouns, and y
 ##List of Corpora-related tools
 
  * [corpora-project](https://www.npmjs.com/package/corpora-project), a Node.js NPM package for accessing corpora data offline.
+ * [pycorpora](https://github.com/aparrish/pycorpora), a simple Python interface for corpora
 
 ##I have some data, how do I submit?
 
