@@ -1,0 +1,73 @@
+{
+  "description": "Street Fighter II fighting moves",
+  "characters": [
+    {
+      "character": "Akuma",
+      "moves": ["Gou-Hadoken", "Shakunetsu Hadoken", "Zanku Hadoken", "Gou-Shoryuken", "Hurricane Kick", "Ashura Senku", "Shun Goku Satsu"]
+    },
+    {
+      "character": "Balrog",
+      "moves": ["Dash Straight", "Dash Upper", "Turn Punch", "Buffalo Head", "Crazy Buffalo"]
+    },
+    {
+      "character": "Blanka",
+      "moves": ["Electric Thunder", "Rolling Attack", "Backstep Roll", "Vertical Roll", "Ground Shave Roll"]
+    },
+    {
+      "character": "Cammy",
+      "moves": ["Spiral Arrow", "Axle Spin Knuckle", "Cannon Spike", "Spin Drive Smasher"]
+    },
+    {
+      "character": "Chun-li",
+      "moves": ["Lightning Kick", "Spinning Bird Kick", "Kikoken", "Yousou Kyaku", "Senretsu Kyaku"]
+    },
+    {
+      "character": "Dee Jay",
+      "moves": ["Air Slasher", "Machine Gun Upper", "Double Rolling Sobat", "Jackknife Maximum", "Sobat Carnival"]
+    },
+    {
+      "character": "Dhalsim",
+      "moves": ["Yoga Fire", "Yoga Flame", "Yoga Teleport", "Yoga Blast", "Yoga Inferno"]
+    },
+    {
+      "character": "E. Honda",
+      "moves": ["Hundred Hand Slap", "Sumo Headbutt", "Sumo Smash", "Super Killer Head Ram"]
+    },
+    {
+      "character": "Fei Long",
+      "moves": ["Rekkaken", "Shienkyaku", "Rekkukyaku", "Rekkashinken"]
+    },
+    {
+      "character": "Guile",
+      "moves": ["Sonic Boom", "Flash Kick", "Spin Back Knuckle", "Double Flash"]
+    },
+    {
+      "character": "Ken",
+      "moves": ["Shoryuken", "Hadoken", "Hurricane Kick", "Shoryu Reppa"]
+    },
+    {
+      "character": "M. Bison",
+      "moves": ["Psycho Crusher", "Scissor Kick", "Head Stomp", "Devil Reverse", "Knee Press Nightmare"]
+    },
+    {
+      "character": "Ryu",
+      "moves": ["Hadoken", "Shakunetsu Hadoken", "Shoryuken", "Hurricane Kick", "Shinku Hadoken"]
+    },
+    {
+      "character": "Sagat",
+      "moves": ["Tiger Shot", "Low Tiger Shot", "Tiger Uppercut", "Tiger Knee", "Tiger Genocide"]
+    },
+    {
+      "character": "T. Hawk",
+      "moves": ["Mexican Typhoon", "Tomahawk Buster", "Condor Dive", "Double Typhoon"]
+    },
+    {
+      "character": "Vega",
+      "moves": ["Sky High Claw", "Rolling Crystal Flash", "Flying Barcelona Attack", "Izuna Drop", "Scarlet Terror", "Rolling Izuna Drop"]
+    },
+    {
+      "character": "Zangief",
+      "moves": ["Double Lariat", "Spinning Piledriver", "Banishing Flat", "Final Atomic Buster"]
+    }
+  ]
+}
