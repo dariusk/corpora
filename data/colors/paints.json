@@ -1,0 +1,4005 @@
+{
+    "description": "List of assorted paint colors from various brands.",
+    "colors": [
+        {
+            "color": "A Touch of Tan",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Across the Bay",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Adirondack",
+            "brand": "California Paints"
+        },
+        {
+            "color": "After Dinner Mint",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Almond Cookie",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Aloe Can You Go?",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Aloe Mist",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Alpine Moon",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Aluminum Blue",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Amazing Amethyst",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Amber Dawn",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Antique Rose",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Apricot Glow",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Arabian Red",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Armored Steel",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Art Deco",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Artificial Turf",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Artistic Stone",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Ashwood",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Automotive",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Autumn Bark",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Aztec Aura",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Baby Frog",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Baby Seal",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Badlands Sunset",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Baja White",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Baked Potato",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Basil Pesto",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Battle Harbor",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Bay Fog",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Beach Babies",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Beaumont Brown",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Beignet",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Below Zero",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Berry Frost",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Brushed Clay",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Bubblegum",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Caramel Apple",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Caramel Bar",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Charmed Green",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Cider Mill",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Cinnamon Stick",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Cocktail Olive",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Confident Yellow",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Coral Clay",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Coyote",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Crisp Lettuce",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Crocodile Tears",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Cultured Rose",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Dark Cavern",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Deep Carnation",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Deep Coral",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Deep Pine",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Deep Sapphire",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Encore Teal",
+            "brand": "California Paints"
+        },
+        {
+            "color": "English Holly",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Faint Clover",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Field Day",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Flash of Orange",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Fluorescent Lime",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Four Leaf Clover",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Fresh Thyme",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Friar Tuck",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Frosty Mint",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Gardening",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Garnet Evening",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Glitzy Red",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Grass Root",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Green Lane",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Green with Envy",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Herbal",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Hint of Spring",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Holly Bush",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Ice Glow",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Irish Beauty",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Irish Charm",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Jade Bracelet",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Jade Mountain",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Kale",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Magic Night",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Marble Dust",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Marshmallow Rose",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Mid-Century White",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Midland Tan",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Midnight Blush",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Mission Trail",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Mist Spirit",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Mist of Green",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Misted Eve",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Misty Hillside",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Misty Lawn",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Modern White",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Molasses",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Money",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Monsoon",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Montego Bay",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Muslin",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Natural Wool",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Navy Teal",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Neutral Era",
+            "brand": "California Paints"
+        },
+        {
+            "color": "New Wool",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Northgate Green",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Ocean Oasis",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Orange Burst",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Organic White",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Pale Frost",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Pale Morning",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Passionate Plum",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Peach",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Rare Turquoise",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Red Revival",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Refined Green",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Retro Peach",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Revival Rose",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Roman Brick",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Shaded Sun",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Shadow White",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Shamrock Field",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Sheer Lavender",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Short and Sweet",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Shrubbery",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Siamese Kitten",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Sidewalk Chalk",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Silent Ivory",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Silver Skate",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Silver Spoon",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Silver Springs",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Sky Glass",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Smart Cookie",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Smoke and Mirrors",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Snowy Shadow",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Soaring Sky",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Soft Lavender",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Soft Moss",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Soft Purple",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Sour Lemon",
+            "brand": "California Paints"
+        },
+        {
+            "color": "South Gallery",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Spacious Plain",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Spacious Sky",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Spanish White",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Sparkling Frost",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Spiced Berry",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Spring Shower",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Storm Cloud",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Strong Punch",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Succulent",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Sullen Gold",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Summerville Brown",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Tawny Amber",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Teal Waters",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Teatime Mauve",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Thinking of Hue",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Trailing Vine",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Treetop",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Up North",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Vibrant Honey",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Weekend Gardener",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Whisper of Grass",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Wild Maple",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Wintermint",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Wonderful Life",
+            "brand": "California Paints"
+        },
+        {
+            "color": "World Peace",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Woven Gold",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Yellow Stone",
+            "brand": "California Paints"
+        },
+        {
+            "color": "York Plum",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Young Fawn",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Your Majesty",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Yuma Gold",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Zen",
+            "brand": "California Paints"
+        },
+        {
+            "color": "Abbot",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Adeline",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Adobe",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Adriatic Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aerobic Fix",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aerostatics",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Affinity",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Afloat",
+            "brand": "Dulux"
+        },
+        {
+            "color": "After Burn",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Airborne",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Airforce",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Alaskan Cruise",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Albeit",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Alien",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aloe Vera",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Alpha Centuri",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Alpha Tango",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ambit",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Amphibian",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ancient Olive",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Angel Aura",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Angel Kiss",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Anita",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Antarctic Deep",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Antique Bear",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Apple Cream",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Applegate",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Apricot Icecream",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Apricot Mousse",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aqua Foam",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aquatic Cool",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aqueduct",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Arabian Bake",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Arctic Daisy",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Arctic Rose",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aroma",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Asphalt Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Assassin",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aster",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Atelier",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Atom Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Aumbry",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Autumn Fall",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Avocado Cream",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Awaken",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Babiana",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Baby Berries",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Baby Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Baby Motive",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Baca Berry",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ballet Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Balsam Pear",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Baltic",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Baltic Trench",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Banksia",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Banksia Leaf",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Base Camp",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Basketweave Beige",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Battle Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Beach Casuarina",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bean Counter",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bee Master",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Befitting",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Beggar",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Belly Fire",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bengal Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Berry Mix",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bewitching",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Billabong",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bird Of Paradise",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Biro Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blackberry Burgundy",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bladerunner",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blair",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bleached Coral",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blende Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blonde Girl",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blood Mahogany",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Angora",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Ballad",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Ballerina",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Bay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Beard",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Beauty",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Beret",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Blouse",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Bobbin",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Bottom Boat",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Brocade",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Buzz",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Charcoal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Emerald",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Fin",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Heeler",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Heist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Horizon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Jasmine",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Kelp",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Limewash",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Linen",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Mercury",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Mist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Mosque",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Nude",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Opal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Prince",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Rhapsody",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Rinse",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Satin",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blue Venus",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blueberry Blush",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bluebound",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Blunt",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Boatswain",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bogart",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Boiling Mud",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bold Eagle",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bottlebrush Blossom",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bowerbird Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Breakaway Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bright Bluebell",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bright Lady",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bright Lettuce",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bright Spark",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bright Zenith",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bronze Medal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Broomstick",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Brown Bear",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Brown Beauty",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Brown Fox",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bruin Spice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Brume",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Brussels",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bubbles",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Budding Bloom",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bull Kelp",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bull Ring",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bulrush",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Buoyant",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Buoyant Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Burdock",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Burnt Earth",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Butter Base",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Butter Fingers",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Butterfly Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Bypass",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cabal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Caboose",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cajun Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cameo Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Camisole",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Camouflage Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Canadian Maple",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Candela",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Candyman",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cape Pond",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Capital Yellow",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Capsella",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Captivated",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cargo River",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Caribbean Turquoise",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Carolina",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cat Mint",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cat's Purr",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Catalan",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cave Lake",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Celestine",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Centaur",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Chambray",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Channel",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Charcoal Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cheater",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Chicory",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Chilly Spice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Chinchilla Chenille",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Chinese Garden",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Christobel",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Citrino",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Clary",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Clay Bake",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Clay Court",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Clay Play",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Clean Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Clear Brook",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cold Current",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cold Sea Currents",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Colonel Mustard",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Colossus",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Concealment",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Conclave",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Confederate",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Congo Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Continental Waters",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cook's Bay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cool Crayon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Copacabana",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Copper Turquoise",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Coppersmith",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Corporate Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Corral",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cosmic Aura",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Couscous",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Creamed Caramel",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Crossbow",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cruel Sea",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Crunch",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Crushed Almond",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Crypt",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Crystal Apple",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cuba Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cuban Rhythm",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cucumber Cream",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cucumber Crush",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cuddlepot",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cupcake Rose",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Cushion Bush",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dancer",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Danger Ridge",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dark Rainforest",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dark Strawberry",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Day Glow",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Decoration Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Decore Splash",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep Caribbean",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep Clay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep Night",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep Sanction",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep Sea Diver",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep South",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep Turquoise",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Deep Velvet",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Delta Break",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Desert Bud",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Desert Cover",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Desert Soil",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Devil Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dickie Bird",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Distant Sky",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Divine",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Doe",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Domain",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Donkey Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dormitory",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Double Jeopardy",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dreamweaver",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dresden Doll",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Dreyfus",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Duomo",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Earth Warming",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Easily Suede",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Eclectic",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Edvard",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Egyptian Teal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Electromagnetic",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Elfin Games",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Elusive Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Emerald Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Emerald Wave",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Empress Envy",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Enchanted Wood",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Encounter",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Endless",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Enhance",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Enviable",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Equanimity",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Eskimo White",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Estuary Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ethereal Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Evening East",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Evening Fizz",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Evening Sunset",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Evergreen",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Eyefull",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Eyre",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Facemark",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fair Maiden",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fairway Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Featherbed",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Federal Fund",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Feijoa",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ferry",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fiddler",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fiddlesticks",
+            "brand": "Dulux"
+        },
+        {
+            "color": "First Landing",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fish Net Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fisher King",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fizz",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Flinder's Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Flying Carpet",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Foille",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Foresight",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Forest Blues",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fragrant Wand",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fresco Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Friends",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Frog Prince",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Fudge",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Full Of Life",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Funk",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Gecko",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Germania",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Glacier Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Glacier Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Gladeye",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Glen",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Glide Time",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Glossy Olive",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Gnome",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Gold Foil",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Golden Delicious",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Golden Grain",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Golden Rod",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Golf Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Good Samaritan",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Grass Blade",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Great Serpent",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Great Void",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Beret",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Fingers",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Fog",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Garter",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Glint",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Illude",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Jelly",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Pantina",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Room",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Veil",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Green Weed",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Greenette",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Greenland Ice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Gulf Weed",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hailstorm",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hammock",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Handmade Linen",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Harbour Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Harem Silk",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Harmonious",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Harvest Gold",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Havana",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Heaven Sent",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Heavenly",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Heifer",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Herbalist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hidden Depths",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hidden Mask",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Highland Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Highlander",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hindsight",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hokey Pokey",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Holy Fern",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hot Embers",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hot Flamingo",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hot Ginger",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Hydroport",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ice Cap Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ice Mist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ice Pack",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Iced Vovo",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Iced Watermelon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Identity",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Illusion Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Imagery",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Imaginary Mauve",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Immortal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Indian Clay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Indigo Night",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Inkjet",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Inky Storm",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Instant",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Irish Hedge",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Island Sea",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Isolation",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Italian Clay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jacaranda Jazz",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jetski Race",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jewel",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jubilation",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Juggernaut",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Juicy Lime",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jules",
+            "brand": "Dulux"
+        },
+        {
+            "color": "July",
+            "brand": "Dulux"
+        },
+        {
+            "color": "June",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jungle Adventure",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jungle Cloak",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Jurassic Park",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Kimberley Tree",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Kimono",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Kinder",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Kindness",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Kiri Mist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Kowloon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lacey",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lacustral",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lady Fern",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lagoon Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lagoona Teal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Laird",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lama",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lampoon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Latin Charm",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Laughing Jack",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lavender Blush",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lavender Elan",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lavender Mosaic",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lavender Scent",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Legendary Lilac",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Licorice Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Liddell",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Light Leather",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lily Legs",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lime Parfait",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Limpid Light",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Little League",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Little Mermaid",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Loch Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lorna",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lucidity",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Luscious Lobster",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lush Mauve",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Lusty Lavender",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Magenta Twilight",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Magnesia Bay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Magnitude",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Malt Shake",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mamala Bay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Manila",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Marlin Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Marrakesh Red",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Marvellous",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mask",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Maud",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mauve Jazz",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mauve Mole",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mauve Stone",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Medicine Man",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mediterranean Cove",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Melon Baby",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Melon Balls",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Melon Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Melon Twist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Melt Ice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Meltwater",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Memorize",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Merlin's Choice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Merlin's Cloak",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Miami Spice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mildura",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Milky Aquamarine",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mint",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mintos",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mirage",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Misty Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Misty Grape",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Misty Moss",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mizu",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Modal Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Moired Satin",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Monastery Mantle",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Moneybanks",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mont Blanc",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Morality",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Morass",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Moroccan Dusk",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mosque",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mouse Trap",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mud House",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mud-Dell",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Murdoch",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Murex",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mustard Magic",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Muted Mauve",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Mysteria",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Natural Youth",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Nature's Delight",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Navigator",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Nero's Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Net Worker",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Neverland",
+            "brand": "Dulux"
+        },
+        {
+            "color": "New Love",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Niche",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Night Bloom",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Night Romance",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Night Rose",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Nightshade",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Noble Tone",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Nocturnal Flight",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Nominee",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Norfolk Sky",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Nursery",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Oath",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ocean Mirage",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ocean Trapeze",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ogen Melon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Old Ruin",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Olive Paste",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Opera",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Orange Drop",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Orange Wood",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Orchid Haze",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Oriental Blush",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Oriental Spice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Overtake",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ozone",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pa Red",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pacific Queen",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Painted Bark",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Painted Clay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pale Corn",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pale Mustard",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pale Sage",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pancake Mix",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pandanus",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Panorama",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Paper Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Paris Creek",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Passive Royal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pastry",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Patrice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pauper",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Paving Stone",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Paw Paw",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Peace",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Peach Fizz",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Peach Melba",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Peahen",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pearly Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Peaslake",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pedigree",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pelican Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Penna",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pentagon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pentalon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Peppercorn Rent",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Peppermint Twist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Perfect Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Perserverance",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Persian Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Petal Purple",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Petula",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pharaoh's Seas",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pheasant Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Piccolo",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pickled",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Picturebook Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Piglet",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pinch Purple",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pincushion",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pink Dream",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pink Fire",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pink Marble",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pink Pieris",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pink Polar",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pink Power",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pink Tutu",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pirate's Haven",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pirate's Trinket",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pitapat",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pleasure",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pluto",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Poised Peach",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Polly",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pony Express",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Poppy Leaf",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Porcelain Crab",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Potash",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Powder Puff Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Prancer",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pre-Raphaelite",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Precious Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Prediction",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Prefect",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pretty Lady",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pretty Pale",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Primrose",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Primula",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Prince",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Prince Royal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Prompt",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Prophetic Purple",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Puppeteers",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pure Apple",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Pure Zeal",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Purple Berry",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Purple Kasbah",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Purple Mystery",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Putty Pearl",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Quarry Quartz",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Quaver",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Quiet Bay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Raccoon Tail",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ramjet",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rapt",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Raspberry Ice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Raspberry Ripple",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Raw Umber",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Razee",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ready Lawn",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Real Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rebounder",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Receding Night",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Recycled",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Red Gravel",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Red Rock",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Red Stop",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Red Terra",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Reef Resort",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Revival",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rhythm",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rich Biscuit",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rich Loam",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ridge Light",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Robinhood",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rockabilly",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rollercoaster",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rosetta",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Roulette",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rowntree",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Royal Consort",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Royal Curtsy",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Royal Decree",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ruby Red",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Rusted Crimson",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Safflower",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sainsbury",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Salmon Pate",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Salt Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Salt Spray",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sandbank",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sandgrass Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sandpaper",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sanskrit",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sapless Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Satin Soil",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Savile Row",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Saxon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sea Angel",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sea Cave",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sea Current",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sea Garden",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sea Mark",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sea Swimmer",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sea Wonder",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Seaborne",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Seachange",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Seduction",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sequesta",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Shaded Fuchsia",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Shadow Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Shallow Sea",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Ship's Officer",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Shipwreck",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Shire",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Shot-Put",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Show Business",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Shylock",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Silent Sage",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Silver Drop",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Silverfish",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Silverton",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Simply Delicious",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sky Bus",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Skyway",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sleep",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Slipper Satin",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Smoked Amethyst",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Smoked Flamingo",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Smoky Sunrise",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Snoop",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Snowpink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soft Amber",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soft Bark",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soft Blush",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soft Chamois",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soft Savvy",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soft Suede",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Softsun",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Solid Empire",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soothsayer",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Soya",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Spaceman",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Spanish Style",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sparkling Cove",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Spatial Spirit",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Species",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Speedwell",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Spice Of Life",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Spinning Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Splash Palace",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Splinter",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Spring Fever",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Stamina",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Star Gate",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Starlight Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Stellar Mist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Storm Break",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Stowaway",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Stream",
+            "brand": "Dulux"
+        },
+        {
+            "color": "String",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Strong Sage",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sultan's Silk",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sultry Spell",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Summer Air",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Summit",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sunbound",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Supernatural",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Surf Rider",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sutherland",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Swampy",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Swedish Clover",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Sweet Violet",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Swift",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Swollen Sky",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tactile",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tall Ships",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tamboon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tambua Bay",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tan Wagon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tango",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tapestry Beige",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tardis",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tarzan Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tassel Taupe",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Taupe Night",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Teal Essence",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Template",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Temptress",
+            "brand": "Dulux"
+        },
+        {
+            "color": "The Bluff",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Thicket",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Thredbo",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Thunderbirds",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Thunderbolt Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tidal Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tidal Thicket",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tingle",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tint Of Earth",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Toad",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tort",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Trail Blazer",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tranquil Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tree Frog Green",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tree Palm",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Triassic",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tropic Canary",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tropical Light",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tropical Moss",
+            "brand": "Dulux"
+        },
+        {
+            "color": "True Blue",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tsar",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tuft",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Turkish Aqua",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Turkish Stone",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Turmeric",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Twisted Time",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Tyrol",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Uncharted",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Uniform",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Vandamint",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Vanilla Frost",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Vegetarian",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Veiled Delight",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Veiled Violet",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Velvet Cape",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Velvet Ears",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Venetian Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Venus Mist",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Viameter",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Vibrant Vine",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Vibrant Vision",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Victoriana",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Violet Dawn",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Virtuous",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Voltage",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wallflower",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Warm Ash",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Warm Leather",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Warm Neutral",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Warm Spice",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Water Music",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Water Raceway",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Water Scrub",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Water Wheel",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Waterway",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wave",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Waza Bear",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wellington",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wentworth",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wiggle",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Will",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wisley Pink",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wisteria-Wise",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Witch Wood",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Witches Cauldron",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Woad",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Wolf's Bane",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Woodland Brown",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Woohringa",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Yellowstone",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Young Salmon",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Yucca",
+            "brand": "Dulux"
+        },
+        {
+            "color": "Arsenic",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Babouche",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Blue Gray",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Calke Green",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Cat's Paw",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Charlotte's Locks",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Cook's Blue",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Cord",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Dead Salmon",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Dimpse",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Dix Blue",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Down Pipe",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Drawing Room Blue",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Fawn",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Green Smoke",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Hay",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Incarnadine",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "James White",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Lamp Room Gray",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Lime White",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Manor House Gray",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Matchstick",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Mole's Breath",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Off-White",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Oval Room Blue",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Picture Gallery Red",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Print Room Yellow",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Purbeck Stone",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Ringwold Ground",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Skylight",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Strong White",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Sudbury Yellow",
+            "brand": "Farrow Ball"
+        },
+        {
+            "color": "Vert De Terre",
+            "brand": "Farrow Ball"
+        }
+    ]
+}
