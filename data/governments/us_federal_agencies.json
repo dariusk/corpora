@@ -1,7 +1,7 @@
 {
   "description": "A list of federal agencies.",
   "source": "This data was sourced from the GSA's list of .gov domains https://github.com/GSA/data/blob/gh-pages/dotgov-domains/2014-12-01-federal.csv",
-  "codenames": [
+  "agencies": [
     "Administrative Conference of the United States",
     "Advisory Council on Historic Preservation",
     "African Development Foundation",
