@@ -1,4 +1,20 @@
-#Corpora
+# weirdly-specific-corpora
+
+this is a place for stuff that is too weirdly specific for the main corpora project.
+
+you probably actually want `dariusk/corpora`.
+
+
+
+
+
+
+
+
+
+ORIGINAL README FOLLOWS BELOW:
+
+---------------------------------------
 
 This project is a collection of static corpora (plural of "corpus") that are potentially useful in the creation of weird internet stuff. I've found that, as a creator, sometimes I am making something that needs access to a lot of adjectives, but not necessarily every adjective in the English language. So for the last year I've been copy/pasting an `adjs.json` file from project to project. This is kind of awful, so I'm hoping that this project will at least help me keep everything in one place.
 
