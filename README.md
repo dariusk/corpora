@@ -2,10 +2,8 @@
 
 this is a place for stuff that is too weirdly specific for the main corpora project.
 
-<img src="list1.PNG" style="max-width: 100px; max-height: 100px; display: inline;"></img>
-<img src="2.jpg" style="max-width: 100px; max-height: 100px; display: inline;"></img>
-<img src="3.jpg" style="max-width: 100px; max-height: 100px; display: inline;"></img>
-<img src="4.jpg" style="max-width: 100px; max-height: 100px; display: inline;"></img>
+
+![](4.jpg)
 
 
 
