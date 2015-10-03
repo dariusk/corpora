@@ -2,10 +2,10 @@
 
 this is a place for stuff that is too weirdly specific for the main corpora project.
 
-![](list1.PNG)
-![](2.jpg)
-![](3.jpg)
-![](4.jpg)
+<img src="list1.PNG" style="width: 250px; height: 250px; display: inline;"></img>
+<img src="2.jpg" style="width: 250px; height: 250px; display: inline;"></img>
+<img src="3.jpg" style="width: 250px; height: 250px; display: inline;"></img>
+<img src="4.jpg" style="width: 250px; height: 250px; display: inline;"></img>
 
 
 
