@@ -2,17 +2,20 @@
 
 this is a place for stuff that is too weirdly specific for the main corpora project.
 
-you probably actually want `dariusk/corpora`.
+![](list1.PNG)
+![](2.jpg)
+![](3.jpg)
+![](4.jpg)
 
 
 
 
+----------------------------------------------------------------------------
 
 
 
 
-
-ORIGINAL README FOLLOWS BELOW:
+# you probably actually want `dariusk/corpora`. ORIGINAL README FOLLOWS BELOW:
 
 ---------------------------------------
 
