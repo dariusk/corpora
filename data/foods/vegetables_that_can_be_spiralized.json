@@ -1,0 +1,29 @@
+{
+  "description": "vegetables that are commonly spiralized",
+  "vegetables" [
+    "Apple"
+    "Beet"
+    "Broccoli"
+    "Butternut Squash"
+    "Cabbage"
+    "Carrot"
+    "Celeriac"
+    "Chayote"
+    "Cucumber"
+    "Daikon Radish"
+    "Jicama"
+    "Kohlrabi"
+    "Onion"
+    "Parsnip"
+    "Pear"
+    "Plantain"
+    "Radish, black"
+    "Rutabaga"
+    "Sweet Potato"
+    "Taro Root"
+    "Turnip"
+    "White Potato"
+    "Zucchini",
+    "Summer Squash"
+  ]
+}
