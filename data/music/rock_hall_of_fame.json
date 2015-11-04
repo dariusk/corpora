@@ -1,0 +1,827 @@
+{
+    "description" : "Artists who have been added to the Rock N' Roll Hall of Fame along with their year of induction",
+    "source" : "https://en.wikipedia.org/wiki/List_of_Rock_and_Roll_Hall_of_Fame_inductees",
+
+    "artists" : [
+        {
+        "name" : "Chuck Berry",
+        "year" : 1986
+        },
+        {
+        "name" : "James Brown",
+        "year" : 1986
+        },
+        {
+        "name" : "Ray Charles",
+        "year" : 1986
+        },
+        {
+        "name" : "Sam Cooke",
+        "year" : 1986
+        },
+        {
+        "name" : "Fats Domino",
+        "year" : 1986
+        },
+        {
+        "name" : "The Everly Brothers",
+        "year" : 1986
+        },
+        {
+        "name" : "Buddy Holly",
+        "year" : 1986
+        },
+        {
+        "name" : "Jerry Lee Lewis",
+        "year" : 1986
+        },
+        {
+        "name" : "Little Richard",
+        "year" : 1986
+        },
+        {
+        "name" : "Elvis Presley",
+        "year" : 1986
+        },
+        {
+        "name" : "The Coasters",
+        "year" : 1987
+        },
+        {
+        "name" : "Eddie Cochran",
+        "year" : 1987
+        },
+        {
+        "name" : "Bo Diddley",
+        "year" : 1987
+        },
+        {
+        "name" : "Aretha Franklin",
+        "year" : 1987
+        },
+        {
+        "name" : "Marvin Gaye",
+        "year" : 1987
+        },
+        {
+        "name" : "Bill Haley",
+        "year" : 1987
+        },
+        {
+        "name" : "B.B. King",
+        "year" : 1987
+        },
+        {
+        "name" : "Clyde McPhatter",
+        "year" : 1987
+        },
+        {
+        "name" : "Ricky Nelson",
+        "year" : 1987
+        },
+        {
+        "name" : "Roy Orbison",
+        "year" : 1987
+        },
+        {
+        "name" : "Carl Perkins",
+        "year" : 1987
+        },
+        {
+        "name" : "Smokey Robinson",
+        "year" : 1987
+        },
+        {
+        "name" : "Big Joe Turner",
+        "year" : 1987
+        },
+        {
+        "name" : "Muddy Waters",
+        "year" : 1987
+        },
+        {
+        "name" : "Jackie Wilson",
+        "year" : 1987
+        },
+        {
+        "name" : "The Beach Boys",
+        "year" : 1988
+        },
+        {
+        "name" : "The Beatles",
+        "year" : 1988
+        },
+        {
+        "name" : "The Drifters",
+        "year" : 1988
+        },
+        {
+        "name" : "Bob Dylan",
+        "year" : 1988
+        },
+        {
+        "name" : "The Supremes",
+        "year" : 1988
+        },
+        {
+        "name" : "Dion",
+        "year" : 1989
+        },
+        {
+        "name" : "Otis Redding",
+        "year" : 1989
+        },
+        {
+        "name" : "The Rolling Stones",
+        "year" : 1989
+        },
+        {
+        "name" : "The Temptations",
+        "year" : 1989
+        },
+        {
+        "name" : "Stevie Wonder",
+        "year" : 1989
+        },
+        {
+        "name" : "Hank Ballard",
+        "year" : 1990
+        },
+        {
+        "name" : "Charlie Christian",
+        "year" : 1990
+        },
+        {
+        "name" : "Bobby Darin",
+        "year" : 1990
+        },
+        {
+        "name" : "The Four Seasons",
+        "year" : 1990
+        },
+        {
+        "name" : "The Four Tops",
+        "year" : 1990
+        },
+        {
+        "name" : "The Kinks",
+        "year" : 1990
+        },
+        {
+        "name" : "The Platters",
+        "year" : 1990
+        },
+        {
+        "name" : "Simon & Garfunkle",
+        "year" : 1990
+        },
+        {
+        "name" : "The Who",
+        "year" : 1990
+        },
+        {
+        "name" : "LaVern Baker",
+        "year" : 1991
+        },
+        {
+        "name" : "The Byrds",
+        "year" : 1991
+        },
+        {
+        "name" : "John Lee Hooker",
+        "year" : 1991
+        },
+        {
+        "name" : "The Impressions",
+        "year" : 1991
+        },
+        {
+        "name" : "Wilson Pickett",
+        "year" : 1991
+        },
+        {
+        "name" : "Jimmy Reed",
+        "year" : 1991
+        },
+        {
+        "name" : "Ike & Tina Turner",
+        "year" : 1991
+        },
+        {
+        "name" : "Bobby \"Blue\" Bland",
+        "year" : 1992
+        },
+        {
+        "name" : "Booker T. & the M.G.'s",
+        "year" : 1992
+        },
+        {
+        "name" : "Johnny Cash",
+        "year" : 1992
+        },
+        {
+        "name" : "The Isley Brothers",
+        "year" : 1992
+        },
+        {
+        "name" : "The Jimi Hendrix Experience",
+        "year" : 1992
+        },
+        {
+        "name" : "Sam & Dave",
+        "year" : 1992
+        },
+        {
+        "name" : "The Yardbirds",
+        "year" : 1992
+        },
+        {
+        "name" : "Ruth Brown",
+        "year" : 1993
+        },
+        {
+        "name" : "Cream",
+        "year" : 1993
+        },
+        {
+        "name" : "Creedence Clearwater Revival",
+        "year" : 1993
+        },
+        {
+        "name" : "The Doors",
+        "year" : 1993
+        },
+        {
+        "name" : "Frankie Lymon & The Teenagers",
+        "year" : 1993
+        },
+        {
+        "name" : "Etta James",
+        "year" : 1993
+        },
+        {
+        "name" : "Van Morrison",
+        "year" : 1993
+        },
+        {
+        "name" : "Sly and the Family Stone",
+        "year" : 1993
+        },
+        {
+        "name" : "The Animals",
+        "year" : 1994
+        },
+        {
+        "name" : "The Band",
+        "year" : 1994
+        },
+        {
+        "name" : "Duane Eddy",
+        "year" : 1994
+        },
+        {
+        "name" : "Grateful Dead",
+        "year" : 1994
+        },
+        {
+        "name" : "Elton John",
+        "year" : 1994
+        },
+        {
+        "name" : "John Lennon",
+        "year" : 1994
+        },
+        {
+        "name" : "Bob Marley",
+        "year" : 1994
+        },
+        {
+        "name" : "Rod Stewart",
+        "year" : 1994
+        },
+        {
+        "name" : "The Allman Brothers Band",
+        "year" : 1995
+        },
+        {
+        "name" : "Al Green",
+        "year" : 1995
+        },
+        {
+        "name" : "Janis Joplin",
+        "year" : 1995
+        },
+        {
+        "name" : "Led Zeppelin",
+        "year" : 1995
+        },
+        {
+        "name" : "Martha and the Vandellas",
+        "year" : 1995
+        },
+        {
+        "name" : "Neil Young",
+        "year" : 1995
+        },
+        {
+        "name" : "Frank Zappa",
+        "year" : 1995
+        },
+        {
+        "name" : "David Bowie",
+        "year" : 1996
+        },
+        {
+        "name" : "Gladys Knight & the Pips",
+        "year" : 1996
+        },
+        {
+        "name" : "Jefferson Airplane",
+        "year" : 1996
+        },
+        {
+        "name" : "Little Willie John",
+        "year" : 1996
+        },
+        {
+        "name" : "Pink Floyd",
+        "year" : 1996
+        },
+        {
+        "name" : "The Shirelles",
+        "year" : 1996
+        },
+        {
+        "name" : "The Velvet Underground",
+        "year" : 1996
+        },
+        {
+        "name" : "Bee Gees",
+        "year" : 1997
+        },
+        {
+        "name" : "Buffalo Springfield",
+        "year" : 1997
+        },
+        {
+        "name" : "Crosby, Stills & Nash",
+        "year" : 1997
+        },
+        {
+        "name" : "the Jackson 5",
+        "year" : 1997
+        },
+        {
+        "name" : "Joni Mitchell",
+        "year" : 1997
+        },
+        {
+        "name" : "Parliament-Funkadelic",
+        "year" : 1997
+        },
+        {
+        "name" : "The (Young) Rascals",
+        "year" : 1997
+        },
+        {
+        "name" : "Eagles",
+        "year" : 1998
+        },
+        {
+        "name" : "Fleetwood Mac",
+        "year" : 1998
+        },
+        {
+        "name" : "The Mamas & the Papas",
+        "year" : 1998
+        },
+        {
+        "name" : "Lloyd Price",
+        "year" : 1998
+        },
+        {
+        "name" : "Santana",
+        "year" : 1998
+        },
+        {
+        "name" : "Gene Vincent",
+        "year" : 1998
+        },
+        {
+        "name" : "Billy Joel",
+        "year" : 1999
+        },
+        {
+        "name" : "Curtis Mayfield",
+        "year" : 1999
+        },
+        {
+        "name" : "Paul McCartney",
+        "year" : 1999
+        },
+        {
+        "name" : "Del Shannon",
+        "year" : 1999
+        },
+        {
+        "name" : "Dusty Springfield",
+        "year" : 1999
+        },
+        {
+        "name" : "Bruce Springsteen",
+        "year" : 1999
+        },
+        {
+        "name" : "The Staple Singers",
+        "year" : 1999
+        },
+        {
+        "name" : "Eric Clapton",
+        "year" : 2000
+        },
+        {
+        "name" : "Earth, Wind & Fire",
+        "year" : 2000
+        },
+        {
+        "name" : "The Lovin' Spoonful",
+        "year" : 2000
+        },
+        {
+        "name" : "The Moonglows",
+        "year" : 2000
+        },
+        {
+        "name" : "Bonnie Raitt",
+        "year" : 2000
+        },
+        {
+        "name" : "James Taylor",
+        "year" : 2000
+        },
+        {
+        "name" : "Aerosmith",
+        "year" : 2001
+        },
+        {
+        "name" : "Solmon Burke",
+        "year" : 2001
+        },
+        {
+        "name" : "The Flamingos",
+        "year" : 2001
+        },
+        {
+        "name" : "Michael Jackson",
+        "year" : 2001
+        },
+        {
+        "name" : "Queen",
+        "year" : 2001
+        },
+        {
+        "name" : "Paul Simon",
+        "year" : 2001
+        },
+        {
+        "name" : "Steely Dan",
+        "year" : 2001
+        },
+        {
+        "name" : "Ritchie Valens",
+        "year" : 2001
+        },
+        {
+        "name" : "Isaac Hayes",
+        "year" : 2002
+        },
+        {
+        "name" : "Brenda Lee",
+        "year" : 2002
+        },
+        {
+        "name" : "Tom Petty and the Heartbreakers",
+        "year" : 2002
+        },
+        {
+        "name" : "Gene Pitney",
+        "year" : 2002
+        },
+        {
+        "name" : "Ramones",
+        "year" : 2002
+        },
+        {
+        "name" : "Talking Heads",
+        "year" : 2002
+        },
+        {
+        "name" : "AC/DC",
+        "year" : 2003
+        },
+        {
+        "name" : "The Clash",
+        "year" : 2003
+        },
+        {
+        "name" : "Elvis Costello & The Attractions",
+        "year" : 2003
+        },
+        {
+        "name" : "The Police",
+        "year" : 2003
+        },
+        {
+        "name" : "The righteous Brothers",
+        "year" : 2003
+        },
+        {
+        "name" : "Jackson Browne",
+        "year" : 2004
+        },
+        {
+        "name" : "The Dells",
+        "year" : 2004
+        },
+        {
+        "name" : "George Harrison",
+        "year" : 2004
+        },
+        {
+        "name" : "Prince",
+        "year" : 2004
+        },
+        {
+        "name" : "Bob Seger",
+        "year" : 2004
+        },
+        {
+        "name" : "Traffic",
+        "year" : 2004
+        },
+        {
+        "name" : "ZZ Top",
+        "year" : 2004
+        },
+        {
+        "name" : "Buddy Guy",
+        "year" : 2005
+        },
+        {
+        "name" : "The O'Jays",
+        "year" : 2005
+        },
+        {
+        "name" : "Pretenders",
+        "year" : 2005
+        },
+        {
+        "name" : "Percy Sledge",
+        "year" : 2005
+        },
+        {
+        "name" : "U2",
+        "year" : 2005
+        },
+        {
+        "name" : "Black Sabbath",
+        "year" : 2006
+        },
+        {
+        "name" : "Blondie",
+        "year" : 2006
+        },
+        {
+        "name" : "Miles Davis",
+        "year" : 2006
+        },
+        {
+        "name" : "Lynyrd Skynyrd",
+        "year" : 2006
+        },
+        {
+        "name" : "Sex Pistols",
+        "year" : 2006
+        },
+        {
+        "name" : "Grandmaster Flash and The Furious Five",
+        "year" : 2007
+        },
+        {
+        "name" : "R.E.M.",
+        "year" : 2007
+        },
+        {
+        "name" : "The Ronettes",
+        "year" : 2007
+        },
+        {
+        "name" : "Patti Smith",
+        "year" : 2007
+        },
+        {
+        "name" : "Van Halen",
+        "year" : 2007
+        },
+        {
+        "name" : "The Dave Clark Five",
+        "year" : 2008
+        },
+        {
+        "name" : "Leonard Cohen",
+        "year" : 2008
+        },
+        {
+        "name" : "Madonna",
+        "year" : 2008
+        },
+        {
+        "name" : "John Mellencamp",
+        "year" : 2008
+        },
+        {
+        "name" : "The Ventures",
+        "year" : 2008
+        },
+        {
+        "name" : "Jeff Beck",
+        "year" : 2009
+        },
+        {
+        "name" : "Little Anthony and the Imperials",
+        "year" : 2009
+        },
+        {
+        "name" : "Metallica",
+        "year" : 2009
+        },
+        {
+        "name" : "Run-D.M.C.",
+        "year" : 2009
+        },
+        {
+        "name" : "Bobby Womack",
+        "year" : 2009
+        },
+        {
+        "name" : "ABBA",
+        "year" : 2010
+        },
+        {
+        "name" : "Genesis",
+        "year" : 2010
+        },
+        {
+        "name" : "Jimmy Cliff",
+        "year" : 2010
+        },
+        {
+        "name" : "The Hollies",
+        "year" : 2010
+        },
+        {
+        "name" : "The Stooges",
+        "year" : 2010
+        },
+        {
+        "name" : "Alice Cooper",
+        "year" : 2011
+        },
+        {
+        "name" : "Neil Diamond",
+        "year" : 2011
+        },
+        {
+        "name" : "Dr. John",
+        "year" : 2011
+        },
+        {
+        "name" : "Darlene Love",
+        "year" : 2011
+        },
+        {
+        "name" : "Tom Waits",
+        "year" : 2011
+        },
+        {
+        "name" : "Beastie Boys",
+        "year" : 2012
+        },
+        {
+        "name" : "The Blue Caps",
+        "year" : 2012
+        },
+        {
+        "name" : "The Comets",
+        "year" : 2012
+        },
+        {
+        "name" : "The Crickets",
+        "year" : 2012
+        },
+        {
+        "name" : "Donovan",
+        "year" : 2012
+        },
+        {
+        "name" : "The Famous Flames",
+        "year" : 2012
+        },
+        {
+        "name" : "Guns N' Roses",
+        "year" : 2012
+        },
+        {
+        "name" : "The Midnighters",
+        "year" : 2012
+        },
+        {
+        "name" : "The Miracles",
+        "year" : 2012
+        },
+        {
+        "name" : "Laura Nyro",
+        "year" : 2012
+        },
+        {
+        "name" : "Red Hot Chili Peppers",
+        "year" : 2012
+        },
+        {
+        "name" : "Small Faces/Faces",
+        "year" : 2012
+        },
+        {
+        "name" : "Heart",
+        "year" : 2013
+        },
+        {
+        "name" : "Albert King",
+        "year" : 2013
+        },
+        {
+        "name" : "Randy Newman",
+        "year" : 2013
+        },
+        {
+        "name" : "Public Enemy",
+        "year" : 2013
+        },
+        {
+        "name" : "Rush",
+        "year" : 2013
+        },
+        {
+        "name" : "Donna Summer",
+        "year" : 2013
+        },
+        {
+        "name" : "Peter Gabriel",
+        "year" : 2014
+        },
+        {
+        "name" : "Hall & Oates",
+        "year" : 2014
+        },
+        {
+        "name" : "Kiss",
+        "year" : 2014
+        },
+        {
+        "name" : "Nirvana",
+        "year" : 2014
+        },
+        {
+        "name" : "Linda Ronstadt",
+        "year" : 2014
+        },
+        {
+        "name" : "Cat Stevens",
+        "year" : 2014
+        },
+        {
+        "name" : "The Paul Butterfield Blues Band",
+        "year" : 2015
+        },
+        {
+        "name" : "Joan Jett & the Blackhearts",
+        "year" : 2015
+        },
+        {
+        "name" : "Lou Reed",
+        "year" : 2015
+        },
+        {
+        "name" : "Green Day",
+        "year" : 2015
+        },
+        {
+        "name" : "Stevie Ray Vaughan and Double Trouble",
+        "year" : 2015
+        },
+        {
+        "name" : "Bill Withers",
+        "year" : 2015
+        }
+    ]
+}
