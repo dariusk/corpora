@@ -8,7 +8,7 @@
         },
         {
             "incantation": "Aguamenti",
-            "effect": "Shoots water from wand.",
+            "effect": "Shoots water from wand",
             "type": "Charm"
         },
         {
@@ -18,7 +18,7 @@
         },
         {
             "incantation": "Anapneo",
-            "effect": "Clears the target's airway.",
+            "effect": "Clears the target's airway",
             "type": "Spell"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "incantation": "Avada Kedavra",
-            "effect": "Murders opponent Unforgivable",
+            "effect": "Murders opponent. Unforgivable",
             "type": "Curse"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "incantation": "Avis",
-            "effect": "Launches birds from your wand",
+            "effect": "Launches birds from wand",
             "type": "Spell"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "incantation": "Conjunctivitis",
-            "effect": "Damages opponents eyesight",
+            "effect": "Damages opponent's eyesight",
             "type": "Curse"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "incantation": "Densaugeo",
-            "effect": "Enlarges Teeth",
+            "effect": "Enlarges teeth",
             "type": "Spell"
         },
         {
@@ -103,7 +103,7 @@
         },
         {
             "incantation": "Duro",
-            "effect": "Makes Objects Hard",
+            "effect": "Makes objects hard",
             "type": "Spell"
         },
         {
@@ -213,7 +213,7 @@
         },
         {
             "incantation": "Incarcerous",
-            "effect": "Ties someone up",
+            "effect": "Ties victim up",
             "type": "Spell"
         },
         {
@@ -313,7 +313,7 @@
         },
         {
             "incantation": "Petrificus Totalus",
-            "effect": "Body - Bind",
+            "effect": "Binds victim's body",
             "type": "Spell"
         },
         {
@@ -327,7 +327,7 @@
             "type": "Charm"
         },
         {
-            "incantation": "Priori Incantatum",
+            "incantation": "Priori Incantatem",
             "effect": "Result when brother wands duel",
             "type": "Spell"
         },
@@ -393,12 +393,12 @@
         },
         {
             "incantation": "Riddikulus",
-            "effect": "Use this spell and laugh to defeat a boggart",
+            "effect": "Defeats a boggart when used with laughter",
             "type": "Spell"
         },
         {
             "incantation": "Salvio Hexia",
-            "effect": "Protection against hexes",
+            "effect": "Protects against hexes",
             "type": "Spell"
         },
         {
