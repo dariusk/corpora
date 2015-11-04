@@ -43,3 +43,4 @@ We accept pull requests to this repository. Some guidelines:
 Contributors:
 
  * Tyler Kellen ([tkellen](https://github.com/tkellen)): prefixes and suffixes
+ * sui sea ([suisea](https://github.com/suisea)): curated/categorised emoji and words
