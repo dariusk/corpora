@@ -1,0 +1,9 @@
+{
+  "description":"A list of video games banned in Denmark",
+  "games":[
+  {
+  "name":"EA Sports MMA",
+  "reason":"This game was not released in Denmark because of a law prohibiting marketing for energy drinks, which EA chose not to remove from the game."
+  }
+  ]
+}
