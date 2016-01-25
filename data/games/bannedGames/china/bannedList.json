@@ -1,0 +1,25 @@
+{
+  "description":"A list of video games banned in China.",
+  "games":[
+  {
+  "name":"Battlefield 4",
+  "reason":"Banned due to the discrediting of China's national image as well as a threat to national security, in which the Chinese Ministry claims that the game shows it a 'cultural invasion.'"
+  },
+  {
+  "name":"Command & Conquer Generals",
+  "reason":"Banned for 'smearing the image of China and the Chinese army' despite the fact that the game presents China as a quasi-protagonist. Additionally, the GLA campaign has the player destroy questionable targets such as the Three Gorges Dam and the Hong Kong Convention and Exhibition Centre."
+  },
+  {
+  "name":"Football Manager 2005",
+  "reason":"Banned for recognizing Tibet as an independent country."
+  },
+  {
+  "name":"Hearts of Iron",
+  "reason":"Banned for portraying Tibet, Sinkiang, and Manchuria as independent countries and Taiwan as under Japanese control."
+  },
+  {
+  "name":"I.G.I.-2: Convert Strike",
+  "reason":"Banned because of 'intentionally blackening China and the Chinese army's image.'"
+  }
+  ]
+}
