@@ -234,12 +234,12 @@
       "stadium": "University of Phoenix Stadium"
     },
     {
-      "name": "St. Louis Rams",
+      "name": "Los Angeles Rams",
       "conference": "NFC",
       "division": "West",
-      "city": "St. Louis",
-      "state": "MO",
-      "stadium": "Edward Jones Dome"
+      "city": "Los Angeles",
+      "state": "CA",
+      "stadium": "Los Angeles Memorial Coliseum"
     },
     {
       "name": "San Fransisco 49ers",
