@@ -1,6 +1,6 @@
 {
-	"description" : "A list of programming languages, including esoteric languages",
-	"sources" : "https://en.wikipedia.org/wiki/List_of_programming_languages,https://en.wikipedia.org/wiki/Esoteric_programming_language.",
+	"description" : "A list of programming languages",
+	"sources" : "https://en.wikipedia.org/wiki/List_of_programming_languages",
 	"languages" : [
 		"A# .NET",
 		"A# (Axiom)",
@@ -323,7 +323,7 @@
 		"L",
 		"L# .NET",
 		"LabVIEW",
-		"Ladder",
+		"Ladder Logic",
 		"Lagoona",
 		"LANSA",
 		"Lasso",
@@ -544,7 +544,7 @@
 		"REXX",
 		"Rlab",
 		"ROOP",
-		"RPG",
+		"RPG (OS/400)",
 		"RPL",
 		"RSL",
 		"RTL/2",
