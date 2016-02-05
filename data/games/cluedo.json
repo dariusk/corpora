@@ -1,0 +1,65 @@
+{
+    "description": "Characters, rooms and weapons from the board game Cluedo / Clue.",
+    "victim": {
+        "Cluedo": "Dr Black",
+        "Clue": "Mr Boddy"
+    },
+    "suspects": {
+        "Cluedo": [
+            "Miss Scarlett",
+            "Professor Plum",
+            "Mrs Peacock",
+            "Reverend Green",
+            "Colonel Mustard",
+            "Mrs White"
+        ],
+        "Clue": [
+            "Miss Scarlet",
+            "Professor Plum",
+            "Mrs Peacock",
+            "Mr Green",
+            "Colonel Mustard",
+            "Mrs White"
+        ]
+    },
+    "weapons": {
+        "Cluedo": [
+            "candlestick",
+            "dagger",
+            "lead pipe",
+            "revolver",
+            "rope",
+            "spanner"
+        ],
+        "Clue": [
+            "candlestick",
+            "knife",
+            "lead pipe",
+            "revolver",
+            "rope",
+            "wrench"
+        ]
+    },
+    "rooms": [
+        "kitchen",
+        "ballroom",
+        "conservatory",
+        "dining room",
+        "cellar",
+        "billiard room",
+        "library",
+        "lounge",
+        "hall",
+        "study"
+    ],
+    "secret_passages": [
+        [
+            "kitchen",
+            "study"
+        ],
+        [
+            "lounge",
+            "conservatory"
+        ]
+    ]
+}

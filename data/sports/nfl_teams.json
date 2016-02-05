@@ -1,0 +1,261 @@
+{
+  "description": "Current (as of 2015) teams in the NFL and where they play",
+  "nfl_teams": [
+    {
+      "name": "Buffalo Bills",
+      "conference": "AFC",
+      "division": "East",
+      "city": "Orchard Park",
+      "state": "NY",
+      "stadium": "Ralph Wilson Stadium"
+    },
+    {
+      "name": "Miami Dolphins",
+      "conference": "AFC",
+      "division": "East",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "stadium": "Sun Life Stadium"
+    },
+    {
+      "name": "New England Patriots",
+      "conference": "AFC",
+      "division": "East",
+      "city": "Foxborough",
+      "state": "MA",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "name": "New York Jets",
+      "conference": "AFC",
+      "division": "East",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "name": "Baltimore Ravens",
+      "conference": "AFC",
+      "division": "North",
+      "city": "Baltimore",
+      "state": "MD",
+      "stadium": "M&T Bank Stadium"
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "conference": "AFC",
+      "division": "North",
+      "city": "Cincinnati",
+      "state": "OH",
+      "stadium": "Paul Brown Stadium"
+    },
+    {
+      "name": "Cleveland Browns",
+      "conference": "AFC",
+      "division": "North",
+      "city": "Cleveland",
+      "state": "OH",
+      "stadium": "FirstEnergy Stadium"
+    },
+    {
+      "name": "Pittsburgh Steelers",
+      "conference": "AFC",
+      "division": "North",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "stadium": "Heinz Field"
+    },
+    {
+      "name": "Houston Texans",
+      "conference": "AFC",
+      "division": "South",
+      "city": "Houston",
+      "state": "TX",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "name": "Indianapolis Colts",
+      "conference": "AFC",
+      "division": "South",
+      "city": "Indianapolis",
+      "state": "IN",
+      "stadium": "Lucas Oil Stadium"
+    },
+    {
+      "name": "Jacksonville Jaguars",
+      "conference": "AFC",
+      "division": "South",
+      "city": "Jacksonville",
+      "state": "FL",
+      "stadium": "EverBank Field"
+    },
+    {
+      "name": "Tennessee Titans",
+      "conference": "AFC",
+      "division": "South",
+      "city": "Nashville",
+      "state": "TN",
+      "stadium": "Nissan Stadium"
+    },
+    {
+      "name": "Denver Broncos",
+      "conference": "AFC",
+      "division": "West",
+      "city": "Denver",
+      "state": "CO",
+      "stadium": "Sports Authority Field at Mile High"
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "conference": "AFC",
+      "division": "West",
+      "city": "Kansas City",
+      "state": "MO",
+      "stadium": "Arrowhead Stadium"
+    },
+    {
+      "name": "Oakland Raiders",
+      "conference": "AFC",
+      "division": "West",
+      "city": "Oakland",
+      "state": "CA",
+      "stadium": "O.co Coliseum"
+    },
+    {
+      "name": "San Diego Chargers",
+      "conference": "AFC",
+      "division": "West",
+      "city": "San Diego",
+      "state": "CA",
+      "stadium": "Qualcomm Stadium"
+    },
+    {
+      "name": "Dallas Cowboys",
+      "conference": "NFC",
+      "division": "East",
+      "city": "Arlington",
+      "state": "TX",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "name": "New York Giants",
+      "conference": "NFC",
+      "division": "East",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "conference": "NFC",
+      "division": "East",
+      "city": "Philadelphia",
+      "state": "PA",
+      "stadium": "Lincoln Financial Field"
+    },
+    {
+      "name": "Washington Redskins",
+      "conference": "NFC",
+      "division": "East",
+      "city": "Landover",
+      "state": "MD",
+      "stadium": "FedExField"
+    },
+    {
+      "name": "Chicago Bears",
+      "conference": "NFC",
+      "division": "North",
+      "city": "Chicago",
+      "state": "IL",
+      "stadium": "Soldier Field"
+    },
+    {
+      "name": "Detroit Lions",
+      "conference": "NFC",
+      "division": "North",
+      "city": "Detroit",
+      "state": "MI",
+      "stadium": "Ford Field"
+    },
+    {
+      "name": "Green Bay Packers",
+      "conference": "NFC",
+      "division": "North",
+      "city": "Green Bay",
+      "state": "WI",
+      "stadium": "Lambeau Field"
+    },
+    {
+      "name": "Minnesota Vikings",
+      "conference": "NFC",
+      "division": "North",
+      "city": "Minneapolis",
+      "state": "MN",
+      "stadium": "TCF Bank Stadium"
+    },
+    {
+      "name": "Atlanta Falcons",
+      "conference": "NFC",
+      "division": "South",
+      "city": "Atlanta",
+      "state": "GA",
+      "stadium": "Georgia Dome"
+    },
+    {
+      "name": "Carolina Panthers",
+      "conference": "NFC",
+      "division": "South",
+      "city": "Charlotte",
+      "state": "NC",
+      "stadium": "Bank of America Stadium"
+    },
+    {
+      "name": "New Orleans Saints",
+      "conference": "NFC",
+      "division": "South",
+      "city": "New Orleans",
+      "state": "LA",
+      "stadium": "Mercedes-Benz Superdome"
+    },
+    {
+      "name": "Tampa Bay Buccaneers",
+      "conference": "NFC",
+      "division": "South",
+      "city": "Tampa",
+      "state": "FL",
+      "stadium": "Raymond James Stadium"
+    },
+    {
+      "name": "Arizona Cardinals",
+      "conference": "NFC",
+      "division": "West",
+      "city": "Glendale",
+      "state": "AZ",
+      "stadium": "University of Phoenix Stadium"
+    },
+    {
+      "name": "Los Angeles Rams",
+      "conference": "NFC",
+      "division": "West",
+      "city": "Los Angeles",
+      "state": "CA",
+      "stadium": "Los Angeles Memorial Coliseum"
+    },
+    {
+      "name": "San Fransisco 49ers",
+      "conference": "NFC",
+      "division": "West",
+      "city": "Santa Clara",
+      "state": "CA",
+      "stadium": "Levi's Stadium"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "conference": "NFC",
+      "division": "West",
+      "city": "Seattle",
+      "state": "WA",
+      "stadium": "CenturyLink Field"
+    }
+  ]
+}

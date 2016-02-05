@@ -1,0 +1,69 @@
+{
+	"description": "Capsicum cultivars (hot peppers)",
+	"C. annuum var. annuum": [
+		"Aleppo",
+		"Anaheim",
+		"Ancho",
+		"Banana pepper",
+		"Bell pepper",
+		"Bird's eye",
+		"Cascabel",
+		"Cayenne",
+		"Chilaca",
+		"Chungyang",
+		"Cubanelle",
+		"Chile de arbol",
+		"Dundicut",
+		"Facing heaven",
+		"Fresno",
+		"Friggitello",
+		"Guajillo",
+		"Hungarian wax",
+		"Jalapeño",
+		"Medusa",
+		"Mulato",
+		"New Mexico",
+		"Padrón",
+		"Pasilla",
+		"Peter",
+		"Pimento",
+		"Poblano",
+		"Santa Fe Grande",
+		"Serrano",
+		"Shishito"
+	],
+	"C. annuum var. glabriusculum": [
+		"Piquín",
+		"Wild chiltepin"
+	],
+	"C. chinense": [
+		"Adjuma",
+		"Ají dulce",
+		"Carolina Reaper",
+		"Datil",
+		"Fatalii",
+		"Habanero",
+		"Hainan yellow lantern chili",
+		"Madame Jeanette",
+		"Naga jolokia",
+		"Red Savina habanero",
+		"Scotch bonnet",
+		"Trinidad moruga scorpion",
+		"Trinidad scorpion"
+	],
+	"C. frutescens": [
+		"African bird's eye",
+		"Siling labuyo",
+		"Malagueta",
+		"Tabasco"
+	],
+	"C. baccatum": [
+		"Ají",
+		"Bishop's crown",
+		"Lemon drop",
+		"Peppadew"
+	],
+	"C. pubescens": [
+		"Rocoto pepper"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"description":"Monsters from Greek myth",
+	"greek_monsters": [
+		"Arachne",
+		"Caucasian Eagle",
+		"Centaur",
+		"Charybdis",
+		"Chimera",
+		"Empousai",
+		"Gorgon",
+		"Harpy",
+		"Hippalectryon",
+		"Hippocampus",
+		"Icthyocentaur",
+		"Ipotane",
+		"Lamia",
+		"Hydra",
+		"Manticore",
+		"Minotaur",
+		"Mormo",
+		"Ophitaurus",
+		"Satyr",
+		"Synthian Dracanus",
+		"Siren",
+		"Taraxippus",
+		"Telekhines",
+		"Typhon"
+	]
+}

@@ -1,0 +1,1006 @@
+{
+    "description": "International Statistical Classification of Diseases and Related Health Problems, 10th revision",
+    "source": "http://www.cdc.gov/nchs/icd/icd10cm.htm",
+    "codes": [
+        {
+            "code": "A39.52",
+            "desc": "Meningococcal myocarditis"
+        },
+        {
+            "code": "A50.57",
+            "desc": "Syphilitic saddle nose"
+        },
+        {
+            "code": "A52.71",
+            "desc": "Late syphilitic oculopathy"
+        },
+        {
+            "code": "A77.8",
+            "desc": "Other spotted fevers"
+        },
+        {
+            "code": "B15",
+            "desc": "Acute hepatitis A"
+        },
+        {
+            "code": "B19.20",
+            "desc": "Unspecified viral hepatitis C without hepatic coma"
+        },
+        {
+            "code": "B57.41",
+            "desc": "Meningitis in Chagas' disease"
+        },
+        {
+            "code": "B85.4",
+            "desc": "Mixed pediculosis and phthiriasis"
+        },
+        {
+            "code": "B95.8",
+            "desc": "Unspecified staphylococcus as the cause of diseases classified elsewhere"
+        },
+        {
+            "code": "C06.8",
+            "desc": "Malignant neoplasm of overlapping sites of other and unspecified parts of mouth"
+        },
+        {
+            "code": "C44.319",
+            "desc": "Basal cell carcinoma of skin of other parts of face"
+        },
+        {
+            "code": "C57",
+            "desc": "Malignant neoplasm of other and unspecified female genital organs"
+        },
+        {
+            "code": "C67.3",
+            "desc": "Malignant neoplasm of anterior wall of bladder"
+        },
+        {
+            "code": "C69.62",
+            "desc": "Malignant neoplasm of left orbit"
+        },
+        {
+            "code": "C84.70",
+            "desc": "Anaplastic large cell lymphoma, ALK-negative, unspecified site"
+        },
+        {
+            "code": "C84.Z9",
+            "desc": "Other mature T/NK-cell lymphomas, extranodal and solid organ sites"
+        },
+        {
+            "code": "C86.0",
+            "desc": "Extranodal NK/T-cell lymphoma, nasal type"
+        },
+        {
+            "code": "C92.11",
+            "desc": "Chronic myeloid leukemia, BCR/ABL-positive, in remission"
+        },
+        {
+            "code": "D21.10",
+            "desc": "Benign neoplasm of connective and other soft tissue of unspecified upper limb, including shoulder"
+        },
+        {
+            "code": "D21.2",
+            "desc": "Benign neoplasm of connective and other soft tissue of lower limb, including hip"
+        },
+        {
+            "code": "D72.820",
+            "desc": "Lymphocytosis (symptomatic)"
+        },
+        {
+            "code": "D73.9",
+            "desc": "Disease of spleen, unspecified"
+        },
+        {
+            "code": "D81.89",
+            "desc": "Other combined immunodeficiencies"
+        },
+        {
+            "code": "E08.319",
+            "desc": "Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy without macular edema"
+        },
+        {
+            "code": "E21.2",
+            "desc": "Other hyperparathyroidism"
+        },
+        {
+            "code": "E74.00",
+            "desc": "Glycogen storage disease, unspecified"
+        },
+        {
+            "code": "F01.51",
+            "desc": "Vascular dementia with behavioral disturbance"
+        },
+        {
+            "code": "F03",
+            "desc": "Unspecified dementia"
+        },
+        {
+            "code": "F10.12",
+            "desc": "Alcohol abuse with intoxication"
+        },
+        {
+            "code": "F15.15",
+            "desc": "Other stimulant abuse with stimulant-induced psychotic disorder"
+        },
+        {
+            "code": "F17.213",
+            "desc": "Nicotine dependence, cigarettes, with withdrawal"
+        },
+        {
+            "code": "F18.951",
+            "desc": "Inhalant use, unspecified with inhalant-induced psychotic disorder with hallucinations"
+        },
+        {
+            "code": "G23.2",
+            "desc": "Striatonigral degeneration"
+        },
+        {
+            "code": "G57.6",
+            "desc": "Lesion of plantar nerve"
+        },
+        {
+            "code": "G61.9",
+            "desc": "Inflammatory polyneuropathy, unspecified"
+        },
+        {
+            "code": "G96.9",
+            "desc": "Disorder of central nervous system, unspecified"
+        },
+        {
+            "code": "H02.239",
+            "desc": "Paralytic lagophthalmos unspecified eye, unspecified eyelid"
+        },
+        {
+            "code": "H02.844",
+            "desc": "Edema of left upper eyelid"
+        },
+        {
+            "code": "H04.15",
+            "desc": "Secondary lacrimal gland atrophy"
+        },
+        {
+            "code": "H05.1",
+            "desc": "Chronic inflammatory disorders of orbit"
+        },
+        {
+            "code": "H16.039",
+            "desc": "Corneal ulcer with hypopyon, unspecified eye"
+        },
+        {
+            "code": "H16.059",
+            "desc": "Mooren's corneal ulcer, unspecified eye"
+        },
+        {
+            "code": "H16.079",
+            "desc": "Perforated corneal ulcer, unspecified eye"
+        },
+        {
+            "code": "H16.321",
+            "desc": "Diffuse interstitial keratitis, right eye"
+        },
+        {
+            "code": "H17.02",
+            "desc": "Adherent leukoma, left eye"
+        },
+        {
+            "code": "H18.009",
+            "desc": "Unspecified corneal deposit, unspecified eye"
+        },
+        {
+            "code": "H21.349",
+            "desc": "Primary cyst of pars plana, unspecified eye"
+        },
+        {
+            "code": "H26.049",
+            "desc": "Anterior subcapsular polar infantile and juvenile cataract, unspecified eye"
+        },
+        {
+            "code": "H27.119",
+            "desc": "Subluxation of lens, unspecified eye"
+        },
+        {
+            "code": "H31.301",
+            "desc": "Unspecified choroidal hemorrhage, right eye"
+        },
+        {
+            "code": "H35.62",
+            "desc": "Retinal hemorrhage, left eye"
+        },
+        {
+            "code": "H44.322",
+            "desc": "Siderosis of eye, left eye"
+        },
+        {
+            "code": "H50.041",
+            "desc": "Monocular esotropia with other noncomitancies, right eye"
+        },
+        {
+            "code": "H59",
+            "desc": "Intraoperative and postprocedural complications and disorders of eye and adnexa, not elsewhere classified"
+        },
+        {
+            "code": "H60.332",
+            "desc": "Swimmer's ear, left ear"
+        },
+        {
+            "code": "H61.892",
+            "desc": "Other specified disorders of left external ear"
+        },
+        {
+            "code": "H70.009",
+            "desc": "Acute mastoiditis without complications, unspecified ear"
+        },
+        {
+            "code": "H70.213",
+            "desc": "Acute petrositis, bilateral"
+        },
+        {
+            "code": "H70.219",
+            "desc": "Acute petrositis, unspecified ear"
+        },
+        {
+            "code": "H72.821",
+            "desc": "Total perforations of tympanic membrane, right ear"
+        },
+        {
+            "code": "H80.13",
+            "desc": "Otosclerosis involving oval window, obliterative, bilateral"
+        },
+        {
+            "code": "H93.3X2",
+            "desc": "Disorders of left acoustic nerve"
+        },
+        {
+            "code": "I20.9",
+            "desc": "Angina pectoris, unspecified"
+        },
+        {
+            "code": "I51.4",
+            "desc": "Myocarditis, unspecified"
+        },
+        {
+            "code": "I70.712",
+            "desc": "Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, left leg"
+        },
+        {
+            "code": "I82.411",
+            "desc": "Acute embolism and thrombosis of right femoral vein"
+        },
+        {
+            "code": "I83.12",
+            "desc": "Varicose veins of left lower extremity with inflammation"
+        },
+        {
+            "code": "J03.90",
+            "desc": "Acute tonsillitis, unspecified"
+        },
+        {
+            "code": "J10.83",
+            "desc": "Influenza due to other identified influenza virus with otitis media"
+        },
+        {
+            "code": "J34.1",
+            "desc": "Cyst and mucocele of nose and nasal sinus"
+        },
+        {
+            "code": "J93.8",
+            "desc": "Other pneumothorax and air leak"
+        },
+        {
+            "code": "K00.4",
+            "desc": "Disturbances in tooth formation"
+        },
+        {
+            "code": "K04.3",
+            "desc": "Abnormal hard tissue formation in pulp"
+        },
+        {
+            "code": "K04.7",
+            "desc": "Periapical abscess without sinus"
+        },
+        {
+            "code": "K29.30",
+            "desc": "Chronic superficial gastritis without bleeding"
+        },
+        {
+            "code": "K35.3",
+            "desc": "Acute appendicitis with localized peritonitis"
+        },
+        {
+            "code": "K51.812",
+            "desc": "Other ulcerative colitis with intestinal obstruction"
+        },
+        {
+            "code": "K55.2",
+            "desc": "Angiodysplasia of colon"
+        },
+        {
+            "code": "L50.2",
+            "desc": "Urticaria due to cold and heat"
+        },
+        {
+            "code": "L93.1",
+            "desc": "Subacute cutaneous lupus erythematosus"
+        },
+        {
+            "code": "L97.213",
+            "desc": "Non-pressure chronic ulcer of right calf with necrosis of muscle"
+        },
+        {
+            "code": "M05.10",
+            "desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified site"
+        },
+        {
+            "code": "M06.03",
+            "desc": "Rheumatoid arthritis without rheumatoid factor, wrist"
+        },
+        {
+            "code": "M06.23",
+            "desc": "Rheumatoid bursitis, wrist"
+        },
+        {
+            "code": "M08.05",
+            "desc": "Unspecified juvenile rheumatoid arthritis, hip"
+        },
+        {
+            "code": "M08.942",
+            "desc": "Juvenile arthritis, unspecified, left hand"
+        },
+        {
+            "code": "M1A.119",
+            "desc": "Lead-induced chronic gout, unspecified shoulder"
+        },
+        {
+            "code": "M11.12",
+            "desc": "Familial chondrocalcinosis, elbow"
+        },
+        {
+            "code": "M12.029",
+            "desc": "Chronic postrheumatic arthropathy [Jaccoud], unspecified elbow"
+        },
+        {
+            "code": "M12.162",
+            "desc": "Kaschin-Beck disease, left knee"
+        },
+        {
+            "code": "M16.7",
+            "desc": "Other unilateral secondary osteoarthritis of hip"
+        },
+        {
+            "code": "M20.42",
+            "desc": "Other hammer toe(s) (acquired), left foot"
+        },
+        {
+            "code": "M23.01",
+            "desc": "Cystic meniscus, anterior horn of medial meniscus"
+        },
+        {
+            "code": "M24.032",
+            "desc": "Loose body in left wrist"
+        },
+        {
+            "code": "M25.742",
+            "desc": "Osteophyte, left hand"
+        },
+        {
+            "code": "M25.77",
+            "desc": "Osteophyte, ankle and foot"
+        },
+        {
+            "code": "M47.819",
+            "desc": "Spondylosis without myelopathy or radiculopathy, site unspecified"
+        },
+        {
+            "code": "M47.89",
+            "desc": "Other spondylosis"
+        },
+        {
+            "code": "M51.05",
+            "desc": "Intervertebral disc disorders with myelopathy, thoracolumbar region"
+        },
+        {
+            "code": "M60.119",
+            "desc": "Interstitial myositis, unspecified shoulder"
+        },
+        {
+            "code": "M60.239",
+            "desc": "Foreign body granuloma of soft tissue, not elsewhere classified, unspecified forearm"
+        },
+        {
+            "code": "M61",
+            "desc": "Calcification and ossification of muscle"
+        },
+        {
+            "code": "M61.031",
+            "desc": "Myositis ossificans traumatica, right forearm"
+        },
+        {
+            "code": "M61.06",
+            "desc": "Myositis ossificans traumatica, lower leg"
+        },
+        {
+            "code": "M61.259",
+            "desc": "Paralytic calcification and ossification of muscle, unspecified thigh"
+        },
+        {
+            "code": "M61.552",
+            "desc": "Other ossification of muscle, left thigh"
+        },
+        {
+            "code": "M62.412",
+            "desc": "Contracture of muscle, left shoulder"
+        },
+        {
+            "code": "M62.449",
+            "desc": "Contracture of muscle, unspecified hand"
+        },
+        {
+            "code": "M65.261",
+            "desc": "Calcific tendinitis, right lower leg"
+        },
+        {
+            "code": "M66.871",
+            "desc": "Spontaneous rupture of other tendons, right ankle and foot"
+        },
+        {
+            "code": "M67.35",
+            "desc": "Transient synovitis, hip"
+        },
+        {
+            "code": "M70.3",
+            "desc": "Other bursitis of elbow"
+        },
+        {
+            "code": "M84.419",
+            "desc": "Pathological fracture, unspecified shoulder"
+        },
+        {
+            "code": "M84.441",
+            "desc": "Pathological fracture, right hand"
+        },
+        {
+            "code": "M84.833",
+            "desc": "Other disorders of continuity of bone, right radius"
+        },
+        {
+            "code": "M84.849",
+            "desc": "Other disorders of continuity of bone, unspecified hand"
+        },
+        {
+            "code": "M85.432",
+            "desc": "Solitary bone cyst, left ulna and radius"
+        },
+        {
+            "code": "M86.111",
+            "desc": "Other acute osteomyelitis, right shoulder"
+        },
+        {
+            "code": "M86.261",
+            "desc": "Subacute osteomyelitis, right tibia and fibula"
+        },
+        {
+            "code": "M86.522",
+            "desc": "Other chronic hematogenous osteomyelitis, left humerus"
+        },
+        {
+            "code": "M87.83",
+            "desc": "Other osteonecrosis of radius, ulna and carpus"
+        },
+        {
+            "code": "M90.55",
+            "desc": "Osteonecrosis in diseases classified elsewhere, thigh"
+        },
+        {
+            "code": "M90.551",
+            "desc": "Osteonecrosis in diseases classified elsewhere, right thigh"
+        },
+        {
+            "code": "M91.32",
+            "desc": "Pseudocoxalgia, left hip"
+        },
+        {
+            "code": "M93.002",
+            "desc": "Unspecified slipped upper femoral epiphysis (nontraumatic), left hip"
+        },
+        {
+            "code": "M94.232",
+            "desc": "Chondromalacia, left wrist"
+        },
+        {
+            "code": "M94.35",
+            "desc": "Chondrolysis, hip"
+        },
+        {
+            "code": "M99.69",
+            "desc": "Osseous and subluxation stenosis of intervertebral foramina of abdomen and other regions"
+        },
+        {
+            "code": "N08",
+            "desc": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+            "code": "N32.2",
+            "desc": "Vesical fistula, not elsewhere classified"
+        },
+        {
+            "code": "N36.2",
+            "desc": "Urethral caruncle"
+        },
+        {
+            "code": "N60.19",
+            "desc": "Diffuse cystic mastopathy of unspecified breast"
+        },
+        {
+            "code": "N80.3",
+            "desc": "Endometriosis of pelvic peritoneum"
+        },
+        {
+            "code": "O31.01",
+            "desc": "Papyraceous fetus, first trimester"
+        },
+        {
+            "code": "O44.12",
+            "desc": "Placenta previa with hemorrhage, second trimester"
+        },
+        {
+            "code": "O60.00",
+            "desc": "Preterm labor without delivery, unspecified trimester"
+        },
+        {
+            "code": "O74",
+            "desc": "Complications of anesthesia during labor and delivery"
+        },
+        {
+            "code": "P53",
+            "desc": "Hemorrhagic disease of newborn"
+        },
+        {
+            "code": "P57.9",
+            "desc": "Kernicterus, unspecified"
+        },
+        {
+            "code": "Q44.0",
+            "desc": "Agenesis, aplasia and hypoplasia of gallbladder"
+        },
+        {
+            "code": "Q55.23",
+            "desc": "Scrotal transposition"
+        },
+        {
+            "code": "Q81.2",
+            "desc": "Epidermolysis bullosa dystrophica"
+        },
+        {
+            "code": "Q82.0",
+            "desc": "Hereditary lymphedema"
+        },
+        {
+            "code": "Q84.2",
+            "desc": "Other congenital malformations of hair"
+        },
+        {
+            "code": "R03.0",
+            "desc": "Elevated blood-pressure reading, without diagnosis of hypertension"
+        },
+        {
+            "code": "R30.0",
+            "desc": "Dysuria"
+        },
+        {
+            "code": "R41.82",
+            "desc": "Altered mental status, unspecified"
+        },
+        {
+            "code": "S01.129",
+            "desc": "Laceration with foreign body of unspecified eyelid and periocular area"
+        },
+        {
+            "code": "S15.09",
+            "desc": "Other specified injury of carotid artery"
+        },
+        {
+            "code": "S20.222",
+            "desc": "Contusion of left back wall of thorax"
+        },
+        {
+            "code": "S20.301",
+            "desc": "Unspecified superficial injuries of right front wall of thorax"
+        },
+        {
+            "code": "S21.102",
+            "desc": "Unspecified open wound of left front wall of thorax without penetration into thoracic cavity"
+        },
+        {
+            "code": "S21.21",
+            "desc": "Laceration without foreign body of back wall of thorax without penetration into thoracic cavity"
+        },
+        {
+            "code": "S21.411",
+            "desc": "Laceration without foreign body of right back wall of thorax with penetration into thoracic cavity"
+        },
+        {
+            "code": "S28.2",
+            "desc": "Traumatic amputation of breast"
+        },
+        {
+            "code": "S32.399",
+            "desc": "Other fracture of unspecified ilium"
+        },
+        {
+            "code": "S36.42",
+            "desc": "Contusion of small intestine"
+        },
+        {
+            "code": "S36.499",
+            "desc": "Other injury of unspecified part of small intestine"
+        },
+        {
+            "code": "S37.062",
+            "desc": "Major laceration of left kidney"
+        },
+        {
+            "code": "S42.27",
+            "desc": "Torus fracture of upper end of humerus"
+        },
+        {
+            "code": "S45.991",
+            "desc": "Other specified injury of unspecified blood vessel at shoulder and upper arm level, right arm"
+        },
+        {
+            "code": "S46.822",
+            "desc": "Laceration of other muscles, fascia and tendons at shoulder and upper arm level, left arm"
+        },
+        {
+            "code": "S46.829",
+            "desc": "Laceration of other muscles, fascia and tendons at shoulder and upper arm level, unspecified arm"
+        },
+        {
+            "code": "S48",
+            "desc": "Traumatic amputation of shoulder and upper arm"
+        },
+        {
+            "code": "S49.03",
+            "desc": "Salter-Harris Type III physeal fracture of upper end of humerus"
+        },
+        {
+            "code": "S49.032",
+            "desc": "Salter Harris Type III physeal fracture of upper end of humerus, left arm"
+        },
+        {
+            "code": "S56.121",
+            "desc": "Laceration of flexor muscle, fascia and tendon of right index finger at forearm level"
+        },
+        {
+            "code": "S56.401",
+            "desc": "Unspecified injury of extensor muscle, fascia and tendon of right index finger at forearm level"
+        },
+        {
+            "code": "S56.407",
+            "desc": "Unspecified injury of extensor muscle, fascia and tendon of right little finger at forearm level"
+        },
+        {
+            "code": "S56.424",
+            "desc": "Laceration of extensor muscle, fascia and tendon of left middle finger at forearm level"
+        },
+        {
+            "code": "S60.019",
+            "desc": "Contusion of unspecified thumb without damage to nail"
+        },
+        {
+            "code": "S60.579",
+            "desc": "Other superficial bite of hand of unspecified hand"
+        },
+        {
+            "code": "S61.324",
+            "desc": "Laceration with foreign body of right ring finger with damage to nail"
+        },
+        {
+            "code": "S62.305",
+            "desc": "Unspecified fracture of fourth metacarpal bone, left hand"
+        },
+        {
+            "code": "S62.368",
+            "desc": "Nondisplaced fracture of neck of other metacarpal bone"
+        },
+        {
+            "code": "S63.406",
+            "desc": "Traumatic rupture of unspecified ligament of right little finger at metacarpophalangeal and interphalangeal joint"
+        },
+        {
+            "code": "S65.112",
+            "desc": "Laceration of radial artery at wrist and hand level of left arm"
+        },
+        {
+            "code": "S66.209",
+            "desc": "Unspecified injury of extensor muscle, fascia and tendon of unspecified thumb at wrist and hand level"
+        },
+        {
+            "code": "S68.113",
+            "desc": "Complete traumatic metacarpophalangeal amputation of left middle finger"
+        },
+        {
+            "code": "S68.122",
+            "desc": "Partial traumatic metacarpophalangeal amputation of right middle finger"
+        },
+        {
+            "code": "S72.426",
+            "desc": "Nondisplaced fracture of lateral condyle of unspecified femur"
+        },
+        {
+            "code": "S76.1",
+            "desc": "Injury of quadriceps muscle, fascia and tendon"
+        },
+        {
+            "code": "S79.019",
+            "desc": "Salter-Harris Type I physeal fracture of upper end of unspecified femur"
+        },
+        {
+            "code": "S82.114",
+            "desc": "Nondisplaced fracture of right tibial spine"
+        },
+        {
+            "code": "S82.852",
+            "desc": "Displaced trimalleolar fracture of left lower leg"
+        },
+        {
+            "code": "S83.102",
+            "desc": "Unspecified subluxation of left knee"
+        },
+        {
+            "code": "S83.11",
+            "desc": "Anterior subluxation and dislocation of proximal end of tibia"
+        },
+        {
+            "code": "S84.9",
+            "desc": "Injury of unspecified nerve at lower leg level"
+        },
+        {
+            "code": "S85.899",
+            "desc": "Other specified injury of other blood vessels at lower leg level, unspecified leg"
+        },
+        {
+            "code": "S89.211",
+            "desc": "Salter-Harris Type I physeal fracture of upper end of right fibula"
+        },
+        {
+            "code": "S90",
+            "desc": "Superficial injury of ankle, foot and toes"
+        },
+        {
+            "code": "S90.819",
+            "desc": "Abrasion, unspecified foot"
+        },
+        {
+            "code": "S90.93",
+            "desc": "Unspecified superficial injury of toes"
+        },
+        {
+            "code": "S91.135",
+            "desc": "Puncture wound without foreign body of left lesser toe(s) without damage to nail"
+        },
+        {
+            "code": "S92.025",
+            "desc": "Nondisplaced fracture of anterior process of left calcaneus"
+        },
+        {
+            "code": "S95.011",
+            "desc": "Laceration of dorsal artery of right foot"
+        },
+        {
+            "code": "S96.292",
+            "desc": "Other specified injury of intrinsic muscle and tendon at ankle and foot level, left foot"
+        },
+        {
+            "code": "S96.91",
+            "desc": "Strain of unspecified muscle and tendon at ankle and foot level"
+        },
+        {
+            "code": "S96.92",
+            "desc": "Laceration of unspecified muscle and tendon at ankle and foot level"
+        },
+        {
+            "code": "T21.03",
+            "desc": "Burn of unspecified degree of upper back"
+        },
+        {
+            "code": "T22.16",
+            "desc": "Burn of first degree of scapular region"
+        },
+        {
+            "code": "T22.192",
+            "desc": "Burn of first degree of multiple sites of left shoulder and upper limb, except wrist and hand"
+        },
+        {
+            "code": "T22.659",
+            "desc": "Corrosion of second degree of unspecified shoulder"
+        },
+        {
+            "code": "T23.169",
+            "desc": "Burn of first degree of back of unspecified hand"
+        },
+        {
+            "code": "T23.792",
+            "desc": "Corrosion of third degree of multiple sites of left wrist and hand"
+        },
+        {
+            "code": "T24.431",
+            "desc": "Corrosion of unspecified degree of right lower leg"
+        },
+        {
+            "code": "T24.53",
+            "desc": "Corrosion of first degree of lower leg"
+        },
+        {
+            "code": "T30.0",
+            "desc": "Burn of unspecified body region, unspecified degree"
+        },
+        {
+            "code": "T36.7X5",
+            "desc": "Adverse effect of antifungal antibiotics, systemically used"
+        },
+        {
+            "code": "T48.991",
+            "desc": "Poisoning by other agents primarily acting on the respiratory system, accidental (unintentional)"
+        },
+        {
+            "code": "T61.8X3",
+            "desc": "Toxic effect of other seafood, assault"
+        },
+        {
+            "code": "T63.31",
+            "desc": "Toxic effect of venom of black widow spider"
+        },
+        {
+            "code": "T63.693",
+            "desc": "Toxic effect of contact with other venomous marine animals, assault"
+        },
+        {
+            "code": "T71.29",
+            "desc": "Asphyxiation due to being trapped in other low oxygen environment"
+        },
+        {
+            "code": "T80.90",
+            "desc": "Unspecified complication following infusion and therapeutic injection"
+        },
+        {
+            "code": "T83.72",
+            "desc": "Exposure of implanted mesh and other prosthetic materials into surrounding organ or tissue"
+        },
+        {
+            "code": "T84.059",
+            "desc": "Periprosthetic osteolysis of unspecified internal prosthetic joint"
+        },
+        {
+            "code": "T87.89",
+            "desc": "Other complications of amputation stump"
+        },
+        {
+            "code": "V00.81",
+            "desc": "Accident with wheelchair (powered)"
+        },
+        {
+            "code": "V01.92",
+            "desc": "Pedestrian on skateboard injured in collision with pedal cycle, unspecified whether traffic or nontraffic accident"
+        },
+        {
+            "code": "V17.5",
+            "desc": "Pedal cycle passenger injured in collision with fixed or stationary object in traffic accident"
+        },
+        {
+            "code": "V19.20",
+            "desc": "Unspecified pedal cyclist injured in collision with unspecified motor vehicles in nontraffic accident"
+        },
+        {
+            "code": "V22.5",
+            "desc": "Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident"
+        },
+        {
+            "code": "V32.7",
+            "desc": "Person on outside of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident"
+        },
+        {
+            "code": "V37.1",
+            "desc": "Passenger in three-wheeled motor vehicle injured in collision with fixed or stationary object in nontraffic accident"
+        },
+        {
+            "code": "V64.3",
+            "desc": "Unspecified occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus in nontraffic accident"
+        },
+        {
+            "code": "V79.88",
+            "desc": "Bus occupant (driver) (passenger) injured in other specified transport accidents"
+        },
+        {
+            "code": "V86.0",
+            "desc": "Driver of special all-terrain or other off-road motor vehicle injured in traffic accident"
+        },
+        {
+            "code": "V86.94",
+            "desc": "Unspecified occupant of military vehicle injured in nontraffic accident"
+        },
+        {
+            "code": "W29.0",
+            "desc": "Contact with powered kitchen appliance"
+        },
+        {
+            "code": "W58.19",
+            "desc": "Other contact with crocodile"
+        },
+        {
+            "code": "W59.2",
+            "desc": "Contact with turtles"
+        },
+        {
+            "code": "X00.1",
+            "desc": "Exposure to smoke in uncontrolled fire in building or structure"
+        },
+        {
+            "code": "X15",
+            "desc": "Contact with hot household appliances"
+        },
+        {
+            "code": "Y23.0",
+            "desc": "Shotgun discharge, undetermined intent"
+        },
+        {
+            "code": "Y35.193",
+            "desc": "Legal intervention involving other explosives, suspect injured"
+        },
+        {
+            "code": "Y35.213",
+            "desc": "Legal intervention involving injury by tear gas, suspect injured"
+        },
+        {
+            "code": "Y36.511",
+            "desc": "War operations involving direct blast effect of nuclear weapon, civilian"
+        },
+        {
+            "code": "Y37.331",
+            "desc": "Military operations involving flamethrower, civilian"
+        },
+        {
+            "code": "Y37.441",
+            "desc": "Military operations involving unarmed hand to hand combat, civilian"
+        },
+        {
+            "code": "Y63.9",
+            "desc": "Failure in dosage during unspecified surgical and medical care"
+        },
+        {
+            "code": "Y84.4",
+            "desc": "Aspiration of fluid as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+        },
+        {
+            "code": "Y92.21",
+            "desc": "School (private) (public) (state) as the place of occurrence of the external cause"
+        },
+        {
+            "code": "Y93.11",
+            "desc": "Activity, swimming"
+        },
+        {
+            "code": "Z16.10",
+            "desc": "Resistance to unspecified beta lactam antibiotics"
+        },
+        {
+            "code": "Z39.2",
+            "desc": "Encounter for routine postpartum follow-up"
+        },
+        {
+            "code": "Z48.28",
+            "desc": "Encounter for aftercare following multiple organ transplant"
+        },
+        {
+            "code": "Z78.1",
+            "desc": "Physical restraint status"
+        },
+        {
+            "code": "Z80.49",
+            "desc": "Family history of malignant neoplasm of other genital organs"
+        },
+        {
+            "code": "Z96.649",
+            "desc": "Presence of unspecified artificial hip joint"
+        }
+    ]
+}
