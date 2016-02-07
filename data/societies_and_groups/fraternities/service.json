@@ -1,0 +1,90 @@
+{
+    "National": [
+        {
+            "name": "Alpha Phi Omega",
+            "symbol": "ΑΦΩ",
+            "description": "coed national fraternity (with independent organizations in United States and the Philippines)"
+        },
+        {
+            "name": "Epsilon Sigma Alpha",
+            "symbol": "ΕΣΑ",
+            "description": "coed national"
+        },
+        {
+            "name": "Gamma Sigma Sigma",
+            "symbol": "ΓΣΣ",
+            "description": "national sorority, males admitted, primarily female"
+        },
+        {
+            "name": "Omega Phi Alpha",
+            "symbol": "ΩΦΑ",
+            "description": "national sorority, males admitted"
+        },
+        {
+            "name": "SPURS National Honor Society",
+            "symbol": "",
+            "description": "defunct (October 2005) coed national, primarily female"
+        },
+        {
+            "name": "Tau Beta Sigma",
+            "symbol": "TBΣ",
+            "description": "Coed National Honorary Band Sorority; Founded March 26, 1946"
+        },
+        {
+            "name": "Upsilon Phi Upsilon fraternity",
+            "symbol": "YΦY",
+            "description": "Founded March 21, 1990 at Southern University and A&M College"
+        }
+    ],
+    "Local/Regional": [
+        {
+            "name": "Alpha Delta",
+            "symbol": "ΑΔ",
+            "description": "local, strictly male, founded at University of Maine (formerly the Sigma Xi chapter of Alpha Phi Omega)"
+        },
+        {
+            "name": "Gamma Pi Alpha sorority",
+            "symbol": "ΓΠΑ",
+            "description": "local, strictly female, founded at Tuskegee University in 1994"
+        },
+        {
+            "name": "Rho Pi Alpha fraternity",
+            "symbol": "ΡΠΑ",
+            "description": "local, strictly male, founded at Tuskegee University in 1993 {defunct}, Beta chapter at Michigan State University {defunct}, Gamma chapter at Savannah State University {active}n"
+        },
+        {
+            "name": "Alpha Tau Mu fraternity",
+            "symbol": "ATM",
+            "description": "coed regional, founded at Tuskegee University on September 2, 2009, Beta chapter at Auburn University on April 21, 2014"
+        }
+    ],
+    "Non-collegiate": [
+        {
+            "name": "Epsilon Sigma Alpha",
+            "symbol": "ΕΣΑ",
+            "description": "international service organization (coed collegiate division also exists)"
+        },
+        {
+            "name": "Independent Order of Odd Fellows",
+            "symbol": "IOOF",
+            "description": "non-collegiate international service fraternity for men and women whether professional or college students"
+        }
+    ],
+    "Philippines": [
+        {
+            "name": "Alpha Phi Omega",
+            "symbol": "ΑΦΩ",
+            "description": "co-ed national (with independent organizations in United States and the Philippines)"
+        },
+        {
+            "name": "Gamma Omicron Delta Sigma",
+            "symbol": "ΓΟΔΣ",
+            "description": "Inter-Society and National Service Fraternity/Sorority"
+        },
+        {
+            "name": "Epsilon Sigma Alpha",
+            "symbol": "ΕΣΑ",
+            "description": "international service organization"
+        }
+    ]
+}
