@@ -1,16 +1,15 @@
 {
   "description": "natural materials",
   "natural materials": [
-    "rock",
-    "straw",
+    "adobe",
     "bamboo",
     "cordwood",
-    "rammed earth",
     "earth-sheltered",
     "papercrete",
-    "adobe",
+    "rammed earth",
+    "rock",
     "sawdust",
-    "thatch",
-    "straw"
+    "straw",
+    "thatch"
   ]
 }
