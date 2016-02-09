@@ -1,4 +1,15 @@
-language: node_js
-node_js:
-  - 0.10
+language: python
+
+python: 2.7
+
 sudo: false
+
+install:
+  - npm install
+  - pip install jsonchecker
+
+script:
+  # JSON Lint:
+  - grunt
+  # Check for duplicate values:
+  - jsonchecker data --values --quiet
