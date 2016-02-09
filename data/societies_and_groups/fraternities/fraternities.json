@@ -1,0 +1,884 @@
+[
+    {
+        "name": "Acacia (Chapters)",
+        "symbol": "AKAKIA",
+        "founded": "1904",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Masonic (Masonic membership no longer required)[1]"
+    },
+    {
+        "name": "Adelphikos",
+        "symbol": "Αδελφικοσ",
+        "founded": "1913",
+        "affiliation": "Local, Grove City College",
+        "traditional_emphasis": "Christian"
+    },
+    {
+        "name": "Alpha Beta Chi",
+        "symbol": "ΑΒΧ",
+        "founded": "1941",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican"
+    },
+    {
+        "name": "Alpha Chi Alpha",
+        "symbol": "ΑΧΑ",
+        "founded": "1919",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Chi Rho (Chapters)",
+        "symbol": "ΑΧΡ",
+        "founded": "1895",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Delta",
+        "symbol": "ΑΔ",
+        "founded": "1847",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Delta Gamma (Chapters)",
+        "symbol": "ΑΔΓ",
+        "founded": "1924",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Jesuit"
+    },
+    {
+        "name": "Alpha Delta Phi (Chapters)",
+        "symbol": "ΑΔΦ",
+        "founded": "1832",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally a secret literary society, now traditional"
+    },
+    {
+        "name": "Alpha Epsilon Pi (Chapters)",
+        "symbol": "ΑΕΠ",
+        "founded": "1913",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Jewish"
+    },
+    {
+        "name": "Alpha Gamma Omega",
+        "symbol": "ΑΓΩ",
+        "founded": "1927",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Christian"
+    },
+    {
+        "name": "Alpha Gamma Rho (Chapters)",
+        "symbol": "ΑΓΡ",
+        "founded": "1904",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Agricultural"
+    },
+    {
+        "name": "Alpha Iota Omicron",
+        "symbol": "ΑΙΟ",
+        "founded": "1998",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "South Asian[2]"
+    },
+    {
+        "name": "Alpha Kappa Lambda (Chapters)",
+        "symbol": "ΑΚΛ",
+        "founded": "1914",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Phi Alpha",
+        "symbol": "ΑΦΑ",
+        "founded": "1906",
+        "affiliation": "NIC, NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Alpha Phi Delta",
+        "symbol": "ΑΦΔ",
+        "founded": "1914",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Italian-American"
+    },
+    {
+        "name": "Alpha Sigma Phi (Chapters)",
+        "symbol": "ΑΣΦ",
+        "founded": "1845",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally secret sophomore society, now traditional"
+    },
+    {
+        "name": "Alpha Tau Omega (Chapters)",
+        "symbol": "ΑΤΩ",
+        "founded": "1865",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Founded on Christian principles, now traditional"
+    },
+    {
+        "name": "Beta Chi Theta (Chapters)",
+        "symbol": "ΒΧΘ",
+        "founded": "1999",
+        "affiliation": "NIC, NAPA",
+        "traditional_emphasis": "South Asian"
+    },
+    {
+        "name": "Beta Epsilon Gamma Gamma Alpha Rho Sigma",
+        "symbol": "ΒΕΓΓΑΡΣ",
+        "founded": "1923",
+        "affiliation": "Local, Loyola University New Orleans",
+        "traditional_emphasis": "Jesuit"
+    },
+    {
+        "name": "Beta Kappa Gamma",
+        "symbol": "ΒΚΓ",
+        "founded": "1999",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Asian[3]"
+    },
+    {
+        "name": "Beta Sigma Psi (Chapters)",
+        "symbol": "ΒΣΨ",
+        "founded": "1925",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Lutheran[4]"
+    },
+    {
+        "name": "Beta Theta Pi (Chapters)",
+        "symbol": "ΒΘΠ",
+        "founded": "1839",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional[5]"
+    },
+    {
+        "name": "Beta Upsilon Chi",
+        "symbol": "ΒΥΧ",
+        "founded": "1985",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Christian"
+    },
+    {
+        "name": "Bones Gate",
+        "symbol": "BG",
+        "founded": "1901",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Chi Gamma Epsilon",
+        "symbol": "ΧΓΕ",
+        "founded": "1905 (1987)",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Chi Heorot",
+        "symbol": "ΧH",
+        "founded": "1897",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Chi Phi (Chapters)",
+        "symbol": "ΧΦ",
+        "founded": "1824",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Chi Psi (Chapters)",
+        "symbol": "ΧΨ",
+        "founded": "1841",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Delphic of Gamma Sigma Tau",
+        "symbol": "ΓΣΤ",
+        "founded": "1871",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Delta Chi (Chapters)",
+        "symbol": "ΔΧ",
+        "founded": "1890",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally a law fraternity, now traditional"
+    },
+    {
+        "name": "Delta Psi",
+        "symbol": "ΔΨ",
+        "founded": "1850",
+        "affiliation": "Local, University of Vermont (currently inactive)",
+        "traditional_emphasis": "Originally secret literary society, Traditional"
+    },
+    {
+        "name": "Delta Epsilon Psi",
+        "symbol": "ΔΕΨ",
+        "founded": "1998",
+        "affiliation": "NIC",
+        "traditional_emphasis": "South Asian"
+    },
+    {
+        "name": "Delta Gamma Iota",
+        "symbol": "ΔΓΙ",
+        "founded": "1965",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Traditional[6]"
+    },
+    {
+        "name": "Delta Kappa Epsilon (Chapters)",
+        "symbol": "ΔΚΕ",
+        "founded": "1844",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally secret society, traditional"
+    },
+    {
+        "name": "Delta Lambda Phi",
+        "symbol": "ΔΛΦ",
+        "founded": "1986",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Gay, bisexual, progressive"
+    },
+    {
+        "name": "Delta Rho Upsilon",
+        "symbol": "ΔΡΥ",
+        "founded": "1929",
+        "affiliation": "Unaffiliated local",
+        "traditional_emphasis": "Local/Traditional"
+    },
+    {
+        "name": "Delta Omega Epsilon",
+        "symbol": "ΔΩΕ",
+        "founded": "1985",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Traditional[7]"
+    },
+    {
+        "name": "Delta Phi (Chapters)",
+        "symbol": "ΔΦ",
+        "founded": "1827",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally secret society, traditional"
+    },
+    {
+        "name": "Delta Sigma Phi (Chapters)",
+        "symbol": "ΔΣΦ",
+        "founded": "1899",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional/Social"
+    },
+    {
+        "name": "Delta Tau Delta (Chapters)",
+        "symbol": "ΔΤΔ",
+        "founded": "1858",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally literary society, traditional"
+    },
+    {
+        "name": "Delta Theta Sigma",
+        "symbol": "ΔΘΣ",
+        "founded": "1906",
+        "affiliation": "Unaffiliated National",
+        "traditional_emphasis": "Agricultural[8]"
+    },
+    {
+        "name": "Delta Upsilon (Chapters)",
+        "symbol": "ΔΥ",
+        "founded": "1834",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Epsilon Sigma Rho",
+        "symbol": "ΕΣΡ",
+        "founded": "1986",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Multicultural[9]"
+    },
+    {
+        "name": "FarmHouse (Chapters)",
+        "symbol": "FH",
+        "founded": "1905",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Agricultural"
+    },
+    {
+        "name": "Gamma Omega Delta",
+        "symbol": "ΓΩΔ",
+        "founded": "1989",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Multicultural[10]"
+    },
+    {
+        "name": "Gamma Zeta Alpha (Chapters)",
+        "symbol": "ΓΖΑ",
+        "founded": "1987",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latino[11]"
+    },
+    {
+        "name": "Iota Nu Delta",
+        "symbol": "ΙΝΔ",
+        "founded": "1994",
+        "affiliation": "NIC",
+        "traditional_emphasis": "South Asian"
+    },
+    {
+        "name": "Iota Phi Theta",
+        "symbol": "ΙΦΘ",
+        "founded": "1963",
+        "affiliation": "NIC, NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Kappa Alpha Order (Chapters)",
+        "symbol": "ΚΑ",
+        "founded": "1865",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional/Social"
+    },
+    {
+        "name": "Kappa Alpha Society (Chapters)",
+        "symbol": "ΚΑ",
+        "founded": "1825",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally literary society, traditional/social"
+    },
+    {
+        "name": "Kappa Alpha Psi (Chapters)",
+        "symbol": "ΚΑΨ",
+        "founded": "1911",
+        "affiliation": "NIC, NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Kappa Delta Phi (Chapters)",
+        "symbol": "ΚΔΦ",
+        "founded": "1900",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Delta Rho (Chapters)",
+        "symbol": "ΚΔΡ",
+        "founded": "1905",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Kappa Kappa",
+        "symbol": "ΚΚΚ",
+        "founded": "1842",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Sigma (Chapters)",
+        "symbol": "ΚΣ",
+        "founded": "1869",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Traditional[12]"
+    },
+    {
+        "name": "Kappa Upsilon Chi",
+        "symbol": "ΚΥΧ",
+        "founded": "1993",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Christian[13]"
+    },
+    {
+        "name": "Lambda Alpha Upsilon (Chapters)",
+        "symbol": "ΛΑΥ",
+        "founded": "1985",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Lambda Chi Alpha (Chapters)",
+        "symbol": "ΛΧΑ",
+        "founded": "1909",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Lambda Iota Society",
+        "symbol": "ΛΙ",
+        "founded": "1836",
+        "affiliation": "Local, University of Vermont",
+        "traditional_emphasis": "Originally secret literary society, Traditional"
+    },
+    {
+        "name": "Lambda Phi Epsilon (Chapters)",
+        "symbol": "ΛΦΕ",
+        "founded": "1981",
+        "affiliation": "NIC, NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Lambda Sigma Upsilon (Chapters)",
+        "symbol": "ΛΣΥ",
+        "founded": "1979",
+        "affiliation": "NALFO, NIC",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Lambda Theta Phi (Chapters)",
+        "symbol": "ΛΘΦ",
+        "founded": "1975",
+        "affiliation": "NALFO, NIC",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Lambda Upsilon Lambda (Chapters)",
+        "symbol": "ΛΥΛ",
+        "founded": "1982",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Men of God",
+        "symbol": "",
+        "founded": "1999",
+        "affiliation": "UCCFS",
+        "traditional_emphasis": "Christian[14]"
+    },
+    {
+        "name": "Nu Alpha Kappa (Chapters)",
+        "symbol": "ΝΑΚ",
+        "founded": "1988",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Nu Sigma Beta",
+        "symbol": "ΝΣΒ",
+        "founded": "1937",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican"
+    },
+    {
+        "name": "Omega Delta Phi (Chapters)",
+        "symbol": "ΩΔΦ",
+        "founded": "1987",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Omega Psi Phi (Chapters)",
+        "symbol": "ΩΨΦ",
+        "founded": "1911",
+        "affiliation": "NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Phi Beta Sigma (Chapters)",
+        "symbol": "ΦΒΣ",
+        "founded": "1914",
+        "affiliation": "NIC, NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Phi Delta Alpha",
+        "symbol": "ΦΔΑ",
+        "founded": "1884",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Phi Delta Gamma",
+        "symbol": "ΦΔΓ",
+        "founded": "1942",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican"
+    },
+    {
+        "name": "Phi Delta Psi",
+        "symbol": "ΦΔΨ",
+        "founded": "1977",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "African-American[15]"
+    },
+    {
+        "name": "Phi Delta Theta (Chapters)",
+        "symbol": "ΦΔΘ",
+        "founded": "1848",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally nonsectarian, Traditional"
+    },
+    {
+        "name": "Phi Epsilon Chi",
+        "symbol": "ΦEX",
+        "founded": "1943",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican"
+    },
+    {
+        "name": "Phi Eta Kappa",
+        "symbol": "ΦΗΚ",
+        "founded": "1906",
+        "affiliation": "Local, University of Maine",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Phi Eta Mu",
+        "symbol": "ΦΗΜ",
+        "founded": "1923",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican"
+    },
+    {
+        "name": "Phi Gamma Delta (Chapters)",
+        "symbol": "FIJI",
+        "founded": "1848",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Phi Iota Alpha (Chapters)",
+        "symbol": "ΦΙΑ",
+        "founded": "1931",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Phi Kappa Pi",
+        "symbol": "ΦΚΠ",
+        "founded": "1913",
+        "affiliation": "Unaffiliated, Canadian national",
+        "traditional_emphasis": "Traditional[16]"
+    },
+    {
+        "name": "Phi Kappa Psi (Chapters)",
+        "symbol": "ΦΚΨ",
+        "founded": "1852",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally service, traditional"
+    },
+    {
+        "name": "Phi Kappa Sigma (Chapters)",
+        "symbol": "ΦΚΣ",
+        "founded": "1850",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally secret order, traditional"
+    },
+    {
+        "name": "Phi Kappa Tau (Chapters)",
+        "symbol": "ΦΚΤ",
+        "founded": "1906",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Phi Kappa Theta (Chapters)",
+        "symbol": "ΦΚΘ",
+        "founded": "1889",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Catholic"
+    },
+    {
+        "name": "Phi Lambda Chi (Chapters)",
+        "symbol": "ΦΛΧ",
+        "founded": "1925",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Phi Mu Alpha Sinfonia",
+        "symbol": "ΦΜΑ",
+        "founded": "1898",
+        "affiliation": "NIMC",
+        "traditional_emphasis": "Music"
+    },
+    {
+        "name": "Phi Mu Delta (Chapters)",
+        "symbol": "ΦΜΔ",
+        "founded": "1918",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally Commons Club, traditional"
+    },
+    {
+        "name": "Phi Rho Eta",
+        "symbol": "ΦΡΗ",
+        "founded": "1994",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "African-American[17]"
+    },
+    {
+        "name": "Phi Sigma Alpha (Chapters)",
+        "symbol": "ΦΣΑ",
+        "founded": "1928",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican/Hispanic"
+    },
+    {
+        "name": "Phi Sigma Chi",
+        "symbol": "ΦΣΧ",
+        "founded": "1996",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural[18]"
+    },
+    {
+        "name": "Phi Sigma Gamma",
+        "symbol": "ΦΣΓ",
+        "founded": "1915-1916",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Osteopathic Medicine"
+    },
+    {
+        "name": "Phi Sigma Kappa (Chapters)",
+        "symbol": "ΦΣΚ",
+        "founded": "1873",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Phi Sigma Nu",
+        "symbol": "ΦΣΝ",
+        "founded": "1996",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Native American"
+    },
+    {
+        "name": "Phi Sigma Phi",
+        "symbol": "ΦΣΦ",
+        "founded": "1988",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional[19]"
+    },
+    {
+        "name": "Pi Alpha Phi (Chapters)",
+        "symbol": "ΠΑΦ",
+        "founded": "1929",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Pi Delta Psi (Chapters)",
+        "symbol": "ΠΔΨ",
+        "founded": "1994",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Pi Kappa Alpha",
+        "symbol": "ΠΚΑ",
+        "founded": "1868",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Pi Kappa Phi (Chapters)",
+        "symbol": "ΠΚΦ",
+        "founded": "1904",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Pi Lambda Phi (Chapters)",
+        "symbol": "ΠΛΦ",
+        "founded": "1895",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Psi Sigma Phi (Chapters)",
+        "symbol": "ΨΣΦ",
+        "founded": "1990",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Psi Upsilon (Chapters)",
+        "symbol": "ΨΥ",
+        "founded": "1833",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Seal and Serpent",
+        "symbol": "",
+        "founded": "1905",
+        "affiliation": "Local, Cornell University",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Sigma Alpha Epsilon (Chapters)",
+        "symbol": "ΣΑΕ",
+        "founded": "1856",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Sigma Alpha Mu (Chapters)",
+        "symbol": "ΣΑΜ",
+        "founded": "1909",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally Jewish, now traditional"
+    },
+    {
+        "name": "Sigma Beta Rho",
+        "symbol": "ΣΒΡ",
+        "founded": "1996",
+        "affiliation": "NIC, NAPA",
+        "traditional_emphasis": "South Asian/Multicultural"
+    },
+    {
+        "name": "Sigma Chi (Chapters)",
+        "symbol": "ΣΧ",
+        "founded": "1855",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally literary society, traditional"
+    },
+    {
+        "name": "Sigma Delta Alpha",
+        "symbol": "ΣΔΑ",
+        "founded": "1992",
+        "affiliation": "Unaffiliated National",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Sigma Lambda Beta (Chapters)",
+        "symbol": "ΣΛΒ",
+        "founded": "1986",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "Sigma Nu (Chapters)",
+        "symbol": "ΣΝ",
+        "founded": "1869",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally anti-hazing, traditional"
+    },
+    {
+        "name": "Sigma Phi Delta (Chapters)",
+        "symbol": "ΣΦΔ",
+        "founded": "1924",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Engineering"
+    },
+    {
+        "name": "Sigma Phi Epsilon (Chapters)",
+        "symbol": "ΣΦΕ",
+        "founded": "1901",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Sigma Phi Society",
+        "symbol": "ΣΦ",
+        "founded": "1827",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally secret society, traditional"
+    },
+    {
+        "name": "Sigma Pi (Chapters)",
+        "symbol": "ΣΠ",
+        "founded": "1897",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally literary society, traditional"
+    },
+    {
+        "name": "Sigma Tau Gamma (Chapters)",
+        "symbol": "ΣΤΓ",
+        "founded": "1920",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally literary society, traditional"
+    },
+    {
+        "name": "Sigma Thêta Pi",
+        "symbol": "ΣΘΠ",
+        "founded": "2003",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Francophone Greek"
+    },
+    {
+        "name": "Tau Delta Phi",
+        "symbol": "ΤΔΦ",
+        "founded": "1910",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Jewish Social"
+    },
+    {
+        "name": "Tau Epsilon Phi (Chapters)",
+        "symbol": "ΤΕΦ",
+        "founded": "1910",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Jewish Social"
+    },
+    {
+        "name": "Tau Kappa Epsilon (Chapters)",
+        "symbol": "ΤΚΕ",
+        "founded": "1899",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Theta Chi (Chapters)",
+        "symbol": "ΘΧ",
+        "founded": "1856",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional/Social"
+    },
+    {
+        "name": "Theta Delta Chi (Chapters)",
+        "symbol": "ΘΔΧ",
+        "founded": "1847",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally secret society, traditional/Social"
+    },
+    {
+        "name": "Theta Gamma",
+        "symbol": "ΘΓ",
+        "founded": "1912",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Theta Xi (Chapters)",
+        "symbol": "ΘΞ",
+        "founded": "1864",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Engineering, social"
+    },
+    {
+        "name": "Triangle Fraternity (Chapters)",
+        "symbol": "",
+        "founded": "1907",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Engineering, architecture, and Science"
+    },
+    {
+        "name": "Trojan Knights",
+        "symbol": "",
+        "founded": "1921",
+        "affiliation": "Local, University of Southern California",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Zeta Beta Tau (Chapters)",
+        "symbol": "ΖΒΤ",
+        "founded": "1898",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Originally Jewish, traditional (no religious affiliation)"
+    },
+    {
+        "name": "Zeta Phi Rho",
+        "symbol": "ΖΦΡ",
+        "founded": "1995",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Zeta Psi (Chapters)",
+        "symbol": "ΖΨ",
+        "founded": "1847",
+        "affiliation": "NIC",
+        "traditional_emphasis": "Traditional/social"
+    }
+]

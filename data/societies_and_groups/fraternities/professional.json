@@ -1,0 +1,574 @@
+{
+    "Agriculture": [
+        {
+            "category": "Agriculture",
+            "symbol": "ΑΓΡ",
+            "name": "Alpha Gamma Rho",
+            "description": "men's fraternity, not co-ed"
+        },
+        {
+            "category": "Agriculture",
+            "symbol": "ΑΓΣ",
+            "name": "Alpha Gamma Sigma",
+            "description": "men's fraternity, not co-ed"
+        },
+        {
+            "category": "Agriculture",
+            "symbol": "ΑΖ",
+            "name": "Alpha Zeta",
+            "description": "originally a men's fraternity, co-ed since 1972"
+        },
+        {
+            "category": "Agriculture",
+            "symbol": "ΔΘΣ",
+            "name": "Delta Theta Sigma",
+            "description": "co-ed"
+        },
+        {
+            "category": "Agriculture",
+            "symbol": "ΣΑ",
+            "name": "Sigma Alpha",
+            "description": "women's sorority, co-ed by chapter"
+        }
+    ],
+    "Business": [
+        {
+            "category": "Business",
+            "symbol": "ΑKΨ",
+            "name": "Alpha Kappa Psi",
+            "description": "originally a men's fraternity, co-ed since 1976"
+        },
+        {
+            "category": "Business",
+            "symbol": "ΔΣΠ",
+            "name": "Delta Sigma Pi",
+            "description": "originally a men's fraternity, co-ed since 1975"
+        },
+        {
+            "category": "Insurance, Risk Management, Actuarial Sciences",
+            "symbol": "ΓΙΣ",
+            "name": "Gamma Iota Sigma",
+            "description": "co-ed"
+        },
+        {
+            "category": "Business",
+            "symbol": "ΦΧΘ",
+            "name": "Phi Chi Theta",
+            "description": "originally a women's fraternity, co-ed since 1976"
+        },
+        {
+            "category": "Business",
+            "symbol": "ΦΓΝ",
+            "name": "Phi Gamma Nu",
+            "description": "originally a women's fraternity, co-ed since 1974"
+        },
+        {
+            "category": "Marketing, Sales",
+            "symbol": "ΠΣE",
+            "name": "Pi Sigma Epsilon",
+            "description": "originally a men's fraternity, co-ed since 1974"
+        },
+        {
+            "category": "Sport Management",
+            "symbol": "ΣΑΣΜ",
+            "name": "Sigma Alpha Sigma Mu",
+            "description": "co-ed"
+        }
+    ],
+    "Chiropractic": [
+        {
+            "category": "Chiropractic",
+            "symbol": "ΔΣΧ",
+            "name": "Delta Sigma Chi",
+            "description": "men's franternity"
+        },
+        {
+            "category": "Chiropractic",
+            "symbol": "ΠKX",
+            "name": "Pi Kappa Chi",
+            "description": "men's franternity"
+        },
+        {
+            "category": "Chiropractic",
+            "symbol": "XPΣ",
+            "name": "Chi Rho Sigma",
+            "description": "co-ed"
+        }
+    ],
+    "Dance": [
+        {
+            "category": "Dance",
+            "symbol": "ΔΧΞ",
+            "name": "Delta Chi Xi",
+            "description": "co-ed fraternity, established April 20, 2010"
+        }
+    ],
+    "Engineering & Architecture": [
+        {
+            "category": "Architecture",
+            "symbol": "ΑΡΧ",
+            "name": "Alpha Rho Chi",
+            "description": ""
+        },
+        {
+            "category": "Architecture, Engineering, Mathematics, and Sciences",
+            "symbol": "ΑΣΚ – WiTS",
+            "name": "Alpha Sigma Kappa",
+            "description": "women's sorority, established since May 1, 1989"
+        },
+        {
+            "category": "Engineering",
+            "symbol": "ΑΩΕ",
+            "name": "Alpha Omega Epsilon",
+            "description": "women's sorority, established since November 13, 1983"
+        },
+        {
+            "category": "Electrical and Computer Engineering",
+            "symbol": "ΚHΚ",
+            "name": "Kappa Eta Kappa",
+            "description": "Electrical and Computer Engineering"
+        },
+        {
+            "category": "Engineering and Engineering Technology",
+            "symbol": "ΦΣΡ",
+            "name": "Phi Sigma Rho",
+            "description": "women's sorority, established 1984"
+        },
+        {
+            "category": "Engineering",
+            "symbol": "ΣΦΔ",
+            "name": "Sigma Phi Delta",
+            "description": "men's fraternity, established since April 11, 1924"
+        },
+        {
+            "category": "Engineering",
+            "symbol": "ΘΤ",
+            "name": "Theta Tau",
+            "description": "founded October 15, 1904, largest, oldest, and foremost Fraternity for Engineers"
+        }
+    ],
+    "Law": [
+        {
+            "category": "Law",
+            "symbol": "ΔΘΦ",
+            "name": "Delta Theta Phi",
+            "description": "originally a men's fraternity, co-ed since 1971"
+        },
+        {
+            "category": "Law",
+            "symbol": "ΚΑΠ",
+            "name": "Kappa Alpha Pi",
+            "description": "co-ed"
+        },
+        {
+            "category": "Law",
+            "symbol": "ΦΑΔ",
+            "name": "Phi Alpha Delta",
+            "description": "co-ed"
+        }
+    ],
+    "Medicine": [
+        {
+            "category": "Podiatry",
+            "symbol": "AΓK",
+            "name": "Alpha Gamma Kappa Fraternity",
+            "description": "co-ed"
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΑKΠ",
+            "name": "Alfa Kappa Pi",
+            "description": "Dominican Republic and Puerto Rico"
+        },
+        {
+            "category": "Pharmacy",
+            "symbol": "ΑZΩ",
+            "name": "Alpha Zeta Omega",
+            "description": "originally a men's fraternity, co-ed since the early 1970s"
+        },
+        {
+            "category": "Nursing",
+            "symbol": "ΑΤΔ",
+            "name": "Alpha Tau Delta",
+            "description": "co-ed"
+        },
+        {
+            "category": "Dentistry",
+            "symbol": "ΑΩ",
+            "name": "Alpha Omega",
+            "description": "co-ed"
+        },
+        {
+            "category": "Chemistry",
+            "symbol": "AXΣ",
+            "name": "Alpha Chi Sigma Fraternity",
+            "description": "co-ed"
+        },
+        {
+            "category": "Veterinary Medicine",
+            "symbol": "ΑΨ",
+            "name": "Alpha Psi Fraternity",
+            "description": ""
+        },
+        {
+            "category": "Nursing",
+            "symbol": "ΧΗΦ",
+            "name": "Chi Eta Phi",
+            "description": "primarily an African American women's sorority"
+        },
+        {
+            "category": "Health",
+            "symbol": "ΔΕΜ",
+            "name": "Delta Epsilon Mu",
+            "description": ""
+        },
+        {
+            "category": "Dentistry, Medicine, Pharmacy",
+            "symbol": "ΔΣΔ",
+            "name": "Delta Sigma Delta",
+            "description": ""
+        },
+        {
+            "category": "Optometry",
+            "symbol": "ΕΨΕ",
+            "name": "Epsilon Psi Epsilon",
+            "description": ""
+        },
+        {
+            "category": "Pre-medical",
+            "symbol": "ΚΓΔ",
+            "name": "Kappa Gamma Delta",
+            "description": ""
+        },
+        {
+            "category": "Pharmacy",
+            "symbol": "ΚΕ",
+            "name": "Kappa Epsilon",
+            "description": "primarily women"
+        },
+        {
+            "category": "Podiatry",
+            "symbol": "KTE",
+            "name": "Kappa Tau Epsilon",
+            "description": ""
+        },
+        {
+            "category": "Pharmacy",
+            "symbol": "ΚΨ",
+            "name": "Kappa Psi",
+            "description": ""
+        },
+        {
+            "category": "Pharmacy",
+            "symbol": "ΛΚΣ",
+            "name": "Lambda Kappa Sigma",
+            "description": "primarily women"
+        },
+        {
+            "category": "Health",
+            "symbol": "ΜΕΔ",
+            "name": "Mu Epsilon Delta",
+            "description": ""
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΝΣΝ",
+            "name": "Nu Sigma Nu",
+            "description": ""
+        },
+        {
+            "category": "Dentistry",
+            "symbol": "ΞΨΦ",
+            "name": "Xi Psi Phi",
+            "description": ""
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΠM",
+            "name": "Pi Mu Honor Society",
+            "description": "Merged with Phi Chi in 1922"
+        },
+        {
+            "category": "Pharmacy",
+            "symbol": "PΠΦ",
+            "name": "Rho Pi Phi",
+            "description": ""
+        },
+        {
+            "category": "Pre-medical",
+            "symbol": "ΣΜΔ",
+            "name": "Sigma Mu Delta",
+            "description": ""
+        },
+        {
+            "category": "Chiropractic",
+            "symbol": "ΣΦХ",
+            "name": "Sigma Phi Chi",
+            "description": "women's sorority"
+        },
+        {
+            "category": "Osteopathic Medicine",
+            "symbol": "ΦΑΓ",
+            "name": "Phi Alpha Gamma",
+            "description": "Merged with Phi Chi in 1948"
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΦΑΣ",
+            "name": "Phi Alpha Sigma",
+            "description": ""
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΦΒΠ",
+            "name": "Phi Beta Pi",
+            "description": ""
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΦΔΕ",
+            "name": "Phi Delta Epsilon",
+            "description": ""
+        },
+        {
+            "category": "Pharmacy",
+            "symbol": "ΦΔΧ",
+            "name": "Phi Delta Chi",
+            "description": ""
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΦΣΓ",
+            "name": "Phi Sigma Gamma",
+            "description": "Men's Osteopathic Fraternity"
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΦΡΣ",
+            "name": "Phi Rho Sigma",
+            "description": ""
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΦΧ",
+            "name": "Phi Chi",
+            "description": ""
+        },
+        {
+            "category": "Dentistry",
+            "symbol": "ΨΩ",
+            "name": "Psi Omega",
+            "description": ""
+        },
+        {
+            "category": "Pharmacy",
+            "symbol": "ΡΠΦ",
+            "name": "Rho Pi Phi",
+            "description": ""
+        },
+        {
+            "category": "Veterinary Medicine",
+            "symbol": "ΩΤΣ",
+            "name": "Omega Tau Sigma",
+            "description": ""
+        },
+        {
+            "category": "Medicine",
+            "symbol": "ΩYΦ",
+            "name": "Omega Upsilon Phi",
+            "description": "Defunct after Phi Beta Pi 1934 merger. Alpha Chapter joined Phi Chi"
+        }
+    ],
+    "Military, Government, & Foreign Service": [
+        {
+            "category": "Military Veterans",
+            "symbol": "ΔΟΣ",
+            "name": "Delta Omicron Sigma",
+            "description": ""
+        },
+        {
+            "category": "Foreign Service",
+            "symbol": "ΔΦΕ",
+            "name": "Delta Phi Epsilon",
+            "description": ""
+        },
+        {
+            "category": "Military",
+            "symbol": "",
+            "name": "Pershing Rifles",
+            "description": ""
+        },
+        {
+            "category": "Military",
+            "symbol": "",
+            "name": "Scabbard and Blade",
+            "description": ""
+        },
+        {
+            "category": "Military",
+            "symbol": "KΕΨ",
+            "name": "Kappa Epsilon Psi Military Sorority, Inc.",
+            "description": "current and former female members of the United States Armed Forces - 2011"
+        },
+        {
+            "category": "Military",
+            "symbol": "ΚΛΧ",
+            "name": "Kappa Lambda Chi Military Fraternity, Inc.",
+            "description": "current and former male members of the United States Armed Forces - 2013"
+        },
+        {
+            "category": "Military",
+            "symbol": "ΑΓΞ",
+            "name": "Alpha Gamma Xi Sorority, Inc.",
+            "description": "female members of the United States Armed Forces, Veterans, and widows granted veteran status - Diverse membership - 2014"
+        },
+        {
+            "category": "Military",
+            "symbol": "ΠΡΣ",
+            "name": "Pi Rho Sigma Military Fraternity, Inc.",
+            "description": "current and former male members of the United States Armed Forces, Veterans - Diverse membership - 2014"
+        }
+    ],
+    "Music": [
+        {
+            "category": "Music",
+            "symbol": "ΔΟ",
+            "name": "Delta Omicron",
+            "description": "originally a women's sorority, co-ed since 1977"
+        },
+        {
+            "category": "Band",
+            "symbol": "ΚΚΨ",
+            "name": "Kappa Kappa Psi",
+            "description": "originally a men's sorority, co-ed since 1977"
+        },
+        {
+            "category": "Music",
+            "symbol": "MBΨ",
+            "name": "Mu Beta Psi",
+            "description": "originally a men's sorority, co-ed since 1961"
+        },
+        {
+            "category": "Music",
+            "symbol": "ΜΦΕ",
+            "name": "Mu Phi Epsilon",
+            "description": "originally a women's sorority, co-ed since 1977"
+        },
+        {
+            "category": "Music",
+            "symbol": "ΠΝE",
+            "name": "Pi Nu Epsilon",
+            "description": "co-ed music fraternity founded 1927"
+        },
+        {
+            "category": "Music",
+            "symbol": "ΣAI",
+            "name": "Sigma Alpha Iota",
+            "description": "women's music fraternity since 1903, accepts male honorary members"
+        },
+        {
+            "category": "Band",
+            "symbol": "ΤΒΣ",
+            "name": "Tau Beta Sigma",
+            "description": "originally a women's sorority, co-ed since 1977"
+        },
+        {
+            "category": "Music",
+            "symbol": "ΦΜΑ",
+            "name": "Phi Mu Alpha Sinfonia",
+            "description": "men's music fraternity since 1898"
+        }
+    ],
+    "Other": [
+        {
+            "category": "Aviation",
+            "symbol": "ΑΗΡ",
+            "name": "Alpha Eta Rho",
+            "description": ""
+        },
+        {
+            "category": "Chemistry",
+            "symbol": "ΑΧΣ",
+            "name": "Alpha Chi Sigma",
+            "description": ""
+        },
+        {
+            "category": "Biology",
+            "symbol": "BΨΩ",
+            "name": "Beta Psi Omega",
+            "description": ""
+        },
+        {
+            "category": "Economics",
+            "symbol": "ΟΔΕ",
+            "name": "Omicron Delta Epsilon",
+            "description": ""
+        },
+        {
+            "category": "Printing and Digital Media",
+            "symbol": "ΓΕΤ",
+            "name": "Gamma Epsilon Tau",
+            "description": ""
+        },
+        {
+            "category": "Cinema",
+            "symbol": "ΔΚA",
+            "name": "Delta Kappa Alpha",
+            "description": ""
+        },
+        {
+            "category": "Textiles",
+            "symbol": "ΔKΦ",
+            "name": "Delta Kappa Phi",
+            "description": ""
+        },
+        {
+            "category": "Communication arts & sciences",
+            "symbol": "ΖΦΗ",
+            "name": "Zeta Phi Eta",
+            "description": ""
+        },
+        {
+            "category": "Communicative Arts",
+            "symbol": "ΦΑΤ",
+            "name": "Phi Alpha Tau",
+            "description": ""
+        },
+        {
+            "category": "Creative and Performing Arts",
+            "symbol": "ΦΒ",
+            "name": "Phi Beta",
+            "description": ""
+        },
+        {
+            "category": "Physical Education, Health, Sports Management",
+            "symbol": "ΦΕΚ",
+            "name": "Phi Epsilon Kappa",
+            "description": ""
+        },
+        {
+            "category": "",
+            "symbol": "ΦΣΠ",
+            "name": "Phi Sigma Pi",
+            "description": "National Honor Fraternity"
+        },
+        {
+            "category": "",
+            "symbol": "KΠ",
+            "name": "Kappa Pi",
+            "description": "International Honorary Art Fraternity"
+        },
+        {
+            "category": "",
+            "symbol": "ΚΘΠ",
+            "name": "Kappa Theta Pi",
+            "description": "Information Technology professional fraternity founded in 2012 at the University of Michigan"
+        },
+        {
+            "category": "",
+            "symbol": "ΛAE",
+            "name": "Lambda Alpha Epsilon",
+            "description": "The American Criminal Justice Association"
+        }
+    ]
+}

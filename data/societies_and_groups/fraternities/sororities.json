@@ -1,0 +1,674 @@
+[
+    {
+        "name": "Alpha Chi Omega",
+        "symbol": "ΑΧΩ",
+        "founded": "1885",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Originally music, now Traditional"
+    },
+    {
+        "name": "Alpha Delta Chi",
+        "symbol": "ΑΔΧ",
+        "founded": "1925",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Christian"
+    },
+    {
+        "name": "Alpha Delta Pi",
+        "symbol": "ΑΔΠ",
+        "founded": "1851",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Originally secret society, traditional"
+    },
+    {
+        "name": "Alpha Epsilon Phi",
+        "symbol": "ΑΕΦ",
+        "founded": "1909",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Originally Jewish, traditional"
+    },
+    {
+        "name": "Alpha Gamma Delta (Chapters)",
+        "symbol": "ΑΓΔ",
+        "founded": "1904",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Kappa Alpha",
+        "symbol": "ΑΚΑ",
+        "founded": "1908",
+        "affiliation": "NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "alpha Kappa Delta Phi",
+        "symbol": "aΚΔΦ",
+        "founded": "1990",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Alpha Nu Omega",
+        "symbol": "ΑΝΩ",
+        "founded": "1988",
+        "affiliation": "UCCFS",
+        "traditional_emphasis": "Christian"
+    },
+    {
+        "name": "Alpha Omicron Pi",
+        "symbol": "ΑΟΠ",
+        "founded": "1897",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Phi",
+        "symbol": "ΑΦ",
+        "founded": "1872",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Phi Gamma",
+        "symbol": "ΑΦΓ",
+        "founded": "1994",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Alpha Pi Phi",
+        "symbol": "ΑΠΦ",
+        "founded": "2009",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Pi Omega",
+        "symbol": "ΑΠΩ",
+        "founded": "1994",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Native American"
+    },
+    {
+        "name": "Alpha Pi Sigma",
+        "symbol": "ΑΠΣ",
+        "founded": "1990",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina[20]"
+    },
+    {
+        "name": "Alpha Sigma Alpha (Chapters)",
+        "symbol": "ΑΣΑ",
+        "founded": "1901",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Sigma Kappa",
+        "symbol": "ΑΣΚ",
+        "founded": "1989",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Math, architecture, engineering, and science"
+    },
+    {
+        "name": "Alpha Sigma Omega",
+        "symbol": "ΑΣΩ",
+        "founded": "1997",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Latina and Caribbean[21]"
+    },
+    {
+        "name": "Alpha Sigma Rho",
+        "symbol": "ΑΣΡ",
+        "founded": "1998",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian[22]"
+    },
+    {
+        "name": "Alpha Sigma Tau",
+        "symbol": "ΑΣΤ",
+        "founded": "1899",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Alpha Xi Delta",
+        "symbol": "ΑΞΔ",
+        "founded": "1893",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Ceres",
+        "symbol": "",
+        "founded": "1984",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Agricultural[23]"
+    },
+    {
+        "name": "Chi Omega (Chapters)",
+        "symbol": "ΧΩ",
+        "founded": "1895",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Chi Upsilon Sigma",
+        "symbol": "ΧΥΣ",
+        "founded": "1980",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Delta Chi Lambda",
+        "symbol": "ΔΧΛ",
+        "founded": "2000",
+        "affiliation": "Unaffiliated National",
+        "traditional_emphasis": "Asian[24]"
+    },
+    {
+        "name": "Delta Delta Delta",
+        "symbol": "ΔΔΔ",
+        "founded": "1888",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Delta Gamma",
+        "symbol": "ΔΓ",
+        "founded": "1873",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Delta Gamma Pi",
+        "symbol": "ΔΓΠ",
+        "founded": "1998",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Multicultural[citation needed]"
+    },
+    {
+        "name": "Delta Kappa Delta",
+        "symbol": "ΔΚΔ",
+        "founded": "1999",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "South Asian"
+    },
+    {
+        "name": "Delta Lambda Chi",
+        "symbol": "ΔΛΧ",
+        "founded": "2002",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Delta Phi Epsilon",
+        "symbol": "ΔΦΕ",
+        "founded": "1917",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Non-sectarian"
+    },
+    {
+        "name": "Delta Phi Lambda",
+        "symbol": "ΔΦΛ",
+        "founded": "1998",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Delta Phi Mu",
+        "symbol": "ΔΦΜ",
+        "founded": "1991",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Delta Phi Omega",
+        "symbol": "ΔΦΩ",
+        "founded": "1998",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "South Asian"
+    },
+    {
+        "name": "Delta Psi Epsilon",
+        "symbol": "ΔΨΕ",
+        "founded": "1999",
+        "affiliation": "UCCFS",
+        "traditional_emphasis": "Christian"
+    },
+    {
+        "name": "Delta Sigma Chi",
+        "symbol": "ΔΣΧ",
+        "founded": "1996",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Multicultural[25]"
+    },
+    {
+        "name": "Delta Sigma Theta",
+        "symbol": "ΔΣΘ",
+        "founded": "1913",
+        "affiliation": "NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Delta Tau Lambda",
+        "symbol": "ΔΤΛ",
+        "founded": "1994",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Delta Xi Nu",
+        "symbol": "ΔΞΝ",
+        "founded": "1997",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Delta Xi Phi",
+        "symbol": "ΔΞΦ",
+        "founded": "1994",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Delta Zeta",
+        "symbol": "ΔΖ",
+        "founded": "1902",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Eta Gamma Delta",
+        "symbol": "ΗΓΔ",
+        "founded": "1928",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican"
+    },
+    {
+        "name": "Gamma Alpha Omega",
+        "symbol": "ΓΑΩ",
+        "founded": "1993",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Gamma Eta",
+        "symbol": "ΓΗ",
+        "founded": "1995",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Gamma Phi Beta",
+        "symbol": "ΓΦΒ",
+        "founded": "1874",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Gamma Phi Omega",
+        "symbol": "ΓΦΩ",
+        "founded": "1991",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Latina[26]"
+    },
+    {
+        "name": "Gamma Rho Lambda",
+        "symbol": "ΓΡΛ",
+        "founded": "2003",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "LGBTQ[27]"
+    },
+    {
+        "name": "Kappa Alpha Theta",
+        "symbol": "ΚΑΘ",
+        "founded": "1870",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Beta Gamma",
+        "symbol": "ΚΒΓ",
+        "founded": "1917",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Delta",
+        "symbol": "ΚΔ",
+        "founded": "1897",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Delta Chi",
+        "symbol": "ΚΔΧ",
+        "founded": "1987",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Kappa Delta Phi National Affiliated Sorority",
+        "symbol": "ΚΔΦ",
+        "founded": "1977",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Kappa Gamma",
+        "symbol": "ΚΚΓ",
+        "founded": "1870",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Phi Gamma",
+        "symbol": "ΚΦΓ",
+        "founded": "1998",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "South Asian"
+    },
+    {
+        "name": "Kappa Phi Lambda",
+        "symbol": "ΚΦΛ",
+        "founded": "1995",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Kappa Phi Chi",
+        "symbol": "KΦX",
+        "founded": "1991",
+        "affiliation": "Local, Brooklyn College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Lambda Pi Chi",
+        "symbol": "ΛΠΧ",
+        "founded": "1988",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Lambda Pi Upsilon",
+        "symbol": "ΛΠΥ",
+        "founded": "1992",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Lambda Psi Delta",
+        "symbol": "ΛΨΔ",
+        "founded": "1997",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Lambda Sigma Gamma",
+        "symbol": "ΛΣΓ",
+        "founded": "1986",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Lambda Tau Omega",
+        "symbol": "ΛΤΩ",
+        "founded": "1988",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Lambda Theta Alpha",
+        "symbol": "ΛΘΑ",
+        "founded": "1975",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Lambda Theta Nu",
+        "symbol": "ΛΘΝ",
+        "founded": "1986",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Mu Alpha Phi",
+        "symbol": "ΜΑΦ",
+        "founded": "1927",
+        "affiliation": "CIPFI",
+        "traditional_emphasis": "Puerto Rican"
+    },
+    {
+        "name": "Mu Epsilon Theta",
+        "symbol": "ΜΕΘ",
+        "founded": "1987",
+        "affiliation": "Unaffiliated, national",
+        "traditional_emphasis": "Catholic[28]"
+    },
+    {
+        "name": "Mu Sigma Upsilon",
+        "symbol": "ΜΣΥ",
+        "founded": "1981",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "National Society of Pershing Angels",
+        "symbol": "",
+        "founded": "1962",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Military drill[29]"
+    },
+    {
+        "name": "Omega Phi Beta",
+        "symbol": "ΏΦΒ",
+        "founded": "1989",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Omega Phi Chi",
+        "symbol": "ΏΦΧ",
+        "founded": "1988",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Phi Beta Chi",
+        "symbol": "ΦΒΧ",
+        "founded": "1978",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Lutheran"
+    },
+    {
+        "name": "Phi Mu (Chapters)",
+        "symbol": "ΦΜ",
+        "founded": "1852",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Phi Sigma Rho",
+        "symbol": "ΦΣΡ",
+        "founded": "1984",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Engineering"
+    },
+    {
+        "name": "Phi Sigma Sigma (Chapters)",
+        "symbol": "ΦΣΣ",
+        "founded": "1913",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Non-sectarian"
+    },
+    {
+        "name": "Pi Beta Phi (Chapters)",
+        "symbol": "ΠΒΦ",
+        "founded": "1867",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Originally secret, Traditional"
+    },
+    {
+        "name": "Pi Lambda Chi",
+        "symbol": "ΠΛΧ",
+        "founded": "1994",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Latina[30]"
+    },
+    {
+        "name": "Sigma Alpha Epsilon Pi",
+        "symbol": "ΣΑΕΠ",
+        "founded": "1998",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Jewish"
+    },
+    {
+        "name": "Sigma Delta Tau",
+        "symbol": "ΣΔΤ",
+        "founded": "1917",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Non-sectarian"
+    },
+    {
+        "name": "Sigma Gamma Rho",
+        "symbol": "ΣΓΡ",
+        "founded": "1922",
+        "affiliation": "NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Sigma Iota Alpha",
+        "symbol": "ΣΙΑ",
+        "founded": "1990",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Sigma Kappa",
+        "symbol": "ΣΚ",
+        "founded": "1874",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Sigma Lambda Alpha",
+        "symbol": "ΣΛΑ",
+        "founded": "1990",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Sigma Lambda Gamma (Chapters)",
+        "symbol": "ΣΛΓ",
+        "founded": "1990",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Sigma Lambda Upsilon",
+        "symbol": "ΣΛΥ",
+        "founded": "1987",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latina"
+    },
+    {
+        "name": "Sigma Omega Nu",
+        "symbol": "ΣΩΝ",
+        "founded": "1996",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Latina[31]"
+    },
+    {
+        "name": "Sigma Omega Phi",
+        "symbol": "ΣΩΦ",
+        "founded": "2008",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "\"Aggressive\" lesbian[32]"
+    },
+    {
+        "name": "Sigma Omicron Pi",
+        "symbol": "ΣΟΠ",
+        "founded": "1930",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Sigma Phi Omega",
+        "symbol": "ΣΦΩ",
+        "founded": "1949",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Sigma Pi Alpha",
+        "symbol": "ΣΠΑ",
+        "founded": "2004",
+        "affiliation": "Unaffiliated",
+        "traditional_emphasis": "Chicana/Latina[33]"
+    },
+    {
+        "name": "Sigma Psi Zeta",
+        "symbol": "ΣΨΖ",
+        "founded": "1994",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "Asian"
+    },
+    {
+        "name": "Sigma Sigma Rho",
+        "symbol": "ΣΣΡ",
+        "founded": "1998",
+        "affiliation": "NAPA",
+        "traditional_emphasis": "South Asian"
+    },
+    {
+        "name": "Sigma Sigma Sigma",
+        "symbol": "ΣΣΣ",
+        "founded": "1898",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Theta Nu Xi",
+        "symbol": "ΘΝΞ",
+        "founded": "1997",
+        "affiliation": "NMGC",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Theta Phi Alpha",
+        "symbol": "ΘΦΑ",
+        "founded": "1912",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Originally catholic, traditional"
+    },
+    {
+        "name": "Zeta Chi Phi",
+        "symbol": "ΖΧΦ",
+        "founded": "2003",
+        "affiliation": "Unaffiliated national",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Zeta Phi Beta",
+        "symbol": "ΖΦΒ",
+        "founded": "1920",
+        "affiliation": "NPHC",
+        "traditional_emphasis": "African-American"
+    },
+    {
+        "name": "Zeta Sigma Chi",
+        "symbol": "ΖΣΧ",
+        "founded": "1991",
+        "affiliation": "Unofficial national",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Zeta Tau Alpha",
+        "symbol": "ΖΤΑ",
+        "founded": "1898",
+        "affiliation": "NPC",
+        "traditional_emphasis": "Traditional"
+    }
+]

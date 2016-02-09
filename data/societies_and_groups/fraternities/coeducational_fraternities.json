@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Alpha Nu Omega (Chapters)",
+        "symbol": "ΑΝΩ",
+        "founded": "1988",
+        "affiliation": "UCCFS",
+        "traditional_emphasis": "Christian coed fraternity"
+    },
+    {
+        "name": "Zeta Phi Zeta",
+        "symbol": "ΖΦΖ",
+        "founded": "2001",
+        "affiliation": "UCCFS",
+        "traditional_emphasis": "Christian[34]"
+    },
+    {
+        "name": "Alpha Delta Phi Society",
+        "symbol": "ΑΔΦ",
+        "founded": "1832",
+        "affiliation": "Unaffiliated, national",
+        "traditional_emphasis": "Literary and traditional"
+    },
+    {
+        "name": "Alpha Psi Lambda",
+        "symbol": "ΑΨΛ",
+        "founded": "1985",
+        "affiliation": "NALFO",
+        "traditional_emphasis": "Latino"
+    },
+    {
+        "name": "St. Anthony Hall (Delta Psi)",
+        "symbol": "ΔΨ",
+        "founded": "1847",
+        "affiliation": "Unaffiliated, national",
+        "traditional_emphasis": "Literary and social"
+    },
+    {
+        "name": "Delta Psi Alpha",
+        "symbol": "ΔΨΑ",
+        "founded": "1998",
+        "affiliation": "Unaffiliated, national",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Trigon Engineering Society",
+        "symbol": "ΓΔΕ",
+        "founded": "1924",
+        "affiliation": "Local, University of Virginia",
+        "traditional_emphasis": "Engineering, Social"
+    },
+    {
+        "name": "Lambda Lambda Lambda",
+        "symbol": "ΛΛΛ",
+        "founded": "2006",
+        "affiliation": "Unaffiliated, national",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Theta Delta Sigma",
+        "symbol": "ΘΔΣ",
+        "founded": "2001",
+        "affiliation": "Unaffiliated, national",
+        "traditional_emphasis": "Multicultural"
+    },
+    {
+        "name": "Alpha Theta",
+        "symbol": "ΑΘ",
+        "founded": "1920",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Delta Lambda Psi",
+        "symbol": "ΔΛΨ",
+        "founded": "2005",
+        "affiliation": "Local, University of California at Santa Cruz",
+        "traditional_emphasis": "LBGTQ"
+    },
+    {
+        "name": "Zeta Delta Xi",
+        "symbol": "ΖΔΞ",
+        "founded": "1852",
+        "affiliation": "Local, Brown University",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Kappa Gamma Psi",
+        "symbol": "ΚΓΨ",
+        "founded": "1913",
+        "affiliation": "Local, Ithaca College",
+        "traditional_emphasis": "Performing arts"
+    },
+    {
+        "name": "Phi Tau",
+        "symbol": "ΦΤ",
+        "founded": "1905",
+        "affiliation": "Local, Dartmouth College",
+        "traditional_emphasis": "Traditional"
+    },
+    {
+        "name": "Psi Upsilon",
+        "symbol": "ΨΥ",
+        "founded": "1833",
+        "affiliation": "Local, Rensselaer Polytechnic Institute",
+        "traditional_emphasis": "Traditional"
+    }
+]
