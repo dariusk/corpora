@@ -45,7 +45,7 @@
         },
         {
             "name": "church",
-            "synonyms": ["temple","mosque","chapel","cathedral","parish","shrine","synagogue","cathedral"],
+            "synonyms": ["temple","mosque","chapel","cathedral","parish","shrine","synagogue"],
             "qualities": ["spiritual","welcoming","peaceful","enlightening","inspiring","hopeful","healing"],
             "nature": "good"
         },
