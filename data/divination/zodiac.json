@@ -1,0 +1,262 @@
+{
+    "description": "Zodiac signs and associated information, both Western and Eastern.",
+    "source": "https://en.wikipedia.org/wiki/Astrological_sign",
+    "western_zodiac": {
+        "Aries": {
+            "longitude_start": "0",
+            "longitude_end": "30",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Aries.svg",
+            "unicode_symbol": "♈",
+            "gloss": "The Ram",
+            "element": "Fire",
+            "ruling_body_classic": "Mars",
+            "ruling_body_modern": "Mars"
+        },
+        "Taurus": {
+            "longitude_start": "30",
+            "longitude_end": "60",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Taurus.svg",
+            "unicode_symbol": "♉",
+            "gloss": "The Bull",
+            "element": "Earth",
+            "ruling_body_classic": "Venus",
+            "ruling_body_modern": "Earth"
+        },
+        "Gemini": {
+            "longitude_start": "60",
+            "longitude_end": "90",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Gemini.svg",
+            "unicode_symbol": "♊",
+            "gloss": "The Twins",
+            "element": "Air",
+            "ruling_body_classic": "Mercury",
+            "ruling_body_modern": "Mercury"
+        },
+        "Cancer": {
+            "longitude_start": "90",
+            "longitude_end": "120",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Cancer.svg",
+            "unicode_symbol": "♋",
+            "gloss": "The Crab",
+            "element": "Water",
+            "ruling_body_classic": "Moon",
+            "ruling_body_modern": "Moon"
+        },
+        "Leo": {
+            "longitude_start": "120",
+            "longitude_end": "150",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Leo.svg",
+            "unicode_symbol": "♌",
+            "gloss": "The Lion",
+            "element": "Fire",
+            "ruling_body_classic": "Sun",
+            "ruling_body_modern": "Sun"
+        },
+        "Virgo": {
+            "longitude_start": "150",
+            "longitude_end": "180",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Virgo.svg",
+            "unicode_symbol": "♍",
+            "gloss": "The Maiden",
+            "element": "Earth",
+            "ruling_body_classic": "Mercury",
+            "ruling_body_modern": "Ceres"
+        },
+        "Libra": {
+            "longitude_start": "180",
+            "longitude_end": "210",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Libra.svg",
+            "unicode_symbol": "♎",
+            "gloss": "The Scales",
+            "element": "Air",
+            "ruling_body_classic": "Venus",
+            "ruling_body_modern": "Venus"
+        },
+        "Scorpio": {
+            "longitude_start": "210",
+            "longitude_end": "240",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Scorpio.svg",
+            "unicode_symbol": "♏",
+            "gloss": "The Scorpion",
+            "element": "Water",
+            "ruling_body_classic": "Mars",
+            "ruling_body_modern": "Pluto"
+        },
+        "Sagittarius": {
+            "longitude_start": "240",
+            "longitude_end": "270",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Sagittarius.svg",
+            "unicode_symbol": "♐",
+            "gloss": "The Archer",
+            "element": "Fire",
+            "ruling_body_classic": "Jupiter",
+            "ruling_body_modern": "Jupiter"
+        },
+        "Capricorn": {
+            "longitude_start": "270",
+            "longitude_end": "300",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Capricorn.svg",
+            "unicode_symbol": "♑",
+            "gloss": "The Mountain Sea-goat",
+            "element": "Earth",
+            "ruling_body_classic": "Saturn",
+            "ruling_body_modern": "Saturn"
+        },
+        "Aquarius": {
+            "longitude_start": "300",
+            "longitude_end": "330",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Aquarius.svg",
+            "unicode_symbol": "♒",
+            "gloss": "The Water-bearer",
+            "element": "Air",
+            "ruling_body_classic": "Saturn",
+            "ruling_body_modern": "Uranus"
+        },
+        "Pisces": {
+            "longitude_start": "330",
+            "longitude_end": "360",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Pisces.svg",
+            "unicode_symbol": "♓",
+            "gloss": "The Fish",
+            "element": "Water",
+            "ruling_body_classic": "Jupiter",
+            "ruling_body_modern": "Neptune"
+        }
+    },
+    "eastern_zodiac": {
+        "Rat": {
+            "yin-yang": "Yang",
+            "direction": "North",
+            "season": "Mid-Winter",
+            "element": "Water",
+            "trine": "1st",
+            "years": [
+                1900, 1912, 1924, 1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020, 2032
+            ],
+            "unicode_symbol": "子"
+        },
+        "Ox": {
+            "yin-yang": "Yin",
+            "direction": "North",
+            "season": "Late Winter",
+            "element": "Earth",
+            "trine": "2nd",
+            "years": [
+                1901, 1913, 1925, 1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021, 2033
+            ],
+            "unicode_symbol": "丑"
+        },
+        "Tiger": {
+            "yin-yang": "Yang",
+            "direction": "East",
+            "season": "Early Spring",
+            "element": "Wood",
+            "trine": "3rd",
+            "years": [
+                1902, 1914, 1926, 1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022, 2034
+            ],
+            "unicode_symbol": "寅"
+        },
+        "Rabbit": {
+            "yin-yang": "Yin",
+            "direction": "East",
+            "season": "Mid-Spring",
+            "element": "Wood",
+            "trine": "4th",
+            "years": [
+                1903, 1915, 1927, 1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023, 2035
+            ],
+            "unicode_symbol": "卯"
+        },
+        "Dragon": {
+            "yin-yang": "Yang",
+            "direction": "East",
+            "season": "Late Spring",
+            "element": "Earth",
+            "trine": "1st",
+            "years": [
+                1904, 1916, 1928, 1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024, 2036
+            ],
+            "unicode_symbol": "辰"
+        },
+        "Snake": {
+            "yin-yang": "Yin",
+            "direction": "South",
+            "season": "Early Summer",
+            "element": "Fire",
+            "trine": "2nd",
+            "years": [
+                1905, 1917, 1929, 1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025, 2037
+            ],
+            "unicode_symbol": "巳"
+        },
+        "Horse": {
+            "yin-yang": "Yang",
+            "direction": "South",
+            "season": "Mid-Summer",
+            "element": "Fire",
+            "trine": "3rd",
+            "years": [
+                1906, 1918, 1930, 1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026, 2038
+            ],
+            "unicode_symbol": "午"
+        },
+        "Goat": {
+            "yin-yang": "Yin",
+            "direction": "South",
+            "season": "Late Summer",
+            "element": "Earth",
+            "trine": "4th",
+            "years": [
+                1907, 1919, 1931, 1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027, 2039
+            ],
+            "unicode_symbol": "未"
+        },
+        "Monkey": {
+            "yin-yang": "Yang",
+            "direction": "West",
+            "season": "Early Autumn",
+            "element": "Metal",
+            "trine": "1st",
+            "years": [
+                1908, 1920, 1932, 1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028, 2040
+            ],
+            "unicode_symbol": "申"
+        },
+        "Rooster": {
+            "yin-yang": "Yin",
+            "direction": "West",
+            "season": "Mid-Autumn",
+            "element": "Metal",
+            "trine": "2nd",
+            "years": [
+                1909, 1921, 1933, 1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029, 2041
+            ],
+            "unicode_symbol": "酉"
+        },
+        "Dog": {
+            "yin-yang": "Yang",
+            "direction": "West",
+            "season": "Late Autumn",
+            "element": "Earth",
+            "trine": "3rd",
+            "years": [
+                1910, 1922, 1934, 1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030, 2042
+            ],
+            "unicode_symbol": "戌"
+        },
+        "Pig": {
+            "yin-yang": "Yin",
+            "direction": "North",
+            "season": "Early Winter",
+            "element": "Water",
+            "trine": "4th",
+            "years": [
+                1911, 1923, 1935, 1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031, 2043
+            ],
+            "unicode_symbol": "亥"
+        }
+        
+    }
+    
+}
