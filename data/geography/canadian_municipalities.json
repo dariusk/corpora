@@ -1,6 +1,6 @@
 {
     "description": "Top 100 Canadian municipalities by 2011 population",
-    "source": "https:\/\/en.wikipedia.org\/wiki\/List_of_the_100_largest_municipalities_in_Canada_by_population",
+    "source": "https://en.wikipedia.org/wiki/List_of_the_100_largest_municipalities_in_Canada_by_population",
     "municipalities": [
         {
             "name": "Toronto",
