@@ -2,10 +2,6 @@
   "description": "All individuals who filed a Statement of Candidacy with the FEC to register as a presidential candidate in the 2016 United States election.",
   "candidates": [
     {
-      "candidate_name": " JOHNSON, GARY",
-      "party": "Libertarian Party"
-    },
-    {
       "candidate_name": "A WANDRLUSTR, DOT COM",
       "party": "Prohibition Party"
     },
@@ -3280,6 +3276,10 @@
     {
       "candidate_name": "JOHNSON, ERIC PAUL",
       "party": "Democratic Party"
+    },
+    {
+      "candidate_name": "JOHNSON, GARY",
+      "party": "Libertarian Party"
     },
     {
       "candidate_name": "JOHNSON, JOHN FITZGERALD MR.",
