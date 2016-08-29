@@ -1,0 +1,260 @@
+{
+	"description": "a list of women classical guitarists",
+	"source": "https://en.wikipedia.org/wiki/List_of_women_classical_guitarists",
+	"data": [{
+		"country": "Argentina",
+		"name": "Maria Luisa Anido",
+		"born": 1907,
+		"died": 1996,
+		"wiki": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Luisa_Anido",
+		"url": "http://www.guitarrasweb.com/marialuisaanido/curri.htm"
+	}, {
+		"country": "Argentina",
+		"name": "Maria Luisa Siewers",
+		"born": 1950,
+		"wiki": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Isabel_Siewers",
+		"url": "http://www.isabelsiewers.com/"
+	}, {
+		"country": "Australia",
+		"name": "Milica Davies",
+		"born": 1981,
+		"wiki": "https://en.wikipedia.org/wiki/Milica_Davies",
+		"url": "http://www.milicadaviesguitar.com/"
+	}, {
+		"country": "Australia",
+		"name": "Karin Schaupp",
+		"born": 1972,
+		"wiki": "https://en.wikipedia.org/wiki/Karin_Schaupp",
+		"url": "http://www.karinschaupp.com/"
+	}, {
+		"country": "Austria",
+		"name": "Johanna Beisteiner",
+		"born": 1976,
+		"wiki": "https://en.wikipedia.org/wiki/Johanna_Beisteiner",
+		"url": "http://www.beisteiner.com/index-en.html"
+	}, {
+		"country": "Austria",
+		"name": "Luise Walker",
+		"born": 1910,
+		"died": 1998,
+		"wiki": "https://en.wikipedia.org/wiki/Luise_Walker"
+	}, {
+		"country": "Brazil",
+		"name": "Badi Assad",
+		"born": 1966,
+		"wiki": "https://en.wikipedia.org/wiki/Badi_Assad",
+		"url": "http://badiassad.com/pt/"
+	},{
+		"country": "Canada",
+		"name": "Liona Boyd",
+		"born": 1949,
+		"wiki": "https://en.wikipedia.org/wiki/Liona_Boyd",
+		"url": "http://lionaboyd.com/"
+	},
+	{
+		"country": "Canada",
+		"name": "Laura Young",
+		"born": 1962,
+		"wiki": "https://en.wikipedia.org/wiki/Laura_Young",
+		"url": "http://www.laurayoungguitar.com/"
+	},
+	{
+		"country": "China",
+		"name": "Li Jie",
+		"born": 1981,
+		"wiki": "https://en.wikipedia.org/wiki/Li_Jie_(guitar_player)"
+	},
+	{
+		"country": "China",
+		"name": "Meng Su",
+		"born": 1988,
+		"wiki": "https://en.wikipedia.org/wiki/Su_Meng",
+		"url": ["http://www.mengsuguitar.com/", "http://www.beijingguitarduo.com/"]
+	},{
+		"country": "China",
+		"name": "Chen Shanshan",
+		"born": 1983,
+		"wiki": "https://en.wikipedia.org/wiki/Chen_Shanshan"
+	},{
+		"country": "China",
+		"name": "Yameng Wang",
+		"born": 1981,
+		"wiki": "https://en.wikipedia.org/wiki/Wang_Yameng",
+		"url": "http://www.beijingguitarduo.com/"
+	},
+	{
+		"country": "China",
+		"name": "Xuefei Yang",
+		"born": 1977,
+		"wiki": "https://en.wikipedia.org/wiki/Xuefei_Yang",
+		"url": "http://www.xuefeiyang.com/"
+	},
+	{
+		"country": "Croatia",
+		"name": "Ana Vidovic",
+		"born": 1980,
+		"wiki": "https://en.wikipedia.org/wiki/Ana_Vidovi%C4%87",
+		"url": "http://www.anavidovic.com/"
+	},
+	{
+		"country": "Cuba",
+		"name": "Clara Nicola",
+		"born": 1926,
+		"wiki": "https://en.wikipedia.org/wiki/Clara_(Cuqui)_Nicola"
+	},
+	{
+		"country": "France",
+		"name": "Liat Cohen",
+		"born": 1971,
+		"wiki": "https://en.wikipedia.org/wiki/Liat_Cohen",
+		"url": "http://www.liatcohen.com/"
+	},
+	{
+		"country": "France",
+		"name": "Ida Presti",
+		"born": 1924,
+		"died": 1967,
+		"wiki": "https://en.wikipedia.org/wiki/Ida_Presti"
+	},
+	{
+		"country": "Germany",
+		"name": "Maria Kämmerling",
+		"born": 1946,
+		"wiki": "https://en.wikipedia.org/wiki/Maria_K%C3%A4mmerling"
+	},
+	{
+		"country": "Germany",
+		"name": "Heike Matthiesen",
+		"born": 1969,
+		"wiki": "https://en.wikipedia.org/wiki/Heike_Matthiesen",
+		"url": "https://heikematthiesen.wordpress.com/welcomeclassicalguitar/"
+	},
+	{
+		"country": "Germany",
+		"name": "Catharina Josepha Pratten",
+		"born": 1821,
+		"died": 1985,
+		"wiki": "https://en.wikipedia.org/wiki/Catharina_Pratten"
+	},
+	{
+		"country": "Germany",
+		"name": "Monika Rost",
+		"born": 1943,
+		"wiki": "https://en.wikipedia.org/wiki/Monika_Rost"
+	},
+	{
+		"country": "Greece",
+		"name": "Antigoni Goni",
+		"born": 1969,
+		"wiki": "https://en.wikipedia.org/wiki/Antigoni_Goni",
+		"url": "http://www.antigonigoni.com/"
+	},
+	{
+		"country": "Iran",
+		"name": "Lily Afshar",
+		"born": 1960,
+		"wiki": "https://en.wikipedia.org/wiki/Lily_Afshar",
+		"url": "http://lilyafshar.com/"
+	},
+	{
+		"country": "Italy",
+		"name": "Filomena Moretti",
+		"born": 1973,
+		"wiki": "https://en.wikipedia.org/wiki/Filomena_Moretti"
+	},
+	{
+		"country": "Japan",
+		"name": "Kaori Muraji",
+		"born": 1978,
+		"wiki": "https://en.wikipedia.org/wiki/Kaori_Muraji",
+		"url": "http://www.officemuraji.com/profile_e.html"
+	},
+	{
+		"country": "Netherlands",
+		"name": "Annette Kruisbrink",
+		"born": 1958,
+		"wiki": "https://en.wikipedia.org/wiki/Annette_Kruisbrink",
+		"url": "http://www.annettekruisbrink.nl/"
+	},
+	{
+		"country": "Paraguay",
+		"name": "Berta Rojas",
+		"born": 1966,
+		"wiki": "https://en.wikipedia.org/wiki/Berta_Rojas",
+		"url": "http://www.bertarojas.com/"
+	},
+	{
+		"country": "Russia",
+		"name": "Anastasia Bardina",
+		"born": 1962,
+		"wiki": "https://en.wikipedia.org/wiki/Anastasia_Bardina"
+	},
+	{
+		"country": "Russia",
+		"name": "Irina Kulikova",
+		"born": 1982,
+		"wiki": "https://en.wikipedia.org/wiki/Irina_Kulikova_(classical_guitarist)",
+		"url": "http://www.irinakulikova.nl/"
+	},
+	{
+		"country": "Spain",
+		"name": "Margarita Escarpa",
+		"born": 1964,
+		"wiki": "https://en.wikipedia.org/wiki/Margarita_Escarpa"
+	},
+	{
+		"country": "Spain",
+		"name": "Renata Tarragó",
+		"born": 1927,
+		"died": 2005,
+		"wiki": "https://en.wikipedia.org/wiki/Renata_Tarrag%C3%B3"
+	},
+	{
+		"country": "United Kingdom",
+		"name": "Nicola Hall",
+		"born": 1969,
+		"wiki": "https://en.wikipedia.org/wiki/Nicola_Hall"
+	},
+	{
+		"country": "United Kingdon",
+		"name": "Catharina Josepha Pratten",
+		"born": 1821,
+		"died": 1985,
+		"wiki": "https://en.wikipedia.org/wiki/Catharina_Pratten"
+	},
+	{
+		"country": "United States",
+		"name": "Alice Artzt",
+		"born": 1943,
+		"wiki": "https://en.wikipedia.org/wiki/Alice_Artzt"
+	},
+	{
+		"country": "United States",
+		"name": "Anna Maria Cardinalli",
+		"born": 1979,
+		"wiki": "https://en.wikipedia.org/wiki/AnnaMaria_Cardinalli",
+		"url": "http://www.annamaria.ws/"
+	},
+	{
+		"country": "United States",
+		"name": "Sharon Isbin",
+		"born": 1956,
+		"wiki": "https://en.wikipedia.org/wiki/Sharon_Isbin",
+		"url": "http://www.sharonisbin.com/"
+	},
+	{
+		"country": "United States",
+		"name": "Martha Masters",
+		"born": 1972,
+		"wiki": "https://en.wikipedia.org/wiki/Martha_Masters_(musician)",
+		"url": "http://www.marthamasters.com/"
+	},
+	{
+		"country": "United States",
+		"name": "Vahdah Olcott-Bickford",
+		"born": 1885,
+		"died": 1980,
+		"wiki": "https://en.wikipedia.org/wiki/Vahdah_Olcott-Bickford"
+	}
+	]
+}
