@@ -2,6 +2,11 @@
     "description": "Tarot card interpretations, from Mark McElroy's _A Guide to Tarot Meanings_ (http://www.madebymark.com/a-guide-to-tarot-card-meanings/)", 
     "tarot_interpretations": [
         {
+            "fortune_telling": [
+                "Watch for new projects and new beginnings", 
+                "Prepare to take something on faith", 
+                "Something new comes your way; go for it"
+            ], 
             "keywords": [
                 "freedom", 
                 "faith", 
@@ -34,6 +39,10 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A powerful man may play a role in your day", 
+                "Your current situation must be seen as one element of a much larger plan"
+            ], 
             "keywords": [
                 "capability", 
                 "empowerment", 
@@ -62,6 +71,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A mysterious woman arrives", 
+                "A sexual secret may surface", 
+                "Someone knows more than he or she will reveal"
+            ], 
             "keywords": [
                 "intuition", 
                 "reflection", 
@@ -92,6 +106,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Pregnancy is in the cards", 
+                "An opportunity to be involved in luxurious sexuality is coming", 
+                "Beware a tendency toward addiction"
+            ], 
             "keywords": [
                 "fertility", 
                 "productivity", 
@@ -123,6 +142,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A father figure arrives", 
+                "A new employer or authority figure will give you orders", 
+                "Expect discipline or correction in the near future"
+            ], 
             "keywords": [
                 "authority", 
                 "regulation", 
@@ -151,6 +175,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Expect to be caught in a misdeed and punished accordingly", 
+                "Pray for forgiveness and confess wrongdoings", 
+                "A more experienced man, spiritual leader, or father figure will come into your life"
+            ], 
             "keywords": [
                 "guidance", 
                 "knowledge", 
@@ -181,6 +210,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A new personal or professional relationship blossoms", 
+                "Sexual opportunities abound", 
+                "Unexpectedly, a friend becomes a lover"
+            ], 
             "keywords": [
                 "love", 
                 "passion", 
@@ -209,6 +243,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Victory is a certainty", 
+                "Move ahead with all plans", 
+                "Beware the jealousy of others"
+            ], 
             "keywords": [
                 "advancement", 
                 "victory", 
@@ -236,6 +275,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Your self-control will be tested", 
+                "A woman will seek to change her partner or lover", 
+                "You are a strong, capable person"
+            ], 
             "keywords": [
                 "discipline", 
                 "boldness", 
@@ -262,6 +306,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A period of loneliness begins", 
+                "One partner in a relationship departs", 
+                "A search for love or money proves fruitless"
+            ], 
             "keywords": [
                 "solitude", 
                 "experience", 
@@ -289,6 +338,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Some events are in the hands of heaven", 
+                "You've lived through this before", 
+                "What happened then?"
+            ], 
             "keywords": [
                 "luck", 
                 "randomness", 
@@ -317,6 +371,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A legal verdict will be rendered soon", 
+                "Someone is making a decision", 
+                "You need to get the facts"
+            ], 
             "keywords": [
                 "balance", 
                 "law", 
@@ -345,6 +404,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A traitor is revealed", 
+                "One of your friends is working against you", 
+                "Change your ways or suffer the consequences"
+            ], 
             "keywords": [
                 "enlightenment", 
                 "sacrifice", 
@@ -373,6 +437,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "A relationship or illness ends suddenly", 
+                "Limit travel and risk-taking", 
+                "General gloom and doom"
+            ], 
             "keywords": [
                 "ending", 
                 "conclusion", 
@@ -401,6 +470,10 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Someone's using drugs or alcohol to excess", 
+                "It's time to get back on that diet"
+            ], 
             "keywords": [
                 "blending", 
                 "synthesis", 
@@ -432,6 +505,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Adultery and unfaithfulness", 
+                "A string of extremely bad luck is coming your way", 
+                "Beware evil influences and wolves in sheep's clothing"
+            ], 
             "keywords": [
                 "shadow", 
                 "materialism", 
@@ -461,6 +539,12 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Impending disaster", 
+                "Cancel plans and reverse decisions", 
+                "Someone wants to take you down a notch or two", 
+                "Don't hold back; say what you really mean"
+            ], 
             "keywords": [
                 "demolition", 
                 "upheaval", 
@@ -490,6 +574,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Get an astrology chart drawn up", 
+                "Someone is a little too starstruck", 
+                "What's happening now has long been fore-ordained"
+            ], 
             "keywords": [
                 "hope", 
                 "optimism", 
@@ -521,6 +610,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Watch for problems at the end of the month", 
+                "Someone you know needs to howl at the moon more often", 
+                "Someone is about to change his or her mind about an important decision"
+            ], 
             "keywords": [
                 "mystery", 
                 "fantasy", 
@@ -549,6 +643,10 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Everything's coming up roses (or sunflowers, whatever the case may be)", 
+                "Whatever's on your mind, go for it because you can't lose today"
+            ], 
             "keywords": [
                 "joy", 
                 "brilliance", 
@@ -577,6 +675,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "An old issue you thought was over will come up again today", 
+                "Get ready for huge changes: break-ups, sudden calls from old friends, and unexpected setbacks", 
+                "God's trying to get your attention"
+            ], 
             "keywords": [
                 "revival", 
                 "renewal", 
@@ -606,6 +709,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Winning the lottery", 
+                "Getting your heart's desire", 
+                "Having everything you ever imagined having"
+            ], 
             "keywords": [
                 "wholeness", 
                 "integration", 
@@ -634,6 +742,11 @@
             "suit": "major"
         }, 
         {
+            "fortune_telling": [
+                "Someone has the \"hots\" for you", 
+                "A new job offer is coming your way", 
+                "Walk softly, and carry a big stick"
+            ], 
             "keywords": [
                 "desire", 
                 "inspiration", 
@@ -665,6 +778,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Beware false friends", 
+                "Don't be mealy-mouthed; say what you think and do what you want to do"
+            ], 
             "keywords": [
                 "conflict", 
                 "decision", 
@@ -693,6 +810,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "You'll be planning a trip soon", 
+                "Be on the lookout: your ship is coming in"
+            ], 
             "keywords": [
                 "implementation", 
                 "action", 
@@ -721,6 +842,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Someone is watching and evaluating your work", 
+                "You may get a wedding invitation soon"
+            ], 
             "keywords": [
                 "celebration", 
                 "jubilation", 
@@ -749,6 +874,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Prepare for a fight with your best friend", 
+                "Remember: once you let words loose, you can't take them back"
+            ], 
             "keywords": [
                 "confrontation", 
                 "disruption", 
@@ -776,6 +905,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Someone is planning a party for you, but not everyone feels so good about your recent success", 
+                "Watch out for envious friends"
+            ], 
             "keywords": [
                 "victory", 
                 "achievement", 
@@ -807,6 +940,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Don't be surprised by a personal attack", 
+                "Prepare to defend yourself or someone you love"
+            ], 
             "keywords": [
                 "bravery", 
                 "resolve", 
@@ -834,6 +971,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Watch for a surprising letter in the mail", 
+                "Your whole world is about to be turned on its ear"
+            ], 
             "keywords": [
                 "speed", 
                 "swiftness", 
@@ -864,6 +1005,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Don't relax yet; there's more to come", 
+                "The test you're facing now is happening for one reason: to show you who your real friends are"
+            ], 
             "keywords": [
                 "toughness", 
                 "persistence", 
@@ -896,6 +1041,10 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "You're worn out",
+                "Back off, take a time out, and let someone else handle things for a while"
+            ], 
             "keywords": [
                 "exhaustion", 
                 "resistance", 
@@ -923,6 +1072,9 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a young man or woman with a fiery, enthusiastic demeanor, likely born a Cancer, Leo, or Virgo, who wants to start a new relationship with you"
+            ], 
             "keywords": [
                 "enthusiasm", 
                 "eagerness", 
@@ -951,6 +1103,9 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a man with a bold, passionate personality, likely born between July 12th and August 11th, who wants to sweep you off your feet"
+            ], 
             "keywords": [
                 "boldness", 
                 "bravado", 
@@ -981,6 +1136,9 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a woman with an attractive, appealing personality, likely born between March 11th and April 20th, who wants to charm you into doing things her way"
+            ], 
             "keywords": [
                 "attention", 
                 "attraction", 
@@ -1007,6 +1165,9 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "This card represents an older man with a commanding, charismatic personality, likely born between November 13th and December 12th, who prefers to give directions and have them followed"
+            ], 
             "keywords": [
                 "creativity", 
                 "ingenuity", 
@@ -1033,6 +1194,11 @@
             "suit": "wands"
         }, 
         {
+            "fortune_telling": [
+                "Romance is in the cards",
+                "A new relationship or marriage is just around the corner", 
+                "Prayers are answered"
+            ], 
             "keywords": [
                 "intuition", 
                 "spirituality", 
@@ -1062,6 +1228,10 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "Someone has a secret crush on you", 
+                "Relationships should be mutual; get rid of a leech"
+            ], 
             "keywords": [
                 "union", 
                 "attraction", 
@@ -1093,6 +1263,9 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "Unconventional romance is coming your way: a love affair with someone you've always dismissed"
+            ], 
             "keywords": [
                 "celebration", 
                 "expression", 
@@ -1120,6 +1293,10 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "A lover is getting restless", 
+                "Find out what he or she needs, or new opportunities may lure your partner away"
+            ], 
             "keywords": [
                 "boredom", 
                 "listlessness", 
@@ -1141,7 +1318,7 @@
                     "Taking people and relationships for granted", 
                     "Ignoring romantic or spiritual opportunities", 
                     "Spurning inspiration", 
-                    "Feeling everything should stay \"just like it is!\""
+                    "Feeling everything should stay \"just like it is\""
                 ]
             }, 
             "name": "four of cups", 
@@ -1149,6 +1326,11 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "A breakup looms", 
+                "Don't cry over spilt milk", 
+                "Take your lumps and get back in the saddle"
+            ], 
             "keywords": [
                 "loss", 
                 "despair", 
@@ -1181,6 +1363,10 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "A stingy spirit is strangling your enjoyment of life", 
+                "Loosen up and think of others for once, why don't you?"
+            ], 
             "keywords": [
                 "charity", 
                 "sharing", 
@@ -1210,6 +1396,10 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "You're being fed a line", 
+                "Rather than be dazzled by fancy words and promises, demand something real"
+            ], 
             "keywords": [
                 "imagination", 
                 "dreams", 
@@ -1237,6 +1427,10 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "Someone's \"stepping out\" on you, now or in the near future", 
+                "Maybe it's time to quit talking about the problem and just move on"
+            ], 
             "keywords": [
                 "longing", 
                 "dissatisfaction", 
@@ -1270,6 +1464,9 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "Whatever you want, you'll get it"
+            ], 
             "keywords": [
                 "satisfaction", 
                 "sensuality", 
@@ -1300,6 +1497,10 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "Marriage and family are in the cards", 
+                "Expect a friendship to blossom into a romance"
+            ], 
             "keywords": [
                 "joy", 
                 "fulfillment", 
@@ -1326,6 +1527,9 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a young man or woman with a watery, dreamy demeanor, likely born a Libra, Scorpio, or Sagittarius, who wants to start a new relationship with you"
+            ], 
             "keywords": [
                 "enthusiasm", 
                 "first impressions", 
@@ -1356,6 +1560,9 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a man with an emotional, sensitive personality, likely born between October 13th and November 11th, who wants you to rally around his latest passionate cause"
+            ], 
             "keywords": [
                 "fervor", 
                 "zeal", 
@@ -1384,6 +1591,9 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a woman with an emotional, deeply spiritual nature, likely born between June 11th and July 11th, who uses emotional and spiritual appeals to sway others to her point of view"
+            ], 
             "keywords": [
                 "insightfulness", 
                 "spirituality", 
@@ -1412,6 +1622,9 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "This card represents an older man with a gentle, sensitive presence, likely born between February 9th and March 10th, who is known for his fairness and tolerance"
+            ], 
             "keywords": [
                 "wisdom", 
                 "diplomacy", 
@@ -1439,6 +1652,10 @@
             "suit": "cups"
         }, 
         {
+            "fortune_telling": [
+                "The time to make a choice is now", 
+                "Stop wavering and do what you know is best"
+            ], 
             "keywords": [
                 "logic", 
                 "objectivity", 
@@ -1469,6 +1686,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Sometimes, the only way to win is to refuse to fight", 
+                "You're stuck for now; let time pass before taking action"
+            ], 
             "keywords": [
                 "denial", 
                 "debate", 
@@ -1497,6 +1718,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Breakups and infidelity abound", 
+                "What hurts now, though, will turn out to be good for you later on"
+            ], 
             "keywords": [
                 "variance", 
                 "difference", 
@@ -1525,6 +1750,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Don't make any decision now", 
+                "Wait, and you'll be glad you did"
+            ], 
             "keywords": [
                 "meditation", 
                 "contemplation", 
@@ -1551,6 +1780,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Someone is stealing from you, financially or romantically", 
+                "Be wary of friends who talk behind your back"
+            ], 
             "keywords": [
                 "selfishness", 
                 "hostility", 
@@ -1582,6 +1815,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "You'll soon go on a long journey over water", 
+                "Actions have unexpected consequences, so be prepared"
+            ], 
             "keywords": [
                 "adaptation", 
                 "adjustments", 
@@ -1611,6 +1848,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Don't assume people around you are worthy of your trust", 
+                "Ask for an accounting of where people have been, and what they've been doing"
+            ], 
             "keywords": [
                 "dishonesty", 
                 "presumption", 
@@ -1638,6 +1879,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Get over playing the victim", 
+                "Once you realize you are your own biggest obstacle, nothing can hold you back"
+            ], 
             "keywords": [
                 "restriction", 
                 "limitation", 
@@ -1670,6 +1915,9 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "If you take the action you're considering now, you'll be sorry in the future"
+            ], 
             "keywords": [
                 "remorse", 
                 "worry", 
@@ -1701,6 +1949,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Disaster", 
+                "Put off plans and do not take action until omens are better"
+            ], 
             "keywords": [
                 "exhaustion", 
                 "ruin", 
@@ -1732,6 +1984,9 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a young man or woman with an airy, intellectual demeanor, likely born a Capricorn, Aquarius, or Pisces, who wants to learn something new from you or have a discussion with you"
+            ], 
             "keywords": [
                 "student", 
                 "apprentice", 
@@ -1762,6 +2017,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "A blunder leads someone to say something he or she regrets", 
+                "If this was you, be prepared to apologize and move on"
+            ], 
             "keywords": [
                 "bluntness", 
                 "intelligence", 
@@ -1796,6 +2055,9 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a woman with an artistic, intellectual nature, likely born between September 12th and October 12th, who uses clever, positive communication to sway others to her point of view"
+            ], 
             "keywords": [
                 "grace", 
                 "skill", 
@@ -1830,6 +2092,9 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "This card represents an older man with an insightful, deliberate spirit, likely born between May 11th and June 10th, who is known for his integrity and sharp decision-making ability"
+            ], 
             "keywords": [
                 "genius", 
                 "expertise", 
@@ -1860,6 +2125,10 @@
             "suit": "swords"
         }, 
         {
+            "fortune_telling": [
+                "Your health will improve", 
+                "The check you're looking for really is in the mail"
+            ], 
             "keywords": [
                 "health", 
                 "wealth", 
@@ -1888,6 +2157,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "It's time to balance the budget", 
+                "Avoid the temptation to spend critical funds on frivolous goods"
+            ], 
             "keywords": [
                 "evaluation", 
                 "decision", 
@@ -1917,6 +2190,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "A high-dollar contract is in your future", 
+                "If you work hard, you'll succeed"
+            ], 
             "keywords": [
                 "expression", 
                 "production", 
@@ -1947,6 +2224,9 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "A rainy day is coming\u2014it's time to save"
+            ], 
             "keywords": [
                 "protection", 
                 "conservation", 
@@ -1977,6 +2257,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "Finances are getting tighter", 
+                "Prepare for a setback"
+            ], 
             "keywords": [
                 "poverty", 
                 "destitution", 
@@ -2007,6 +2291,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "When you need help, ask for it", 
+                "Remember, though: what you receive may be limited by what you've given to others in the past"
+            ], 
             "keywords": [
                 "charity", 
                 "fairness", 
@@ -2037,6 +2325,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "Things won't work out as expected", 
+                "Pick up the pieces and prepare to move on"
+            ], 
             "keywords": [
                 "assessment", 
                 "evaluation", 
@@ -2066,6 +2358,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "Stop over-analyzing, researching, and outlining", 
+                "Buckle down and get the work done"
+            ], 
             "keywords": [
                 "effort", 
                 "work diligence", 
@@ -2097,6 +2393,9 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "Until you appreciate what you have, you won't have any luck getting more"
+            ], 
             "keywords": [
                 "training", 
                 "discipline", 
@@ -2125,6 +2424,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "Big money is in the near future", 
+                "Expect a powerful blessing to come your way"
+            ], 
             "keywords": [
                 "wealth", 
                 "abundance", 
@@ -2153,6 +2456,9 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a young man or woman with an earthy, practical demeanor, likely born an Aries, Taurus, or Gemini, who playfully encourages you to take financial or sexual risks"
+            ], 
             "keywords": [
                 "practicality", 
                 "prosperity", 
@@ -2183,6 +2489,10 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "A stingy person may chide you for spending money", 
+                "Be prepared to defend an economic or sexual decision"
+            ], 
             "keywords": [
                 "caution", 
                 "focus", 
@@ -2215,6 +2525,9 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "This card represents a woman with an expansive, sensual nature, likely born between December 13th and 31st, who uses sensual appeal and the promise of reward to sway others to her point of view"
+            ], 
             "keywords": [
                 "luxury", 
                 "comfort", 
@@ -2244,6 +2557,9 @@
             "suit": "coins"
         }, 
         {
+            "fortune_telling": [
+                "This card represents an older man with a financially, socially, and politically conservative spirit, likely born between August 12th and September 11th, who is known for putting his money where his mouth is"
+            ], 
             "keywords": [
                 "stability", 
                 "dependability", 
