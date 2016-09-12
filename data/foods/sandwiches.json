@@ -362,6 +362,11 @@
       "name": "Hot chicken"
     },
     {
+      "description": "A cooked sausage, traditionally grilled or steamed and served in a sliced bun as a sandwich.",
+      "origin": "Germany",
+      "name": "Hot dog"
+    },
+    {
       "description": "Often open-faced, sliced turkey on white bread drenched in turkey gravy, often served with mashed potatoes. These are sometimes served at Hofbrau-style restaurants.",
       "origin": "United States",
       "name": "Hot turkey"
