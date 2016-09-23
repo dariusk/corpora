@@ -1,0 +1,215 @@
+{
+  "description": "This is a list of government surveillance projects and related databases throughout the world.",
+  "source": "Data found here: https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects",
+  "projects": [
+   {
+     "Name": "ECHELON",
+     "Region": "International"
+   },
+   {
+     "Name": "Data Retention Directive",
+     "Region": "European Union"
+   },
+   {
+     "Name": "INDECT",
+     "Region": "European Union"
+   },
+   {
+     "Name": "Schengen Information System",
+     "Region": "European Union"
+   },
+   {
+     "Name": "Golden Shield Project",
+     "Region": "China"
+   },
+   {
+     "Name": "Monitoring Bureau",
+     "Region": "China"
+   },
+   {
+     "Name": "Public Information Network Security",
+     "Region": "China"
+   },
+   {
+     "Name": "Frenchelon",
+     "Region": "France"
+   },
+   {
+     "Name": "Nachrichtendienstliches Informationssystem",
+     "Region": "Germany"
+
+   },
+   {
+     "Name": "Project 6",
+     "Region": "Germany"
+   },
+   {
+     "Name": "Central Monitoring System",
+     "Region": "India"
+   },
+   {
+     "Name": "DRDO NETRA",
+     "Region": "India"
+   },
+   {
+     "Name": "NATGRID",
+     "Region": "India"
+   },
+   {
+     "Name": "SORM",
+     "Region": "Russia"
+   },
+   {
+     "Name": "Yarovaya Law",
+     "Region": "Russia"
+   },
+   {
+     "Name": "Titan traffic database",
+     "Region": "Sweden"
+   },
+   {
+     "Name": "X-Keyscore",
+     "Region": "Sweden"
+   },
+   {
+     "Name": "Onyx",
+     "Region": "Switzerland"
+   },
+   {
+     "Name": "Impact Nominal Index",
+     "Region": "United Kingdom"
+   },
+   {
+     "Name": "Interception Modernisation Programme",
+     "Region": "United Kingdom"
+   },
+   {
+     "Name": "Mastering the Internet",
+     "Region": "United Kingdom"
+   },
+   {
+     "Name": "UK National DNA Database",
+     "Region": "United Kingdom"
+   },
+   {
+     "Name": "Tempora",
+     "Region": "United Kingdom"
+   },
+   {
+     "Name": "Royal Concierge",
+     "Region": "United Kingdom"
+   },
+   {
+     "Name": "Boundless Informant",
+     "Region": "United States"
+   },
+   {
+     "Name": "BULLRUN",
+     "Region": "United States"
+   },
+   {
+     "Name": "Carnivore",
+     "Region": "United States"
+   },
+   {
+     "Name": "Comprehensive National Cybersecurity Initiative",
+     "Region": "United States"
+   },
+   {
+     "Name": "DCSNet",
+     "Region": "United States"
+   },
+   {
+     "Name": "Fairview",
+     "Region": "United States"
+   },
+   {
+     "Name": "Financial Crimes Enforcement Network",
+     "Region": "United States"
+   },
+   {
+     "Name": "ICREACH",
+     "Region": "United States"
+   },
+   {
+     "Name": "Magic Lantern",
+     "Region": "United States"
+   },
+   {
+     "Name": "Main Core",
+     "Region": "United States"
+   },
+   {
+     "Name": "MAINWAY",
+     "Region": "United States"
+   },
+   {
+     "Name": "MUSCULAR",
+     "Region": "United States"
+   },
+   {
+     "Name": "MYSTIC",
+     "Region": "United States"
+   },
+   {
+     "Name": "Nationwide Suspicious Activity Reporting Initiative",
+     "Region": "United States"
+   },
+   {
+     "Name": "NSA ANT catalog",
+     "Region": "United States"
+   },
+   {
+     "Name": "PRISM",
+     "Region": "United States"
+   },
+   {
+     "Name": "Room 641A",
+     "Region": "United States"
+   },
+   {
+     "Name": "Sentry Eagle",
+     "Region": "United States"
+   },
+   {
+     "Name": "Special Collection Service (SCS)",
+     "Region": "United States"
+   },
+   {
+     "Name": "Stellar Wind (code name)",
+     "Region": "United States"
+   },
+   {
+     "Name": "Tailored Access Operations",
+     "Region": "United States"
+   },
+   {
+     "Name": "Terrorist Finance Tracking Program",
+     "Region": "United States"
+   },
+   {
+     "Name": "Turbulance",
+     "Region": "United States"
+   },
+   {
+     "Name": "US Intelligence Community (IC)",
+     "Region": "United States"
+   },
+   {
+     "Name": "Utah Data Center",
+     "Region": "United States"
+   },
+   {
+     "Name": "X-Keyscore",
+     "Region": "United States"
+   },
+   {
+     "Name": "GhostNet",
+     "Region": "Unknown origin"
+   },
+   {
+     "Name": "Stuxnet",
+     "Region": "Unknown origin"
+   }
+  ]
+}
