@@ -1,0 +1,244 @@
+{
+  "description": "Current (as of 2016) teams in the NHL and where they play",
+  "nhl_teams": [
+    {
+      "city": "Boston",
+      "state": "MA",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Boston Bruins",
+      "stadium": "TD Garden"
+    },
+    {
+      "city": "Buffalo",
+      "state": "NY",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Buffalo Sabres",
+      "stadium": "KeyBank Center"
+    },
+    {
+      "city": "Detroit",
+      "state": "MI",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Detroit Red Wings",
+      "stadium": "Joe Louis Arena"
+    },
+    {
+      "city": "Sunrise",
+      "state": "FL",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Florida Panthers",
+      "stadium": "BB&T Center"
+    },
+    {
+      "city": "Montreal",
+      "state": "QC",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Montreal Canadiens",
+      "stadium": "Bell Centre"
+    },
+    {
+      "city": "Ottawa",
+      "state": "ON",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Ottawa Senators",
+      "stadium": "Canadian Tire Centre"
+    },
+    {
+      "city": "Tampa",
+      "state": "FL",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Tampa Bay Lightning",
+      "stadium": "Amalie Arena"
+    },
+    {
+      "city": "Toronto",
+      "state": "ON",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Toronto Maple Leafs",
+      "stadium": "Air Canada Centre"
+    },
+    {
+      "city": "Raleigh",
+      "state": "NC",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "Carolina Hurricanes",
+      "stadium": "PNC Arena"
+    },
+    {
+      "city": "Columbus",
+      "state": "OH",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "Columbus Blue Jackets",
+      "stadium": "Nationwide Arena"
+    },
+    {
+      "city": "Newark",
+      "state": "NJ",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "New Jersey Devils",
+      "stadium": "Prudential Center"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "New York Islanders",
+      "stadium": "Barclays Center"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "New York Rangers",
+      "stadium": "Madison Square Garden"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "PA",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "Philadelphia Flyers",
+      "stadium": "Wells Fargo Center"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "Pittsburgh Penguins",
+      "stadium": "Consol Energy Center"
+    },
+    {
+      "city": "Washington, D.C.",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "name": "Washington Capitals",
+      "stadium": "Verizon Center"
+    },
+    {
+      "city": "Anaheim",
+      "state": "CA",
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Anaheim Ducks",
+      "stadium": "Honda Center"
+    },
+    {
+      "city": "Glendale",
+      "state": "AZ",
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Arizona Coyotes",
+      "stadium": "Gila River Arena"
+    },
+    {
+      "city": "Calgary",
+      "state": "AB",
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Calgary Flames",
+      "stadium": "Scotiabank Saddledome"
+    },
+    {
+      "city": "Edmonton",
+      "state": "AB",
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Edmonton Oilers",
+      "stadium": "Rogers Place"
+    },
+    {
+      "city": "Los Angeles",
+      "state": "CA",
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Los Angeles Kings",
+      "stadium": "Staples Center"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "San Jose Sharks",
+      "stadium": "SAP Center at San Jose"
+    },
+    {
+      "city": "Vancouver",
+      "state": "BC",
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Vancouver Canucks",
+      "stadium": "Rogers Arena"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "conference": "Western",
+      "division": "Central",
+      "name": "Chicago Blackhawks",
+      "stadium": "United Center"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
+      "conference": "Western",
+      "division": "Central",
+      "name": "Colorado Avalanche",
+      "stadium": "Pepsi Center"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "conference": "Western",
+      "division": "Central",
+      "name": "Dallas Stars",
+      "stadium": "American Airlines Center"
+    },
+    {
+      "city": "St. Paul",
+      "state": "MN",
+      "conference": "Western",
+      "division": "Central",
+      "name": "Minnesota Wild",
+      "stadium": "Xcel Energy Center"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "conference": "Western",
+      "division": "Central",
+      "name": "Nashville Predators",
+      "stadium": "Bridgestone Arena"
+    },
+    {
+      "city": "St. Louis",
+      "state": "MO",
+      "conference": "Western",
+      "division": "Central",
+      "name": "St. Louis Blues",
+      "stadium": "Scottrade Center"
+    },
+    {
+      "city": "Winnipeg",
+      "state": "MB",
+      "conference": "Western",
+      "division": "Central",
+      "name": "Winnipeg Jets",
+      "stadium": "MTS Centre"
+    }
+  ]
+}
