@@ -1,0 +1,14 @@
+{
+  "description" : "Winners in the Corpora Brackets, from https://twitter.com/corporabrackets",
+  "winners" : [{
+      "bracket" : "condiments",
+      "winner" : "Guacamole"
+    }, {
+      "bracket" : "elements",
+      "winner" : "Carbon"
+    }, {
+      "bracket" : "fibers",
+      "winner" : "yarn"
+    }
+  ]
+}
