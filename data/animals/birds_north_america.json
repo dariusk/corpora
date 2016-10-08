@@ -58,6 +58,7 @@
         "Labrador Duck",
         "Surf Scoter",
         "White-winged Scoter",
+        "Common Scoter",
         "Black Scoter",
         "Long-tailed Duck",
         "Bufflehead",
@@ -199,6 +200,7 @@
         "Ringed Storm-Petrel",
         "Swinhoe's Storm-Petrel",
         "Leach's Storm-Petrel",
+        "Townsend's Storm-Petrel",
         "Ashy Storm-Petrel",
         "Band-rumped Storm-Petrel",
         "Wedge-rumped Storm-Petrel",
@@ -806,7 +808,6 @@
     {
       "family": "Lories, Lovebirds, and Australasian Parrots",
       "members": [
-        "Budgerigar",
         "Rosy-faced Lovebird"
       ]
     },
@@ -921,7 +922,8 @@
         "Blue Jay",
         "Florida Scrub-Jay",
         "Island Scrub-Jay",
-        "Western Scrub-Jay",
+        "California Scrub-Jay",
+        "Woodhouse's Scrub-Jay"
         "Mexican Jay",
         "Clark's Nutcracker",
         "Black-billed Magpie",
@@ -938,7 +940,7 @@
     {
       "family": "Larks",
       "members": [
-        "Sky Lark",
+        "Eurasian Skylark",
         "Horned Lark"
       ]
     },
@@ -1281,6 +1283,7 @@
     {
       "family": "Tanagers",
       "members": [
+        "Red-legged Honeycreeper",
         "Bananaquit",
         "Yellow-faced Grassquit",
         "Black-faced Grassquit",
@@ -1410,6 +1413,7 @@
         "Pine Grosbeak",
         "Eurasian Bullfinch",
         "Common Rosefinch",
+        "Pallas's Rosefinch",
         "House Finch",
         "Purple Finch",
         "Cassin's Finch",
