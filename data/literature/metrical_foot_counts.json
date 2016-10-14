@@ -1,0 +1,13 @@
+{
+  "description": "A list of ways to describe the length of a poetic line in metrical feet.",
+  "metrical_line_lengths": [
+    "monometer",
+    "dimeter",
+    "trimeter",
+    "tetrameter",
+    "pentameter",
+    "hexameter",
+    "heptameter",
+    "octameter"
+  ]
+}
