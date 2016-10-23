@@ -1,76 +1,34 @@
+
 {
   "description": "Third person personal pronouns with case",
   "thirdPersonPronouns": [
-
     {
-      "subject": "ze",
-      "object": "hir",
-      "dependentPossessive": "hir",
-      "independentPossessive": "hirs",
-      "reflexive": "hirself"
+      "subject": "E",
+      "object": "Em",
+      "dependentPossessive": "Eir",
+      "independentPossessive": "Eirs",
+      "reflexive": "Emself"
     },
     {
-      "subject": "ze",
-      "object": "zir",
-      "dependentPossessive": "zir",
-      "independentPossessive": "zirs",
-      "reflexive": "zirself"
+      "subject": "che",
+      "object": "chim",
+      "dependentPossessive": "chis",
+      "independentPossessive": "chis",
+      "reflexive": "chimself"
     },
     {
-      "subject": "she",
-      "object": "her",
-      "dependentPossessive": "her",
-      "independentPossessive": "hers",
-      "reflexive": "herself"
+      "subject": "co",
+      "object": "co",
+      "dependentPossessive": "co's",
+      "independentPossessive": "co's",
+      "reflexive": "coself"
     },
     {
-      "subject": "he",
-      "object": "him",
-      "dependentPossessive": "his",
-      "independentPossessive": "his",
-      "reflexive": "himself"
-    },
-    {
-      "subject": "they",
-      "object": "them",
-      "dependentPossessive": "their",
-      "independentPossessive": "theirs",
-      "reflexive": "themselves"
-    },
-    {
-      "subject": "they",
-      "object": "them",
-      "dependentPossessive": "their",
-      "independentPossessive": "theirs",
-      "reflexive": "themself"
-    },
-    {
-      "subject": "xey",
-      "object": "xem",
-      "dependentPossessive": "xyr",
-      "independentPossessive": "xyrs",
-      "reflexive": "xemself"
-    },
-    {
-      "subject": "sie",
-      "object": "hir",
-      "dependentPossessive": "hir",
-      "independentPossessive": "hirs",
-      "reflexive": "hirself"
-    },
-    {
-      "subject": "it",
-      "object": "it",
-      "dependentPossessive": "its",
-      "independentPossessive": "its",
-      "reflexive": "itself"
-    },
-    {
-      "subject": "ey",
-      "object": "em",
-      "dependentPossessive": "eir",
-      "independentPossessive": "eirs",
-      "reflexive": "eirself"
+      "subject": "co",
+      "object": "co",
+      "dependentPossessive": "cos",
+      "independentPossessive": "co's",
+      "reflexive": "coself"
     },
     {
       "subject": "e",
@@ -80,11 +38,95 @@
       "reflexive": "emself"
     },
     {
+      "subject": "ey",
+      "object": "em",
+      "dependentPossessive": "eir",
+      "independentPossessive": "eirs",
+      "reflexive": "eirself"
+    },
+    {
+      "subject": "ey",
+      "object": "em",
+      "dependentPossessive": "eir",
+      "independentPossessive": "eirs",
+      "reflexive": "emself"
+    },
+    {
+      "subject": "fae",
+      "object": "faer",
+      "dependentPossessive": "faer",
+      "independentPossessive": "faers",
+      "reflexive": "faerself"
+    },
+    {
+      "subject": "fey",
+      "object": "fey",
+      "dependentPossessive": "feys",
+      "independentPossessive": "feys",
+      "reflexive": "feyself"
+    },
+    {
+      "subject": "he",
+      "object": "him",
+      "dependentPossessive": "his",
+      "independentPossessive": "his",
+      "reflexive": "himself"
+    },
+    {
+      "subject": "he",
+      "object": "she",
+      "dependentPossessive": "it",
+      "independentPossessive": "they",
+      "reflexive": "and"
+    },
+    {
       "subject": "hu",
       "object": "hum",
       "dependentPossessive": "hus",
       "independentPossessive": "hus",
       "reflexive": "humself"
+    },
+    {
+      "subject": "it",
+      "object": "it",
+      "dependentPossessive": "its",
+      "independentPossessive": "its",
+      "reflexive": "itself"
+    },
+    {
+      "subject": "jee",
+      "object": "jem",
+      "dependentPossessive": "jeir",
+      "independentPossessive": "jeirs",
+      "reflexive": "jemself"
+    },
+    {
+      "subject": "kit",
+      "object": "kit",
+      "dependentPossessive": "kits",
+      "independentPossessive": "kits",
+      "reflexive": "kitself"
+    },
+    {
+      "subject": "ne",
+      "object": "nem",
+      "dependentPossessive": "nir",
+      "independentPossessive": "nirs",
+      "reflexive": "nemself"
+    },
+    {
+      "subject": "ne",
+      "object": "ner",
+      "dependentPossessive": "nis",
+      "independentPossessive": "nis",
+      "reflexive": "nemself"
+    },
+    {
+      "subject": "ou",
+      "object": "ou",
+      "dependentPossessive": "ous",
+      "independentPossessive": "ous",
+      "reflexive": "ouself"
     },
     {
       "subject": "peh",
@@ -101,6 +143,62 @@
       "reflexive": "perself"
     },
     {
+      "subject": "person",
+      "object": "per",
+      "dependentPossessive": "per",
+      "independentPossessive": "pers",
+      "reflexive": "perself"
+    },
+    {
+      "subject": "se",
+      "object": "sim",
+      "dependentPossessive": "ser",
+      "independentPossessive": "sers",
+      "reflexive": "serself"
+    },
+    {
+      "subject": "she",
+      "object": "her",
+      "dependentPossessive": "her",
+      "independentPossessive": "hers",
+      "reflexive": "herself"
+    },
+    {
+      "subject": "si",
+      "object": "hyr",
+      "dependentPossessive": "hyr",
+      "independentPossessive": "hyrs",
+      "reflexive": "hyrself"
+    },
+    {
+      "subject": "sie",
+      "object": "hir",
+      "dependentPossessive": "hir",
+      "independentPossessive": "hirs",
+      "reflexive": "hirself"
+    },
+    {
+      "subject": "they",
+      "object": "them",
+      "dependentPossessive": "their",
+      "independentPossessive": "theirs",
+      "reflexive": "themself"
+    },
+    {
+      "subject": "they",
+      "object": "them",
+      "dependentPossessive": "their",
+      "independentPossessive": "theirs",
+      "reflexive": "themselves"
+    },
+    {
+      "subject": "thon",
+      "object": "thon",
+      "dependentPossessive": "thons",
+      "independentPossessive": "thon's",
+      "reflexive": "thonself"
+    },
+    {
       "subject": "thon",
       "object": "thon",
       "dependentPossessive": "thons",
@@ -108,11 +206,11 @@
       "reflexive": "thonself"
     },
     {
-      "subject": "jee",
-      "object": "jem",
-      "dependentPossessive": "jeir",
-      "independentPossessive": "jeirs",
-      "reflexive": "jemself"
+      "subject": "ve",
+      "object": "vem",
+      "dependentPossessive": "vir",
+      "independentPossessive": "virs",
+      "reflexive": "vemself"
     },
     {
       "subject": "ve",
@@ -123,31 +221,66 @@
     },
     {
       "subject": "xe",
+      "object": "hir",
+      "dependentPossessive": "hir",
+      "independentPossessive": "hirs",
+      "reflexive": "hirself"
+    },
+    {
+      "subject": "xe",
       "object": "xem",
       "dependentPossessive": "xyr",
       "independentPossessive": "xyrs",
       "reflexive": "xemself"
     },
     {
-      "subject": "zie",
-      "object": "zir",
-      "dependentPossessive": "zir",
-      "independentPossessive": "zirs",
-      "reflexive": "zirself"
+      "subject": "xe",
+      "object": "xem",
+      "dependentPossessive": "xyr",
+      "independentPossessive": "xyrs",
+      "reflexive": "xyrself"
+    },
+    {
+      "subject": "xe",
+      "object": "xir",
+      "dependentPossessive": "xir",
+      "independentPossessive": "xirs",
+      "reflexive": "xirself"
+    },
+    {
+      "subject": "xe",
+      "object": "xyr",
+      "dependentPossessive": "xyr",
+      "independentPossessive": "xyrs",
+      "reflexive": "xemself"
+    },
+    {
+      "subject": "xe",
+      "object": "xyr",
+      "dependentPossessive": "xyr",
+      "independentPossessive": "xyrs",
+      "reflexive": "xyrself"
+    },
+    {
+      "subject": "xey",
+      "object": "xem",
+      "dependentPossessive": "xyr",
+      "independentPossessive": "xyrs",
+      "reflexive": "xemself"
     },
     {
       "subject": "ze",
-      "object": "zem",
-      "dependentPossessive": "zes",
-      "independentPossessive": "zes",
-      "reflexive": "zirself"
+      "object": "em",
+      "dependentPossessive": "zeir",
+      "independentPossessive": "zeirs",
+      "reflexive": "zeirself"
     },
     {
-      "subject": "zie",
-      "object": "zem",
-      "dependentPossessive": "zes",
-      "independentPossessive": "zes",
-      "reflexive": "zirself"
+      "subject": "ze",
+      "object": "hir",
+      "dependentPossessive": "hir",
+      "independentPossessive": "hirs",
+      "reflexive": "hirself"
     },
     {
       "subject": "ze",
@@ -157,25 +290,18 @@
       "reflexive": "zemself"
     },
     {
-      "subject": "se",
-      "object": "sim",
-      "dependentPossessive": "ser",
-      "independentPossessive": "sers",
-      "reflexive": "serself"
+      "subject": "ze",
+      "object": "zem",
+      "dependentPossessive": "zes",
+      "independentPossessive": "zes",
+      "reflexive": "zirself"
     },
     {
-      "subject": "zme",
-      "object": "zmyr",
-      "dependentPossessive": "zmyr",
-      "independentPossessive": "zmyrs",
-      "reflexive": "zmyrself"
-    },
-    {
-      "subject": "ve",
-      "object": "vem",
-      "dependentPossessive": "vir",
-      "independentPossessive": "virs",
-      "reflexive": "vemself"
+      "subject": "ze",
+      "object": "zir",
+      "dependentPossessive": "zir",
+      "independentPossessive": "zirs",
+      "reflexive": "zirself"
     },
     {
       "subject": "zee",
@@ -185,13 +311,6 @@
       "reflexive": "zedself"
     },
     {
-      "subject": "fae",
-      "object": "faer",
-      "dependentPossessive": "faer",
-      "independentPossessive": "faers",
-      "reflexive": "faerself"
-    },
-    {
       "subject": "zie",
       "object": "hir",
       "dependentPossessive": "hir",
@@ -199,25 +318,32 @@
       "reflexive": "hirself"
     },
     {
-      "subject": "si",
-      "object": "hyr",
-      "dependentPossessive": "hyr",
-      "independentPossessive": "hyrs",
-      "reflexive": "hyrself"
+      "subject": "zie",
+      "object": "zem",
+      "dependentPossessive": "zes",
+      "independentPossessive": "zes",
+      "reflexive": "zirself"
     },
     {
-      "subject": "kit",
-      "object": "kit",
-      "dependentPossessive": "kits",
-      "independentPossessive": "kits",
-      "reflexive": "kitself"
+      "subject": "zie",
+      "object": "zim",
+      "dependentPossessive": "zir",
+      "independentPossessive": "zirs",
+      "reflexive": "zirself"
     },
     {
-      "subject": "ne",
-      "object": "nem",
-      "dependentPossessive": "nir",
-      "independentPossessive": "nirs",
-      "reflexive": "nemself"
+      "subject": "zie",
+      "object": "zir",
+      "dependentPossessive": "zir",
+      "independentPossessive": "zirs",
+      "reflexive": "zirself"
+    },
+    {
+      "subject": "zme",
+      "object": "zmyr",
+      "dependentPossessive": "zmyr",
+      "independentPossessive": "zmyrs",
+      "reflexive": "zmyrself"
     }
   ]
 }
