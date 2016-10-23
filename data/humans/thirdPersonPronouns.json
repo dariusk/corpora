@@ -114,13 +114,6 @@
       "reflexive": "himself"
     },
     {
-      "subject": "he",
-      "object": "she",
-      "dependentPossessive": "it",
-      "independentPossessive": "they",
-      "reflexive": "and"
-    },
-    {
       "subject": "hu",
       "object": "hum",
       "dependentPossessive": "hus",
