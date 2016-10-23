@@ -1,4 +1,3 @@
-
 {
   "description": "Third person personal pronouns with case",
   "thirdPersonPronouns": [
@@ -8,6 +7,20 @@
       "dependentPossessive": "Eir",
       "independentPossessive": "Eirs",
       "reflexive": "Emself"
+    },
+    {
+      "subject": "bron",
+      "object": "bronc",
+      "dependentPossessive": "bronc",
+      "independentPossessive": "broncs",
+      "reflexive": "broncself"
+    },
+    {
+      "subject": "char",
+      "object": "char",
+      "dependentPossessive": "char",
+      "independentPossessive": "chars",
+      "reflexive": "charself"
     },
     {
       "subject": "che",
@@ -29,6 +42,13 @@
       "dependentPossessive": "cos",
       "independentPossessive": "co's",
       "reflexive": "coself"
+    },
+    {
+      "subject": "col",
+      "object": "col",
+      "dependentPossessive": "col",
+      "independentPossessive": "cols",
+      "reflexive": "colself"
     },
     {
       "subject": "e",
@@ -64,6 +84,27 @@
       "dependentPossessive": "feys",
       "independentPossessive": "feys",
       "reflexive": "feyself"
+    },
+    {
+      "subject": "fi",
+      "object": "fil",
+      "dependentPossessive": "fil",
+      "independentPossessive": "fils",
+      "reflexive": "filself"
+    },
+    {
+      "subject": "fo",
+      "object": "foa",
+      "dependentPossessive": "foal",
+      "independentPossessive": "foals",
+      "reflexive": "foself"
+    },
+    {
+      "subject": "ge",
+      "object": "gel",
+      "dependentPossessive": "gel",
+      "independentPossessive": "gels",
+      "reflexive": "gelself"
     },
     {
       "subject": "he",
@@ -108,6 +149,13 @@
       "reflexive": "kitself"
     },
     {
+      "subject": "mae",
+      "object": "mare",
+      "dependentPossessive": "mare",
+      "independentPossessive": "mares",
+      "reflexive": "mareself"
+    },
+    {
       "subject": "ne",
       "object": "nem",
       "dependentPossessive": "nir",
@@ -150,6 +198,13 @@
       "reflexive": "perself"
     },
     {
+      "subject": "po",
+      "object": "pon",
+      "dependentPossessive": "pos",
+      "independentPossessive": "pons",
+      "reflexive": "poself"
+    },
+    {
       "subject": "se",
       "object": "sim",
       "dependentPossessive": "ser",
@@ -176,6 +231,20 @@
       "dependentPossessive": "hir",
       "independentPossessive": "hirs",
       "reflexive": "hirself"
+    },
+    {
+      "subject": "sta",
+      "object": "stal",
+      "dependentPossessive": "stal",
+      "independentPossessive": "stals",
+      "reflexive": "stalself"
+    },
+    {
+      "subject": "ste",
+      "object": "step",
+      "dependentPossessive": "step",
+      "independentPossessive": "steps",
+      "reflexive": "stepself"
     },
     {
       "subject": "they",
@@ -288,6 +357,13 @@
       "dependentPossessive": "zer",
       "independentPossessive": "zers",
       "reflexive": "zemself"
+    },
+    {
+      "subject": "ze",
+      "object": "zeb",
+      "dependentPossessive": "zebr",
+      "independentPossessive": "zebrs",
+      "reflexive": "zebself"
     },
     {
       "subject": "ze",
