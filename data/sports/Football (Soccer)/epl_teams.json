@@ -1,0 +1,145 @@
+{
+ "description": "Current (as of November 2016) teams in the EPL (English Premier League) and where they play",
+ "epl_teams": [
+  {
+   "name": "AFC Bournemouth",
+   "manager": "Eddie Howe",
+   "city": "Boscombe, Bournemouth",
+   "stadium": "Dean Court",
+   "code": "BOU"
+  },
+  {
+   "name": "Arsenal",
+   "manager": "Arsene Wenger",
+   "city": "London Borough of Islington",
+   "stadium": "Emirates Stadium",
+   "code": "ARS"
+  },
+  {
+   "name": "Burnley",
+   "manager": "Sean Dyche",
+   "city": "Burnley",
+   "stadium": "Turf Moor",
+   "code": "BUR"
+  },
+  {
+   "name": "Chelsea",
+   "manager": "Antonio Conte",
+   "city": "London Borough of Hammersmith and Fulham",
+   "stadium": "Stamford Bridge",
+   "code": "CHE"
+  },
+  {
+   "name": "Crystal Palace",
+   "manager": "Alan Pardew",
+   "city": "London Borough of Croydon",
+   "stadium": "Selhurst Park",
+   "code": "CRY"
+  },
+  {
+   "name": "Everton",
+   "manager": "Ronald Koeman",
+   "city": "Liverpool",
+   "stadium": "Goodison Park",
+   "code": "EVE"
+  },
+  {
+   "name": "Hull City",
+   "manager": "Mike Phelan",
+   "city": "Kingston upon Hull",
+   "stadium": "KCOM Stadium",
+   "code": "HUL"
+  },
+  {
+   "name": "Leicester City",
+   "manager": "Claudio Renieri",
+   "city": "Leicester",
+   "stadium": "King Power Stadium",
+   "code": "LEI"
+  },
+  {
+   "name": "Liverpool",
+   "manager": "Jurgen Klopp",
+   "city": "Liverpool",
+   "stadium": "Anfield",
+   "code": "LIV"
+  },
+  {
+   "name": "Manchester City",
+   "manager": "Josep Guardiola",
+   "city": "Manchester",
+   "stadium": "Etihad Stadium",
+   "code": "MCI"
+  },
+  {
+   "name": "Manchester United",
+   "manager": "Jose Mourinho",
+   "city": "Manchester",
+   "stadium": "Old Trafford",
+   "code": "MUN"
+  },
+  {
+   "name": "Middlesborough",
+   "manager": "Aitor Karanka",
+   "city": "Middlesborough",
+   "stadium": "Riverside Stadium",
+   "code": "MFC"
+  },
+  {
+   "name": "Southampton",
+   "manager": "Claude Puel",
+   "city": "Southampton",
+   "stadium": "St Mary's Stadium",
+   "code": "SOU"
+  },
+  {
+   "name": "Stoke City",
+   "manager": "Mark Hughes",
+   "city": "Stoke-on-Trent",
+   "stadium": "bet365 Stadium",
+   "code": "STK"
+  },
+  {
+   "name": "Sunderland",
+   "manager": "David Moyes",
+   "city": "Sunderland",
+   "stadium": "Stadium of Light",
+   "code": "SUN"
+  },
+  {
+   "name": "Swansea City",
+   "manager": "Bob Bradley",
+   "city": "Swansea, Wales",
+   "stadium": "Liberty Stadium",
+   "code": "SWA"
+  },
+  {
+   "name": "Tottenham Hotspur",
+   "manager": "Maruicio Pochettino",
+   "city": "London Borough of Haringey",
+   "stadium": "White Hart Lane",
+   "code": "TOT"
+  },
+  {
+   "name": "Watford",
+   "manager": "Walter Mazzarri",
+   "city": "Watford",
+   "stadium": "Vicarage Road",
+   "code": "WAT"
+  },
+  {
+   "name": "West Bromwich Albion",
+   "manager": "Tony Pulis",
+   "city": "West Bromwich",
+   "stadium": "The Hawthorns",
+   "code": "WBA"
+  },
+  {
+   "name": "West Ham United",
+   "manager": "Slaven Bilic",
+   "city": "London Borough of Newham",
+   "stadium": "London Stadium",
+   "code": "WHU"
+  }
+ ]
+}
