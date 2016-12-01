@@ -562,8 +562,8 @@
         },
         {
             "atomic_number": 113,
-            "name": "Ununtrium",
-            "symbol": "Uut"
+            "name": "Nihonium",
+            "symbol": "Nh"
         },
         {
             "atomic_number": 114,
@@ -572,8 +572,8 @@
         },
         {
             "atomic_number": 115,
-            "name": "Ununpentium",
-            "symbol": "Uup"
+            "name": "Moscovium",
+            "symbol": "Mc"
         },
         {
             "atomic_number": 116,
@@ -582,13 +582,13 @@
         },
         {
             "atomic_number": 117,
-            "name": "Ununseptium",
-            "symbol": "Uus"
+            "name": "Tennessine",
+            "symbol": "Ts"
         },
         {
             "atomic_number": 118,
-            "name": "Ununoctium",
-            "symbol": "Uuo"
+            "name": "Oganesson",
+            "symbol": "Og"
         }
     ]
 }
