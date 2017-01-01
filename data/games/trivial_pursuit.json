@@ -1,0 +1,29 @@
+{
+    "description": "Pie categories and colors from Trivial Pursuit",
+    "pie": [
+        {
+            "category": "Geography",
+            "color": "blue"
+        },
+        {
+            "category": "Entertainment",
+            "color": "pink"
+        },
+        {
+            "category": "History",
+            "color": "yellow"
+        },
+        {
+            "category": "Arts & Literature",
+            "color": "brown"
+        },
+        {
+            "category": "Science & Nature",
+            "color": "green"
+        },
+        {
+            "category": "Sports & Leisure",
+            "color": "orange"
+        }
+    ]
+}

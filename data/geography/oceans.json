@@ -1,0 +1,305 @@
+{
+  "description": "A list of oceans and seas.",
+  "source": "http://en.wikipedia.org/wiki/List_of_seas",
+  "oceans": [
+    {
+		"name": "Pacific"
+    },
+	{
+		"name": "Atlantic"
+	},
+	{
+		"name": "Indian"
+    },
+	{
+		"name": "Southern"
+    },
+	{
+		"name": "Arctic"
+    }
+  ],
+  "seas": [
+	{
+	  "name": "Amundsen Gulf" },
+	 {
+	  "name": "Baffin Bay" },
+	 {
+	  "name": "Barents Sea" },
+	 {
+	  "name": "Beaufort Sea" },
+	 {
+	  "name": "Chukchi Sea" },
+	 {
+	  "name": "East Siberian Sea" },
+	 {
+	  "name": "Greenland Sea" },
+	 {
+	  "name": "Hudson Bay" },
+	 {
+	  "name": "James Bay" },
+	 {
+	  "name": "Kara Sea" },
+	 {
+	  "name": "Kara Strait" },
+	 {
+	  "name": "Laptev Sea" },
+	 {
+	  "name": "Lincoln Sea" },
+	 {
+	  "name": "Prince Gustav Adolf Sea" },
+	 {
+	  "name": "Pechora Sea" },
+	 {
+	  "name": "Wandel Sea" },
+	 {
+	  "name": "White Sea" },
+	 {
+	  "name": "Amundsen Sea" },
+	 {
+	  "name": "Bass Strait" },
+	 {
+	  "name": "Bellingshausen Sea" },
+	 {
+	  "name": "Cooperation Sea" },
+	 {
+	  "name": "Cosmonauts Sea" },
+	 {
+	  "name": "Davis Sea" },
+	 {
+	  "name": "D'Urville Sea" },
+	 {
+	  "name": "Drake Passage" },
+	 {
+	  "name": "Great Australian Bight" },
+	 {
+	  "name": "Gulf St Vincent" },
+	 {
+	  "name": "King Haakon VII Sea" },
+	 {
+	  "name": "Lazarev Sea" },
+	 {
+	  "name": "Mawson Sea" },
+	 {
+	  "name": "Riiser-Larsen Sea" },
+	 {
+	  "name": "Ross Sea" },
+	 {
+	  "name": "Scotia Sea" },
+	 {
+	  "name": "Somov Sea" },
+	 {
+	  "name": "Spencer Gulf" },
+	 {
+	  "name": "Weddell Sea" },
+	 {
+	  "name": "Andaman Sea" },
+	 {
+	  "name": "Arabian Sea" },
+	 {
+	  "name": "Bay of Bengal" },
+	 {
+	  "name": "Gulf of Aden" },
+	 {
+	  "name": "Gulf of Oman" },
+	 {
+	  "name": "Laccadive Sea" },
+	 {
+	  "name": "Mozambique Channel" },
+	 {
+	  "name": "Persian Gulf" },
+	 {
+	  "name": "Red Sea" },
+	 {
+	  "name": "Timor Sea" },
+	 {
+	  "name": "Arafura Sea" },
+	 {
+	  "name": "Bali Sea" },
+	 {
+	  "name": "Banda Sea" },
+	 {
+	  "name": "Bering Sea" },
+	 {
+	  "name": "Bismarck Sea" },
+	 {
+	  "name": "Bohai Sea" },
+	 {
+	  "name": "Bohol Sea" },
+	 {
+	  "name": "Mindanao Sea" },
+	 {
+	  "name": "Camotes Sea" },
+	 {
+	  "name": "Celebes Sea" },
+	 {
+	  "name": "Ceram Sea" },
+	 {
+	  "name": "Chilean Sea" },
+	 {
+	  "name": "Sea of Chiloé" },
+	 {
+	  "name": "Coral Sea" },
+	 {
+	  "name": "East China Sea" },
+	 {
+	  "name": "Flores Sea" },
+	 {
+	  "name": "Gulf of Alaska" },
+	 {
+	  "name": "Gulf of California" },
+	 {
+	  "name": "Sea of Cortés" },
+	 {
+	  "name": "Gulf of Carpentaria" },
+	 {
+	  "name": "Gulf of Thailand" },
+	 {
+	  "name": "Halmahera Sea" },
+	 {
+	  "name": "Java Sea" },
+	 {
+	  "name": "Koro Sea" },
+	 {
+	  "name": "Mar de Grau" },
+	 {
+	  "name": "Molucca Sea" },
+	 {
+	  "name": "Philippine Sea" },
+	 {
+	  "name": "Salish Sea" },
+	 {
+	  "name": "Savu Sea" },
+	 {
+	  "name": "Sea of Japan" },
+	 {
+	  "name": "Sea of Okhotsk" },
+	 {
+	  "name": "Seto Inland Sea" },
+	 {
+	  "name": "Sibuyan Sea" },
+	 {
+	  "name": "Solomon Sea" },
+	 {
+	  "name": "South China Sea" },
+	 {
+	  "name": "Sulu Sea" },
+	 {
+	  "name": "Tasman Sea" },
+	 {
+	  "name": "Visayan Sea" },
+	 {
+	  "name": "Yellow Sea" },
+	 {
+	  "name": "Aral Sea" },
+	 {
+	  "name": "Caspian Sea" },
+	 {
+	  "name": "Dead Sea" },
+	 {
+	  "name": "Salton Sea" },
+	 {
+	  "name": "Baltic Sea" },
+	 {
+	  "name": "Archipelago Sea" },
+	 {
+	  "name": "Bothnian Sea" },
+	 {
+	  "name": "Central Baltic Sea" },
+	 {
+	  "name": "Gulf of Bothnia" },
+	 {
+	  "name": "Gulf of Finland" },
+	 {
+	  "name": "Gulf of Riga" },
+	 {
+	  "name": "Oresund Strait" },
+	 {
+	  "name": "Sea of Ĺland" },
+	 {
+	  "name": "Mediterranean Sea" },
+	 {
+	  "name": "Aegean Sea" },
+	 {
+	  "name": "Mirtoon Sea" },
+	 {
+	  "name": "Sea of Crete" },
+	 {
+	  "name": "Thracian Sea" },
+	 {
+	  "name": "Adriatic Sea" },
+	 {
+	  "name": "Alboran Sea" },
+	 {
+	  "name": "Balearic Sea" },
+	 {
+	  "name": "Catalan Sea" },
+	 {
+	  "name": "Cilician Sea" },
+	 {
+	  "name": "Gulf of Sidra" },
+	 {
+	  "name": "Ionian Sea" },
+	 {
+	  "name": "Levantine Sea" },
+	 {
+	  "name": "Libyan Sea" },
+	 {
+	  "name": "Ligurian Sea" },
+	 {
+	  "name": "Sea of Sardinia" },
+	 {
+	  "name": "Sea of Sicily" },
+	 {
+	  "name": "Tyrrhenian Sea" },
+	 {
+	  "name": "Argentine Sea" },
+	 {
+	  "name": "Bay of Biscay" },
+	 {
+	  "name": "Bay of Campeche" },
+	 {
+	  "name": "Bay of Fundy" },
+	 {
+	  "name": "Black Sea" },
+	 {
+	  "name": "Caribbean Sea" },
+	 {
+	  "name": "Celtic Sea" },
+	 {
+	  "name": "Chesapeake Bay" },
+	 {
+	  "name": "Davis Strait" },
+	 {
+	  "name": "Denmark Strait" },
+	 {
+	  "name": "English Channel" },
+	 {
+	  "name": "Gulf of Guinea" },
+	 {
+	  "name": "Gulf of Maine" },
+	 {
+	  "name": "Gulf of Mexico" },
+	 {
+	  "name": "Gulf of St. Lawrence" },
+	 {
+	  "name": "Gulf of Venezuela" },
+	 {
+	  "name": "Irish Sea" },
+	 {
+	  "name": "Labrador Sea" },
+	 {
+	  "name": "Marmara Sea" },
+	 {
+	  "name": "North Sea" },
+	 {
+	  "name": "Norwegian Sea" },
+	 {
+	  "name": "Sargasso Sea" },
+	 {
+	  "name": "Sea of Azov" },
+	 {
+	  "name": "Sea of the Hebrides" },
+	 {
+	  "name": "Wadden Sea" }
+  ]
+}

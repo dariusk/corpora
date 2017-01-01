@@ -25,6 +25,12 @@ This project is not meant to replace exhaustive APIs -- if you want nouns, and y
    * For example, Corpora will not contain any complete "dictionary" style files. Instead we host a sampling of 1000 common nouns, adjectives, and verbs.
    * Some lists are small enough by nature that we may contain a complete list of things in their category. For example, a list of heavily populated U.S. cities may only have 75 cities and be considered complete.
 
+##List of Corpora-related tools
+
+ * [corpora-project](https://www.npmjs.com/package/corpora-project), a Node.js NPM package for accessing corpora data offline.
+ * [pycorpora](https://github.com/aparrish/pycorpora), a simple Python interface for corpora
+ * [corpora-api](https://github.com/coleww/corpora-api), a Node.js server that offers up the corpora as a JSON API
+
 ##I have some data, how do I submit?
 
 We accept pull requests to this repository. Some guidelines:

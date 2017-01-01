@@ -1,0 +1,3688 @@
+{
+  "prefixes": [
+    {
+      "part": "ab-",
+      "definition": "away, from"
+    },
+    {
+      "part": "abs-",
+      "definition": "away, from"
+    },
+    {
+      "part": "ad-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "a-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ac-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "af-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ag-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "al-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "an-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ap-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "at-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "as-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "at-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ante-",
+      "definition": "before, preceding"
+    },
+    {
+      "part": "anti-",
+      "definition": "opposing, against, the opposite"
+    },
+    {
+      "part": "ant-",
+      "definition": "opposing, against, the opposite"
+    },
+    {
+      "part": "be-",
+      "definition": "all over, all around, completely, having, covered with, affect with, cause to be "
+    },
+    {
+      "part": "com-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "co-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "col-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "con-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "cor-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "contra-",
+      "definition": "against, opposite"
+    },
+    {
+      "part": "counter-",
+      "definition": "opposition, opposite direction"
+    },
+    {
+      "part": "de-",
+      "definition": "down, away, completely, removal, reversal"
+    },
+    {
+      "part": "dia-",
+      "definition": "through, across"
+    },
+    {
+      "part": "di-",
+      "definition": "through, across"
+    },
+    {
+      "part": "dis-",
+      "definition": "negation, removal, expulsion"
+    },
+    {
+      "part": "di-",
+      "definition": "negation, removal, expulsion"
+    },
+    {
+      "part": "en-",
+      "definition": "put into or on, bring into the condition of, intensification"
+    },
+    {
+      "part": "em-",
+      "definition": "put into or on, bring into the condition of, intensification"
+    },
+    {
+      "part": "ex-",
+      "definition": "out, upward,completely,previous"
+    },
+    {
+      "part": "e-",
+      "definition": "out, upward,completely,previous"
+    },
+    {
+      "part": "ef-",
+      "definition": "out, upward,completely,previous"
+    },
+    {
+      "part": "hemi-",
+      "definition": "half"
+    },
+    {
+      "part": "hyper-",
+      "definition": "beyond, more than, more than normal"
+    },
+    {
+      "part": "hypo-",
+      "definition": "under"
+    },
+    {
+      "part": "in-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "il-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "im-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "ir-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "infra-",
+      "definition": "below"
+    },
+    {
+      "part": "inter-",
+      "definition": "between, among"
+    },
+    {
+      "part": "intra-",
+      "definition": "inside, within"
+    },
+    {
+      "part": "non-",
+      "definition": "absence, negation"
+    },
+    {
+      "part": "ob-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "oc-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "of-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "op-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "out-",
+      "definition": "surpassing, exceeding,external, away from"
+    },
+    {
+      "part": "over-",
+      "definition": "excessively, completely,upper, outer, over, above"
+    },
+    {
+      "part": "peri-",
+      "definition": "round, about"
+    },
+    {
+      "part": "post-",
+      "definition": "after in time or order"
+    },
+    {
+      "part": "pre-",
+      "definition": "before in time, place, order or importance"
+    },
+    {
+      "part": "pro-",
+      "definition": "favouring, in support of,acting for,motion forwards or away,before in time, place or order"
+    },
+    {
+      "part": "re-",
+      "definition": "again"
+    },
+    {
+      "part": "semi-",
+      "definition": "half, partly"
+    },
+    {
+      "part": "sub-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "suc-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "suf-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sug-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sup-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sur-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sus-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "syn-",
+      "definition": "in union, acting together"
+    },
+    {
+      "part": "sym-",
+      "definition": "in union, acting together"
+    },
+    {
+      "part": "trans-",
+      "definition": "across, beyond,into a different state"
+    },
+    {
+      "part": "ultra-",
+      "definition": "beyond,extreme"
+    },
+    {
+      "part": "un-",
+      "definition": "not,reversal or cancellation of action or state"
+    },
+    {
+      "part": "under-",
+      "definition": "beneath, below,lower in rank,not enough"
+    },
+    {
+      "part": "a-",
+      "definition": "not, without"
+    },
+    {
+      "part": "an-",
+      "definition": "not, without"
+    },
+    {
+      "part": "de-",
+      "definition": "from, down, away, to do the opposite, reverse, against"
+    },
+    {
+      "part": "di-",
+      "definition": "two, twice, double"
+    },
+    {
+      "part": "dy-",
+      "definition": "two, twice, double"
+    },
+    {
+      "part": "dys-",
+      "definition": "bad, abnormal, difficult, impaired, unfavorable"
+    },
+    {
+      "part": "e-",
+      "definition": "not, missing, out, fully, away, computer network related"
+    },
+    {
+      "part": "ec-",
+      "definition": "out of, outside"
+    },
+    {
+      "part": "eco-",
+      "definition": "household, environment, relating to ecology or economy"
+    },
+    {
+      "part": "ecto-",
+      "definition": "outside, external"
+    },
+    {
+      "part": "en-",
+      "definition": "put into, make, provide with, surround with"
+    },
+    {
+      "part": "em-",
+      "definition": "put into, make, provide with, surround with"
+    },
+    {
+      "part": "end-",
+      "definition": "inside, within"
+    },
+    {
+      "part": "epi-",
+      "definition": "upon, close to, over, after, altered"
+    },
+    {
+      "part": "equi-",
+      "definition": "equal"
+    },
+    {
+      "part": "ev-",
+      "definition": "time, age"
+    },
+    {
+      "part": "et-",
+      "definition": "time, age"
+    },
+    {
+      "part": "ex-",
+      "definition": "out of, away from, lacking, former"
+    },
+    {
+      "part": "exter-",
+      "definition": "outside of, beyond"
+    },
+    {
+      "part": "extra-",
+      "definition": "outside of, beyond"
+    },
+    {
+      "part": "extro-",
+      "definition": "outside of, beyond"
+    },
+    {
+      "part": "macr-",
+      "definition": "lean"
+    },
+    {
+      "part": "ab-",
+      "definition": "away, from"
+    },
+    {
+      "part": "abs-",
+      "definition": "away, from"
+    },
+    {
+      "part": "ad-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "a-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ac-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "af-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ag-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "al-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "an-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ap-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "at-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "as-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "at-",
+      "definition": "movement to, change into, addition or increase"
+    },
+    {
+      "part": "ante-",
+      "definition": "before, preceding"
+    },
+    {
+      "part": "anti-",
+      "definition": "opposing, against, the opposite"
+    },
+    {
+      "part": "ant-",
+      "definition": "opposing, against, the opposite"
+    },
+    {
+      "part": "be-",
+      "definition": "all over, all around, completely, having, covered with, affect with, cause to be "
+    },
+    {
+      "part": "com-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "co-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "col-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "con-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "cor-",
+      "definition": "with, jointly, completely"
+    },
+    {
+      "part": "contra-",
+      "definition": "against, opposite"
+    },
+    {
+      "part": "counter-",
+      "definition": "opposition, opposite direction"
+    },
+    {
+      "part": "de-",
+      "definition": "down, away, completely, removal, reversal"
+    },
+    {
+      "part": "dia-",
+      "definition": "through, across"
+    },
+    {
+      "part": "di-",
+      "definition": "through, across"
+    },
+    {
+      "part": "dis-",
+      "definition": "negation, removal, expulsion"
+    },
+    {
+      "part": "di-",
+      "definition": "negation, removal, expulsion"
+    },
+    {
+      "part": "en-",
+      "definition": "put into or on, bring into the condition of, intensification"
+    },
+    {
+      "part": "em-",
+      "definition": "put into or on, bring into the condition of, intensification"
+    },
+    {
+      "part": "ex-",
+      "definition": "out, upward,completely,previous"
+    },
+    {
+      "part": "e-",
+      "definition": "out, upward,completely,previous"
+    },
+    {
+      "part": "ef-",
+      "definition": "out, upward,completely,previous"
+    },
+    {
+      "part": "hemi-",
+      "definition": "half"
+    },
+    {
+      "part": "hyper-",
+      "definition": "beyond, more than, more than normal"
+    },
+    {
+      "part": "hypo-",
+      "definition": "under"
+    },
+    {
+      "part": "in-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "il-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "im-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "ir-",
+      "definition": "not, without,in, into, towards, inside"
+    },
+    {
+      "part": "infra-",
+      "definition": "below"
+    },
+    {
+      "part": "inter-",
+      "definition": "between, among"
+    },
+    {
+      "part": "intra-",
+      "definition": "inside, within"
+    },
+    {
+      "part": "non-",
+      "definition": "absence, negation"
+    },
+    {
+      "part": "ob-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "oc-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "of-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "op-",
+      "definition": "blocking, against, concealing"
+    },
+    {
+      "part": "out-",
+      "definition": "surpassing, exceeding,external, away from"
+    },
+    {
+      "part": "over-",
+      "definition": "excessively, completely,upper, outer, over, above"
+    },
+    {
+      "part": "peri-",
+      "definition": "round, about"
+    },
+    {
+      "part": "post-",
+      "definition": "after in time or order"
+    },
+    {
+      "part": "pre-",
+      "definition": "before in time, place, order or importance"
+    },
+    {
+      "part": "pro-",
+      "definition": "favouring, in support of,acting for,motion forwards or away,before in time, place or order"
+    },
+    {
+      "part": "re-",
+      "definition": "again"
+    },
+    {
+      "part": "semi-",
+      "definition": "half, partly"
+    },
+    {
+      "part": "sub-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "suc-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "suf-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sug-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sup-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sur-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "sus-",
+      "definition": "at a lower position,lower in rank,nearly, approximately"
+    },
+    {
+      "part": "syn-",
+      "definition": "in union, acting together"
+    },
+    {
+      "part": "sym-",
+      "definition": "in union, acting together"
+    },
+    {
+      "part": "trans-",
+      "definition": "across, beyond,into a different state"
+    },
+    {
+      "part": "ultra-",
+      "definition": "beyond,extreme"
+    },
+    {
+      "part": "un-",
+      "definition": "not,reversal or cancellation of action or state"
+    },
+    {
+      "part": "under-",
+      "definition": "beneath, below,lower in rank,not enough"
+    }
+  ],
+  "roots": [
+    {
+      "part": "a",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "ac",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "ad",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "af",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "ag",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "al",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "an",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "ap",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "as",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "at",
+      "definition": "to, toward, near, in addition to, by"
+    },
+    {
+      "part": "ab",
+      "definition": "away from, off"
+    },
+    {
+      "part": "abs",
+      "definition": "away from, off"
+    },
+    {
+      "part": "acer",
+      "definition": "bitter, sour, sharp"
+    },
+    {
+      "part": "acid",
+      "definition": "bitter, sour, sharp"
+    },
+    {
+      "part": "acri",
+      "definition": "bitter, sour, sharp"
+    },
+    {
+      "part": "act",
+      "definition": "do, act, drive"
+    },
+    {
+      "part": "ag",
+      "definition": "do, act, drive"
+    },
+    {
+      "part": "acu",
+      "definition": "sharp"
+    },
+    {
+      "part": "aer",
+      "definition": "air, atmosphere, aviation"
+    },
+    {
+      "part": "aero",
+      "definition": "air, atmosphere, aviation"
+    },
+    {
+      "part": "ag",
+      "definition": "do, move, go"
+    },
+    {
+      "part": "agi",
+      "definition": "do, move, go"
+    },
+    {
+      "part": "ig",
+      "definition": "do, move, go"
+    },
+    {
+      "part": "act",
+      "definition": "do, move, go"
+    },
+    {
+      "part": "agri",
+      "definition": "pertaining to fields or soil"
+    },
+    {
+      "part": "agro",
+      "definition": "pertaining to fields or soil"
+    },
+    {
+      "part": "alb",
+      "definition": "white, without pigment"
+    },
+    {
+      "part": "albo",
+      "definition": "white, without pigment"
+    },
+    {
+      "part": "ali",
+      "definition": "other"
+    },
+    {
+      "part": "allo",
+      "definition": "other"
+    },
+    {
+      "part": "alter",
+      "definition": "other"
+    },
+    {
+      "part": "alt",
+      "definition": "high, deep"
+    },
+    {
+      "part": "am",
+      "definition": "love, like, liking"
+    },
+    {
+      "part": "ami",
+      "definition": "love, like, liking"
+    },
+    {
+      "part": "amor",
+      "definition": "love, like, liking"
+    },
+    {
+      "part": "ambi",
+      "definition": "both"
+    },
+    {
+      "part": "ambul",
+      "definition": "to walk"
+    },
+    {
+      "part": "ana",
+      "definition": "up, back, again, anew"
+    },
+    {
+      "part": "ano",
+      "definition": "up, back, again, anew"
+    },
+    {
+      "part": "andr",
+      "definition": "male, characteristics of men"
+    },
+    {
+      "part": "andro",
+      "definition": "male, characteristics of men"
+    },
+    {
+      "part": "ang",
+      "definition": "angular"
+    },
+    {
+      "part": "anim",
+      "definition": "mind, life, spirit, anger"
+    },
+    {
+      "part": "ann",
+      "definition": "yearly"
+    },
+    {
+      "part": "annu",
+      "definition": "yearly"
+    },
+    {
+      "part": "enni",
+      "definition": "yearly"
+    },
+    {
+      "part": "ante",
+      "definition": "before"
+    },
+    {
+      "part": "anthrop",
+      "definition": "man"
+    },
+    {
+      "part": "anti",
+      "definition": "against, opposite"
+    },
+    {
+      "part": "ant",
+      "definition": "against, opposite"
+    },
+    {
+      "part": "anti",
+      "definition": "old"
+    },
+    {
+      "part": "antico",
+      "definition": "old"
+    },
+    {
+      "part": "apo",
+      "definition": "away from, detached, formed"
+    },
+    {
+      "part": "ap",
+      "definition": "away from, detached, formed"
+    },
+    {
+      "part": "aph",
+      "definition": "away from, detached, formed"
+    },
+    {
+      "part": "aqu",
+      "definition": "water"
+    },
+    {
+      "part": "arch",
+      "definition": "chief, first, rule"
+    },
+    {
+      "part": "aster",
+      "definition": "star"
+    },
+    {
+      "part": "astr",
+      "definition": "star"
+    },
+    {
+      "part": "auc",
+      "definition": "to originate, to increase"
+    },
+    {
+      "part": "aug",
+      "definition": "to originate, to increase"
+    },
+    {
+      "part": "aut",
+      "definition": "to originate, to increase"
+    },
+    {
+      "part": "aud",
+      "definition": "to hear, listen"
+    },
+    {
+      "part": "audi",
+      "definition": "to hear, listen"
+    },
+    {
+      "part": "aur",
+      "definition": "to hear, listen"
+    },
+    {
+      "part": "aus",
+      "definition": "to hear, listen"
+    },
+    {
+      "part": "aug",
+      "definition": "increase"
+    },
+    {
+      "part": "auc",
+      "definition": "increase"
+    },
+    {
+      "part": "aut",
+      "definition": "self"
+    },
+    {
+      "part": "auto",
+      "definition": "self"
+    },
+    {
+      "part": "bar",
+      "definition": "weight, pressure"
+    },
+    {
+      "part": "be",
+      "definition": "on, around, over, about, excessively, make, cause, name, affect"
+    },
+    {
+      "part": "belli",
+      "definition": "war"
+    },
+    {
+      "part": "bene",
+      "definition": "good, well, gentle"
+    },
+    {
+      "part": "bi",
+      "definition": "two"
+    },
+    {
+      "part": "bine",
+      "definition": "two"
+    },
+    {
+      "part": "bibl",
+      "definition": "book"
+    },
+    {
+      "part": "bibli",
+      "definition": "book"
+    },
+    {
+      "part": "biblio",
+      "definition": "book"
+    },
+    {
+      "part": "bio",
+      "definition": "life"
+    },
+    {
+      "part": "bi",
+      "definition": "life"
+    },
+    {
+      "part": "brev",
+      "definition": "short"
+    },
+    {
+      "part": "cad",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "cap",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "cas",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "ceiv",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "cept",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "capt",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "cid",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "cip",
+      "definition": "to take, to seize, to hold"
+    },
+    {
+      "part": "cad",
+      "definition": "to fall"
+    },
+    {
+      "part": "cas",
+      "definition": "to fall"
+    },
+    {
+      "part": "calor",
+      "definition": "heat"
+    },
+    {
+      "part": "capit",
+      "definition": "head"
+    },
+    {
+      "part": "capt",
+      "definition": "head"
+    },
+    {
+      "part": "carn",
+      "definition": "flesh"
+    },
+    {
+      "part": "cat",
+      "definition": "down, with"
+    },
+    {
+      "part": "cata",
+      "definition": "down, with"
+    },
+    {
+      "part": "cath",
+      "definition": "down, with"
+    },
+    {
+      "part": "caus",
+      "definition": "burn, heat"
+    },
+    {
+      "part": "caut",
+      "definition": "burn, heat"
+    },
+    {
+      "part": "cause",
+      "definition": "cause, motive"
+    },
+    {
+      "part": "cuse",
+      "definition": "cause, motive"
+    },
+    {
+      "part": "cus",
+      "definition": "cause, motive"
+    },
+    {
+      "part": "ceas",
+      "definition": "to go, to yield, move, go, surrender"
+    },
+    {
+      "part": "ced",
+      "definition": "to go, to yield, move, go, surrender"
+    },
+    {
+      "part": "cede",
+      "definition": "to go, to yield, move, go, surrender"
+    },
+    {
+      "part": "ceed",
+      "definition": "to go, to yield, move, go, surrender"
+    },
+    {
+      "part": "cess",
+      "definition": "to go, to yield, move, go, surrender"
+    },
+    {
+      "part": "cent",
+      "definition": "hundred"
+    },
+    {
+      "part": "centr",
+      "definition": "center"
+    },
+    {
+      "part": "centri",
+      "definition": "center"
+    },
+    {
+      "part": "chrom",
+      "definition": "color"
+    },
+    {
+      "part": "chron",
+      "definition": "time"
+    },
+    {
+      "part": "cide",
+      "definition": "to kill, to cut, cut down"
+    },
+    {
+      "part": "cis",
+      "definition": "to kill, to cut, cut down"
+    },
+    {
+      "part": "cise",
+      "definition": "to kill, to cut, cut down"
+    },
+    {
+      "part": "circum",
+      "definition": "around"
+    },
+    {
+      "part": "cit",
+      "definition": "call, start"
+    },
+    {
+      "part": "civ",
+      "definition": "citizen"
+    },
+    {
+      "part": "clam",
+      "definition": "cry out"
+    },
+    {
+      "part": "claim",
+      "definition": "cry out"
+    },
+    {
+      "part": "clin",
+      "definition": "lean, bend"
+    },
+    {
+      "part": "clud",
+      "definition": "to close, shut"
+    },
+    {
+      "part": "clus claus",
+      "definition": "to close, shut"
+    },
+    {
+      "part": "co",
+      "definition": "with, together"
+    },
+    {
+      "part": "cog",
+      "definition": "with, together"
+    },
+    {
+      "part": "col",
+      "definition": "with, together"
+    },
+    {
+      "part": "coll",
+      "definition": "with, together"
+    },
+    {
+      "part": "con",
+      "definition": "with, together"
+    },
+    {
+      "part": "com",
+      "definition": "with, together"
+    },
+    {
+      "part": "cor",
+      "definition": "with, together"
+    },
+    {
+      "part": "cogn",
+      "definition": "to know"
+    },
+    {
+      "part": "gnos",
+      "definition": "to know"
+    },
+    {
+      "part": "com",
+      "definition": "fully"
+    },
+    {
+      "part": "con",
+      "definition": "fully"
+    },
+    {
+      "part": "contr",
+      "definition": "against, opposite"
+    },
+    {
+      "part": "contra",
+      "definition": "against, opposite"
+    },
+    {
+      "part": "counter",
+      "definition": "against, opposite"
+    },
+    {
+      "part": "cord",
+      "definition": "heart"
+    },
+    {
+      "part": "cor",
+      "definition": "heart"
+    },
+    {
+      "part": "cardi",
+      "definition": "heart"
+    },
+    {
+      "part": "corp",
+      "definition": "body"
+    },
+    {
+      "part": "cort",
+      "definition": "correct"
+    },
+    {
+      "part": "cosm",
+      "definition": "universe, world"
+    },
+    {
+      "part": "cour",
+      "definition": "run, course"
+    },
+    {
+      "part": "cur",
+      "definition": "run, course"
+    },
+    {
+      "part": "curr",
+      "definition": "run, course"
+    },
+    {
+      "part": "curs",
+      "definition": "run, course"
+    },
+    {
+      "part": "crat",
+      "definition": "rule"
+    },
+    {
+      "part": "cracy",
+      "definition": "rule"
+    },
+    {
+      "part": "cre",
+      "definition": "grow"
+    },
+    {
+      "part": "cresc",
+      "definition": "grow"
+    },
+    {
+      "part": "cret",
+      "definition": "grow"
+    },
+    {
+      "part": "crease",
+      "definition": "grow"
+    },
+    {
+      "part": "crea",
+      "definition": "create"
+    },
+    {
+      "part": "cred",
+      "definition": "believe"
+    },
+    {
+      "part": "cresc",
+      "definition": "rise, grow"
+    },
+    {
+      "part": "cret",
+      "definition": "rise, grow"
+    },
+    {
+      "part": "crease",
+      "definition": "rise, grow"
+    },
+    {
+      "part": "cru",
+      "definition": "rise, grow"
+    },
+    {
+      "part": "crit",
+      "definition": "separate, choose"
+    },
+    {
+      "part": "cur",
+      "definition": "run"
+    },
+    {
+      "part": "curs",
+      "definition": "run"
+    },
+    {
+      "part": "cura",
+      "definition": "care"
+    },
+    {
+      "part": "cycl",
+      "definition": "wheel, circle, circular"
+    },
+    {
+      "part": "cyclo",
+      "definition": "wheel, circle, circular"
+    },
+    {
+      "part": "dec",
+      "definition": "ten, ten times"
+    },
+    {
+      "part": "deca",
+      "definition": "ten, ten times"
+    },
+    {
+      "part": "dec",
+      "definition": "suitable"
+    },
+    {
+      "part": "dign",
+      "definition": "suitable"
+    },
+    {
+      "part": "dei",
+      "definition": "God"
+    },
+    {
+      "part": "div",
+      "definition": "God"
+    },
+    {
+      "part": "dem",
+      "definition": "people, populace, population"
+    },
+    {
+      "part": "demo",
+      "definition": "people, populace, population"
+    },
+    {
+      "part": "dent",
+      "definition": "tooth"
+    },
+    {
+      "part": "dont",
+      "definition": "tooth"
+    },
+    {
+      "part": "derm",
+      "definition": "skin, covering"
+    },
+    {
+      "part": "dia",
+      "definition": "through, across, between"
+    },
+    {
+      "part": "dic",
+      "definition": "say, speak"
+    },
+    {
+      "part": "dict",
+      "definition": "say, speak"
+    },
+    {
+      "part": "dit",
+      "definition": "say, speak"
+    },
+    {
+      "part": "dis",
+      "definition": "not, opposite of, reverse, separate, deprive of, away"
+    },
+    {
+      "part": "dif",
+      "definition": "not, opposite of, reverse, separate, deprive of, away"
+    },
+    {
+      "part": "dit",
+      "definition": "give"
+    },
+    {
+      "part": "doc",
+      "definition": "teach, prove"
+    },
+    {
+      "part": "doct",
+      "definition": "teach, prove"
+    },
+    {
+      "part": "domin",
+      "definition": "master, that which is under control"
+    },
+    {
+      "part": "don",
+      "definition": "give"
+    },
+    {
+      "part": "dorm",
+      "definition": "sleep"
+    },
+    {
+      "part": "dox",
+      "definition": "thought, opinion, praise"
+    },
+    {
+      "part": "duc",
+      "definition": "to lead, pull"
+    },
+    {
+      "part": "duct",
+      "definition": "to lead, pull"
+    },
+    {
+      "part": "dura",
+      "definition": "hard, lasting"
+    },
+    {
+      "part": "dynam",
+      "definition": "power"
+    },
+    {
+      "part": "erg",
+      "definition": "work, effect"
+    },
+    {
+      "part": "fa",
+      "definition": "speak"
+    },
+    {
+      "part": "fess",
+      "definition": "speak"
+    },
+    {
+      "part": "fac",
+      "definition": "do, make"
+    },
+    {
+      "part": "fact",
+      "definition": "do, make"
+    },
+    {
+      "part": "fec",
+      "definition": "do, make"
+    },
+    {
+      "part": "fect",
+      "definition": "do, make"
+    },
+    {
+      "part": "fic",
+      "definition": "do, make"
+    },
+    {
+      "part": "fas",
+      "definition": "do, make"
+    },
+    {
+      "part": "fea",
+      "definition": "do, make"
+    },
+    {
+      "part": "fall",
+      "definition": "deceive"
+    },
+    {
+      "part": "fals",
+      "definition": "deceive"
+    },
+    {
+      "part": "femto",
+      "definition": "quadrillionth"
+    },
+    {
+      "part": "fer",
+      "definition": "bear, carry"
+    },
+    {
+      "part": "fic",
+      "definition": "shape, make, fashion"
+    },
+    {
+      "part": "feign",
+      "definition": "shape, make, fashion"
+    },
+    {
+      "part": "fain",
+      "definition": "shape, make, fashion"
+    },
+    {
+      "part": "fit",
+      "definition": "shape, make, fashion"
+    },
+    {
+      "part": "feat",
+      "definition": "shape, make, fashion"
+    },
+    {
+      "part": "fid",
+      "definition": "belief, faith"
+    },
+    {
+      "part": "fid",
+      "definition": "faith, trust"
+    },
+    {
+      "part": "fide",
+      "definition": "faith, trust"
+    },
+    {
+      "part": "feder",
+      "definition": "faith, trust"
+    },
+    {
+      "part": "fig",
+      "definition": "shape, form"
+    },
+    {
+      "part": "fila",
+      "definition": "thread"
+    },
+    {
+      "part": "fili",
+      "definition": "thread"
+    },
+    {
+      "part": "fin",
+      "definition": "end, ended, finished"
+    },
+    {
+      "part": "fix",
+      "definition": "repair, attach"
+    },
+    {
+      "part": "flex",
+      "definition": "bend"
+    },
+    {
+      "part": "flect",
+      "definition": "bend"
+    },
+    {
+      "part": "flict",
+      "definition": "strike"
+    },
+    {
+      "part": "flu",
+      "definition": "flow"
+    },
+    {
+      "part": "fluc",
+      "definition": "flow"
+    },
+    {
+      "part": "fluv",
+      "definition": "flow"
+    },
+    {
+      "part": "flux",
+      "definition": "flow"
+    },
+    {
+      "part": "for",
+      "definition": "before"
+    },
+    {
+      "part": "fore",
+      "definition": "before"
+    },
+    {
+      "part": "forc",
+      "definition": "strength, strong"
+    },
+    {
+      "part": "fort",
+      "definition": "strength, strong"
+    },
+    {
+      "part": "form",
+      "definition": "shape, resemble"
+    },
+    {
+      "part": "fract",
+      "definition": "break"
+    },
+    {
+      "part": "frag",
+      "definition": "break"
+    },
+    {
+      "part": "frai",
+      "definition": "break"
+    },
+    {
+      "part": "fuge",
+      "definition": "flee"
+    },
+    {
+      "part": "fuse",
+      "definition": "pour"
+    },
+    {
+      "part": "gam",
+      "definition": "marriage"
+    },
+    {
+      "part": "gastr",
+      "definition": "stomach"
+    },
+    {
+      "part": "gastro",
+      "definition": "stomach"
+    },
+    {
+      "part": "gen",
+      "definition": "kind"
+    },
+    {
+      "part": "gen",
+      "definition": "birth, race, produce"
+    },
+    {
+      "part": "geo",
+      "definition": "earth"
+    },
+    {
+      "part": "germ",
+      "definition": "vital part"
+    },
+    {
+      "part": "gest",
+      "definition": "carry, bear"
+    },
+    {
+      "part": "giga",
+      "definition": "billion"
+    },
+    {
+      "part": "gin",
+      "definition": "careful"
+    },
+    {
+      "part": "gloss",
+      "definition": "tongue"
+    },
+    {
+      "part": "glot",
+      "definition": "tongue"
+    },
+    {
+      "part": "glu",
+      "definition": "lump, bond, glue"
+    },
+    {
+      "part": "glo",
+      "definition": "lump, bond, glue"
+    },
+    {
+      "part": "gor",
+      "definition": "to gather, to bring together"
+    },
+    {
+      "part": "grad",
+      "definition": "to gather, to bring together, step, go"
+    },
+    {
+      "part": "gress",
+      "definition": "to gather, to bring together, step, go"
+    },
+    {
+      "part": "gree",
+      "definition": "to gather, to bring together, step, go"
+    },
+    {
+      "part": "graph",
+      "definition": "write, written, draw"
+    },
+    {
+      "part": "gram",
+      "definition": "write, written, draw"
+    },
+    {
+      "part": "graf",
+      "definition": "write, written, draw"
+    },
+    {
+      "part": "grat",
+      "definition": "pleasing"
+    },
+    {
+      "part": "grav",
+      "definition": "heavy, weighty"
+    },
+    {
+      "part": "greg",
+      "definition": "herd"
+    },
+    {
+      "part": "hale",
+      "definition": "make whole, sound"
+    },
+    {
+      "part": "heal",
+      "definition": "make whole, sound"
+    },
+    {
+      "part": "helio",
+      "definition": "sun"
+    },
+    {
+      "part": "hema",
+      "definition": "blood"
+    },
+    {
+      "part": "hemo",
+      "definition": "blood"
+    },
+    {
+      "part": "her",
+      "definition": "stick"
+    },
+    {
+      "part": "here",
+      "definition": "stick"
+    },
+    {
+      "part": "hes",
+      "definition": "stick"
+    },
+    {
+      "part": "hetero",
+      "definition": "other, different"
+    },
+    {
+      "part": "hex",
+      "definition": "six"
+    },
+    {
+      "part": "ses",
+      "definition": "six"
+    },
+    {
+      "part": "sex",
+      "definition": "six"
+    },
+    {
+      "part": "homo",
+      "definition": "same"
+    },
+    {
+      "part": "hum",
+      "definition": "earth, ground, man"
+    },
+    {
+      "part": "human",
+      "definition": "earth, ground, man"
+    },
+    {
+      "part": "hydr",
+      "definition": "water"
+    },
+    {
+      "part": "hydra",
+      "definition": "water"
+    },
+    {
+      "part": "hydro",
+      "definition": "water"
+    },
+    {
+      "part": "hyper",
+      "definition": "over, above"
+    },
+    {
+      "part": "hypn",
+      "definition": "sleep"
+    },
+    {
+      "part": "an",
+      "definition": "Noun: related to, one that is"
+    },
+    {
+      "part": "ics",
+      "definition": "Noun: related to the arts and sciences"
+    },
+    {
+      "part": "ignis",
+      "definition": "fire"
+    },
+    {
+      "part": "in",
+      "definition": "into, on, near, towards"
+    },
+    {
+      "part": "im",
+      "definition": "into, on, near, towards"
+    },
+    {
+      "part": "in",
+      "definition": "not"
+    },
+    {
+      "part": "im",
+      "definition": "not"
+    },
+    {
+      "part": "il",
+      "definition": "not"
+    },
+    {
+      "part": "ir",
+      "definition": "not"
+    },
+    {
+      "part": "infra",
+      "definition": "beneath"
+    },
+    {
+      "part": "inter",
+      "definition": "between, among"
+    },
+    {
+      "part": "intra",
+      "definition": "within, during, between layers, underneath"
+    },
+    {
+      "part": "intro",
+      "definition": "into, within, inward"
+    },
+    {
+      "part": "ty",
+      "definition": "Noun: state or quality"
+    },
+    {
+      "part": "jac",
+      "definition": "throw"
+    },
+    {
+      "part": "ject",
+      "definition": "throw"
+    },
+    {
+      "part": "join",
+      "definition": "join"
+    },
+    {
+      "part": "junct",
+      "definition": "join"
+    },
+    {
+      "part": "judice",
+      "definition": "judge"
+    },
+    {
+      "part": "jug",
+      "definition": "to join"
+    },
+    {
+      "part": "junct",
+      "definition": "to join"
+    },
+    {
+      "part": "just",
+      "definition": "to join"
+    },
+    {
+      "part": "juven",
+      "definition": "young"
+    },
+    {
+      "part": "labor",
+      "definition": "work"
+    },
+    {
+      "part": "lau",
+      "definition": "wash"
+    },
+    {
+      "part": "lav",
+      "definition": "wash"
+    },
+    {
+      "part": "lot",
+      "definition": "wash"
+    },
+    {
+      "part": "lut",
+      "definition": "wash"
+    },
+    {
+      "part": "lect",
+      "definition": "choose, gather, select, read"
+    },
+    {
+      "part": "leg",
+      "definition": "choose, gather, select, read"
+    },
+    {
+      "part": "lig",
+      "definition": "choose, gather, select, read"
+    },
+    {
+      "part": "leg",
+      "definition": "law"
+    },
+    {
+      "part": "levi",
+      "definition": "light"
+    },
+    {
+      "part": "lex",
+      "definition": "law"
+    },
+    {
+      "part": "leag",
+      "definition": "law"
+    },
+    {
+      "part": "leg",
+      "definition": "law"
+    },
+    {
+      "part": "liber",
+      "definition": "free"
+    },
+    {
+      "part": "liver",
+      "definition": "free"
+    },
+    {
+      "part": "lide",
+      "definition": "strike"
+    },
+    {
+      "part": "liter",
+      "definition": "letters"
+    },
+    {
+      "part": "loc",
+      "definition": "place, area"
+    },
+    {
+      "part": "loco",
+      "definition": "place, area"
+    },
+    {
+      "part": "log",
+      "definition": "word, study, say, speech, reason, study"
+    },
+    {
+      "part": "logo",
+      "definition": "word, study, say, speech, reason, study"
+    },
+    {
+      "part": "ology",
+      "definition": "word, study, say, speech, reason, study"
+    },
+    {
+      "part": "loqu",
+      "definition": "talk, speak"
+    },
+    {
+      "part": "locut",
+      "definition": "talk, speak"
+    },
+    {
+      "part": "luc",
+      "definition": "light"
+    },
+    {
+      "part": "lum",
+      "definition": "light"
+    },
+    {
+      "part": "lun",
+      "definition": "light"
+    },
+    {
+      "part": "lus",
+      "definition": "light"
+    },
+    {
+      "part": "lust",
+      "definition": "light"
+    },
+    {
+      "part": "lude",
+      "definition": "play"
+    },
+    {
+      "part": "macer",
+      "definition": "lean"
+    },
+    {
+      "part": "magn",
+      "definition": "great"
+    },
+    {
+      "part": "main",
+      "definition": "strength, foremost"
+    },
+    {
+      "part": "mal",
+      "definition": "bad, badly"
+    },
+    {
+      "part": "man",
+      "definition": "hand, make, do"
+    },
+    {
+      "part": "manu",
+      "definition": "hand, make, do"
+    },
+    {
+      "part": "mand",
+      "definition": "command"
+    },
+    {
+      "part": "mania",
+      "definition": "madness"
+    },
+    {
+      "part": "mar",
+      "definition": "sea, pool"
+    },
+    {
+      "part": "mari",
+      "definition": "sea, pool"
+    },
+    {
+      "part": "mer",
+      "definition": "sea, pool"
+    },
+    {
+      "part": "matri",
+      "definition": "mother"
+    },
+    {
+      "part": "medi",
+      "definition": "half, middle, between, halfway"
+    },
+    {
+      "part": "mega",
+      "definition": "great, million"
+    },
+    {
+      "part": "mem",
+      "definition": "recall, remember"
+    },
+    {
+      "part": "ment",
+      "definition": "mind"
+    },
+    {
+      "part": "meso",
+      "definition": "middle"
+    },
+    {
+      "part": "meta",
+      "definition": "beyond, change"
+    },
+    {
+      "part": "meter",
+      "definition": "measure"
+    },
+    {
+      "part": "metr",
+      "definition": "admeasure, apportion"
+    },
+    {
+      "part": "micro",
+      "definition": "small, millionth"
+    },
+    {
+      "part": "migra",
+      "definition": "wander"
+    },
+    {
+      "part": "mill",
+      "definition": "thousand"
+    },
+    {
+      "part": "kilo",
+      "definition": "thousand"
+    },
+    {
+      "part": "milli",
+      "definition": "thousandth"
+    },
+    {
+      "part": "min",
+      "definition": "little, small"
+    },
+    {
+      "part": "mis",
+      "definition": "wrong, bad, badly"
+    },
+    {
+      "part": "mit",
+      "definition": "send"
+    },
+    {
+      "part": "miss",
+      "definition": "send"
+    },
+    {
+      "part": "mob",
+      "definition": "move"
+    },
+    {
+      "part": "mov",
+      "definition": "move"
+    },
+    {
+      "part": "mot",
+      "definition": "move"
+    },
+    {
+      "part": "mon",
+      "definition": "warn, remind"
+    },
+    {
+      "part": "mono",
+      "definition": "one"
+    },
+    {
+      "part": "mor",
+      "definition": "mortal, death"
+    },
+    {
+      "part": "mort",
+      "definition": "mortal, death"
+    },
+    {
+      "part": "morph",
+      "definition": "shape, form"
+    },
+    {
+      "part": "multi",
+      "definition": "many, much"
+    },
+    {
+      "part": "nano",
+      "definition": "billionth"
+    },
+    {
+      "part": "nasc",
+      "definition": "to be born"
+    },
+    {
+      "part": "nat",
+      "definition": "to be born"
+    },
+    {
+      "part": "gnant",
+      "definition": "to be born"
+    },
+    {
+      "part": "nai",
+      "definition": "to be born"
+    },
+    {
+      "part": "nat",
+      "definition": "to be from, to spring forth"
+    },
+    {
+      "part": "nasc",
+      "definition": "to be from, to spring forth"
+    },
+    {
+      "part": "neo",
+      "definition": "new"
+    },
+    {
+      "part": "neur",
+      "definition": "nerve"
+    },
+    {
+      "part": "nom",
+      "definition": "law, order"
+    },
+    {
+      "part": "nom",
+      "definition": "name"
+    },
+    {
+      "part": "nym",
+      "definition": "name"
+    },
+    {
+      "part": "nomen",
+      "definition": "name"
+    },
+    {
+      "part": "nomin",
+      "definition": "name"
+    },
+    {
+      "part": "non",
+      "definition": "nine"
+    },
+    {
+      "part": "non",
+      "definition": "not"
+    },
+    {
+      "part": "nov",
+      "definition": "new"
+    },
+    {
+      "part": "nox",
+      "definition": "night"
+    },
+    {
+      "part": "noc",
+      "definition": "night"
+    },
+    {
+      "part": "numer",
+      "definition": "number"
+    },
+    {
+      "part": "numisma",
+      "definition": "coin"
+    },
+    {
+      "part": "ob",
+      "definition": "toward, against, in the way"
+    },
+    {
+      "part": "oc",
+      "definition": "toward, against, in the way"
+    },
+    {
+      "part": "of",
+      "definition": "toward, against, in the way"
+    },
+    {
+      "part": "op",
+      "definition": "toward, against, in the way"
+    },
+    {
+      "part": "oct",
+      "definition": "eight"
+    },
+    {
+      "part": "oligo",
+      "definition": "few, little"
+    },
+    {
+      "part": "omni",
+      "definition": "all, every"
+    },
+    {
+      "part": "onym",
+      "definition": "name"
+    },
+    {
+      "part": "oper",
+      "definition": "work"
+    },
+    {
+      "part": "ortho",
+      "definition": "straight, correct"
+    },
+    {
+      "part": "over",
+      "definition": "excessive, above"
+    },
+    {
+      "part": "pac",
+      "definition": "peace"
+    },
+    {
+      "part": "pair",
+      "definition": "arrange, assemblage, two"
+    },
+    {
+      "part": "pare",
+      "definition": "arrange, assemblage, two"
+    },
+    {
+      "part": "paleo",
+      "definition": "old"
+    },
+    {
+      "part": "pan",
+      "definition": "all"
+    },
+    {
+      "part": "para",
+      "definition": "beside"
+    },
+    {
+      "part": "pat",
+      "definition": "feel, suffer"
+    },
+    {
+      "part": "pass",
+      "definition": "feel, suffer"
+    },
+    {
+      "part": "path",
+      "definition": "feel, suffer"
+    },
+    {
+      "part": "pater",
+      "definition": "father"
+    },
+    {
+      "part": "patr",
+      "definition": "father"
+    },
+    {
+      "part": "path",
+      "definition": "feeling, suffering"
+    },
+    {
+      "part": "pathy",
+      "definition": "feeling, suffering"
+    },
+    {
+      "part": "ped",
+      "definition": "foot"
+    },
+    {
+      "part": "pod",
+      "definition": "foot"
+    },
+    {
+      "part": "pedo",
+      "definition": "child"
+    },
+    {
+      "part": "pel",
+      "definition": "drive, push, urge"
+    },
+    {
+      "part": "puls",
+      "definition": "drive, push, urge"
+    },
+    {
+      "part": "pend",
+      "definition": "hang, weigh"
+    },
+    {
+      "part": "pens",
+      "definition": "hang, weigh"
+    },
+    {
+      "part": "pond",
+      "definition": "hang, weigh"
+    },
+    {
+      "part": "per",
+      "definition": "through, intensive"
+    },
+    {
+      "part": "peri",
+      "definition": "around"
+    },
+    {
+      "part": "phage",
+      "definition": "eat"
+    },
+    {
+      "part": "phan",
+      "definition": "show, make visible"
+    },
+    {
+      "part": "phas",
+      "definition": "show, make visible"
+    },
+    {
+      "part": "phen",
+      "definition": "show, make visible"
+    },
+    {
+      "part": "fan",
+      "definition": "show, make visible"
+    },
+    {
+      "part": "phant",
+      "definition": "show, make visible"
+    },
+    {
+      "part": "fant",
+      "definition": "show, make visible"
+    },
+    {
+      "part": "phe",
+      "definition": "speak"
+    },
+    {
+      "part": "phil",
+      "definition": "love"
+    },
+    {
+      "part": "phlegma",
+      "definition": "inflammation"
+    },
+    {
+      "part": "phobia",
+      "definition": "fear"
+    },
+    {
+      "part": "phobos",
+      "definition": "fear"
+    },
+    {
+      "part": "phon",
+      "definition": "sound"
+    },
+    {
+      "part": "phot",
+      "definition": "light"
+    },
+    {
+      "part": "photo",
+      "definition": "light"
+    },
+    {
+      "part": "pico",
+      "definition": "trillionth"
+    },
+    {
+      "part": "pict",
+      "definition": "paint, show, draw"
+    },
+    {
+      "part": "plac",
+      "definition": "please"
+    },
+    {
+      "part": "plais",
+      "definition": "please"
+    },
+    {
+      "part": "pli",
+      "definition": "fold"
+    },
+    {
+      "part": "ply",
+      "definition": "fold"
+    },
+    {
+      "part": "plore",
+      "definition": "cry out, wail"
+    },
+    {
+      "part": "plu",
+      "definition": "more"
+    },
+    {
+      "part": "plur",
+      "definition": "more"
+    },
+    {
+      "part": "plus",
+      "definition": "more"
+    },
+    {
+      "part": "pneuma",
+      "definition": "breath"
+    },
+    {
+      "part": "pneumon",
+      "definition": "breath"
+    },
+    {
+      "part": "pod",
+      "definition": "foot, feet"
+    },
+    {
+      "part": "poli",
+      "definition": "city"
+    },
+    {
+      "part": "poly",
+      "definition": "many"
+    },
+    {
+      "part": "pon",
+      "definition": "place, put"
+    },
+    {
+      "part": "pos",
+      "definition": "place, put"
+    },
+    {
+      "part": "pound",
+      "definition": "place, put"
+    },
+    {
+      "part": "pop",
+      "definition": "people"
+    },
+    {
+      "part": "port",
+      "definition": "carry"
+    },
+    {
+      "part": "portion",
+      "definition": "part, share"
+    },
+    {
+      "part": "post",
+      "definition": "after, behind"
+    },
+    {
+      "part": "pot",
+      "definition": "power"
+    },
+    {
+      "part": "pre",
+      "definition": "before"
+    },
+    {
+      "part": "pur",
+      "definition": "before"
+    },
+    {
+      "part": "prehendere",
+      "definition": "seize, grasp"
+    },
+    {
+      "part": "prin",
+      "definition": "first"
+    },
+    {
+      "part": "prim",
+      "definition": "first"
+    },
+    {
+      "part": "prime",
+      "definition": "first"
+    },
+    {
+      "part": "pro",
+      "definition": "for, foward"
+    },
+    {
+      "part": "proto",
+      "definition": "first"
+    },
+    {
+      "part": "psych",
+      "definition": "mind, soul"
+    },
+    {
+      "part": "punct",
+      "definition": "point, dot"
+    },
+    {
+      "part": "pute",
+      "definition": "think"
+    },
+    {
+      "part": "quat",
+      "definition": "four"
+    },
+    {
+      "part": "quad",
+      "definition": "four"
+    },
+    {
+      "part": "quint",
+      "definition": "five"
+    },
+    {
+      "part": "penta",
+      "definition": "five"
+    },
+    {
+      "part": "quip",
+      "definition": "ship"
+    },
+    {
+      "part": "quir",
+      "definition": "seek, ask"
+    },
+    {
+      "part": "quis",
+      "definition": "seek, ask"
+    },
+    {
+      "part": "quest",
+      "definition": "seek, ask"
+    },
+    {
+      "part": "quer",
+      "definition": "seek, ask"
+    },
+    {
+      "part": "re",
+      "definition": "back, again"
+    },
+    {
+      "part": "reg",
+      "definition": "straighten"
+    },
+    {
+      "part": "recti",
+      "definition": "straighten"
+    },
+    {
+      "part": "retro",
+      "definition": "backwards"
+    },
+    {
+      "part": "ri",
+      "definition": "laughter"
+    },
+    {
+      "part": "ridi",
+      "definition": "laughter"
+    },
+    {
+      "part": "risi",
+      "definition": "laughter"
+    },
+    {
+      "part": "rog",
+      "definition": "ask"
+    },
+    {
+      "part": "roga",
+      "definition": "ask"
+    },
+    {
+      "part": "rupt",
+      "definition": "break"
+    },
+    {
+      "part": "sacr",
+      "definition": "sacred"
+    },
+    {
+      "part": "sanc",
+      "definition": "sacred"
+    },
+    {
+      "part": "secr",
+      "definition": "sacred"
+    },
+    {
+      "part": "salv",
+      "definition": "safe, healthy"
+    },
+    {
+      "part": "salu",
+      "definition": "safe, healthy"
+    },
+    {
+      "part": "sanct",
+      "definition": "holy"
+    },
+    {
+      "part": "sat",
+      "definition": "enough"
+    },
+    {
+      "part": "satis",
+      "definition": "enough"
+    },
+    {
+      "part": "sci",
+      "definition": "know"
+    },
+    {
+      "part": "scio",
+      "definition": "know"
+    },
+    {
+      "part": "scientia",
+      "definition": "know"
+    },
+    {
+      "part": "scope",
+      "definition": "see, watch"
+    },
+    {
+      "part": "scrib",
+      "definition": "write"
+    },
+    {
+      "part": "script",
+      "definition": "write"
+    },
+    {
+      "part": "se",
+      "definition": "apart, move away from"
+    },
+    {
+      "part": "sect",
+      "definition": "cut"
+    },
+    {
+      "part": "sec",
+      "definition": "cut"
+    },
+    {
+      "part": "sed",
+      "definition": "sit"
+    },
+    {
+      "part": "sess",
+      "definition": "sit"
+    },
+    {
+      "part": "sid",
+      "definition": "sit"
+    },
+    {
+      "part": "semi",
+      "definition": "half, partial"
+    },
+    {
+      "part": "sen",
+      "definition": "old, grow old"
+    },
+    {
+      "part": "scen",
+      "definition": "old, grow old"
+    },
+    {
+      "part": "sent",
+      "definition": "feel, think"
+    },
+    {
+      "part": "sens",
+      "definition": "feel, think"
+    },
+    {
+      "part": "sept",
+      "definition": "seven"
+    },
+    {
+      "part": "sequ",
+      "definition": "follow"
+    },
+    {
+      "part": "secu",
+      "definition": "follow"
+    },
+    {
+      "part": "sue",
+      "definition": "follow"
+    },
+    {
+      "part": "serv",
+      "definition": "save, serve, keep"
+    },
+    {
+      "part": "sign",
+      "definition": "sign, mark, seal"
+    },
+    {
+      "part": "signi",
+      "definition": "sign, mark, seal"
+    },
+    {
+      "part": "simil",
+      "definition": "like, resembling"
+    },
+    {
+      "part": "simul",
+      "definition": "like, resembling"
+    },
+    {
+      "part": "sist",
+      "definition": "stand, withstand, make up"
+    },
+    {
+      "part": "sta",
+      "definition": "stand, withstand, make up"
+    },
+    {
+      "part": "stit",
+      "definition": "stand, withstand, make up"
+    },
+    {
+      "part": "soci",
+      "definition": "to join, companions"
+    },
+    {
+      "part": "sol",
+      "definition": "alone"
+    },
+    {
+      "part": "solus",
+      "definition": "alone"
+    },
+    {
+      "part": "solv",
+      "definition": "loosen, explain"
+    },
+    {
+      "part": "solu",
+      "definition": "loosen, explain"
+    },
+    {
+      "part": "solut",
+      "definition": "loosen, explain"
+    },
+    {
+      "part": "somn",
+      "definition": "sleep"
+    },
+    {
+      "part": "soph",
+      "definition": "wise"
+    },
+    {
+      "part": "spec",
+      "definition": "look, see"
+    },
+    {
+      "part": "spect",
+      "definition": "look, see"
+    },
+    {
+      "part": "spi",
+      "definition": "look, see"
+    },
+    {
+      "part": "spic",
+      "definition": "look, see"
+    },
+    {
+      "part": "sper",
+      "definition": "render favorable"
+    },
+    {
+      "part": "sphere",
+      "definition": "ball, sphere"
+    },
+    {
+      "part": "spir",
+      "definition": "breath"
+    },
+    {
+      "part": "stand",
+      "definition": "stand"
+    },
+    {
+      "part": "stant",
+      "definition": "stand"
+    },
+    {
+      "part": "stab",
+      "definition": "stand"
+    },
+    {
+      "part": "stat",
+      "definition": "stand"
+    },
+    {
+      "part": "stan",
+      "definition": "stand"
+    },
+    {
+      "part": "sti",
+      "definition": "stand"
+    },
+    {
+      "part": "sta",
+      "definition": "stand"
+    },
+    {
+      "part": "st",
+      "definition": "stand"
+    },
+    {
+      "part": "stead",
+      "definition": "stand"
+    },
+    {
+      "part": "strain",
+      "definition": "bind, pull, draw tight"
+    },
+    {
+      "part": "strict",
+      "definition": "bind, pull, draw tight"
+    },
+    {
+      "part": "string",
+      "definition": "bind, pull, draw tight"
+    },
+    {
+      "part": "stige",
+      "definition": "bind, pull, draw tight"
+    },
+    {
+      "part": "stru",
+      "definition": "build"
+    },
+    {
+      "part": "struct",
+      "definition": "build"
+    },
+    {
+      "part": "stroy",
+      "definition": "build"
+    },
+    {
+      "part": "stry",
+      "definition": "build"
+    },
+    {
+      "part": "sub",
+      "definition": "under, below, from, secretly, instead of"
+    },
+    {
+      "part": "suc",
+      "definition": "under, below, from, secretly, instead of"
+    },
+    {
+      "part": "suf",
+      "definition": "under, below, from, secretly, instead of"
+    },
+    {
+      "part": "sup",
+      "definition": "under, below, from, secretly, instead of"
+    },
+    {
+      "part": "sur",
+      "definition": "under, below, from, secretly, instead of"
+    },
+    {
+      "part": "sus",
+      "definition": "under, below, from, secretly, instead of"
+    },
+    {
+      "part": "sume",
+      "definition": "take, use, waste"
+    },
+    {
+      "part": "sump",
+      "definition": "take, use, waste"
+    },
+    {
+      "part": "super",
+      "definition": "over, above"
+    },
+    {
+      "part": "supra",
+      "definition": "over, above"
+    },
+    {
+      "part": "syn",
+      "definition": "together, at the same time"
+    },
+    {
+      "part": "sym",
+      "definition": "together, at the same time"
+    },
+    {
+      "part": "tact",
+      "definition": "touch"
+    },
+    {
+      "part": "tang",
+      "definition": "touch"
+    },
+    {
+      "part": "tag",
+      "definition": "touch"
+    },
+    {
+      "part": "tig",
+      "definition": "touch"
+    },
+    {
+      "part": "ting",
+      "definition": "touch"
+    },
+    {
+      "part": "tain",
+      "definition": "hold, keep, have"
+    },
+    {
+      "part": "ten",
+      "definition": "hold, keep, have"
+    },
+    {
+      "part": "tent",
+      "definition": "hold, keep, have"
+    },
+    {
+      "part": "tin",
+      "definition": "hold, keep, have"
+    },
+    {
+      "part": "tect",
+      "definition": "cover"
+    },
+    {
+      "part": "teg",
+      "definition": "cover"
+    },
+    {
+      "part": "tele",
+      "definition": "distance, far, from afar"
+    },
+    {
+      "part": "tem",
+      "definition": "time"
+    },
+    {
+      "part": "tempo",
+      "definition": "time"
+    },
+    {
+      "part": "ten",
+      "definition": "hold"
+    },
+    {
+      "part": "tin",
+      "definition": "hold"
+    },
+    {
+      "part": "tain",
+      "definition": "hold"
+    },
+    {
+      "part": "tend",
+      "definition": "stretch, strain"
+    },
+    {
+      "part": "tent",
+      "definition": "stretch, strain"
+    },
+    {
+      "part": "tens",
+      "definition": "stretch, strain"
+    },
+    {
+      "part": "tera",
+      "definition": "trillion"
+    },
+    {
+      "part": "term",
+      "definition": "end, boundary, limit"
+    },
+    {
+      "part": "terr",
+      "definition": "earth"
+    },
+    {
+      "part": "terra",
+      "definition": "earth"
+    },
+    {
+      "part": "test",
+      "definition": "to bear witness"
+    },
+    {
+      "part": "the",
+      "definition": "God, a god"
+    },
+    {
+      "part": "theo",
+      "definition": "God, a god"
+    },
+    {
+      "part": "therm",
+      "definition": "heat"
+    },
+    {
+      "part": "thesis",
+      "definition": "place, put"
+    },
+    {
+      "part": "thet",
+      "definition": "place, put"
+    },
+    {
+      "part": "tire",
+      "definition": "draw, pull"
+    },
+    {
+      "part": "tom",
+      "definition": "cut"
+    },
+    {
+      "part": "tor",
+      "definition": "twist"
+    },
+    {
+      "part": "tors",
+      "definition": "twist"
+    },
+    {
+      "part": "tort",
+      "definition": "twist"
+    },
+    {
+      "part": "tox",
+      "definition": "poison"
+    },
+    {
+      "part": "tract",
+      "definition": "drag, draw, pull"
+    },
+    {
+      "part": "tra",
+      "definition": "drag, draw, pull"
+    },
+    {
+      "part": "trai",
+      "definition": "drag, draw, pull"
+    },
+    {
+      "part": "treat",
+      "definition": "drag, draw, pull"
+    },
+    {
+      "part": "trans",
+      "definition": "across, beyond, change"
+    },
+    {
+      "part": "tri",
+      "definition": "three"
+    },
+    {
+      "part": "trib",
+      "definition": "pay, bestow"
+    },
+    {
+      "part": "tribute",
+      "definition": "give"
+    },
+    {
+      "part": "turbo",
+      "definition": "disturb"
+    },
+    {
+      "part": "typ",
+      "definition": "print"
+    },
+    {
+      "part": "ultima",
+      "definition": "last"
+    },
+    {
+      "part": "umber",
+      "definition": "shadow"
+    },
+    {
+      "part": "umbraticum",
+      "definition": "shadow"
+    },
+    {
+      "part": "un",
+      "definition": "not, against, opposite"
+    },
+    {
+      "part": "uni",
+      "definition": "one"
+    },
+    {
+      "part": "vac",
+      "definition": "empty"
+    },
+    {
+      "part": "vade",
+      "definition": "go"
+    },
+    {
+      "part": "vale",
+      "definition": "strength, worth"
+    },
+    {
+      "part": "vali",
+      "definition": "strength, worth"
+    },
+    {
+      "part": "valu",
+      "definition": "strength, worth"
+    },
+    {
+      "part": "veh",
+      "definition": "to carry"
+    },
+    {
+      "part": "vect",
+      "definition": "to carry"
+    },
+    {
+      "part": "ven",
+      "definition": "come"
+    },
+    {
+      "part": "vent",
+      "definition": "come"
+    },
+    {
+      "part": "ver",
+      "definition": "true"
+    },
+    {
+      "part": "veri",
+      "definition": "true"
+    },
+    {
+      "part": "verb",
+      "definition": "word"
+    },
+    {
+      "part": "verv",
+      "definition": "word"
+    },
+    {
+      "part": "vert",
+      "definition": "turn, change"
+    },
+    {
+      "part": "vers",
+      "definition": "turn, change"
+    },
+    {
+      "part": "vi",
+      "definition": "way"
+    },
+    {
+      "part": "vic",
+      "definition": "change, substitute"
+    },
+    {
+      "part": "vicis",
+      "definition": "change, substitute"
+    },
+    {
+      "part": "vict",
+      "definition": "conquer"
+    },
+    {
+      "part": "vinc",
+      "definition": "conquer"
+    },
+    {
+      "part": "vid",
+      "definition": "see"
+    },
+    {
+      "part": "vis",
+      "definition": "see"
+    },
+    {
+      "part": "viv",
+      "definition": "alive, life"
+    },
+    {
+      "part": "vita",
+      "definition": "alive, life"
+    },
+    {
+      "part": "vivi",
+      "definition": "alive, life"
+    },
+    {
+      "part": "voc",
+      "definition": "call"
+    },
+    {
+      "part": "voke",
+      "definition": "call"
+    },
+    {
+      "part": "vol",
+      "definition": "will"
+    },
+    {
+      "part": "volcan",
+      "definition": "fire"
+    },
+    {
+      "part": "volv",
+      "definition": "turn about, roll"
+    },
+    {
+      "part": "volt",
+      "definition": "turn about, roll"
+    },
+    {
+      "part": "vol",
+      "definition": "turn about, roll"
+    },
+    {
+      "part": "vor",
+      "definition": "eat greedily"
+    },
+    {
+      "part": "with",
+      "definition": "against"
+    },
+    {
+      "part": "zo",
+      "definition": "animal"
+    }
+  ],
+  "suffixes": [
+    {
+      "part": "-able",
+      "definition": "Adjective: worth, ability"
+    },
+    {
+      "part": "-ible",
+      "definition": "Adjective: worth, ability"
+    },
+    {
+      "part": "-acy",
+      "definition": "Noun: state or quality"
+    },
+    {
+      "part": "-cy",
+      "definition": "Noun: state or quality"
+    },
+    {
+      "part": "-ade",
+      "definition": "act, product, sweet drink"
+    },
+    {
+      "part": "-age",
+      "definition": "Noun: activity, or result of action"
+    },
+    {
+      "part": "-al",
+      "definition": "Noun: action, result of action"
+    },
+    {
+      "part": "-al",
+      "definition": "Adjective: quality, relation"
+    },
+    {
+      "part": "-ial",
+      "definition": "Adjective: quality, relation"
+    },
+    {
+      "part": "-ical",
+      "definition": "Adjective: quality, relation"
+    },
+    {
+      "part": "-an",
+      "definition": "Noun: person"
+    },
+    {
+      "part": "-ance",
+      "definition": "Noun: action, state, quality or process"
+    },
+    {
+      "part": "-ence",
+      "definition": "Noun: action, state, quality or process"
+    },
+    {
+      "part": "-ancy",
+      "definition": "Noun: state, quality or capacity"
+    },
+    {
+      "part": "-ency",
+      "definition": "Noun: state, quality or capacity"
+    },
+    {
+      "part": "-ant",
+      "definition": "Noun: an agent, something that performs the action"
+    },
+    {
+      "part": "-ent",
+      "definition": "Noun: an agent, something that performs the action"
+    },
+    {
+      "part": "-ant",
+      "definition": "Adjective: kind of agent, indication"
+    },
+    {
+      "part": "-ent",
+      "definition": "Adjective: kind of agent, indication"
+    },
+    {
+      "part": "-ient",
+      "definition": "Adjective: kind of agent, indication"
+    },
+    {
+      "part": "-ar",
+      "definition": "Adjective: resembling, related to"
+    },
+    {
+      "part": "-ary",
+      "definition": "Adjective: resembling, related to"
+    },
+    {
+      "part": "-ard",
+      "definition": "Noun: characterized"
+    },
+    {
+      "part": "-art",
+      "definition": "Noun: characterized"
+    },
+    {
+      "part": "-ate",
+      "definition": "Noun: state, office, fuction"
+    },
+    {
+      "part": "-ate",
+      "definition": "Verb: cause to be"
+    },
+    {
+      "part": "-ate",
+      "definition": "Adjective: kind of state"
+    },
+    {
+      "part": "-ation",
+      "definition": "Noun: action, resulting state"
+    },
+    {
+      "part": "-cade",
+      "definition": "procession"
+    },
+    {
+      "part": "-drome",
+      "definition": "run, step"
+    },
+    {
+      "part": "-ed",
+      "definition": "Verb: past tense"
+    },
+    {
+      "part": "-ed",
+      "definition": "Adjective: having the quality or characteristics of"
+    },
+    {
+      "part": "-en",
+      "definition": "Verb: to cause to become"
+    },
+    {
+      "part": "-en",
+      "definition": "Adjective: material"
+    },
+    {
+      "part": "-ence",
+      "definition": "Noun: action or process, quality or state"
+    },
+    {
+      "part": "-ency",
+      "definition": "Noun: action or process, quality or state"
+    },
+    {
+      "part": "-er",
+      "definition": "Adjective: comparative"
+    },
+    {
+      "part": "-ier",
+      "definition": "Adjective: comparative"
+    },
+    {
+      "part": "-er",
+      "definition": "Noun: person or thing that does something"
+    },
+    {
+      "part": "-or",
+      "definition": "Noun: person or thing that does something"
+    },
+    {
+      "part": "-er",
+      "definition": "Verb: action"
+    },
+    {
+      "part": "-or",
+      "definition": "Verb: action"
+    },
+    {
+      "part": "-ery",
+      "definition": "collective qualities, art, practice, trade, collection, state, condition"
+    },
+    {
+      "part": "-es",
+      "definition": "Noun: plural of most nouns ending in -ch, -s, -sh, -o and -z and some in -f and -y"
+    },
+    {
+      "part": "-ies",
+      "definition": "Noun: plural of most nouns ending in -ch, -s, -sh, -o and -z and some in -f and -y"
+    },
+    {
+      "part": "-es",
+      "definition": "Verb: third person singular present indicative of verbs that end in -ch, -s, -sh, - and some in -y"
+    },
+    {
+      "part": "-ies",
+      "definition": "Verb: third person singular present indicative of verbs that end in -ch, -s, -sh, - and some in -y"
+    },
+    {
+      "part": "-ess",
+      "definition": "female"
+    },
+    {
+      "part": "-est",
+      "definition": "Adjective or Adverb: superlative"
+    },
+    {
+      "part": "-iest",
+      "definition": "Adjective or Adverb: superlative"
+    },
+    {
+      "part": "-fold",
+      "definition": "Adverb: in a manner of, marked by"
+    },
+    {
+      "part": "-ful",
+      "definition": "Noun: an amount or quanity that fills"
+    },
+    {
+      "part": "-ful",
+      "definition": "Adjective: having, giving, marked by"
+    },
+    {
+      "part": "-fy",
+      "definition": "make, form into"
+    },
+    {
+      "part": "-ia",
+      "definition": "Noun: names, diseases"
+    },
+    {
+      "part": "-ian",
+      "definition": "Noun: related to, one that is"
+    },
+    {
+      "part": "-iatry",
+      "definition": "Noun: art of healing"
+    },
+    {
+      "part": "-ic",
+      "definition": "Adjective: quality, relation"
+    },
+    {
+      "part": "-ic",
+      "definition": "Noun: related to the arts and sciences"
+    },
+    {
+      "part": "-ice",
+      "definition": "Noun: act"
+    },
+    {
+      "part": "-ify",
+      "definition": "Verb: cause"
+    },
+    {
+      "part": "-ile",
+      "definition": "Adjective: having the qualities of"
+    },
+    {
+      "part": "-ing",
+      "definition": "Noun: material made for, activity, result of an activity"
+    },
+    {
+      "part": "-ing",
+      "definition": "Verb: present participle"
+    },
+    {
+      "part": "-ing",
+      "definition": "Adjective: activity"
+    },
+    {
+      "part": "-ion",
+      "definition": "Noun: condition or action"
+    },
+    {
+      "part": "-ish",
+      "definition": "Adjective: having the character of"
+    },
+    {
+      "part": "-ism",
+      "definition": "Noun: doctrine, belief, action or conduct"
+    },
+    {
+      "part": "-ist",
+      "definition": "Noun: person or member"
+    },
+    {
+      "part": "-ite",
+      "definition": "Noun: state or quality"
+    },
+    {
+      "part": "-ity",
+      "definition": "Noun: state or quality"
+    },
+    {
+      "part": "-ive",
+      "definition": "Noun: condition"
+    },
+    {
+      "part": "-ive",
+      "definition": "Adjective: having the quality of"
+    },
+    {
+      "part": "-ative",
+      "definition": "Adjective: having the quality of"
+    },
+    {
+      "part": "-itive",
+      "definition": "Adjective: having the quality of"
+    },
+    {
+      "part": "-ize",
+      "definition": "Verb: cause"
+    },
+    {
+      "part": "-less",
+      "definition": "Adjective: without, missing"
+    },
+    {
+      "part": "-ly",
+      "definition": "Adverb: in the manner of"
+    },
+    {
+      "part": "-ment",
+      "definition": "Noun: condition or result"
+    },
+    {
+      "part": "-ness",
+      "definition": "Noun: state, condition, quality"
+    },
+    {
+      "part": "-or",
+      "definition": "Noun: condition or activity"
+    },
+    {
+      "part": "-ory",
+      "definition": "Noun: place for, serves for"
+    },
+    {
+      "part": "-ous",
+      "definition": "Adjective: having the quality of, relating to"
+    },
+    {
+      "part": "-eous",
+      "definition": "Adjective: having the quality of, relating to"
+    },
+    {
+      "part": "-ose",
+      "definition": "Adjective: having the quality of, relating to"
+    },
+    {
+      "part": "-ious",
+      "definition": "Adjective: having the quality of, relating to"
+    },
+    {
+      "part": "-ship",
+      "definition": "Noun: status, condition"
+    },
+    {
+      "part": "-ster",
+      "definition": "person"
+    },
+    {
+      "part": "-ure",
+      "definition": "Noun: act, condition, process, function"
+    },
+    {
+      "part": "-ward",
+      "definition": "Adverb: in a direction or manner"
+    },
+    {
+      "part": "-wise",
+      "definition": "Adverb: in the manner of, with regard to"
+    },
+    {
+      "part": "-y",
+      "definition": "Noun: state, condition, result of an activity"
+    },
+    {
+      "part": "-y",
+      "definition": "Adjective: marked by, having"
+    }
+  ]
+}
