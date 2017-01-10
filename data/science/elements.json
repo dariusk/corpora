@@ -562,33 +562,33 @@
         },
         {
             "atomic_number": 113,
-            "name": "Ununtrium",
-            "symbol": "Uut"
+            "name": "Nihonium",
+            "symbol": "Nh"
         },
         {
             "atomic_number": 114,
-            "name": "Ununquadium",
-            "symbol": "Uuq"
+            "name": "Flerovium",
+            "symbol": "Fl"
         },
         {
             "atomic_number": 115,
-            "name": "Ununpentium",
-            "symbol": "Uup"
+            "name": "Moscovium",
+            "symbol": "Mc"
         },
         {
             "atomic_number": 116,
-            "name": "Ununhexium",
-            "symbol": "Uuh"
+            "name": "Livermorium",
+            "symbol": "Lv"
         },
         {
             "atomic_number": 117,
-            "name": "Ununseptium",
-            "symbol": "Uus"
+            "name": "Tennessine",
+            "symbol": "Ts"
         },
         {
             "atomic_number": 118,
-            "name": "Ununoctium",
-            "symbol": "Uuo"
+            "name": "Oganesson",
+            "symbol": "Og"
         }
     ]
 }
