@@ -122,12 +122,12 @@
       "stadium": "O.co Coliseum"
     },
     {
-      "name": "San Diego Chargers",
+      "name": "Los Angeles Chargers",
       "conference": "AFC",
       "division": "West",
-      "city": "San Diego",
+      "city": "Los Angeles",
       "state": "CA",
-      "stadium": "Qualcomm Stadium"
+      "stadium": "StubHub Center"
     },
     {
       "name": "Dallas Cowboys",
