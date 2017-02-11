@@ -2689,8 +2689,8 @@
         "display_column": 12
     }, {
         "atomic_number": 113,
-        "name": "Ununtrium",
-        "symbol": "Uut",
+        "name": "Nihonium",
+        "symbol": "Nh",
         "atomic_weight": 284,
         "period": 7,
         "group": 13,
@@ -2713,8 +2713,8 @@
         "display_column": 13
     }, {
         "atomic_number": 114,
-        "name": "Ununquadium",
-        "symbol": "Uuq",
+        "name": "Flerovium",
+        "symbol": "Fl",
         "atomic_weight": 289,
         "period": 7,
         "group": 14,
@@ -2737,8 +2737,8 @@
         "display_column": 14
     }, {
         "atomic_number": 115,
-        "name": "Ununpentium",
-        "symbol": "Uup",
+        "name": "Moscovium",
+        "symbol": "Mv",
         "atomic_weight": 288,
         "period": 7,
         "group": 15,
@@ -2761,8 +2761,8 @@
         "display_column": 15
     }, {
         "atomic_number": 116,
-        "name": "Ununhexium",
-        "symbol": "Uuh",
+        "name": "Livermorium",
+        "symbol": "Lv",
         "atomic_weight": 292,
         "period": 7,
         "group": 16,
@@ -2785,8 +2785,8 @@
         "display_column": 16
     }, {
         "atomic_number": 117,
-        "name": "Ununseptium",
-        "symbol": "Uus",
+        "name": "Tennessine",
+        "symbol": "Ts",
         "atomic_weight": 295,
         "period": 7,
         "group": 17,
@@ -2809,8 +2809,8 @@
         "display_column": 17
     }, {
         "atomic_number": 118,
-        "name": "Ununoctium",
-        "symbol": "Uuo",
+        "name": "Oganesson",
+        "symbol": "Og",
         "atomic_weight": 294,
         "period": 7,
         "group": 18,
