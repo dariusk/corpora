@@ -1,5 +1,5 @@
 {
-  "description": "Current (as of 2015) teams in the NFL and where they play",
+  "description": "Current (as of 2016) teams in the NFL and where they play",
   "nfl_teams": [
     {
       "name": "Buffalo Bills",
@@ -7,7 +7,7 @@
       "division": "East",
       "city": "Orchard Park",
       "state": "NY",
-      "stadium": "Ralph Wilson Stadium"
+      "stadium": "New Era Field"
     },
     {
       "name": "Miami Dolphins",
@@ -119,7 +119,7 @@
       "division": "West",
       "city": "Oakland",
       "state": "CA",
-      "stadium": "O.co Coliseum"
+      "stadium": "Oakland Alemeda Coliseum"
     },
     {
       "name": "Los Angeles Chargers",
@@ -191,7 +191,7 @@
       "division": "North",
       "city": "Minneapolis",
       "state": "MN",
-      "stadium": "TCF Bank Stadium"
+      "stadium": "U.S. Bank Stadium"
     },
     {
       "name": "Atlanta Falcons",
@@ -242,7 +242,7 @@
       "stadium": "Los Angeles Memorial Coliseum"
     },
     {
-      "name": "San Fransisco 49ers",
+      "name": "San Francisco 49ers",
       "conference": "NFC",
       "division": "West",
       "city": "Santa Clara",

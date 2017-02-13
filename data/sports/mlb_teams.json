@@ -1,0 +1,245 @@
+{
+  "description": "Current (as of 2016) Major League Baseball teams and where they play",
+  "mlb_teams": [
+    {
+      "stadium": "Chase Field",
+      "city": "Phoenix",
+      "state": "AZ",
+      "name": "Arizona Diamondbacks",
+      "league": "National",
+      "division": "West"
+    },
+    {
+      "stadium": "Turner Field",
+      "city": "Atlanta",
+      "state": "GA",
+      "name": "Atlanta Braves",
+      "league": "National",
+      "division": "East"
+    },
+    {
+      "stadium": "Oriole Park at Camden Yards",
+      "city": "Baltimore",
+      "state": "MD",
+      "name": "Baltimore Orioles",
+      "league": "American",
+      "division": "East"
+    },
+    {
+      "stadium": "Fenway Park",
+      "city": "Boston",
+      "state": "MA",
+      "name": "Boston Red Sox",
+      "league": "American",
+      "division": "East"
+    },
+    {
+      "stadium": "Wrigley Field",
+      "city": "Chicago",
+      "state": "IL",
+      "name": "Chicago Cubs",
+      "league": "National",
+      "division": "Central"
+    },
+    {
+      "stadium": "U.S. Cellular Field",
+      "city": "Chicago",
+      "state": "IL",
+      "name": "Chicago White Sox",
+      "league": "American",
+      "division": "Central"
+    },
+    {
+      "stadium": "Great American Ball Park",
+      "city": "Cincinnati",
+      "state": "OH",
+      "name": "Cincinnati Reds",
+      "league": "National",
+      "division": "Central"
+    },
+    {
+      "stadium": "Progressive Field",
+      "city": "Cleveland",
+      "state": "OH",
+      "name": "Cleveland Indians",
+      "league": "American",
+      "division": "Central"
+    },
+    {
+      "stadium": "Coors Field",
+      "city": "Denver",
+      "state": "CO",
+      "name": "Colorado Rockies",
+      "league": "National",
+      "division": "West"
+    },
+    {
+      "stadium": "Comerica Park",
+      "city": "Detroit",
+      "state": "MI",
+      "name": "Detroit Tigers",
+      "league": "American",
+      "division": "Central"
+    },
+    {
+      "stadium": "Minute Maid Park",
+      "city": "Houston",
+      "state": "TX",
+      "name": "Houston Astros",
+      "league": "American",
+      "division": "West"
+    },
+    {
+      "stadium": "Kauffman Stadium",
+      "city": "Kansas City",
+      "state": "MO",
+      "name": "Kansas City Royals",
+      "league": "American",
+      "division": "Central"
+    },
+    {
+      "stadium": "Angel Stadium of Anaheim",
+      "city": "Anaheim",
+      "state": "CA",
+      "name": "Los Angeles Angels of Anaheim",
+      "league": "American",
+      "division": "West"
+    },
+    {
+      "stadium": "Dodger Stadium",
+      "city": "Los Angeles",
+      "state": "CA",
+      "name": "Los Angeles Dodgers",
+      "league": "National",
+      "division": "West"
+    },
+    {
+      "stadium": "Marlins Park",
+      "city": "Miami",
+      "state": "FL",
+      "name": "Miami Marlins",
+      "league": "National",
+      "division": "East"
+    },
+    {
+      "stadium": "Miller Park",
+      "city": "Milwaukee",
+      "state": "WI",
+      "name": "Milwaukee Brewers",
+      "league": "National",
+      "division": "Central"
+    },
+    {
+      "stadium": "Target Field",
+      "city": "Minneapolis",
+      "state": "MN",
+      "name": "Minnesota Twins",
+      "league": "American",
+      "division": "Central"
+    },
+    {
+      "stadium": "Citi Field",
+      "city": "Queens",
+      "state": "NY",
+      "name": "New York Mets",
+      "league": "National",
+      "division": "East"
+    },
+    {
+      "stadium": "Yankee Stadium",
+      "city": "Bronx",
+      "state": "NY",
+      "name": "New York Yankees",
+      "league": "American",
+      "division": "East"
+    },
+    {
+      "stadium": "Oakland Coliseum",
+      "city": "Oakland",
+      "state": "CA",
+      "name": "Oakland Athletics",
+      "league": "American",
+      "division": "West"
+    },
+    {
+      "stadium": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA",
+      "name": "Philadelphia Phillies",
+      "league": "National",
+      "division": "East"
+    },
+    {
+      "stadium": "PNC Park",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "name": "Pittsburgh Pirates",
+      "league": "National",
+      "division": "Central"
+    },
+    {
+      "stadium": "Petco Park",
+      "city": "San Diego",
+      "state": "CA",
+      "name": "San Diego Padres",
+      "league": "National",
+      "division": "West"
+    },
+    {
+      "stadium": "AT&T Park",
+      "city": "San Francisco",
+      "state": "CA",
+      "name": "San Francisco Giants",
+      "league": "National",
+      "division": "West"
+    },
+    {
+      "stadium": "Safeco Field",
+      "city": "Seattle",
+      "state": "WA",
+      "name": "Seattle Mariners",
+      "league": "American",
+      "division": "West"
+    },
+    {
+      "stadium": "Busch Stadium",
+      "city": "St. Louis",
+      "state": "MO",
+      "name": "St. Louis Cardinals",
+      "league": "National",
+      "division": "Central"
+    },
+    {
+      "stadium": "Tropicana Field",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "name": "Tampa Bay Rays",
+      "league": "American",
+      "division": "East"
+    },
+    {
+      "stadium": "Globe Life Park in Arlington",
+      "city": "Arlington",
+      "state": "TX",
+      "name": "Texas Rangers",
+      "league": "American",
+      "division": "West"
+    },
+    {
+      "stadium": "Rogers Centre",
+      "city": "Toronto",
+      "state": "ON",
+      "name": "Toronto Blue Jays",
+      "league": "American",
+      "division": "East"
+    },
+    {
+      "stadium": "Nationals Park",
+      "city": "Washington",
+      "state": "DC",
+      "name": "Washington Nationals",
+      "league": "National",
+      "division": "East"
+    }
+  ]
+}
