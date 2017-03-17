@@ -1,0 +1,395 @@
+{
+  "description": "Neighborhoods of New York City and their corresponding ZIP codes. Normal ZIP code caveats apply.",
+  "source": "Compiled by United Health Fund and distributed by the New York State Department of Health: https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm",
+  "neighborhoods":
+  [
+    {
+        "neighborhood": "Central Bronx",
+        "zips": [
+            "10453",
+            "10457",
+            "10460"
+        ]
+    },
+    {
+        "neighborhood": "Bronx Park and Fordham",
+        "zips": [
+            "10458",
+            "10467",
+            "10468"
+        ]
+    },
+    {
+        "neighborhood": "High Bridge and Morrisania",
+        "zips": [
+            "10451",
+            "10452",
+            "10456"
+        ]
+    },
+    {
+        "neighborhood": "Hunts Point and Mott Haven",
+        "zips": [
+            "10454",
+            "10455",
+            "10459",
+            "10474"
+        ]
+    },
+    {
+        "neighborhood": "Kingsbridge and Riverdale",
+        "zips": [
+            "10463",
+            "10471"
+        ]
+    },
+    {
+        "neighborhood": "Northeast Bronx",
+        "zips": [
+            "10466",
+            "10469",
+            "10470",
+            "10475"
+        ]
+    },
+    {
+        "neighborhood": "Southeast Bronx",
+        "zips": [
+            "10461",
+            "10462",
+            "10464",
+            "10465",
+            "10472",
+            "10473"
+        ]
+    },
+    {
+        "neighborhood": "Central Brooklyn",
+        "zips": [
+            "11212",
+            "11213",
+            "11216",
+            "11233",
+            "11238"
+        ]
+    },
+    {
+        "neighborhood": "Southwest Brooklyn",
+        "zips": [
+            "11209",
+            "11214",
+            "11228"
+        ]
+    },
+    {
+        "neighborhood": "Borough Park",
+        "zips": [
+            "11204",
+            "11218",
+            "11219",
+            "11230"
+        ]
+    },
+    {
+        "neighborhood": "Canarsie and Flatlands",
+        "zips": [
+            "11234",
+            "11236",
+            "11239"
+        ]
+    },
+    {
+        "neighborhood": "Southern Brooklyn",
+        "zips": [
+            "11223",
+            "11224",
+            "11229",
+            "11235"
+        ]
+    },
+    {
+        "neighborhood": "Northwest Brooklyn",
+        "zips": [
+            "11201",
+            "11205",
+            "11215",
+            "11217",
+            "11231"
+        ]
+    },
+    {
+        "neighborhood": "Flatbush",
+        "zips": [
+            "11203",
+            "11210",
+            "11225",
+            "11226"
+        ]
+    },
+    {
+        "neighborhood": "East New York and New Lots",
+        "zips": [
+            "11207",
+            "11208"
+        ]
+    },
+    {
+        "neighborhood": "Greenpoint",
+        "zips": [
+            "11211",
+            "11222"
+        ]
+    },
+    {
+        "neighborhood": "Sunset Park",
+        "zips": [
+            "11220",
+            "11232"
+        ]
+    },
+    {
+        "neighborhood": "Bushwick and Williamsburg",
+        "zips": [
+            "11206",
+            "11221",
+            "11237"
+        ]
+    },
+    {
+        "neighborhood": "Central Harlem",
+        "zips": [
+            "10026",
+            "10027",
+            "10030",
+            "10037",
+            "10039"
+        ]
+    },
+    {
+        "neighborhood": "Chelsea and Clinton",
+        "zips": [
+            "10001",
+            "10011",
+            "10018",
+            "10019",
+            "10020",
+            "10036"
+        ]
+    },
+    {
+        "neighborhood": "East Harlem",
+        "zips": [
+            "10029",
+            "10035"
+        ]
+    },
+    {
+        "neighborhood": "Gramercy Park and Murray Hill",
+        "zips": [
+            "10010",
+            "10016",
+            "10017",
+            "10022"
+        ]
+    },
+    {
+        "neighborhood": "Greenwich Village and Soho",
+        "zips": [
+            "10012",
+            "10013",
+            "10014"
+        ]
+    },
+    {
+        "neighborhood": "Lower Manhattan",
+        "zips": [
+            "10004",
+            "10005",
+            "10006",
+            "10007",
+            "10038",
+            "10280"
+        ]
+    },
+    {
+        "neighborhood": "Lower East Side",
+        "zips": [
+            "10002",
+            "10003",
+            "10009"
+        ]
+    },
+    {
+        "neighborhood": "Upper East Side",
+        "zips": [
+            "10021",
+            "10028",
+            "10044",
+            "10065",
+            "10075",
+            "10128"
+        ]
+    },
+    {
+        "neighborhood": "Upper West Side",
+        "zips": [
+            "10023",
+            "10024",
+            "10025"
+        ]
+    },
+    {
+        "neighborhood": "Inwood and Washington Heights",
+        "zips": [
+            "10031",
+            "10032",
+            "10033",
+            "10034",
+            "10040"
+        ]
+    },
+    {
+        "neighborhood": "Northeast Queens",
+        "zips": [
+            "11361",
+            "11362",
+            "11363",
+            "11364"
+        ]
+    },
+    {
+        "neighborhood": "North Queens",
+        "zips": [
+            "11354",
+            "11355",
+            "11356",
+            "11357",
+            "11358",
+            "11359",
+            "11360"
+        ]
+    },
+    {
+        "neighborhood": "Central Queens",
+        "zips": [
+            "11365",
+            "11366",
+            "11367"
+        ]
+    },
+    {
+        "neighborhood": "Jamaica",
+        "zips": [
+            "11412",
+            "11423",
+            "11432",
+            "11433",
+            "11434",
+            "11435",
+            "11436"
+        ]
+    },
+    {
+        "neighborhood": "Northwest Queens",
+        "zips": [
+            "11101",
+            "11102",
+            "11103",
+            "11104",
+            "11105",
+            "11106"
+        ]
+    },
+    {
+        "neighborhood": "West Central Queens",
+        "zips": [
+            "11374",
+            "11375",
+            "11379",
+            "11385"
+        ]
+    },
+    {
+        "neighborhood": "Rockaways",
+        "zips": [
+            "11691",
+            "11692",
+            "11693",
+            "11694",
+            "11695",
+            "11697"
+        ]
+    },
+    {
+        "neighborhood": "Southeast Queens",
+        "zips": [
+            "11004",
+            "11005",
+            "11411",
+            "11413",
+            "11422",
+            "11426",
+            "11427",
+            "11428",
+            "11429"
+        ]
+    },
+    {
+        "neighborhood": "Southwest Queens",
+        "zips": [
+            "11414",
+            "11415",
+            "11416",
+            "11417",
+            "11418",
+            "11419",
+            "11420",
+            "11421"
+        ]
+    },
+    {
+        "neighborhood": "West Queens",
+        "zips": [
+            "11368",
+            "11369",
+            "11370",
+            "11372",
+            "11373",
+            "11377",
+            "11378"
+        ]
+    },
+    {
+        "neighborhood": "Port Richmond",
+        "zips": [
+            "10302",
+            "10303",
+            "10310"
+        ]
+    },
+    {
+        "neighborhood": "South Shore",
+        "zips": [
+            "10306",
+            "10307",
+            "10308",
+            "10309",
+            "10312"
+        ]
+    },
+    {
+        "neighborhood": "Stapleton and St. George",
+        "zips": [
+            "10301",
+            "10304",
+            "10305"
+        ]
+    },
+    {
+        "neighborhood": "Mid-Island",
+        "zips": [
+            "10314"
+        ]
+    }
+  ]
+}
