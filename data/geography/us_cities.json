@@ -1,5005 +1,5006 @@
 {
-  "description": "Top 1000 U.S. cities by 2013 population",
+  "description": "Top 1000 U.S. cities by 2014 population",
+  "source": "US Census American Community Survey 2014 5-year population estimate",
   "cities": [
     {
       "city": "New York",
       "state": "New York",
-      "population": "8,405,837"
+      "population": "8,354,889"
     },
     {
       "city": "Los Angeles",
       "state": "California",
-      "population": "3,884,307"
+      "population": "3,862,210"
     },
     {
       "city": "Chicago",
       "state": "Illinois",
-      "population": "2,718,782"
+      "population": "2,712,608"
     },
     {
       "city": "Houston",
       "state": "Texas",
-      "population": "2,195,914"
+      "population": "2,167,988"
     },
     {
       "city": "Philadelphia",
       "state": "Pennsylvania",
-      "population": "1,553,165"
+      "population": "1,546,920"
     },
     {
       "city": "Phoenix",
       "state": "Arizona",
-      "population": "1,513,367"
+      "population": "1,490,758"
     },
     {
       "city": "San Antonio",
       "state": "Texas",
-      "population": "1,409,019"
+      "population": "1,385,438"
     },
     {
       "city": "San Diego",
       "state": "California",
-      "population": "1,355,896"
+      "population": "1,341,510"
     },
     {
       "city": "Dallas",
       "state": "Texas",
-      "population": "1,257,676"
+      "population": "1,240,985"
     },
     {
       "city": "San Jose",
       "state": "California",
-      "population": "998,537"
+      "population": "986,320"
     },
     {
       "city": "Austin",
       "state": "Texas",
-      "population": "885,400"
+      "population": "864,218"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "population": "837,533"
     },
     {
       "city": "Indianapolis",
       "state": "Indiana",
-      "population": "843,393"
-    },
-    {
-      "city": "Jacksonville",
-      "state": "Florida",
-      "population": "842,583"
+      "population": "835,097"
     },
     {
       "city": "San Francisco",
       "state": "California",
-      "population": "837,442"
+      "population": "829,072"
     },
     {
       "city": "Columbus",
       "state": "Ohio",
-      "population": "822,553"
-    },
-    {
-      "city": "Charlotte",
-      "state": "North Carolina",
-      "population": "792,862"
+      "population": "811,943"
     },
     {
       "city": "Fort Worth",
       "state": "Texas",
-      "population": "792,727"
+      "population": "778,573"
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "population": "774,807"
     },
     {
       "city": "Detroit",
       "state": "Michigan",
-      "population": "688,701"
+      "population": "695,437"
     },
     {
       "city": "El Paso",
       "state": "Texas",
-      "population": "674,433"
+      "population": "669,771"
     },
     {
       "city": "Memphis",
       "state": "Tennessee",
-      "population": "653,450"
-    },
-    {
-      "city": "Seattle",
-      "state": "Washington",
-      "population": "652,405"
-    },
-    {
-      "city": "Denver",
-      "state": "Colorado",
-      "population": "649,495"
-    },
-    {
-      "city": "Washington",
-      "state": "District of Columbia",
-      "population": "646,449"
+      "population": "656,715"
     },
     {
       "city": "Boston",
       "state": "Massachusetts",
-      "population": "645,966"
+      "population": "639,594"
     },
     {
-      "city": "Nashville-Davidson",
+      "city": "Seattle",
+      "state": "Washington",
+      "population": "637,850"
+    },
+    {
+      "city": "Denver",
+      "state": "Colorado",
+      "population": "633,777"
+    },
+    {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "population": "633,736"
+    },
+    {
+      "city": "Nashville-Davidson County",
       "state": "Tennessee",
-      "population": "634,464"
+      "population": "624,261"
     },
     {
       "city": "Baltimore",
       "state": "Maryland",
-      "population": "622,104"
-    },
-    {
-      "city": "Oklahoma City",
-      "state": "Oklahoma",
-      "population": "610,613"
+      "population": "622,271"
     },
     {
       "city": "Louisville/Jefferson County",
       "state": "Kentucky",
-      "population": "609,893"
+      "population": "605,762"
     },
     {
       "city": "Portland",
       "state": "Oregon",
-      "population": "609,456"
+      "population": "602,568"
     },
     {
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "population": "603,488"
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "population": "600,729"
     },
     {
       "city": "Milwaukee",
       "state": "Wisconsin",
-      "population": "599,164"
+      "population": "598,078"
+    },
+    {
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "population": "597,353"
     },
     {
       "city": "Albuquerque",
       "state": "New Mexico",
-      "population": "556,495"
+      "population": "553,576"
     },
     {
       "city": "Tucson",
       "state": "Arizona",
-      "population": "526,116"
+      "population": "525,031"
     },
     {
       "city": "Fresno",
       "state": "California",
-      "population": "509,924"
+      "population": "506,132"
     },
     {
       "city": "Sacramento",
       "state": "California",
-      "population": "479,686"
+      "population": "476,075"
     },
     {
       "city": "Long Beach",
       "state": "California",
-      "population": "469,428"
+      "population": "468,594"
     },
     {
       "city": "Kansas City",
       "state": "Missouri",
-      "population": "467,007"
+      "population": "465,005"
     },
     {
       "city": "Mesa",
       "state": "Arizona",
-      "population": "457,587"
+      "population": "452,091"
     },
     {
       "city": "Virginia Beach",
       "state": "Virginia",
-      "population": "448,479"
+      "population": "445,623"
     },
     {
       "city": "Atlanta",
       "state": "Georgia",
-      "population": "447,841"
-    },
-    {
-      "city": "Colorado Springs",
-      "state": "Colorado",
-      "population": "439,886"
+      "population": "440,641"
     },
     {
       "city": "Omaha",
       "state": "Nebraska",
-      "population": "434,353"
+      "population": "435,454"
+    },
+    {
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "population": "433,547"
     },
     {
       "city": "Raleigh",
       "state": "North Carolina",
-      "population": "431,746"
+      "population": "423,287"
     },
     {
       "city": "Miami",
       "state": "Florida",
-      "population": "417,650"
+      "population": "416,432"
     },
     {
       "city": "Oakland",
       "state": "California",
-      "population": "406,253"
-    },
-    {
-      "city": "Minneapolis",
-      "state": "Minnesota",
-      "population": "400,070"
+      "population": "402,339"
     },
     {
       "city": "Tulsa",
       "state": "Oklahoma",
-      "population": "398,121"
+      "population": "395,599"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "population": "394,424"
     },
     {
       "city": "Cleveland",
       "state": "Ohio",
-      "population": "390,113"
+      "population": "392,114"
     },
     {
       "city": "Wichita",
       "state": "Kansas",
-      "population": "386,552"
+      "population": "385,518"
     },
     {
       "city": "Arlington",
       "state": "Texas",
-      "population": "379,577"
+      "population": "375,305"
     },
     {
       "city": "New Orleans",
       "state": "Louisiana",
-      "population": "378,715"
+      "population": "368,471"
+    },
+    {
+      "city": "San Juan",
+      "state": "Puerto Rico",
+      "population": "366,726"
     },
     {
       "city": "Bakersfield",
       "state": "California",
-      "population": "363,630"
+      "population": "358,700"
     },
     {
       "city": "Tampa",
       "state": "Florida",
-      "population": "352,957"
+      "population": "348,934"
     },
     {
-      "city": "Honolulu",
+      "city": "Urban Honolulu",
       "state": "Hawaii",
-      "population": "347,884"
-    },
-    {
-      "city": "Aurora",
-      "state": "Colorado",
-      "population": "345,803"
+      "population": "345,130"
     },
     {
       "city": "Anaheim",
       "state": "California",
-      "population": "345,012"
+      "population": "342,973"
+    },
+    {
+      "city": "Aurora",
+      "state": "Colorado",
+      "population": "339,480"
     },
     {
       "city": "Santa Ana",
       "state": "California",
-      "population": "334,227"
+      "population": "331,266"
     },
     {
       "city": "St. Louis",
       "state": "Missouri",
-      "population": "318,416"
+      "population": "318,727"
     },
     {
       "city": "Riverside",
       "state": "California",
-      "population": "316,619"
+      "population": "313,041"
     },
     {
       "city": "Corpus Christi",
       "state": "Texas",
-      "population": "316,381"
-    },
-    {
-      "city": "Lexington-Fayette",
-      "state": "Kentucky",
-      "population": "308,428"
+      "population": "312,680"
     },
     {
       "city": "Pittsburgh",
       "state": "Pennsylvania",
-      "population": "305,841"
+      "population": "306,045"
+    },
+    {
+      "city": "Lexington-Fayette",
+      "state": "Kentucky",
+      "population": "304,473"
     },
     {
       "city": "Anchorage",
       "state": "Alaska",
-      "population": "300,950"
+      "population": "298,178"
     },
     {
       "city": "Stockton",
       "state": "California",
-      "population": "298,118"
+      "population": "297,223"
     },
     {
       "city": "Cincinnati",
       "state": "Ohio",
-      "population": "297,517"
+      "population": "297,117"
     },
     {
       "city": "St. Paul",
       "state": "Minnesota",
-      "population": "294,873"
+      "population": "291,728"
     },
     {
       "city": "Toledo",
       "state": "Ohio",
-      "population": "282,313"
-    },
-    {
-      "city": "Greensboro",
-      "state": "North Carolina",
-      "population": "279,639"
+      "population": "283,932"
     },
     {
       "city": "Newark",
       "state": "New Jersey",
-      "population": "278,427"
+      "population": "278,750"
+    },
+    {
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "population": "276,225"
     },
     {
       "city": "Plano",
       "state": "Texas",
-      "population": "274,409"
+      "population": "271,166"
     },
     {
       "city": "Henderson",
       "state": "Nevada",
-      "population": "270,811"
+      "population": "266,245"
     },
     {
       "city": "Lincoln",
       "state": "Nebraska",
-      "population": "268,738"
+      "population": "265,811"
     },
     {
       "city": "Buffalo",
       "state": "New York",
-      "population": "258,959"
+      "population": "259,959"
     },
     {
       "city": "Jersey City",
       "state": "New Jersey",
-      "population": "257,342"
-    },
-    {
-      "city": "Chula Vista",
-      "state": "California",
-      "population": "256,780"
+      "population": "255,861"
     },
     {
       "city": "Fort Wayne",
       "state": "Indiana",
-      "population": "256,496"
+      "population": "255,784"
+    },
+    {
+      "city": "Chula Vista",
+      "state": "California",
+      "population": "253,031"
     },
     {
       "city": "Orlando",
       "state": "Florida",
-      "population": "255,483"
+      "population": "250,224"
     },
     {
       "city": "St. Petersburg",
       "state": "Florida",
-      "population": "249,688"
+      "population": "248,429"
     },
     {
       "city": "Chandler",
       "state": "Arizona",
-      "population": "249,146"
+      "population": "245,231"
     },
     {
       "city": "Laredo",
       "state": "Texas",
-      "population": "248,142"
+      "population": "245,048"
     },
     {
       "city": "Norfolk",
       "state": "Virginia",
-      "population": "246,139"
+      "population": "244,745"
     },
     {
       "city": "Durham",
       "state": "North Carolina",
-      "population": "245,475"
+      "population": "240,107"
     },
     {
       "city": "Madison",
       "state": "Wisconsin",
-      "population": "243,344"
+      "population": "239,848"
     },
     {
       "city": "Lubbock",
       "state": "Texas",
-      "population": "239,538"
-    },
-    {
-      "city": "Irvine",
-      "state": "California",
-      "population": "236,716"
+      "population": "236,868"
     },
     {
       "city": "Winston-Salem",
       "state": "North Carolina",
-      "population": "236,441"
-    },
-    {
-      "city": "Glendale",
-      "state": "Arizona",
-      "population": "234,632"
-    },
-    {
-      "city": "Garland",
-      "state": "Texas",
-      "population": "234,566"
+      "population": "234,469"
     },
     {
       "city": "Hialeah",
       "state": "Florida",
-      "population": "233,394"
+      "population": "232,311"
+    },
+    {
+      "city": "Garland",
+      "state": "Texas",
+      "population": "232,305"
+    },
+    {
+      "city": "Glendale",
+      "state": "Arizona",
+      "population": "231,978"
     },
     {
       "city": "Reno",
       "state": "Nevada",
-      "population": "233,294"
+      "population": "231,103"
     },
     {
-      "city": "Chesapeake",
-      "state": "Virginia",
-      "population": "230,571"
-    },
-    {
-      "city": "Gilbert",
-      "state": "Arizona",
-      "population": "229,972"
+      "city": "Irvine",
+      "state": "California",
+      "population": "229,850"
     },
     {
       "city": "Baton Rouge",
       "state": "Louisiana",
-      "population": "229,426"
+      "population": "229,353"
+    },
+    {
+      "city": "Chesapeake",
+      "state": "Virginia",
+      "population": "228,168"
     },
     {
       "city": "Irving",
       "state": "Texas",
-      "population": "228,653"
+      "population": "224,859"
     },
     {
       "city": "Scottsdale",
       "state": "Arizona",
-      "population": "226,918"
+      "population": "223,519"
     },
     {
       "city": "North Las Vegas",
       "state": "Nevada",
-      "population": "226,877"
+      "population": "223,336"
+    },
+    {
+      "city": "Paradise",
+      "state": "Nevada",
+      "population": "223,182"
+    },
+    {
+      "city": "Gilbert",
+      "state": "Arizona",
+      "population": "223,131"
     },
     {
       "city": "Fremont",
       "state": "California",
-      "population": "224,922"
+      "population": "221,654"
     },
     {
-      "city": "Boise City",
-      "state": "Idaho",
-      "population": "214,236"
-    },
-    {
-      "city": "Richmond",
+      "city": "Arlington",
       "state": "Virginia",
-      "population": "214,114"
+      "population": "220,173"
     },
     {
       "city": "San Bernardino",
       "state": "California",
-      "population": "213,708"
+      "population": "213,044"
     },
     {
       "city": "Birmingham",
       "state": "Alabama",
-      "population": "212,113"
+      "population": "211,705"
+    },
+    {
+      "city": "Boise City",
+      "state": "Idaho",
+      "population": "211,655"
+    },
+    {
+      "city": "Richmond",
+      "state": "Virginia",
+      "population": "211,063"
+    },
+    {
+      "city": "Rochester",
+      "state": "New York",
+      "population": "210,461"
     },
     {
       "city": "Spokane",
       "state": "Washington",
-      "population": "210,721"
-    },
-    {
-      "city": "Rochester",
-      "state": "New York",
-      "population": "210,358"
+      "population": "210,142"
     },
     {
       "city": "Des Moines",
       "state": "Iowa",
-      "population": "207,510"
+      "population": "206,702"
     },
     {
       "city": "Modesto",
       "state": "California",
-      "population": "204,933"
-    },
-    {
-      "city": "Fayetteville",
-      "state": "North Carolina",
-      "population": "204,408"
-    },
-    {
-      "city": "Tacoma",
-      "state": "Washington",
-      "population": "203,446"
-    },
-    {
-      "city": "Oxnard",
-      "state": "California",
-      "population": "203,007"
-    },
-    {
-      "city": "Fontana",
-      "state": "California",
-      "population": "203,003"
-    },
-    {
-      "city": "Columbus",
-      "state": "Georgia",
-      "population": "202,824"
+      "population": "205,984"
     },
     {
       "city": "Montgomery",
       "state": "Alabama",
-      "population": "201,332"
+      "population": "204,095"
     },
     {
-      "city": "Moreno Valley",
+      "city": "Fayetteville",
+      "state": "North Carolina",
+      "population": "202,421"
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "population": "201,794"
+    },
+    {
+      "city": "Oxnard",
       "state": "California",
-      "population": "201,175"
+      "population": "201,744"
+    },
+    {
+      "city": "Fontana",
+      "state": "California",
+      "population": "201,355"
     },
     {
       "city": "Shreveport",
       "state": "Louisiana",
-      "population": "200,327"
+      "population": "200,692"
     },
     {
       "city": "Aurora",
       "state": "Illinois",
-      "population": "199,963"
+      "population": "199,878"
+    },
+    {
+      "city": "Moreno Valley",
+      "state": "California",
+      "population": "198,872"
     },
     {
       "city": "Yonkers",
       "state": "New York",
-      "population": "199,766"
+      "population": "198,654"
     },
     {
       "city": "Akron",
       "state": "Ohio",
-      "population": "198,100"
+      "population": "198,492"
     },
     {
-      "city": "Huntington Beach",
-      "state": "California",
-      "population": "197,575"
-    },
-    {
-      "city": "Little Rock",
-      "state": "Arkansas",
-      "population": "197,357"
+      "city": "Columbus",
+      "state": "Georgia",
+      "population": "198,247"
     },
     {
       "city": "Augusta-Richmond County",
       "state": "Georgia",
-      "population": "197,350"
+      "population": "196,551"
     },
     {
-      "city": "Amarillo",
-      "state": "Texas",
-      "population": "196,429"
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "population": "196,188"
+    },
+    {
+      "city": "Huntington Beach",
+      "state": "California",
+      "population": "195,686"
     },
     {
       "city": "Glendale",
       "state": "California",
-      "population": "196,021"
+      "population": "195,380"
     },
     {
       "city": "Mobile",
       "state": "Alabama",
-      "population": "194,899"
+      "population": "194,942"
+    },
+    {
+      "city": "Amarillo",
+      "state": "Texas",
+      "population": "194,930"
     },
     {
       "city": "Grand Rapids",
       "state": "Michigan",
-      "population": "192,294"
+      "population": "190,739"
     },
     {
       "city": "Salt Lake City",
       "state": "Utah",
-      "population": "191,180"
+      "population": "189,267"
+    },
+    {
+      "city": "Sunrise Manor",
+      "state": "Nevada",
+      "population": "187,647"
     },
     {
       "city": "Tallahassee",
       "state": "Florida",
-      "population": "186,411"
+      "population": "185,395"
     },
     {
       "city": "Huntsville",
       "state": "Alabama",
-      "population": "186,254"
+      "population": "184,132"
     },
     {
-      "city": "Grand Prairie",
-      "state": "Texas",
-      "population": "183,372"
-    },
-    {
-      "city": "Knoxville",
-      "state": "Tennessee",
-      "population": "183,270"
+      "city": "Spring Valley",
+      "state": "Nevada",
+      "population": "183,937"
     },
     {
       "city": "Worcester",
       "state": "Massachusetts",
-      "population": "182,544"
+      "population": "182,511"
+    },
+    {
+      "city": "Knoxville",
+      "state": "Tennessee",
+      "population": "181,759"
+    },
+    {
+      "city": "Bayamón",
+      "state": "Puerto Rico",
+      "population": "181,542"
     },
     {
       "city": "Newport News",
       "state": "Virginia",
-      "population": "182,020"
+      "population": "181,362"
+    },
+    {
+      "city": "Grand Prairie",
+      "state": "Texas",
+      "population": "181,135"
     },
     {
       "city": "Brownsville",
       "state": "Texas",
-      "population": "181,860"
-    },
-    {
-      "city": "Overland Park",
-      "state": "Kansas",
-      "population": "181,260"
+      "population": "179,834"
     },
     {
       "city": "Santa Clarita",
       "state": "California",
-      "population": "179,590"
+      "population": "179,030"
+    },
+    {
+      "city": "Overland Park",
+      "state": "Kansas",
+      "population": "178,945"
     },
     {
       "city": "Providence",
       "state": "Rhode Island",
-      "population": "177,990"
+      "population": "178,562"
     },
     {
       "city": "Garden Grove",
       "state": "California",
-      "population": "175,140"
+      "population": "173,853"
+    },
+    {
+      "city": "Jackson",
+      "state": "Mississippi",
+      "population": "173,631"
     },
     {
       "city": "Chattanooga",
       "state": "Tennessee",
-      "population": "173,360"
+      "population": "171,863"
     },
     {
       "city": "Oceanside",
       "state": "California",
-      "population": "172,790"
-    },
-    {
-      "city": "Jackson",
-      "state": "Mississippi",
-      "population": "172,638"
+      "population": "171,400"
     },
     {
       "city": "Fort Lauderdale",
       "state": "Florida",
-      "population": "172,380"
+      "population": "171,137"
     },
     {
       "city": "Santa Rosa",
       "state": "California",
-      "population": "171,990"
+      "population": "170,782"
     },
     {
       "city": "Rancho Cucamonga",
       "state": "California",
-      "population": "171,380"
+      "population": "170,170"
     },
     {
       "city": "Port St. Lucie",
       "state": "Florida",
-      "population": "171,010"
+      "population": "169,260"
     },
     {
       "city": "Tempe",
       "state": "Arizona",
-      "population": "168,220"
+      "population": "166,975"
     },
     {
       "city": "Ontario",
       "state": "California",
-      "population": "167,500"
+      "population": "166,892"
     },
     {
       "city": "Vancouver",
       "state": "Washington",
-      "population": "167,400"
+      "population": "165,554"
+    },
+    {
+      "city": "Springfield",
+      "state": "Missouri",
+      "population": "162,333"
     },
     {
       "city": "Cape Coral",
       "state": "Florida",
-      "population": "165,830"
+      "population": "161,804"
     },
     {
       "city": "Sioux Falls",
       "state": "South Dakota",
-      "population": "164,670"
-    },
-    {
-      "city": "Springfield",
-      "state": "Missouri",
-      "population": "164,120"
+      "population": "160,964"
     },
     {
       "city": "Peoria",
       "state": "Arizona",
-      "population": "162,590"
+      "population": "160,231"
     },
     {
       "city": "Pembroke Pines",
       "state": "Florida",
-      "population": "162,320"
-    },
-    {
-      "city": "Elk Grove",
-      "state": "California",
-      "population": "161,000"
-    },
-    {
-      "city": "Salem",
-      "state": "Oregon",
-      "population": "160,610"
+      "population": "159,920"
     },
     {
       "city": "Lancaster",
       "state": "California",
-      "population": "159,520"
+      "population": "159,092"
     },
     {
-      "city": "Corona",
+      "city": "Elk Grove",
       "state": "California",
-      "population": "159,500"
+      "population": "158,455"
     },
     {
       "city": "Eugene",
       "state": "Oregon",
-      "population": "159,190"
+      "population": "158,131"
+    },
+    {
+      "city": "Salem",
+      "state": "Oregon",
+      "population": "157,967"
+    },
+    {
+      "city": "Corona",
+      "state": "California",
+      "population": "157,395"
     },
     {
       "city": "Palmdale",
       "state": "California",
-      "population": "157,160"
+      "population": "155,810"
+    },
+    {
+      "city": "Macon-Bibb County",
+      "state": "Georgia",
+      "population": "155,023"
+    },
+    {
+      "city": "Carolina",
+      "state": "Puerto Rico",
+      "population": "154,770"
     },
     {
       "city": "Salinas",
       "state": "California",
-      "population": "155,660"
+      "population": "154,077"
     },
     {
       "city": "Springfield",
       "state": "Massachusetts",
-      "population": "153,700"
+      "population": "153,836"
     },
     {
       "city": "Pasadena",
       "state": "Texas",
-      "population": "152,730"
-    },
-    {
-      "city": "Fort Collins",
-      "state": "Colorado",
-      "population": "152,060"
-    },
-    {
-      "city": "Hayward",
-      "state": "California",
-      "population": "151,570"
-    },
-    {
-      "city": "Pomona",
-      "state": "California",
-      "population": "151,340"
-    },
-    {
-      "city": "Cary",
-      "state": "North Carolina",
-      "population": "151,080"
+      "population": "152,171"
     },
     {
       "city": "Rockford",
       "state": "Illinois",
-      "population": "150,251"
+      "population": "151,290"
     },
     {
-      "city": "Alexandria",
-      "state": "Virginia",
-      "population": "148,890"
-    },
-    {
-      "city": "Escondido",
+      "city": "Pomona",
       "state": "California",
-      "population": "148,730"
+      "population": "151,142"
     },
     {
-      "city": "McKinney",
-      "state": "Texas",
-      "population": "148,550"
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "population": "149,627"
     },
     {
-      "city": "Kansas City",
-      "state": "Kansas",
-      "population": "148,480"
+      "city": "Hayward",
+      "state": "California",
+      "population": "149,596"
     },
     {
       "city": "Joliet",
       "state": "Illinois",
-      "population": "147,800"
+      "population": "147,786"
     },
     {
-      "city": "Sunnyvale",
+      "city": "Escondido",
       "state": "California",
-      "population": "147,550"
+      "population": "147,603"
+    },
+    {
+      "city": "Kansas City",
+      "state": "Kansas",
+      "population": "147,598"
     },
     {
       "city": "Torrance",
       "state": "California",
-      "population": "147,470"
+      "population": "147,181"
     },
     {
       "city": "Bridgeport",
       "state": "Connecticut",
-      "population": "147,210"
+      "population": "146,680"
     },
     {
-      "city": "Lakewood",
-      "state": "Colorado",
-      "population": "147,210"
-    },
-    {
-      "city": "Hollywood",
-      "state": "Florida",
-      "population": "146,520"
+      "city": "Alexandria",
+      "state": "Virginia",
+      "population": "146,422"
     },
     {
       "city": "Paterson",
       "state": "New Jersey",
-      "population": "145,948"
+      "population": "146,341"
     },
     {
-      "city": "Naperville",
-      "state": "Illinois",
-      "population": "144,860"
+      "city": "Cary",
+      "state": "North Carolina",
+      "population": "146,041"
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "California",
+      "population": "145,921"
+    },
+    {
+      "city": "Lakewood",
+      "state": "Colorado",
+      "population": "145,880"
+    },
+    {
+      "city": "Hollywood",
+      "state": "Florida",
+      "population": "145,128"
     },
     {
       "city": "Syracuse",
       "state": "New York",
-      "population": "144,669"
+      "population": "144,648"
+    },
+    {
+      "city": "Naperville",
+      "state": "Illinois",
+      "population": "144,108"
+    },
+    {
+      "city": "McKinney",
+      "state": "Texas",
+      "population": "144,066"
     },
     {
       "city": "Mesquite",
       "state": "Texas",
-      "population": "143,480"
+      "population": "142,552"
     },
     {
       "city": "Dayton",
       "state": "Ohio",
-      "population": "143,355"
+      "population": "141,776"
     },
     {
       "city": "Savannah",
       "state": "Georgia",
-      "population": "142,770"
+      "population": "141,298"
     },
     {
       "city": "Clarksville",
       "state": "Tennessee",
-      "population": "142,350"
+      "population": "140,563"
     },
     {
-      "city": "Orange",
-      "state": "California",
-      "population": "139,960"
+      "city": "Metairie",
+      "state": "Louisiana",
+      "population": "140,074"
     },
     {
       "city": "Pasadena",
       "state": "California",
-      "population": "139,730"
+      "population": "139,065"
     },
     {
-      "city": "Fullerton",
+      "city": "Orange",
       "state": "California",
       "population": "138,980"
     },
     {
-      "city": "Killeen",
-      "state": "Texas",
-      "population": "137,140"
-    },
-    {
-      "city": "Frisco",
-      "state": "Texas",
-      "population": "136,790"
+      "city": "Fullerton",
+      "state": "California",
+      "population": "137,945"
     },
     {
       "city": "Hampton",
       "state": "Virginia",
-      "population": "136,699"
+      "population": "136,904"
     },
     {
       "city": "McAllen",
       "state": "Texas",
-      "population": "136,630"
+      "population": "135,048"
     },
     {
       "city": "Warren",
       "state": "Michigan",
-      "population": "134,873"
+      "population": "134,398"
     },
     {
-      "city": "Bellevue",
-      "state": "Washington",
-      "population": "133,990"
+      "city": "Killeen",
+      "state": "Texas",
+      "population": "134,030"
     },
     {
       "city": "West Valley City",
       "state": "Utah",
-      "population": "133,570"
+      "population": "132,329"
+    },
+    {
+      "city": "Bellevue",
+      "state": "Washington",
+      "population": "132,268"
     },
     {
       "city": "Columbia",
       "state": "South Carolina",
-      "population": "133,350"
-    },
-    {
-      "city": "Olathe",
-      "state": "Kansas",
-      "population": "131,880"
+      "population": "131,331"
     },
     {
       "city": "Sterling Heights",
       "state": "Michigan",
-      "population": "131,220"
+      "population": "130,604"
     },
     {
       "city": "New Haven",
       "state": "Connecticut",
-      "population": "130,660"
+      "population": "130,553"
+    },
+    {
+      "city": "Frisco",
+      "state": "Texas",
+      "population": "130,499"
+    },
+    {
+      "city": "Olathe",
+      "state": "Kansas",
+      "population": "129,913"
+    },
+    {
+      "city": "Ponce",
+      "state": "Puerto Rico",
+      "population": "129,504"
     },
     {
       "city": "Miramar",
       "state": "Florida",
-      "population": "130,280"
-    },
-    {
-      "city": "Waco",
-      "state": "Texas",
-      "population": "129,030"
+      "population": "128,414"
     },
     {
       "city": "Thousand Oaks",
       "state": "California",
-      "population": "128,730"
+      "population": "128,126"
     },
     {
       "city": "Cedar Rapids",
       "state": "Iowa",
-      "population": "128,420"
+      "population": "128,009"
     },
     {
-      "city": "Charleston",
-      "state": "South Carolina",
-      "population": "127,990"
-    },
-    {
-      "city": "Visalia",
-      "state": "California",
-      "population": "127,760"
+      "city": "Waco",
+      "state": "Texas",
+      "population": "127,796"
     },
     {
       "city": "Topeka",
       "state": "Kansas",
-      "population": "127,670"
+      "population": "127,660"
+    },
+    {
+      "city": "East Los Angeles",
+      "state": "California",
+      "population": "127,610"
     },
     {
       "city": "Elizabeth",
       "state": "New Jersey",
-      "population": "127,550"
+      "population": "126,964"
+    },
+    {
+      "city": "Visalia",
+      "state": "California",
+      "population": "126,942"
     },
     {
       "city": "Gainesville",
       "state": "Florida",
-      "population": "127,480"
-    },
-    {
-      "city": "Thornton",
-      "state": "Colorado",
-      "population": "127,350"
-    },
-    {
-      "city": "Roseville",
-      "state": "California",
-      "population": "127,030"
-    },
-    {
-      "city": "Carrollton",
-      "state": "Texas",
-      "population": "126,700"
-    },
-    {
-      "city": "Coral Springs",
-      "state": "Florida",
-      "population": "126,600"
-    },
-    {
-      "city": "Stamford",
-      "state": "Connecticut",
-      "population": "126,450"
+      "population": "126,465"
     },
     {
       "city": "Simi Valley",
       "state": "California",
-      "population": "126,180"
+      "population": "125,699"
     },
     {
-      "city": "Concord",
-      "state": "California",
-      "population": "125,880"
+      "city": "Charleston",
+      "state": "South Carolina",
+      "population": "125,458"
+    },
+    {
+      "city": "Stamford",
+      "state": "Connecticut",
+      "population": "125,401"
     },
     {
       "city": "Hartford",
       "state": "Connecticut",
-      "population": "125,010"
+      "population": "125,211"
     },
     {
-      "city": "Kent",
-      "state": "Washington",
-      "population": "124,430"
+      "city": "Coral Springs",
+      "state": "Florida",
+      "population": "125,150"
+    },
+    {
+      "city": "Concord",
+      "state": "California",
+      "population": "125,017"
+    },
+    {
+      "city": "Thornton",
+      "state": "Colorado",
+      "population": "124,707"
+    },
+    {
+      "city": "Enterprise",
+      "state": "Nevada",
+      "population": "124,564"
+    },
+    {
+      "city": "Carrollton",
+      "state": "Texas",
+      "population": "124,501"
+    },
+    {
+      "city": "Roseville",
+      "state": "California",
+      "population": "124,250"
     },
     {
       "city": "Lafayette",
       "state": "Louisiana",
-      "population": "124,270"
-    },
-    {
-      "city": "Midland",
-      "state": "Texas",
-      "population": "123,930"
-    },
-    {
-      "city": "Surprise",
-      "state": "Arizona",
-      "population": "123,540"
+      "population": "123,528"
     },
     {
       "city": "Denton",
       "state": "Texas",
-      "population": "123,090"
+      "population": "122,742"
     },
     {
-      "city": "Victorville",
-      "state": "California",
-      "population": "121,090"
+      "city": "Kent",
+      "state": "Washington",
+      "population": "122,620"
     },
     {
-      "city": "Evansville",
-      "state": "Indiana",
-      "population": "120,310"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "California",
-      "population": "120,240"
+      "city": "Surprise",
+      "state": "Arizona",
+      "population": "121,648"
     },
     {
       "city": "Abilene",
       "state": "Texas",
-      "population": "120,090"
+      "population": "120,776"
     },
     {
-      "city": "Athens-Clarke County",
-      "state": "Georgia",
-      "population": "119,980"
+      "city": "Evansville",
+      "state": "Indiana",
+      "population": "120,220"
     },
     {
-      "city": "Vallejo",
+      "city": "Victorville",
       "state": "California",
-      "population": "118,830"
+      "population": "119,603"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "California",
+      "population": "119,525"
+    },
+    {
+      "city": "Midland",
+      "state": "Texas",
+      "population": "119,409"
     },
     {
       "city": "Allentown",
       "state": "Pennsylvania",
-      "population": "118,570"
+      "population": "118,793"
     },
     {
-      "city": "Norman",
-      "state": "Oklahoma",
-      "population": "118,190"
+      "city": "Athens-Clarke County",
+      "state": "Georgia",
+      "population": "118,514"
+    },
+    {
+      "city": "Vallejo",
+      "state": "California",
+      "population": "118,078"
     },
     {
       "city": "Beaumont",
       "state": "Texas",
-      "population": "117,790"
+      "population": "117,543"
     },
     {
       "city": "Independence",
       "state": "Missouri",
-      "population": "117,240"
-    },
-    {
-      "city": "Murfreesboro",
-      "state": "Tennessee",
-      "population": "117,040"
-    },
-    {
-      "city": "Ann Arbor",
-      "state": "Michigan",
-      "population": "117,020"
+      "population": "117,160"
     },
     {
       "city": "Springfield",
       "state": "Illinois",
-      "population": "117,000"
+      "population": "116,815"
     },
     {
-      "city": "Berkeley",
-      "state": "California",
-      "population": "116,760"
+      "city": "Ann Arbor",
+      "state": "Michigan",
+      "population": "115,985"
     },
     {
       "city": "Peoria",
       "state": "Illinois",
-      "population": "116,510"
+      "population": "115,718"
     },
     {
-      "city": "Provo",
-      "state": "Utah",
-      "population": "116,280"
+      "city": "Berkeley",
+      "state": "California",
+      "population": "115,688"
+    },
+    {
+      "city": "Norman",
+      "state": "Oklahoma",
+      "population": "115,521"
     },
     {
       "city": "El Monte",
       "state": "California",
-      "population": "115,708"
+      "population": "115,243"
     },
     {
-      "city": "Columbia",
-      "state": "Missouri",
-      "population": "115,270"
+      "city": "Provo",
+      "state": "Utah",
+      "population": "114,804"
+    },
+    {
+      "city": "Murfreesboro",
+      "state": "Tennessee",
+      "population": "114,660"
     },
     {
       "city": "Lansing",
       "state": "Michigan",
-      "population": "113,972"
+      "population": "114,382"
     },
     {
-      "city": "Fargo",
-      "state": "North Dakota",
-      "population": "113,650"
+      "city": "Columbia",
+      "state": "Missouri",
+      "population": "113,155"
     },
     {
       "city": "Downey",
       "state": "California",
-      "population": "113,240"
+      "population": "113,082"
     },
     {
       "city": "Costa Mesa",
       "state": "California",
-      "population": "112,170"
-    },
-    {
-      "city": "Wilmington",
-      "state": "North Carolina",
-      "population": "112,060"
-    },
-    {
-      "city": "Arvada",
-      "state": "Colorado",
-      "population": "111,700"
+      "population": "111,635"
     },
     {
       "city": "Inglewood",
       "state": "California",
-      "population": "111,542"
-    },
-    {
-      "city": "Miami Gardens",
-      "state": "Florida",
-      "population": "111,370"
-    },
-    {
-      "city": "Carlsbad",
-      "state": "California",
-      "population": "110,970"
-    },
-    {
-      "city": "Westminster",
-      "state": "Colorado",
-      "population": "110,940"
-    },
-    {
-      "city": "Rochester",
-      "state": "Minnesota",
-      "population": "110,740"
-    },
-    {
-      "city": "Odessa",
-      "state": "Texas",
-      "population": "110,720"
-    },
-    {
-      "city": "Manchester",
-      "state": "New Hampshire",
-      "population": "110,370"
+      "population": "111,133"
     },
     {
       "city": "Elgin",
       "state": "Illinois",
-      "population": "110,140"
+      "population": "110,906"
     },
     {
-      "city": "West Jordan",
-      "state": "Utah",
-      "population": "110,070"
-    },
-    {
-      "city": "Round Rock",
-      "state": "Texas",
-      "population": "109,820"
-    },
-    {
-      "city": "Clearwater",
+      "city": "Miami Gardens",
       "state": "Florida",
-      "population": "109,700"
+      "population": "110,867"
+    },
+    {
+      "city": "Fargo",
+      "state": "North Dakota",
+      "population": "110,725"
+    },
+    {
+      "city": "Wilmington",
+      "state": "North Carolina",
+      "population": "110,100"
+    },
+    {
+      "city": "Manchester",
+      "state": "New Hampshire",
+      "population": "110,065"
     },
     {
       "city": "Waterbury",
       "state": "Connecticut",
-      "population": "109,670"
+      "population": "109,887"
     },
     {
-      "city": "Gresham",
-      "state": "Oregon",
-      "population": "109,390"
+      "city": "Arvada",
+      "state": "Colorado",
+      "population": "109,800"
     },
     {
-      "city": "Fairfield",
+      "city": "Carlsbad",
       "state": "California",
-      "population": "109,320"
+      "population": "109,296"
     },
     {
-      "city": "Billings",
-      "state": "Montana",
-      "population": "109,050"
+      "city": "Westminster",
+      "state": "Colorado",
+      "population": "109,296"
+    },
+    {
+      "city": "Rochester",
+      "state": "Minnesota",
+      "population": "109,252"
+    },
+    {
+      "city": "Clearwater",
+      "state": "Florida",
+      "population": "109,210"
     },
     {
       "city": "Lowell",
       "state": "Massachusetts",
-      "population": "108,860"
+      "population": "108,491"
     },
     {
-      "city": "San Buenaventura (Ventura)",
+      "city": "San Buenaventura",
       "state": "California",
-      "population": "108,810"
+      "population": "108,449"
+    },
+    {
+      "city": "Gresham",
+      "state": "Oregon",
+      "population": "108,250"
+    },
+    {
+      "city": "West Jordan",
+      "state": "Utah",
+      "population": "108,062"
+    },
+    {
+      "city": "Fairfield",
+      "state": "California",
+      "population": "107,983"
     },
     {
       "city": "Pueblo",
       "state": "Colorado",
-      "population": "108,240"
-    },
-    {
-      "city": "High Point",
-      "state": "North Carolina",
-      "population": "107,740"
+      "population": "107,706"
     },
     {
       "city": "West Covina",
       "state": "California",
-      "population": "107,740"
+      "population": "107,441"
     },
     {
-      "city": "Richmond",
-      "state": "California",
-      "population": "107,570"
+      "city": "Odessa",
+      "state": "Texas",
+      "population": "107,325"
     },
     {
-      "city": "Murrieta",
-      "state": "California",
-      "population": "107,470"
+      "city": "Billings",
+      "state": "Montana",
+      "population": "106,979"
+    },
+    {
+      "city": "Round Rock",
+      "state": "Texas",
+      "population": "106,972"
     },
     {
       "city": "Cambridge",
       "state": "Massachusetts",
-      "population": "107,280"
+      "population": "106,844"
+    },
+    {
+      "city": "High Point",
+      "state": "North Carolina",
+      "population": "106,797"
+    },
+    {
+      "city": "Lehigh Acres",
+      "state": "Florida",
+      "population": "106,747"
+    },
+    {
+      "city": "Brandon",
+      "state": "Florida",
+      "population": "106,604"
+    },
+    {
+      "city": "Richmond",
+      "state": "California",
+      "population": "106,469"
+    },
+    {
+      "city": "Norwalk",
+      "state": "California",
+      "population": "106,455"
+    },
+    {
+      "city": "Murrieta",
+      "state": "California",
+      "population": "106,326"
     },
     {
       "city": "Antioch",
       "state": "California",
-      "population": "107,100"
+      "population": "105,630"
     },
     {
       "city": "Temecula",
       "state": "California",
-      "population": "106,780"
-    },
-    {
-      "city": "Norwalk",
-      "state": "California",
-      "population": "106,580"
-    },
-    {
-      "city": "Centennial",
-      "state": "Colorado",
-      "population": "106,110"
-    },
-    {
-      "city": "Everett",
-      "state": "Washington",
-      "population": "105,370"
-    },
-    {
-      "city": "Palm Bay",
-      "state": "Florida",
-      "population": "104,890"
+      "population": "104,955"
     },
     {
       "city": "Wichita Falls",
       "state": "Texas",
-      "population": "104,890"
+      "population": "104,771"
+    },
+    {
+      "city": "Everett",
+      "state": "Washington",
+      "population": "104,708"
     },
     {
       "city": "Green Bay",
       "state": "Wisconsin",
-      "population": "104,770"
-    },
-    {
-      "city": "Daly City",
-      "state": "California",
-      "population": "104,730"
+      "population": "104,574"
     },
     {
       "city": "Burbank",
       "state": "California",
-      "population": "104,700"
+      "population": "104,484"
+    },
+    {
+      "city": "Palm Bay",
+      "state": "Florida",
+      "population": "104,342"
+    },
+    {
+      "city": "Centennial",
+      "state": "Colorado",
+      "population": "104,213"
+    },
+    {
+      "city": "Daly City",
+      "state": "California",
+      "population": "103,897"
     },
     {
       "city": "Richardson",
       "state": "Texas",
-      "population": "104,470"
+      "population": "103,752"
     },
     {
       "city": "Pompano Beach",
       "state": "Florida",
-      "population": "104,410"
+      "population": "103,234"
     },
     {
-      "city": "North Charleston",
-      "state": "South Carolina",
-      "population": "104,050"
-    },
-    {
-      "city": "Broken Arrow",
-      "state": "Oklahoma",
-      "population": "103,500"
-    },
-    {
-      "city": "Boulder",
-      "state": "Colorado",
-      "population": "103,160"
+      "city": "The Woodlands",
+      "state": "Texas",
+      "population": "102,911"
     },
     {
       "city": "West Palm Beach",
       "state": "Florida",
-      "population": "102,430"
+      "population": "102,283"
     },
     {
-      "city": "Santa Maria",
-      "state": "California",
-      "population": "102,210"
+      "city": "North Charleston",
+      "state": "South Carolina",
+      "population": "102,143"
+    },
+    {
+      "city": "Columbia",
+      "state": "Maryland",
+      "population": "102,116"
+    },
+    {
+      "city": "Boulder",
+      "state": "Colorado",
+      "population": "102,002"
+    },
+    {
+      "city": "Broken Arrow",
+      "state": "Oklahoma",
+      "population": "101,917"
     },
     {
       "city": "El Cajon",
       "state": "California",
-      "population": "102,210"
+      "population": "101,582"
     },
     {
-      "city": "Davenport",
-      "state": "Iowa",
-      "population": "102,150"
+      "city": "Santa Maria",
+      "state": "California",
+      "population": "101,468"
     },
     {
       "city": "Rialto",
       "state": "California",
-      "population": "101,910"
+      "population": "101,367"
     },
     {
-      "city": "Las Cruces",
-      "state": "New Mexico",
-      "population": "101,320"
+      "city": "Highlands Ranch",
+      "state": "Colorado",
+      "population": "101,350"
     },
     {
-      "city": "San Mateo",
-      "state": "California",
-      "population": "101,120"
-    },
-    {
-      "city": "Lewisville",
-      "state": "Texas",
-      "population": "101,070"
-    },
-    {
-      "city": "South Bend",
-      "state": "Indiana",
-      "population": "100,886"
-    },
-    {
-      "city": "Lakeland",
-      "state": "Florida",
-      "population": "100,710"
+      "city": "Davenport",
+      "state": "Iowa",
+      "population": "101,316"
     },
     {
       "city": "Erie",
       "state": "Pennsylvania",
-      "population": "100,671"
-    },
-    {
-      "city": "Tyler",
-      "state": "Texas",
-      "population": "100,220"
-    },
-    {
-      "city": "Pearland",
-      "state": "Texas",
-      "population": "100,060"
-    },
-    {
-      "city": "College Station",
-      "state": "Texas",
-      "population": "100,050"
-    },
-    {
-      "city": "Kenosha",
-      "state": "Wisconsin",
-      "population": "99,8890"
-    },
-    {
-      "city": "Sandy Springs",
-      "state": "Georgia",
-      "population": "99,7700"
-    },
-    {
-      "city": "Clovis",
-      "state": "California",
-      "population": "99,769"
+      "population": "100,832"
     },
     {
       "city": "Flint",
       "state": "Michigan",
-      "population": "99,763"
+      "population": "100,569"
+    },
+    {
+      "city": "South Bend",
+      "state": "Indiana",
+      "population": "100,422"
+    },
+    {
+      "city": "Las Cruces",
+      "state": "New Mexico",
+      "population": "100,360"
+    },
+    {
+      "city": "Spring Hill",
+      "state": "Florida",
+      "population": "100,270"
+    },
+    {
+      "city": "San Mateo",
+      "state": "California",
+      "population": "100,114"
+    },
+    {
+      "city": "Lakeland",
+      "state": "Florida",
+      "population": "99,942"
+    },
+    {
+      "city": "Kenosha",
+      "state": "Wisconsin",
+      "population": "99,709"
+    },
+    {
+      "city": "Tyler",
+      "state": "Texas",
+      "population": "99,344"
+    },
+    {
+      "city": "Lewisville",
+      "state": "Texas",
+      "population": "99,039"
+    },
+    {
+      "city": "Clovis",
+      "state": "California",
+      "population": "98,815"
+    },
+    {
+      "city": "College Station",
+      "state": "Texas",
+      "population": "98,505"
+    },
+    {
+      "city": "Sandy Springs",
+      "state": "Georgia",
+      "population": "98,480"
+    },
+    {
+      "city": "Albany",
+      "state": "New York",
+      "population": "98,287"
     },
     {
       "city": "Roanoke",
       "state": "Virginia",
-      "population": "98,465"
-    },
-    {
-      "city": "Albany",
-      "state": "New York",
-      "population": "98,424"
-    },
-    {
-      "city": "Jurupa Valley",
-      "state": "California",
-      "population": "98,030"
-    },
-    {
-      "city": "Compton",
-      "state": "California",
-      "population": "97,877"
-    },
-    {
-      "city": "San Angelo",
-      "state": "Texas",
-      "population": "97,492"
-    },
-    {
-      "city": "Hillsboro",
-      "state": "Oregon",
-      "population": "97,368"
+      "population": "97,949"
     },
     {
       "city": "Lawton",
       "state": "Oklahoma",
-      "population": "97,151"
+      "population": "97,788"
     },
     {
-      "city": "Renton",
-      "state": "Washington",
-      "population": "97,003"
-    },
-    {
-      "city": "Vista",
+      "city": "Compton",
       "state": "California",
-      "population": "96,929"
+      "population": "97,663"
     },
     {
-      "city": "Davie",
-      "state": "Florida",
-      "population": "96,830"
+      "city": "Pearland",
+      "state": "Texas",
+      "population": "97,427"
     },
     {
-      "city": "Greeley",
-      "state": "Colorado",
-      "population": "96,539"
-    },
-    {
-      "city": "Mission Viejo",
+      "city": "Jurupa Valley",
       "state": "California",
-      "population": "96,346"
-    },
-    {
-      "city": "Portsmouth",
-      "state": "Virginia",
-      "population": "96,205"
+      "population": "97,247"
     },
     {
       "city": "Dearborn",
       "state": "Michigan",
-      "population": "95,884"
+      "population": "96,739"
     },
     {
-      "city": "South Gate",
+      "city": "Vista",
       "state": "California",
-      "population": "95,677"
+      "population": "96,181"
     },
     {
-      "city": "Tuscaloosa",
-      "state": "Alabama",
-      "population": "95,334"
+      "city": "San Angelo",
+      "state": "Texas",
+      "population": "96,177"
+    },
+    {
+      "city": "Portsmouth",
+      "state": "Virginia",
+      "population": "96,007"
     },
     {
       "city": "Livonia",
       "state": "Michigan",
-      "population": "95,208"
+      "population": "95,888"
+    },
+    {
+      "city": "Hillsboro",
+      "state": "Oregon",
+      "population": "95,765"
+    },
+    {
+      "city": "Davie",
+      "state": "Florida",
+      "population": "95,721"
+    },
+    {
+      "city": "Greeley",
+      "state": "Colorado",
+      "population": "95,677"
+    },
+    {
+      "city": "South Gate",
+      "state": "California",
+      "population": "95,515"
+    },
+    {
+      "city": "Renton",
+      "state": "Washington",
+      "population": "95,479"
+    },
+    {
+      "city": "Mission Viejo",
+      "state": "California",
+      "population": "95,246"
     },
     {
       "city": "New Bedford",
       "state": "Massachusetts",
-      "population": "95,078"
-    },
-    {
-      "city": "Vacaville",
-      "state": "California",
-      "population": "94,275"
+      "population": "94,873"
     },
     {
       "city": "Brockton",
       "state": "Massachusetts",
-      "population": "94,089"
+      "population": "94,267"
     },
     {
-      "city": "Roswell",
-      "state": "Georgia",
-      "population": "94,034"
-    },
-    {
-      "city": "Beaverton",
-      "state": "Oregon",
-      "population": "93,542"
-    },
-    {
-      "city": "Quincy",
-      "state": "Massachusetts",
-      "population": "93,494"
-    },
-    {
-      "city": "Sparks",
-      "state": "Nevada",
-      "population": "93,282"
-    },
-    {
-      "city": "Yakima",
-      "state": "Washington",
-      "population": "93,257"
-    },
-    {
-      "city": "Lee's Summit",
-      "state": "Missouri",
-      "population": "93,184"
-    },
-    {
-      "city": "Federal Way",
-      "state": "Washington",
-      "population": "92,734"
-    },
-    {
-      "city": "Carson",
+      "city": "Vacaville",
       "state": "California",
-      "population": "92,599"
+      "population": "93,994"
     },
     {
-      "city": "Santa Monica",
-      "state": "California",
-      "population": "92,472"
-    },
-    {
-      "city": "Hesperia",
-      "state": "California",
-      "population": "92,147"
-    },
-    {
-      "city": "Allen",
-      "state": "Texas",
-      "population": "92,020"
-    },
-    {
-      "city": "Rio Rancho",
-      "state": "New Mexico",
-      "population": "91,956"
+      "city": "Tuscaloosa",
+      "state": "Alabama",
+      "population": "93,325"
     },
     {
       "city": "Yuma",
       "state": "Arizona",
-      "population": "91,923"
+      "population": "93,078"
     },
     {
-      "city": "Westminster",
+      "city": "Quincy",
+      "state": "Massachusetts",
+      "population": "92,920"
+    },
+    {
+      "city": "Arden-Arcade",
       "state": "California",
-      "population": "91,739"
+      "population": "92,844"
     },
     {
-      "city": "Orem",
-      "state": "Utah",
-      "population": "91,648"
+      "city": "Lee's Summit",
+      "state": "Missouri",
+      "population": "92,813"
+    },
+    {
+      "city": "Yakima",
+      "state": "Washington",
+      "population": "92,806"
+    },
+    {
+      "city": "Beaverton",
+      "state": "Oregon",
+      "population": "92,593"
+    },
+    {
+      "city": "Carson",
+      "state": "California",
+      "population": "92,475"
+    },
+    {
+      "city": "Roswell",
+      "state": "Georgia",
+      "population": "92,364"
+    },
+    {
+      "city": "Sparks",
+      "state": "Nevada",
+      "population": "92,236"
+    },
+    {
+      "city": "Hesperia",
+      "state": "California",
+      "population": "91,757"
+    },
+    {
+      "city": "Federal Way",
+      "state": "Washington",
+      "population": "91,676"
+    },
+    {
+      "city": "Santa Monica",
+      "state": "California",
+      "population": "91,619"
     },
     {
       "city": "Lynn",
       "state": "Massachusetts",
-      "population": "91,589"
+      "population": "91,289"
     },
     {
-      "city": "Redding",
+      "city": "Westminster",
       "state": "California",
-      "population": "91,119"
+      "population": "91,255"
     },
     {
       "city": "Spokane Valley",
       "state": "Washington",
-      "population": "91,113"
+      "population": "90,829"
+    },
+    {
+      "city": "Redding",
+      "state": "California",
+      "population": "90,725"
     },
     {
       "city": "Miami Beach",
       "state": "Florida",
-      "population": "91,026"
+      "population": "90,669"
     },
     {
-      "city": "League City",
-      "state": "Texas",
-      "population": "90,983"
+      "city": "Rio Rancho",
+      "state": "New Mexico",
+      "population": "90,627"
+    },
+    {
+      "city": "Orem",
+      "state": "Utah",
+      "population": "90,485"
     },
     {
       "city": "Lawrence",
       "state": "Kansas",
-      "population": "90,811"
+      "population": "90,194"
+    },
+    {
+      "city": "Allen",
+      "state": "Texas",
+      "population": "89,845"
     },
     {
       "city": "Santa Barbara",
       "state": "California",
-      "population": "90,412"
-    },
-    {
-      "city": "Plantation",
-      "state": "Florida",
-      "population": "90,268"
+      "population": "89,669"
     },
     {
       "city": "Sandy",
       "state": "Utah",
-      "population": "90,231"
+      "population": "89,521"
     },
     {
-      "city": "Sunrise",
-      "state": "Florida",
-      "population": "90,116"
+      "city": "Toms River",
+      "state": "New Jersey",
+      "population": "89,459"
     },
     {
-      "city": "Macon",
-      "state": "Georgia",
-      "population": "89,981"
-    },
-    {
-      "city": "Longmont",
-      "state": "Colorado",
-      "population": "89,919"
-    },
-    {
-      "city": "Boca Raton",
-      "state": "Florida",
-      "population": "89,407"
-    },
-    {
-      "city": "San Marcos",
-      "state": "California",
-      "population": "89,387"
-    },
-    {
-      "city": "Greenville",
-      "state": "North Carolina",
-      "population": "89,130"
-    },
-    {
-      "city": "Waukegan",
-      "state": "Illinois",
-      "population": "88,826"
+      "city": "League City",
+      "state": "Texas",
+      "population": "88,979"
     },
     {
       "city": "Fall River",
       "state": "Massachusetts",
-      "population": "88,697"
+      "population": "88,756"
     },
     {
-      "city": "Chico",
-      "state": "California",
-      "population": "88,077"
+      "city": "Germantown",
+      "state": "Maryland",
+      "population": "88,717"
     },
     {
-      "city": "Newton",
-      "state": "Massachusetts",
-      "population": "87,971"
+      "city": "Waukegan",
+      "state": "Illinois",
+      "population": "88,671"
     },
     {
-      "city": "San Leandro",
-      "state": "California",
-      "population": "87,965"
+      "city": "Longmont",
+      "state": "Colorado",
+      "population": "88,547"
+    },
+    {
+      "city": "Plantation",
+      "state": "Florida",
+      "population": "88,486"
+    },
+    {
+      "city": "Sunrise",
+      "state": "Florida",
+      "population": "88,391"
+    },
+    {
+      "city": "Boca Raton",
+      "state": "Florida",
+      "population": "88,187"
     },
     {
       "city": "Reading",
       "state": "Pennsylvania",
-      "population": "87,893"
+      "population": "88,051"
+    },
+    {
+      "city": "San Marcos",
+      "state": "California",
+      "population": "87,808"
+    },
+    {
+      "city": "Greenville",
+      "state": "North Carolina",
+      "population": "87,546"
+    },
+    {
+      "city": "Chico",
+      "state": "California",
+      "population": "87,517"
     },
     {
       "city": "Norwalk",
       "state": "Connecticut",
-      "population": "87,776"
+      "population": "87,214"
     },
     {
       "city": "Fort Smith",
       "state": "Arkansas",
-      "population": "87,650"
+      "population": "87,193"
     },
     {
-      "city": "Newport Beach",
+      "city": "San Leandro",
       "state": "California",
-      "population": "87,273"
+      "population": "87,159"
     },
     {
-      "city": "Asheville",
-      "state": "North Carolina",
-      "population": "87,236"
+      "city": "Newton",
+      "state": "Massachusetts",
+      "population": "86,945"
     },
     {
       "city": "Nashua",
       "state": "New Hampshire",
-      "population": "87,137"
+      "population": "86,799"
     },
     {
-      "city": "Edmond",
-      "state": "Oklahoma",
-      "population": "87,004"
+      "city": "San Tan Valley",
+      "state": "Arizona",
+      "population": "86,743"
+    },
+    {
+      "city": "Newport Beach",
+      "state": "California",
+      "population": "86,594"
     },
     {
       "city": "Whittier",
       "state": "California",
-      "population": "86,635"
-    },
-    {
-      "city": "Nampa",
-      "state": "Idaho",
-      "population": "86,518"
-    },
-    {
-      "city": "Bloomington",
-      "state": "Minnesota",
-      "population": "86,319"
-    },
-    {
-      "city": "Deltona",
-      "state": "Florida",
-      "population": "86,290"
-    },
-    {
-      "city": "Hawthorne",
-      "state": "California",
-      "population": "86,199"
+      "population": "86,400"
     },
     {
       "city": "Duluth",
       "state": "Minnesota",
-      "population": "86,128"
+      "population": "86,239"
     },
     {
-      "city": "Carmel",
-      "state": "Indiana",
-      "population": "85,927"
+      "city": "Hawthorne",
+      "state": "California",
+      "population": "85,889"
+    },
+    {
+      "city": "Asheville",
+      "state": "North Carolina",
+      "population": "85,783"
+    },
+    {
+      "city": "Deltona",
+      "state": "Florida",
+      "population": "85,765"
+    },
+    {
+      "city": "Alafaya",
+      "state": "Florida",
+      "population": "85,561"
     },
     {
       "city": "Suffolk",
       "state": "Virginia",
-      "population": "85,728"
+      "population": "85,477"
     },
     {
       "city": "Clifton",
       "state": "New Jersey",
-      "population": "85,390"
+      "population": "85,138"
+    },
+    {
+      "city": "Bloomington",
+      "state": "Minnesota",
+      "population": "85,136"
+    },
+    {
+      "city": "Edmond",
+      "state": "Oklahoma",
+      "population": "85,084"
     },
     {
       "city": "Citrus Heights",
       "state": "California",
-      "population": "85,285"
+      "population": "84,678"
     },
     {
-      "city": "Livermore",
-      "state": "California",
-      "population": "85,156"
+      "city": "Nampa",
+      "state": "Idaho",
+      "population": "84,660"
     },
     {
       "city": "Tracy",
       "state": "California",
-      "population": "84,691"
-    },
-    {
-      "city": "Alhambra",
-      "state": "California",
-      "population": "84,577"
-    },
-    {
-      "city": "Kirkland",
-      "state": "Washington",
-      "population": "84,430"
+      "population": "84,573"
     },
     {
       "city": "Trenton",
       "state": "New Jersey",
-      "population": "84,349"
-    },
-    {
-      "city": "Ogden",
-      "state": "Utah",
-      "population": "84,249"
-    },
-    {
-      "city": "Hoover",
-      "state": "Alabama",
-      "population": "84,126"
+      "population": "84,459"
     },
     {
       "city": "Cicero",
       "state": "Illinois",
-      "population": "84,103"
+      "population": "84,423"
     },
     {
-      "city": "Fishers",
+      "city": "Alhambra",
+      "state": "California",
+      "population": "84,400"
+    },
+    {
+      "city": "Livermore",
+      "state": "California",
+      "population": "83,901"
+    },
+    {
+      "city": "Ogden",
+      "state": "Utah",
+      "population": "83,767"
+    },
+    {
+      "city": "Carmel",
       "state": "Indiana",
-      "population": "83,891"
+      "population": "83,474"
     },
     {
-      "city": "Sugar Land",
-      "state": "Texas",
-      "population": "83,860"
-    },
-    {
-      "city": "Danbury",
-      "state": "Connecticut",
-      "population": "83,684"
-    },
-    {
-      "city": "Meridian",
-      "state": "Idaho",
-      "population": "83,596"
-    },
-    {
-      "city": "Indio",
-      "state": "California",
-      "population": "83,539"
-    },
-    {
-      "city": "Concord",
-      "state": "North Carolina",
-      "population": "83,506"
-    },
-    {
-      "city": "Menifee",
-      "state": "California",
-      "population": "83,447"
-    },
-    {
-      "city": "Champaign",
-      "state": "Illinois",
-      "population": "83,424"
-    },
-    {
-      "city": "Buena Park",
-      "state": "California",
-      "population": "82,882"
-    },
-    {
-      "city": "Troy",
-      "state": "Michigan",
-      "population": "82,821"
-    },
-    {
-      "city": "O'Fallon",
-      "state": "Missouri",
-      "population": "82,809"
-    },
-    {
-      "city": "Johns Creek",
-      "state": "Georgia",
-      "population": "82,788"
-    },
-    {
-      "city": "Bellingham",
+      "city": "Kirkland",
       "state": "Washington",
-      "population": "82,631"
+      "population": "83,320"
     },
     {
       "city": "Westland",
       "state": "Michigan",
-      "population": "82,578"
+      "population": "83,188"
     },
     {
-      "city": "Bloomington",
-      "state": "Indiana",
-      "population": "82,575"
+      "city": "Hoover",
+      "state": "Alabama",
+      "population": "82,849"
+    },
+    {
+      "city": "Champaign",
+      "state": "Illinois",
+      "population": "82,848"
+    },
+    {
+      "city": "Danbury",
+      "state": "Connecticut",
+      "population": "82,781"
     },
     {
       "city": "Sioux City",
       "state": "Iowa",
-      "population": "82,459"
+      "population": "82,719"
+    },
+    {
+      "city": "Indio",
+      "state": "California",
+      "population": "82,539"
+    },
+    {
+      "city": "Town 'n' Country",
+      "state": "Florida",
+      "population": "82,506"
+    },
+    {
+      "city": "Sugar Land",
+      "state": "Texas",
+      "population": "82,420"
+    },
+    {
+      "city": "Concord",
+      "state": "North Carolina",
+      "population": "82,266"
+    },
+    {
+      "city": "Buena Park",
+      "state": "California",
+      "population": "82,191"
+    },
+    {
+      "city": "Troy",
+      "state": "Michigan",
+      "population": "82,106"
+    },
+    {
+      "city": "Bellingham",
+      "state": "Washington",
+      "population": "82,080"
     },
     {
       "city": "Warwick",
       "state": "Rhode Island",
-      "population": "81,971"
-    },
-    {
-      "city": "Hemet",
-      "state": "California",
-      "population": "81,750"
+      "population": "82,065"
     },
     {
       "city": "Longview",
       "state": "Texas",
-      "population": "81,443"
+      "population": "82,030"
     },
     {
-      "city": "Farmington Hills",
-      "state": "Michigan",
-      "population": "81,295"
+      "city": "Caguas",
+      "state": "Puerto Rico",
+      "population": "82,008"
     },
     {
-      "city": "Bend",
-      "state": "Oregon",
-      "population": "81,236"
+      "city": "O'Fallon",
+      "state": "Missouri",
+      "population": "81,978"
+    },
+    {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "population": "81,963"
+    },
+    {
+      "city": "Menifee",
+      "state": "California",
+      "population": "81,658"
+    },
+    {
+      "city": "Hemet",
+      "state": "California",
+      "population": "81,203"
+    },
+    {
+      "city": "Fishers",
+      "state": "Indiana",
+      "population": "81,060"
+    },
+    {
+      "city": "Meridian",
+      "state": "Idaho",
+      "population": "81,025"
+    },
+    {
+      "city": "Johns Creek",
+      "state": "Georgia",
+      "population": "80,979"
     },
     {
       "city": "Lakewood",
       "state": "California",
-      "population": "81,121"
-    },
-    {
-      "city": "Merced",
-      "state": "California",
-      "population": "81,102"
-    },
-    {
-      "city": "Mission",
-      "state": "Texas",
-      "population": "81,050"
+      "population": "80,926"
     },
     {
       "city": "Chino",
       "state": "California",
-      "population": "80,988"
-    },
-    {
-      "city": "Redwood City",
-      "state": "California",
-      "population": "80,872"
-    },
-    {
-      "city": "Edinburg",
-      "state": "Texas",
-      "population": "80,836"
-    },
-    {
-      "city": "Cranston",
-      "state": "Rhode Island",
-      "population": "80,566"
+      "population": "80,810"
     },
     {
       "city": "Parma",
       "state": "Ohio",
-      "population": "80,429"
+      "population": "80,699"
     },
     {
-      "city": "New Rochelle",
-      "state": "New York",
-      "population": "79,446"
+      "city": "Farmington Hills",
+      "state": "Michigan",
+      "population": "80,682"
     },
     {
-      "city": "Lake Forest",
+      "city": "Cranston",
+      "state": "Rhode Island",
+      "population": "80,680"
+    },
+    {
+      "city": "Mission",
+      "state": "Texas",
+      "population": "80,538"
+    },
+    {
+      "city": "Merced",
       "state": "California",
-      "population": "79,312"
+      "population": "80,490"
     },
     {
-      "city": "Napa",
+      "city": "Redwood City",
       "state": "California",
-      "population": "79,068"
+      "population": "79,736"
+    },
+    {
+      "city": "Bend",
+      "state": "Oregon",
+      "population": "79,698"
     },
     {
       "city": "Hammond",
       "state": "Indiana",
-      "population": "78,967"
-    },
-    {
-      "city": "Fayetteville",
-      "state": "Arkansas",
-      "population": "78,960"
-    },
-    {
-      "city": "Bloomington",
-      "state": "Illinois",
-      "population": "78,902"
-    },
-    {
-      "city": "Avondale",
-      "state": "Arizona",
-      "population": "78,822"
-    },
-    {
-      "city": "Somerville",
-      "state": "Massachusetts",
-      "population": "78,804"
-    },
-    {
-      "city": "Palm Coast",
-      "state": "Florida",
-      "population": "78,740"
-    },
-    {
-      "city": "Bryan",
-      "state": "Texas",
-      "population": "78,709"
+      "population": "79,585"
     },
     {
       "city": "Gary",
       "state": "Indiana",
-      "population": "78,450"
+      "population": "79,165"
+    },
+    {
+      "city": "Edinburg",
+      "state": "Texas",
+      "population": "79,002"
+    },
+    {
+      "city": "Lake Forest",
+      "state": "California",
+      "population": "78,940"
+    },
+    {
+      "city": "Kendall",
+      "state": "Florida",
+      "population": "78,580"
+    },
+    {
+      "city": "Napa",
+      "state": "California",
+      "population": "78,511"
+    },
+    {
+      "city": "New Rochelle",
+      "state": "New York",
+      "population": "78,476"
     },
     {
       "city": "Largo",
       "state": "Florida",
-      "population": "78,409"
+      "population": "78,391"
     },
     {
-      "city": "Brooklyn Park",
-      "state": "Minnesota",
-      "population": "78,373"
-    },
-    {
-      "city": "Tustin",
-      "state": "California",
-      "population": "78,327"
+      "city": "Bryan",
+      "state": "Texas",
+      "population": "78,368"
     },
     {
       "city": "Racine",
       "state": "Wisconsin",
-      "population": "78,199"
+      "population": "78,347"
     },
     {
-      "city": "Deerfield Beach",
+      "city": "Avondale",
+      "state": "Arizona",
+      "population": "77,912"
+    },
+    {
+      "city": "Bloomington",
+      "state": "Illinois",
+      "population": "77,883"
+    },
+    {
+      "city": "Palm Coast",
       "state": "Florida",
-      "population": "78,041"
+      "population": "77,779"
+    },
+    {
+      "city": "Tustin",
+      "state": "California",
+      "population": "77,765"
     },
     {
       "city": "Lynchburg",
       "state": "Virginia",
-      "population": "78,014"
+      "population": "77,626"
     },
     {
-      "city": "Mountain View",
-      "state": "California",
-      "population": "77,846"
+      "city": "Brooklyn Park",
+      "state": "Minnesota",
+      "population": "77,579"
     },
     {
-      "city": "Medford",
-      "state": "Oregon",
-      "population": "77,677"
-    },
-    {
-      "city": "Lawrence",
+      "city": "Somerville",
       "state": "Massachusetts",
-      "population": "77,657"
+      "population": "77,560"
     },
     {
       "city": "Bellflower",
       "state": "California",
-      "population": "77,593"
+      "population": "77,521"
     },
     {
-      "city": "Melbourne",
+      "city": "Lawrence",
+      "state": "Massachusetts",
+      "population": "77,364"
+    },
+    {
+      "city": "Deerfield Beach",
       "state": "Florida",
-      "population": "77,508"
-    },
-    {
-      "city": "St. Joseph",
-      "state": "Missouri",
-      "population": "77,147"
+      "population": "77,341"
     },
     {
       "city": "Camden",
       "state": "New Jersey",
-      "population": "76,903"
+      "population": "77,294"
     },
     {
-      "city": "St. George",
-      "state": "Utah",
-      "population": "76,817"
+      "city": "Fayetteville",
+      "state": "Arkansas",
+      "population": "77,264"
     },
     {
-      "city": "Kennewick",
-      "state": "Washington",
-      "population": "76,762"
+      "city": "Melbourne",
+      "state": "Florida",
+      "population": "77,216"
     },
     {
-      "city": "Baldwin Park",
-      "state": "California",
-      "population": "76,635"
-    },
-    {
-      "city": "Chino Hills",
-      "state": "California",
-      "population": "76,572"
-    },
-    {
-      "city": "Alameda",
-      "state": "California",
-      "population": "76,419"
+      "city": "St. Joseph",
+      "state": "Missouri",
+      "population": "77,040"
     },
     {
       "city": "Albany",
       "state": "Georgia",
-      "population": "76,185"
+      "population": "76,946"
     },
     {
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "population": "75,994"
+      "city": "Mountain View",
+      "state": "California",
+      "population": "76,741"
+    },
+    {
+      "city": "Medford",
+      "state": "Oregon",
+      "population": "76,648"
+    },
+    {
+      "city": "Riverview",
+      "state": "Florida",
+      "population": "76,590"
+    },
+    {
+      "city": "Baldwin Park",
+      "state": "California",
+      "population": "76,411"
+    },
+    {
+      "city": "Chino Hills",
+      "state": "California",
+      "population": "76,187"
+    },
+    {
+      "city": "Kennewick",
+      "state": "Washington",
+      "population": "75,971"
     },
     {
       "city": "Scranton",
       "state": "Pennsylvania",
-      "population": "75,806"
+      "population": "75,842"
+    },
+    {
+      "city": "Alameda",
+      "state": "California",
+      "population": "75,763"
+    },
+    {
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "population": "75,748"
+    },
+    {
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "population": "75,577"
+    },
+    {
+      "city": "St. George",
+      "state": "Utah",
+      "population": "75,469"
     },
     {
       "city": "Evanston",
       "state": "Illinois",
-      "population": "75,570"
+      "population": "75,282"
     },
     {
       "city": "Kalamazoo",
       "state": "Michigan",
-      "population": "75,548"
-    },
-    {
-      "city": "Baytown",
-      "state": "Texas",
-      "population": "75,418"
+      "population": "75,190"
     },
     {
       "city": "Upland",
       "state": "California",
-      "population": "75,413"
-    },
-    {
-      "city": "Springdale",
-      "state": "Arkansas",
-      "population": "75,229"
-    },
-    {
-      "city": "Bethlehem",
-      "state": "Pennsylvania",
-      "population": "75,018"
-    },
-    {
-      "city": "Schaumburg",
-      "state": "Illinois",
-      "population": "74,907"
-    },
-    {
-      "city": "Mount Pleasant",
-      "state": "South Carolina",
-      "population": "74,885"
-    },
-    {
-      "city": "Auburn",
-      "state": "Washington",
-      "population": "74,860"
+      "population": "75,089"
     },
     {
       "city": "Decatur",
       "state": "Illinois",
-      "population": "74,710"
+      "population": "75,088"
     },
     {
-      "city": "San Ramon",
-      "state": "California",
-      "population": "74,513"
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "population": "75,050"
     },
     {
-      "city": "Pleasanton",
-      "state": "California",
-      "population": "74,110"
+      "city": "Cheektowaga",
+      "state": "New York",
+      "population": "74,967"
     },
     {
-      "city": "Wyoming",
-      "state": "Michigan",
-      "population": "74,100"
+      "city": "Schaumburg",
+      "state": "Illinois",
+      "population": "74,560"
     },
     {
-      "city": "Lake Charles",
-      "state": "Louisiana",
-      "population": "74,024"
-    },
-    {
-      "city": "Plymouth",
-      "state": "Minnesota",
-      "population": "73,987"
+      "city": "Baytown",
+      "state": "Texas",
+      "population": "74,157"
     },
     {
       "city": "Bolingbrook",
       "state": "Illinois",
-      "population": "73,936"
+      "population": "74,112"
     },
     {
-      "city": "Pharr",
-      "state": "Texas",
-      "population": "73,790"
+      "city": "San Ramon",
+      "state": "California",
+      "population": "73,826"
     },
     {
-      "city": "Appleton",
-      "state": "Wisconsin",
-      "population": "73,596"
+      "city": "Springdale",
+      "state": "Arkansas",
+      "population": "73,789"
     },
     {
-      "city": "Gastonia",
-      "state": "North Carolina",
-      "population": "73,209"
+      "city": "Centreville",
+      "state": "Virginia",
+      "population": "73,677"
+    },
+    {
+      "city": "Lake Charles",
+      "state": "Louisiana",
+      "population": "73,503"
+    },
+    {
+      "city": "Wyoming",
+      "state": "Michigan",
+      "population": "73,434"
+    },
+    {
+      "city": "Guaynabo",
+      "state": "Puerto Rico",
+      "population": "73,430"
+    },
+    {
+      "city": "Auburn",
+      "state": "Washington",
+      "population": "73,403"
     },
     {
       "city": "Folsom",
       "state": "California",
-      "population": "73,098"
+      "population": "73,334"
     },
     {
-      "city": "Southfield",
-      "state": "Michigan",
-      "population": "73,006"
+      "city": "Pleasanton",
+      "state": "California",
+      "population": "73,164"
     },
     {
-      "city": "Rochester Hills",
-      "state": "Michigan",
-      "population": "72,952"
+      "city": "Pharr",
+      "state": "Texas",
+      "population": "73,143"
     },
     {
       "city": "New Britain",
       "state": "Connecticut",
-      "population": "72,939"
+      "population": "73,095"
     },
     {
-      "city": "Goodyear",
-      "state": "Arizona",
-      "population": "72,864"
+      "city": "Plymouth",
+      "state": "Minnesota",
+      "population": "72,868"
+    },
+    {
+      "city": "Appleton",
+      "state": "Wisconsin",
+      "population": "72,861"
     },
     {
       "city": "Canton",
       "state": "Ohio",
-      "population": "72,535"
+      "population": "72,668"
     },
     {
-      "city": "Warner Robins",
-      "state": "Georgia",
-      "population": "72,531"
+      "city": "Gastonia",
+      "state": "North Carolina",
+      "population": "72,664"
+    },
+    {
+      "city": "Southfield",
+      "state": "Michigan",
+      "population": "72,480"
+    },
+    {
+      "city": "Mount Pleasant",
+      "state": "South Carolina",
+      "population": "72,379"
+    },
+    {
+      "city": "Rochester Hills",
+      "state": "Michigan",
+      "population": "72,195"
     },
     {
       "city": "Union City",
       "state": "California",
-      "population": "72,528"
+      "population": "71,675"
     },
     {
       "city": "Perris",
       "state": "California",
-      "population": "72,326"
+      "population": "71,377"
     },
     {
-      "city": "Manteca",
-      "state": "California",
-      "population": "71,948"
+      "city": "Warner Robins",
+      "state": "Georgia",
+      "population": "71,359"
     },
     {
-      "city": "Iowa City",
-      "state": "Iowa",
-      "population": "71,591"
-    },
-    {
-      "city": "Jonesboro",
-      "state": "Arkansas",
-      "population": "71,551"
-    },
-    {
-      "city": "Wilmington",
-      "state": "Delaware",
-      "population": "71,525"
-    },
-    {
-      "city": "Lynwood",
-      "state": "California",
-      "population": "71,371"
-    },
-    {
-      "city": "Loveland",
-      "state": "Colorado",
-      "population": "71,334"
+      "city": "Waldorf",
+      "state": "Maryland",
+      "population": "71,358"
     },
     {
       "city": "Pawtucket",
       "state": "Rhode Island",
-      "population": "71,172"
+      "population": "71,313"
     },
     {
-      "city": "Boynton Beach",
-      "state": "Florida",
-      "population": "71,097"
+      "city": "Wilmington",
+      "state": "Delaware",
+      "population": "71,263"
     },
     {
       "city": "Waukesha",
       "state": "Wisconsin",
-      "population": "71,016"
+      "population": "71,083"
     },
     {
-      "city": "Gulfport",
-      "state": "Mississippi",
-      "population": "71,012"
-    },
-    {
-      "city": "Apple Valley",
+      "city": "Lynwood",
       "state": "California",
-      "population": "70,924"
+      "population": "70,789"
+    },
+    {
+      "city": "Manteca",
+      "state": "California",
+      "population": "70,693"
     },
     {
       "city": "Passaic",
       "state": "New Jersey",
-      "population": "70,868"
+      "population": "70,651"
+    },
+    {
+      "city": "Iowa City",
+      "state": "Iowa",
+      "population": "70,597"
+    },
+    {
+      "city": "Apple Valley",
+      "state": "California",
+      "population": "70,561"
+    },
+    {
+      "city": "Dale City",
+      "state": "Virginia",
+      "population": "70,381"
+    },
+    {
+      "city": "Boynton Beach",
+      "state": "Florida",
+      "population": "70,355"
+    },
+    {
+      "city": "Jonesboro",
+      "state": "Arkansas",
+      "population": "70,217"
+    },
+    {
+      "city": "Goodyear",
+      "state": "Arizona",
+      "population": "70,148"
     },
     {
       "city": "Rapid City",
       "state": "South Dakota",
-      "population": "70,812"
+      "population": "70,126"
     },
     {
-      "city": "Layton",
-      "state": "Utah",
-      "population": "70,790"
-    },
-    {
-      "city": "Lafayette",
-      "state": "Indiana",
-      "population": "70,373"
-    },
-    {
-      "city": "Turlock",
-      "state": "California",
-      "population": "70,365"
+      "city": "Loveland",
+      "state": "Colorado",
+      "population": "70,093"
     },
     {
       "city": "Muncie",
       "state": "Indiana",
-      "population": "70,316"
+      "population": "70,035"
     },
     {
-      "city": "Temple",
-      "state": "Texas",
-      "population": "70,190"
+      "city": "Lafayette",
+      "state": "Indiana",
+      "population": "69,982"
     },
     {
-      "city": "Missouri City",
-      "state": "Texas",
-      "population": "70,185"
+      "city": "Gulfport",
+      "state": "Mississippi",
+      "population": "69,913"
+    },
+    {
+      "city": "Framingham",
+      "state": "Massachusetts",
+      "population": "69,900"
+    },
+    {
+      "city": "Turlock",
+      "state": "California",
+      "population": "69,875"
     },
     {
       "city": "Redlands",
       "state": "California",
-      "population": "69,999"
+      "population": "69,787"
     },
     {
-      "city": "Santa Fe",
-      "state": "New Mexico",
-      "population": "69,976"
+      "city": "Layton",
+      "state": "Utah",
+      "population": "69,508"
     },
     {
-      "city": "Lauderhill",
-      "state": "Florida",
-      "population": "69,813"
+      "city": "Atascocita",
+      "state": "Texas",
+      "population": "69,470"
     },
     {
       "city": "Milpitas",
       "state": "California",
-      "population": "69,783"
-    },
-    {
-      "city": "Palatine",
-      "state": "Illinois",
-      "population": "69,350"
-    },
-    {
-      "city": "Missoula",
-      "state": "Montana",
-      "population": "69,122"
-    },
-    {
-      "city": "Rock Hill",
-      "state": "South Carolina",
-      "population": "69,103"
+      "population": "69,346"
     },
     {
       "city": "Jacksonville",
       "state": "North Carolina",
-      "population": "69,079"
+      "population": "69,300"
     },
     {
-      "city": "Franklin",
-      "state": "Tennessee",
-      "population": "68,886"
+      "city": "Santa Fe",
+      "state": "New Mexico",
+      "population": "69,245"
     },
     {
-      "city": "Flagstaff",
-      "state": "Arizona",
-      "population": "68,667"
-    },
-    {
-      "city": "Flower Mound",
+      "city": "Missouri City",
       "state": "Texas",
-      "population": "68,609"
+      "population": "69,152"
     },
     {
-      "city": "Weston",
+      "city": "Lauderhill",
       "state": "Florida",
-      "population": "68,388"
+      "population": "69,082"
+    },
+    {
+      "city": "Palatine",
+      "state": "Illinois",
+      "population": "69,015"
+    },
+    {
+      "city": "Temple",
+      "state": "Texas",
+      "population": "68,877"
+    },
+    {
+      "city": "Casas Adobes",
+      "state": "Arizona",
+      "population": "68,525"
+    },
+    {
+      "city": "Ellicott City",
+      "state": "Maryland",
+      "population": "68,507"
     },
     {
       "city": "Waterloo",
       "state": "Iowa",
-      "population": "68,366"
+      "population": "68,392"
+    },
+    {
+      "city": "Missoula",
+      "state": "Montana",
+      "population": "68,377"
+    },
+    {
+      "city": "Mayagüez",
+      "state": "Puerto Rico",
+      "population": "68,336"
+    },
+    {
+      "city": "Rock Hill",
+      "state": "South Carolina",
+      "population": "68,185"
     },
     {
       "city": "Union City",
       "state": "New Jersey",
-      "population": "68,247"
+      "population": "68,001"
     },
     {
       "city": "Mount Vernon",
       "state": "New York",
-      "population": "68,224"
+      "population": "67,962"
     },
     {
-      "city": "Fort Myers",
-      "state": "Florida",
-      "population": "68,190"
+      "city": "Flower Mound",
+      "state": "Texas",
+      "population": "67,630"
     },
     {
       "city": "Dothan",
       "state": "Alabama",
-      "population": "68,001"
+      "population": "67,574"
     },
     {
-      "city": "Rancho Cordova",
-      "state": "California",
-      "population": "67,911"
+      "city": "Weston",
+      "state": "Florida",
+      "population": "67,567"
+    },
+    {
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "population": "67,559"
     },
     {
       "city": "Redondo Beach",
       "state": "California",
-      "population": "67,815"
+      "population": "67,511"
+    },
+    {
+      "city": "Flagstaff",
+      "state": "Arizona",
+      "population": "67,419"
     },
     {
       "city": "Jackson",
       "state": "Tennessee",
-      "population": "67,685"
+      "population": "67,190"
     },
     {
-      "city": "Pasco",
-      "state": "Washington",
-      "population": "67,599"
-    },
-    {
-      "city": "St. Charles",
-      "state": "Missouri",
-      "population": "67,569"
+      "city": "Rancho Cordova",
+      "state": "California",
+      "population": "67,167"
     },
     {
       "city": "Eau Claire",
       "state": "Wisconsin",
-      "population": "67,545"
-    },
-    {
-      "city": "North Richland Hills",
-      "state": "Texas",
-      "population": "67,317"
-    },
-    {
-      "city": "Bismarck",
-      "state": "North Dakota",
-      "population": "67,034"
-    },
-    {
-      "city": "Yorba Linda",
-      "state": "California",
-      "population": "67,032"
+      "population": "67,036"
     },
     {
       "city": "Kenner",
       "state": "Louisiana",
-      "population": "66,975"
+      "population": "66,926"
     },
     {
-      "city": "Walnut Creek",
-      "state": "California",
+      "city": "St. Charles",
+      "state": "Missouri",
       "population": "66,900"
     },
     {
       "city": "Frederick",
       "state": "Maryland",
-      "population": "66,893"
+      "population": "66,646"
+    },
+    {
+      "city": "Franklin",
+      "state": "Tennessee",
+      "population": "66,596"
     },
     {
       "city": "Oshkosh",
       "state": "Wisconsin",
-      "population": "66,778"
+      "population": "66,430"
     },
     {
-      "city": "Pittsburg",
+      "city": "Yorba Linda",
       "state": "California",
-      "population": "66,695"
-    },
-    {
-      "city": "Palo Alto",
-      "state": "California",
-      "population": "66,642"
-    },
-    {
-      "city": "Bossier City",
-      "state": "Louisiana",
-      "population": "66,333"
+      "population": "66,335"
     },
     {
       "city": "Portland",
       "state": "Maine",
-      "population": "66,318"
+      "population": "66,317"
     },
     {
-      "city": "St. Cloud",
-      "state": "Minnesota",
-      "population": "66,297"
+      "city": "Fort Myers",
+      "state": "Florida",
+      "population": "66,167"
     },
     {
       "city": "Davis",
       "state": "California",
-      "population": "66,205"
-    },
-    {
-      "city": "South San Francisco",
-      "state": "California",
-      "population": "66,174"
-    },
-    {
-      "city": "Camarillo",
-      "state": "California",
-      "population": "66,086"
-    },
-    {
-      "city": "North Little Rock",
-      "state": "Arkansas",
-      "population": "66,075"
+      "population": "66,093"
     },
     {
       "city": "Schenectady",
       "state": "New York",
-      "population": "65,902"
+      "population": "66,055"
     },
     {
-      "city": "Gaithersburg",
-      "state": "Maryland",
-      "population": "65,690"
-    },
-    {
-      "city": "Harlingen",
-      "state": "Texas",
-      "population": "65,665"
-    },
-    {
-      "city": "Woodbury",
+      "city": "St. Cloud",
       "state": "Minnesota",
-      "population": "65,656"
-    },
-    {
-      "city": "Eagan",
-      "state": "Minnesota",
-      "population": "65,453"
-    },
-    {
-      "city": "Yuba City",
-      "state": "California",
-      "population": "65,416"
-    },
-    {
-      "city": "Maple Grove",
-      "state": "Minnesota",
-      "population": "65,415"
+      "population": "66,038"
     },
     {
       "city": "Youngstown",
       "state": "Ohio",
-      "population": "65,184"
+      "population": "66,013"
+    },
+    {
+      "city": "Palo Alto",
+      "state": "California",
+      "population": "65,998"
+    },
+    {
+      "city": "Camarillo",
+      "state": "California",
+      "population": "65,985"
+    },
+    {
+      "city": "Walnut Creek",
+      "state": "California",
+      "population": "65,923"
+    },
+    {
+      "city": "Pasco",
+      "state": "Washington",
+      "population": "65,858"
+    },
+    {
+      "city": "North Richland Hills",
+      "state": "Texas",
+      "population": "65,835"
+    },
+    {
+      "city": "Pittsburg",
+      "state": "California",
+      "population": "65,761"
+    },
+    {
+      "city": "Harlingen",
+      "state": "Texas",
+      "population": "65,677"
+    },
+    {
+      "city": "South San Francisco",
+      "state": "California",
+      "population": "65,537"
+    },
+    {
+      "city": "Yuba City",
+      "state": "California",
+      "population": "65,141"
+    },
+    {
+      "city": "Bismarck",
+      "state": "North Dakota",
+      "population": "65,123"
     },
     {
       "city": "Skokie",
       "state": "Illinois",
-      "population": "65,176"
+      "population": "65,056"
     },
     {
-      "city": "Kissimmee",
-      "state": "Florida",
-      "population": "65,173"
+      "city": "Eagan",
+      "state": "Minnesota",
+      "population": "65,053"
     },
     {
-      "city": "Johnson City",
-      "state": "Tennessee",
-      "population": "65,123"
-    },
-    {
-      "city": "Victoria",
-      "state": "Texas",
-      "population": "65,098"
-    },
-    {
-      "city": "San Clemente",
-      "state": "California",
-      "population": "65,040"
+      "city": "Bossier City",
+      "state": "Louisiana",
+      "population": "64,895"
     },
     {
       "city": "Bayonne",
       "state": "New Jersey",
-      "population": "65,028"
+      "population": "64,763"
     },
     {
-      "city": "Laguna Niguel",
+      "city": "North Little Rock",
+      "state": "Arkansas",
+      "population": "64,731"
+    },
+    {
+      "city": "San Clemente",
       "state": "California",
-      "population": "64,652"
+      "population": "64,673"
+    },
+    {
+      "city": "Johnson City",
+      "state": "Tennessee",
+      "population": "64,614"
+    },
+    {
+      "city": "Woodbury",
+      "state": "Minnesota",
+      "population": "64,544"
     },
     {
       "city": "East Orange",
       "state": "New Jersey",
-      "population": "64,544"
+      "population": "64,538"
     },
     {
-      "city": "Shawnee",
-      "state": "Kansas",
-      "population": "64,323"
-    },
-    {
-      "city": "Homestead",
+      "city": "Pine Hills",
       "state": "Florida",
-      "population": "64,079"
+      "population": "64,516"
     },
     {
-      "city": "Rockville",
-      "state": "Maryland",
-      "population": "64,072"
+      "city": "Maple Grove",
+      "state": "Minnesota",
+      "population": "64,364"
     },
     {
-      "city": "Delray Beach",
-      "state": "Florida",
-      "population": "64,072"
-    },
-    {
-      "city": "Janesville",
-      "state": "Wisconsin",
-      "population": "63,820"
-    },
-    {
-      "city": "Conway",
-      "state": "Arkansas",
-      "population": "63,816"
-    },
-    {
-      "city": "Pico Rivera",
+      "city": "Laguna Niguel",
       "state": "California",
-      "population": "63,771"
+      "population": "64,299"
+    },
+    {
+      "city": "Victoria",
+      "state": "Texas",
+      "population": "64,275"
     },
     {
       "city": "Lorain",
       "state": "Ohio",
-      "population": "63,710"
+      "population": "63,885"
+    },
+    {
+      "city": "Pico Rivera",
+      "state": "California",
+      "population": "63,698"
+    },
+    {
+      "city": "Janesville",
+      "state": "Wisconsin",
+      "population": "63,674"
+    },
+    {
+      "city": "Shawnee",
+      "state": "Kansas",
+      "population": "63,597"
+    },
+    {
+      "city": "Gaithersburg",
+      "state": "Maryland",
+      "population": "63,491"
+    },
+    {
+      "city": "Homestead",
+      "state": "Florida",
+      "population": "63,459"
+    },
+    {
+      "city": "Rockville",
+      "state": "Maryland",
+      "population": "63,402"
+    },
+    {
+      "city": "West Hartford",
+      "state": "Connecticut",
+      "population": "63,396"
+    },
+    {
+      "city": "Kissimmee",
+      "state": "Florida",
+      "population": "63,392"
     },
     {
       "city": "Montebello",
       "state": "California",
-      "population": "63,495"
+      "population": "63,353"
+    },
+    {
+      "city": "Carmichael",
+      "state": "California",
+      "population": "63,314"
+    },
+    {
+      "city": "Millcreek",
+      "state": "Utah",
+      "population": "63,311"
     },
     {
       "city": "Lodi",
       "state": "California",
-      "population": "63,338"
+      "population": "63,158"
     },
     {
-      "city": "New Braunfels",
-      "state": "Texas",
-      "population": "63,279"
-    },
-    {
-      "city": "Marysville",
-      "state": "Washington",
-      "population": "63,269"
-    },
-    {
-      "city": "Tamarac",
+      "city": "Delray Beach",
       "state": "Florida",
-      "population": "63,155"
+      "population": "62,828"
+    },
+    {
+      "city": "Florence-Graham",
+      "state": "California",
+      "population": "62,815"
     },
     {
       "city": "Madera",
       "state": "California",
-      "population": "63,105"
+      "population": "62,559"
     },
     {
-      "city": "Conroe",
-      "state": "Texas",
-      "population": "63,032"
-    },
-    {
-      "city": "Santa Cruz",
-      "state": "California",
-      "population": "62,864"
-    },
-    {
-      "city": "Eden Prairie",
-      "state": "Minnesota",
-      "population": "62,603"
-    },
-    {
-      "city": "Cheyenne",
-      "state": "Wyoming",
-      "population": "62,448"
-    },
-    {
-      "city": "Daytona Beach",
+      "city": "Tamarac",
       "state": "Florida",
-      "population": "62,316"
+      "population": "62,478"
     },
     {
-      "city": "Alpharetta",
-      "state": "Georgia",
-      "population": "62,298"
+      "city": "Marysville",
+      "state": "Washington",
+      "population": "62,472"
+    },
+    {
+      "city": "Conway",
+      "state": "Arkansas",
+      "population": "62,455"
     },
     {
       "city": "Hamilton",
       "state": "Ohio",
-      "population": "62,258"
+      "population": "62,366"
     },
     {
-      "city": "Waltham",
-      "state": "Massachusetts",
-      "population": "62,227"
-    },
-    {
-      "city": "Coon Rapids",
-      "state": "Minnesota",
-      "population": "62,103"
-    },
-    {
-      "city": "Haverhill",
-      "state": "Massachusetts",
-      "population": "62,088"
-    },
-    {
-      "city": "Council Bluffs",
-      "state": "Iowa",
-      "population": "61,969"
+      "city": "Castro Valley",
+      "state": "California",
+      "population": "62,363"
     },
     {
       "city": "Taylor",
       "state": "Michigan",
-      "population": "61,817"
+      "population": "62,331"
+    },
+    {
+      "city": "Council Bluffs",
+      "state": "Iowa",
+      "population": "62,261"
+    },
+    {
+      "city": "Dundalk",
+      "state": "Maryland",
+      "population": "62,186"
+    },
+    {
+      "city": "Eden Prairie",
+      "state": "Minnesota",
+      "population": "62,096"
+    },
+    {
+      "city": "Santa Cruz",
+      "state": "California",
+      "population": "62,045"
+    },
+    {
+      "city": "Bethesda",
+      "state": "Maryland",
+      "population": "62,024"
+    },
+    {
+      "city": "Daytona Beach",
+      "state": "Florida",
+      "population": "61,913"
+    },
+    {
+      "city": "Waltham",
+      "state": "Massachusetts",
+      "population": "61,908"
     },
     {
       "city": "Utica",
       "state": "New York",
-      "population": "61,808"
+      "population": "61,852"
     },
     {
-      "city": "Ames",
-      "state": "Iowa",
-      "population": "61,792"
+      "city": "Coon Rapids",
+      "state": "Minnesota",
+      "population": "61,809"
+    },
+    {
+      "city": "Haverhill",
+      "state": "Massachusetts",
+      "population": "61,769"
+    },
+    {
+      "city": "New Braunfels",
+      "state": "Texas",
+      "population": "61,712"
+    },
+    {
+      "city": "Cheyenne",
+      "state": "Wyoming",
+      "population": "61,470"
     },
     {
       "city": "La Habra",
       "state": "California",
-      "population": "61,653"
+      "population": "61,341"
     },
     {
-      "city": "Encinitas",
-      "state": "California",
-      "population": "61,588"
+      "city": "Ames",
+      "state": "Iowa",
+      "population": "61,276"
     },
     {
-      "city": "Bowling Green",
-      "state": "Kentucky",
-      "population": "61,488"
+      "city": "Conroe",
+      "state": "Texas",
+      "population": "61,268"
     },
     {
       "city": "Burnsville",
       "state": "Minnesota",
-      "population": "61,434"
+      "population": "61,059"
     },
     {
-      "city": "Greenville",
-      "state": "South Carolina",
-      "population": "61,397"
-    },
-    {
-      "city": "West Des Moines",
-      "state": "Iowa",
-      "population": "61,255"
-    },
-    {
-      "city": "Cedar Park",
-      "state": "Texas",
-      "population": "61,238"
-    },
-    {
-      "city": "Tulare",
-      "state": "California",
-      "population": "61,170"
-    },
-    {
-      "city": "Monterey Park",
-      "state": "California",
-      "population": "61,085"
-    },
-    {
-      "city": "Vineland",
-      "state": "New Jersey",
-      "population": "61,050"
+      "city": "The Villages",
+      "state": "Florida",
+      "population": "61,046"
     },
     {
       "city": "Terre Haute",
       "state": "Indiana",
-      "population": "61,025"
+      "population": "61,040"
+    },
+    {
+      "city": "Encinitas",
+      "state": "California",
+      "population": "61,008"
+    },
+    {
+      "city": "Vineland",
+      "state": "New Jersey",
+      "population": "60,985"
+    },
+    {
+      "city": "Monterey Park",
+      "state": "California",
+      "population": "60,966"
+    },
+    {
+      "city": "Alpharetta",
+      "state": "Georgia",
+      "population": "60,903"
     },
     {
       "city": "North Miami",
       "state": "Florida",
-      "population": "61,007"
+      "population": "60,756"
     },
     {
-      "city": "Mansfield",
-      "state": "Texas",
-      "population": "60,872"
+      "city": "Greenville",
+      "state": "South Carolina",
+      "population": "60,670"
     },
     {
-      "city": "West Allis",
-      "state": "Wisconsin",
-      "population": "60,697"
+      "city": "Tulare",
+      "state": "California",
+      "population": "60,663"
     },
     {
-      "city": "Bristol",
-      "state": "Connecticut",
-      "population": "60,568"
-    },
-    {
-      "city": "Taylorsville",
-      "state": "Utah",
-      "population": "60,519"
-    },
-    {
-      "city": "Malden",
-      "state": "Massachusetts",
-      "population": "60,509"
+      "city": "Bowling Green",
+      "state": "Kentucky",
+      "population": "60,660"
     },
     {
       "city": "Meriden",
       "state": "Connecticut",
-      "population": "60,456"
+      "population": "60,616"
     },
     {
-      "city": "Blaine",
-      "state": "Minnesota",
-      "population": "60,407"
+      "city": "West Allis",
+      "state": "Wisconsin",
+      "population": "60,595"
     },
     {
-      "city": "Wellington",
-      "state": "Florida",
-      "population": "60,202"
+      "city": "Bristol",
+      "state": "Connecticut",
+      "population": "60,556"
     },
     {
-      "city": "Cupertino",
-      "state": "California",
-      "population": "60,189"
+      "city": "Malden",
+      "state": "Massachusetts",
+      "population": "60,309"
+    },
+    {
+      "city": "Springfield",
+      "state": "Ohio",
+      "population": "60,216"
+    },
+    {
+      "city": "Taylorsville",
+      "state": "Utah",
+      "population": "59,920"
     },
     {
       "city": "Springfield",
       "state": "Oregon",
-      "population": "60,177"
-    },
-    {
-      "city": "Rogers",
-      "state": "Arkansas",
-      "population": "60,112"
+      "population": "59,882"
     },
     {
       "city": "St. Clair Shores",
       "state": "Michigan",
-      "population": "60,070"
+      "population": "59,865"
     },
     {
-      "city": "Gardena",
+      "city": "West Des Moines",
+      "state": "Iowa",
+      "population": "59,815"
+    },
+    {
+      "city": "Cupertino",
       "state": "California",
-      "population": "59,957"
+      "population": "59,787"
     },
     {
-      "city": "Pontiac",
-      "state": "Michigan",
-      "population": "59,887"
-    },
-    {
-      "city": "National City",
-      "state": "California",
-      "population": "59,834"
+      "city": "Mansfield",
+      "state": "Texas",
+      "population": "59,757"
     },
     {
       "city": "Grand Junction",
       "state": "Colorado",
-      "population": "59,778"
+      "population": "59,731"
     },
     {
-      "city": "Rocklin",
+      "city": "Gardena",
       "state": "California",
-      "population": "59,738"
+      "population": "59,682"
     },
     {
-      "city": "Chapel Hill",
-      "state": "North Carolina",
-      "population": "59,635"
+      "city": "Pontiac",
+      "state": "Michigan",
+      "population": "59,658"
     },
     {
-      "city": "Casper",
-      "state": "Wyoming",
-      "population": "59,628"
+      "city": "National City",
+      "state": "California",
+      "population": "59,543"
+    },
+    {
+      "city": "Brentwood",
+      "state": "New York",
+      "population": "59,436"
+    },
+    {
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "population": "59,368"
+    },
+    {
+      "city": "Blaine",
+      "state": "Minnesota",
+      "population": "59,295"
+    },
+    {
+      "city": "Reston",
+      "state": "Virginia",
+      "population": "59,217"
     },
     {
       "city": "Broomfield",
       "state": "Colorado",
-      "population": "59,471"
+      "population": "59,027"
     },
     {
-      "city": "Petaluma",
-      "state": "California",
-      "population": "59,440"
-    },
-    {
-      "city": "South Jordan",
-      "state": "Utah",
-      "population": "59,366"
-    },
-    {
-      "city": "Springfield",
-      "state": "Ohio",
-      "population": "59,357"
+      "city": "Wellington",
+      "state": "Florida",
+      "population": "59,022"
     },
     {
       "city": "Great Falls",
       "state": "Montana",
-      "population": "59,351"
+      "population": "59,017"
     },
     {
-      "city": "Lancaster",
-      "state": "Pennsylvania",
-      "population": "59,325"
+      "city": "Brookline",
+      "state": "Massachusetts",
+      "population": "59,016"
     },
     {
-      "city": "North Port",
+      "city": "Palm Harbor",
       "state": "Florida",
-      "population": "59,212"
+      "population": "59,007"
+    },
+    {
+      "city": "Rocklin",
+      "state": "California",
+      "population": "59,002"
+    },
+    {
+      "city": "Rogers",
+      "state": "Arkansas",
+      "population": "58,944"
+    },
+    {
+      "city": "Petaluma",
+      "state": "California",
+      "population": "58,912"
     },
     {
       "city": "Lakewood",
       "state": "Washington",
-      "population": "59,097"
-    },
-    {
-      "city": "Marietta",
-      "state": "Georgia",
-      "population": "59,089"
-    },
-    {
-      "city": "San Rafael",
-      "state": "California",
-      "population": "58,994"
-    },
-    {
-      "city": "Royal Oak",
-      "state": "Michigan",
-      "population": "58,946"
+      "population": "58,890"
     },
     {
       "city": "Des Plaines",
       "state": "Illinois",
-      "population": "58,918"
+      "population": "58,802"
     },
     {
       "city": "Huntington Park",
       "state": "California",
-      "population": "58,879"
+      "population": "58,787"
+    },
+    {
+      "city": "Kendale Lakes",
+      "state": "Florida",
+      "population": "58,767"
+    },
+    {
+      "city": "San Rafael",
+      "state": "California",
+      "population": "58,588"
+    },
+    {
+      "city": "North Port",
+      "state": "Florida",
+      "population": "58,584"
+    },
+    {
+      "city": "Marietta",
+      "state": "Georgia",
+      "population": "58,436"
+    },
+    {
+      "city": "Royal Oak",
+      "state": "Michigan",
+      "population": "58,382"
+    },
+    {
+      "city": "Chapel Hill",
+      "state": "North Carolina",
+      "population": "58,379"
+    },
+    {
+      "city": "South Whittier",
+      "state": "California",
+      "population": "58,328"
     },
     {
       "city": "La Mesa",
       "state": "California",
-      "population": "58,642"
+      "population": "58,239"
     },
     {
-      "city": "Orland Park",
-      "state": "Illinois",
-      "population": "58,590"
+      "city": "Tonawanda",
+      "state": "New York",
+      "population": "58,204"
     },
     {
-      "city": "Auburn",
-      "state": "Alabama",
-      "population": "58,582"
-    },
-    {
-      "city": "Lakeville",
-      "state": "Minnesota",
-      "population": "58,562"
-    },
-    {
-      "city": "Owensboro",
-      "state": "Kentucky",
-      "population": "58,416"
-    },
-    {
-      "city": "Moore",
-      "state": "Oklahoma",
-      "population": "58,414"
-    },
-    {
-      "city": "Jupiter",
-      "state": "Florida",
-      "population": "58,298"
-    },
-    {
-      "city": "Idaho Falls",
-      "state": "Idaho",
-      "population": "58,292"
+      "city": "Cedar Park",
+      "state": "Texas",
+      "population": "58,088"
     },
     {
       "city": "Dubuque",
       "state": "Iowa",
-      "population": "58,253"
+      "population": "58,068"
+    },
+    {
+      "city": "Owensboro",
+      "state": "Kentucky",
+      "population": "58,000"
+    },
+    {
+      "city": "Idaho Falls",
+      "state": "Idaho",
+      "population": "57,935"
+    },
+    {
+      "city": "Casper",
+      "state": "Wyoming",
+      "population": "57,815"
     },
     {
       "city": "Bartlett",
       "state": "Tennessee",
-      "population": "58,226"
+      "population": "57,805"
+    },
+    {
+      "city": "Orland Park",
+      "state": "Illinois",
+      "population": "57,802"
+    },
+    {
+      "city": "Lakeville",
+      "state": "Minnesota",
+      "population": "57,715"
+    },
+    {
+      "city": "Jupiter",
+      "state": "Florida",
+      "population": "57,625"
+    },
+    {
+      "city": "Moore",
+      "state": "Oklahoma",
+      "population": "57,563"
     },
     {
       "city": "Rowlett",
       "state": "Texas",
-      "population": "58,043"
-    },
-    {
-      "city": "Novi",
-      "state": "Michigan",
-      "population": "57,960"
+      "population": "57,532"
     },
     {
       "city": "White Plains",
       "state": "New York",
-      "population": "57,866"
+      "population": "57,505"
     },
     {
       "city": "Arcadia",
       "state": "California",
-      "population": "57,639"
-    },
-    {
-      "city": "Redmond",
-      "state": "Washington",
-      "population": "57,530"
-    },
-    {
-      "city": "Lake Elsinore",
-      "state": "California",
-      "population": "57,525"
-    },
-    {
-      "city": "Ocala",
-      "state": "Florida",
-      "population": "57,468"
-    },
-    {
-      "city": "Tinley Park",
-      "state": "Illinois",
-      "population": "57,282"
+      "population": "57,251"
     },
     {
       "city": "Port Orange",
       "state": "Florida",
-      "population": "57,203"
+      "population": "57,218"
     },
     {
-      "city": "Medford",
-      "state": "Massachusetts",
-      "population": "57,170"
+      "city": "Towson",
+      "state": "Maryland",
+      "population": "57,146"
     },
     {
-      "city": "Oak Lawn",
+      "city": "Tamiami",
+      "state": "Florida",
+      "population": "57,123"
+    },
+    {
+      "city": "Tinley Park",
       "state": "Illinois",
-      "population": "57,073"
+      "population": "57,099"
     },
     {
       "city": "Rocky Mount",
       "state": "North Carolina",
-      "population": "56,954"
-    },
-    {
-      "city": "Kokomo",
-      "state": "Indiana",
-      "population": "56,895"
-    },
-    {
-      "city": "Coconut Creek",
-      "state": "Florida",
-      "population": "56,792"
-    },
-    {
-      "city": "Bowie",
-      "state": "Maryland",
-      "population": "56,759"
-    },
-    {
-      "city": "Berwyn",
-      "state": "Illinois",
-      "population": "56,758"
-    },
-    {
-      "city": "Midwest City",
-      "state": "Oklahoma",
-      "population": "56,756"
-    },
-    {
-      "city": "Fountain Valley",
-      "state": "California",
-      "population": "56,707"
-    },
-    {
-      "city": "Buckeye",
-      "state": "Arizona",
-      "population": "56,683"
+      "population": "57,071"
     },
     {
       "city": "Dearborn Heights",
       "state": "Michigan",
-      "population": "56,620"
+      "population": "57,063"
     },
     {
-      "city": "Woodland",
-      "state": "California",
-      "population": "56,590"
+      "city": "Auburn",
+      "state": "Alabama",
+      "population": "56,986"
+    },
+    {
+      "city": "Medford",
+      "state": "Massachusetts",
+      "population": "56,981"
+    },
+    {
+      "city": "Oak Lawn",
+      "state": "Illinois",
+      "population": "56,969"
+    },
+    {
+      "city": "Kokomo",
+      "state": "Indiana",
+      "population": "56,958"
+    },
+    {
+      "city": "Ocala",
+      "state": "Florida",
+      "population": "56,918"
+    },
+    {
+      "city": "Novi",
+      "state": "Michigan",
+      "population": "56,887"
+    },
+    {
+      "city": "Berwyn",
+      "state": "Illinois",
+      "population": "56,762"
+    },
+    {
+      "city": "Redmond",
+      "state": "Washington",
+      "population": "56,704"
+    },
+    {
+      "city": "Poinciana",
+      "state": "Florida",
+      "population": "56,678"
     },
     {
       "city": "Noblesville",
       "state": "Indiana",
-      "population": "56,540"
+      "population": "56,576"
+    },
+    {
+      "city": "South Jordan",
+      "state": "Utah",
+      "population": "56,528"
+    },
+    {
+      "city": "Fountain Valley",
+      "state": "California",
+      "population": "56,440"
+    },
+    {
+      "city": "Woodland",
+      "state": "California",
+      "population": "56,390"
+    },
+    {
+      "city": "Bowie",
+      "state": "Maryland",
+      "population": "56,335"
     },
     {
       "city": "Valdosta",
       "state": "Georgia",
-      "population": "56,481"
+      "population": "56,324"
     },
     {
       "city": "Diamond Bar",
       "state": "California",
-      "population": "56,449"
+      "population": "56,259"
     },
     {
-      "city": "Manhattan",
-      "state": "Kansas",
-      "population": "56,143"
-    },
-    {
-      "city": "Santee",
+      "city": "Lake Elsinore",
       "state": "California",
-      "population": "56,105"
-    },
-    {
-      "city": "Taunton",
-      "state": "Massachusetts",
-      "population": "56,069"
-    },
-    {
-      "city": "Sanford",
-      "state": "Florida",
-      "population": "56,002"
+      "population": "56,243"
     },
     {
       "city": "Kettering",
       "state": "Ohio",
-      "population": "55,870"
+      "population": "56,138"
+    },
+    {
+      "city": "Taunton",
+      "state": "Massachusetts",
+      "population": "56,056"
+    },
+    {
+      "city": "Midwest City",
+      "state": "Oklahoma",
+      "population": "55,964"
     },
     {
       "city": "New Brunswick",
       "state": "New Jersey",
-      "population": "55,831"
-    },
-    {
-      "city": "Decatur",
-      "state": "Alabama",
-      "population": "55,816"
-    },
-    {
-      "city": "Chicopee",
-      "state": "Massachusetts",
-      "population": "55,717"
+      "population": "55,804"
     },
     {
       "city": "Anderson",
       "state": "Indiana",
-      "population": "55,670"
+      "population": "55,789"
     },
     {
-      "city": "Margate",
-      "state": "Florida",
-      "population": "55,456"
+      "city": "Decatur",
+      "state": "Alabama",
+      "population": "55,641"
     },
     {
-      "city": "Weymouth Town",
+      "city": "Chicopee",
       "state": "Massachusetts",
-      "population": "55,419"
+      "population": "55,603"
     },
     {
-      "city": "Hempstead",
-      "state": "New York",
-      "population": "55,361"
+      "city": "Coconut Creek",
+      "state": "Florida",
+      "population": "55,590"
     },
     {
-      "city": "Corvallis",
-      "state": "Oregon",
-      "population": "55,298"
+      "city": "Santee",
+      "state": "California",
+      "population": "55,435"
     },
     {
       "city": "Eastvale",
       "state": "California",
-      "population": "55,191"
+      "population": "55,298"
     },
     {
-      "city": "Porterville",
-      "state": "California",
-      "population": "55,174"
+      "city": "Sanford",
+      "state": "Florida",
+      "population": "55,296"
     },
     {
       "city": "West Haven",
       "state": "Connecticut",
-      "population": "55,046"
+      "population": "55,290"
     },
     {
-      "city": "Brentwood",
+      "city": "Port Charlotte",
+      "state": "Florida",
+      "population": "55,206"
+    },
+    {
+      "city": "Hacienda Heights",
       "state": "California",
-      "population": "55,000"
+      "population": "55,179"
+    },
+    {
+      "city": "Manhattan",
+      "state": "Kansas",
+      "population": "55,112"
+    },
+    {
+      "city": "Spring",
+      "state": "Texas",
+      "population": "54,992"
+    },
+    {
+      "city": "Porterville",
+      "state": "California",
+      "population": "54,949"
+    },
+    {
+      "city": "Margate",
+      "state": "Florida",
+      "population": "54,929"
+    },
+    {
+      "city": "Buckeye",
+      "state": "Arizona",
+      "population": "54,927"
+    },
+    {
+      "city": "South Hill",
+      "state": "Washington",
+      "population": "54,878"
+    },
+    {
+      "city": "The Hammocks",
+      "state": "Florida",
+      "population": "54,833"
+    },
+    {
+      "city": "Weymouth Town",
+      "state": "Massachusetts",
+      "population": "54,815"
     },
     {
       "city": "Paramount",
       "state": "California",
-      "population": "54,980"
+      "population": "54,813"
     },
     {
-      "city": "Grand Forks",
-      "state": "North Dakota",
-      "population": "54,932"
+      "city": "Hempstead",
+      "state": "New York",
+      "population": "54,801"
     },
     {
-      "city": "Georgetown",
-      "state": "Texas",
-      "population": "54,898"
-    },
-    {
-      "city": "St. Peters",
-      "state": "Missouri",
-      "population": "54,842"
-    },
-    {
-      "city": "Shoreline",
-      "state": "Washington",
-      "population": "54,790"
-    },
-    {
-      "city": "Mount Prospect",
-      "state": "Illinois",
-      "population": "54,771"
-    },
-    {
-      "city": "Hanford",
-      "state": "California",
-      "population": "54,686"
-    },
-    {
-      "city": "Normal",
-      "state": "Illinois",
-      "population": "54,664"
-    },
-    {
-      "city": "Rosemead",
-      "state": "California",
-      "population": "54,561"
-    },
-    {
-      "city": "Lehi",
-      "state": "Utah",
-      "population": "54,382"
-    },
-    {
-      "city": "Pocatello",
-      "state": "Idaho",
-      "population": "54,350"
-    },
-    {
-      "city": "Highland",
-      "state": "California",
-      "population": "54,291"
-    },
-    {
-      "city": "Novato",
-      "state": "California",
-      "population": "54,194"
+      "city": "Corvallis",
+      "state": "Oregon",
+      "population": "54,735"
     },
     {
       "city": "Port Arthur",
       "state": "Texas",
-      "population": "54,135"
+      "population": "54,685"
     },
     {
       "city": "Carson City",
       "state": "Nevada",
-      "population": "54,080"
+      "population": "54,634"
     },
     {
-      "city": "San Marcos",
-      "state": "Texas",
-      "population": "54,076"
+      "city": "Mount Prospect",
+      "state": "Illinois",
+      "population": "54,589"
     },
     {
-      "city": "Hendersonville",
-      "state": "Tennessee",
-      "population": "54,068"
+      "city": "Hanford",
+      "state": "California",
+      "population": "54,523"
+    },
+    {
+      "city": "Pocatello",
+      "state": "Idaho",
+      "population": "54,466"
+    },
+    {
+      "city": "Rosemead",
+      "state": "California",
+      "population": "54,457"
+    },
+    {
+      "city": "Shoreline",
+      "state": "Washington",
+      "population": "54,254"
+    },
+    {
+      "city": "St. Peters",
+      "state": "Missouri",
+      "population": "54,236"
     },
     {
       "city": "Elyria",
       "state": "Ohio",
-      "population": "53,956"
+      "population": "54,216"
     },
     {
-      "city": "Revere",
-      "state": "Massachusetts",
-      "population": "53,756"
+      "city": "Grand Forks",
+      "state": "North Dakota",
+      "population": "54,095"
     },
     {
-      "city": "Pflugerville",
-      "state": "Texas",
-      "population": "53,752"
+      "city": "Normal",
+      "state": "Illinois",
+      "population": "54,082"
     },
     {
-      "city": "Greenwood",
-      "state": "Indiana",
-      "population": "53,665"
+      "city": "Brentwood",
+      "state": "California",
+      "population": "54,062"
     },
     {
-      "city": "Bellevue",
-      "state": "Nebraska",
-      "population": "53,663"
+      "city": "Highland",
+      "state": "California",
+      "population": "54,032"
+    },
+    {
+      "city": "Novato",
+      "state": "California",
+      "population": "53,451"
+    },
+    {
+      "city": "Fountainebleau",
+      "state": "Florida",
+      "population": "53,413"
     },
     {
       "city": "Wheaton",
       "state": "Illinois",
-      "population": "53,648"
+      "population": "53,406"
     },
     {
-      "city": "Smyrna",
-      "state": "Georgia",
-      "population": "53,438"
+      "city": "Revere",
+      "state": "Massachusetts",
+      "population": "53,258"
     },
     {
-      "city": "Sarasota",
-      "state": "Florida",
-      "population": "53,326"
-    },
-    {
-      "city": "Blue Springs",
-      "state": "Missouri",
-      "population": "53,294"
+      "city": "Hendersonville",
+      "state": "Tennessee",
+      "population": "53,257"
     },
     {
       "city": "Colton",
       "state": "California",
-      "population": "53,243"
+      "population": "53,129"
     },
     {
-      "city": "Euless",
+      "city": "Blue Springs",
+      "state": "Missouri",
+      "population": "53,053"
+    },
+    {
+      "city": "Georgetown",
       "state": "Texas",
-      "population": "53,224"
+      "population": "53,007"
     },
     {
-      "city": "Castle Rock",
-      "state": "Colorado",
-      "population": "53,063"
-    },
-    {
-      "city": "Cathedral City",
-      "state": "California",
-      "population": "52,977"
-    },
-    {
-      "city": "Kingsport",
-      "state": "Tennessee",
-      "population": "52,962"
-    },
-    {
-      "city": "Lake Havasu City",
-      "state": "Arizona",
-      "population": "52,844"
-    },
-    {
-      "city": "Pensacola",
+      "city": "Sarasota",
       "state": "Florida",
-      "population": "52,703"
+      "population": "52,986"
     },
     {
-      "city": "Hoboken",
-      "state": "New Jersey",
-      "population": "52,575"
+      "city": "Smyrna",
+      "state": "Georgia",
+      "population": "52,922"
     },
     {
-      "city": "Yucaipa",
-      "state": "California",
-      "population": "52,536"
-    },
-    {
-      "city": "Watsonville",
-      "state": "California",
-      "population": "52,477"
-    },
-    {
-      "city": "Richland",
-      "state": "Washington",
-      "population": "52,413"
+      "city": "Aloha",
+      "state": "Oregon",
+      "population": "52,902"
     },
     {
       "city": "Delano",
       "state": "California",
-      "population": "52,403"
+      "population": "52,883"
     },
     {
-      "city": "Hoffman Estates",
-      "state": "Illinois",
-      "population": "52,398"
+      "city": "Kingsport",
+      "state": "Tennessee",
+      "population": "52,835"
+    },
+    {
+      "city": "Lake Havasu City",
+      "state": "Arizona",
+      "population": "52,827"
+    },
+    {
+      "city": "Greenwood",
+      "state": "Indiana",
+      "population": "52,799"
+    },
+    {
+      "city": "Bellevue",
+      "state": "Nebraska",
+      "population": "52,690"
+    },
+    {
+      "city": "Euless",
+      "state": "Texas",
+      "population": "52,649"
+    },
+    {
+      "city": "Cathedral City",
+      "state": "California",
+      "population": "52,550"
+    },
+    {
+      "city": "Pensacola",
+      "state": "Florida",
+      "population": "52,505"
+    },
+    {
+      "city": "Levittown",
+      "state": "New York",
+      "population": "52,485"
+    },
+    {
+      "city": "Yucaipa",
+      "state": "California",
+      "population": "52,406"
     },
     {
       "city": "Florissant",
       "state": "Missouri",
-      "population": "52,363"
+      "population": "52,353"
     },
     {
-      "city": "Placentia",
+      "city": "Hoffman Estates",
+      "state": "Illinois",
+      "population": "52,271"
+    },
+    {
+      "city": "Pflugerville",
+      "state": "Texas",
+      "population": "52,138"
+    },
+    {
+      "city": "Stratford",
+      "state": "Connecticut",
+      "population": "52,092"
+    },
+    {
+      "city": "Watsonville",
       "state": "California",
-      "population": "52,206"
-    },
-    {
-      "city": "West New York",
-      "state": "New Jersey",
-      "population": "52,122"
-    },
-    {
-      "city": "Dublin",
-      "state": "California",
-      "population": "52,105"
+      "population": "52,085"
     },
     {
       "city": "Oak Park",
       "state": "Illinois",
-      "population": "52,066"
+      "population": "51,988"
     },
     {
-      "city": "Peabody",
-      "state": "Massachusetts",
-      "population": "52,044"
-    },
-    {
-      "city": "Perth Amboy",
-      "state": "New Jersey",
+      "city": "Lehi",
+      "state": "Utah",
       "population": "51,982"
+    },
+    {
+      "city": "Hoboken",
+      "state": "New Jersey",
+      "population": "51,979"
     },
     {
       "city": "Battle Creek",
       "state": "Michigan",
-      "population": "51,848"
+      "population": "51,963"
     },
     {
-      "city": "Bradenton",
-      "state": "Florida",
-      "population": "51,763"
+      "city": "Lakewood",
+      "state": "New Jersey",
+      "population": "51,944"
     },
     {
-      "city": "Gilroy",
-      "state": "California",
-      "population": "51,701"
-    },
-    {
-      "city": "Milford",
-      "state": "Connecticut",
-      "population": "51,644"
-    },
-    {
-      "city": "Albany",
-      "state": "Oregon",
-      "population": "51,583"
-    },
-    {
-      "city": "Ankeny",
-      "state": "Iowa",
-      "population": "51,567"
+      "city": "Peabody",
+      "state": "Massachusetts",
+      "population": "51,868"
     },
     {
       "city": "La Crosse",
       "state": "Wisconsin",
-      "population": "51,522"
+      "population": "51,864"
+    },
+    {
+      "city": "Placentia",
+      "state": "California",
+      "population": "51,860"
+    },
+    {
+      "city": "Castle Rock",
+      "state": "Colorado",
+      "population": "51,802"
     },
     {
       "city": "Burlington",
       "state": "North Carolina",
-      "population": "51,510"
+      "population": "51,740"
     },
     {
-      "city": "DeSoto",
-      "state": "Texas",
-      "population": "51,483"
+      "city": "Perth Amboy",
+      "state": "New Jersey",
+      "population": "51,727"
     },
     {
-      "city": "Harrisonburg",
-      "state": "Virginia",
-      "population": "51,395"
+      "city": "Aspen Hill",
+      "state": "Maryland",
+      "population": "51,603"
     },
     {
-      "city": "Minnetonka",
-      "state": "Minnesota",
-      "population": "51,368"
+      "city": "Rowland Heights",
+      "state": "California",
+      "population": "51,597"
+    },
+    {
+      "city": "Irondequoit",
+      "state": "New York",
+      "population": "51,594"
     },
     {
       "city": "Elkhart",
       "state": "Indiana",
-      "population": "51,265"
+      "population": "51,539"
+    },
+    {
+      "city": "West New York",
+      "state": "New Jersey",
+      "population": "51,511"
+    },
+    {
+      "city": "Milford",
+      "state": "Connecticut",
+      "population": "51,509"
     },
     {
       "city": "Lakewood",
       "state": "Ohio",
-      "population": "51,143"
+      "population": "51,434"
     },
     {
-      "city": "Glendora",
-      "state": "California",
-      "population": "51,074"
+      "city": "Levittown",
+      "state": "Pennsylvania",
+      "population": "51,326"
     },
     {
-      "city": "Southaven",
-      "state": "Mississippi",
-      "population": "50,997"
+      "city": "San Marcos",
+      "state": "Texas",
+      "population": "51,289"
+    },
+    {
+      "city": "East Hartford",
+      "state": "Connecticut",
+      "population": "51,211"
+    },
+    {
+      "city": "Albany",
+      "state": "Oregon",
+      "population": "51,210"
+    },
+    {
+      "city": "Richland",
+      "state": "Washington",
+      "population": "51,116"
     },
     {
       "city": "Charleston",
       "state": "West Virginia",
-      "population": "50,821"
+      "population": "50,911"
     },
     {
       "city": "Joplin",
       "state": "Missouri",
-      "population": "50,789"
+      "population": "50,900"
     },
     {
-      "city": "Enid",
-      "state": "Oklahoma",
-      "population": "50,725"
+      "city": "Minnetonka",
+      "state": "Minnesota",
+      "population": "50,897"
     },
     {
-      "city": "Palm Beach Gardens",
-      "state": "Florida",
-      "population": "50,699"
-    },
-    {
-      "city": "Brookhaven",
-      "state": "Georgia",
-      "population": "50,603"
-    },
-    {
-      "city": "Plainfield",
-      "state": "New Jersey",
-      "population": "50,588"
-    },
-    {
-      "city": "Grand Island",
-      "state": "Nebraska",
-      "population": "50,550"
-    },
-    {
-      "city": "Palm Desert",
+      "city": "Glendora",
       "state": "California",
-      "population": "50,508"
+      "population": "50,855"
     },
     {
-      "city": "Huntersville",
-      "state": "North Carolina",
-      "population": "50,458"
+      "city": "DeSoto",
+      "state": "Texas",
+      "population": "50,837"
     },
     {
-      "city": "Tigard",
-      "state": "Oregon",
-      "population": "50,444"
+      "city": "Harrisonburg",
+      "state": "Virginia",
+      "population": "50,821"
     },
     {
-      "city": "Lenexa",
-      "state": "Kansas",
-      "population": "50,344"
+      "city": "Florin",
+      "state": "California",
+      "population": "50,791"
+    },
+    {
+      "city": "Bradenton",
+      "state": "Florida",
+      "population": "50,777"
+    },
+    {
+      "city": "Gilroy",
+      "state": "California",
+      "population": "50,776"
     },
     {
       "city": "Saginaw",
       "state": "Michigan",
-      "population": "50,303"
+      "population": "50,700"
     },
     {
-      "city": "Kentwood",
-      "state": "Michigan",
-      "population": "50,233"
+      "city": "Catalina Foothills",
+      "state": "Arizona",
+      "population": "50,643"
     },
     {
-      "city": "Doral",
-      "state": "Florida",
-      "population": "50,213"
+      "city": "Plainfield",
+      "state": "New Jersey",
+      "population": "50,423"
     },
     {
-      "city": "Apple Valley",
-      "state": "Minnesota",
-      "population": "50,201"
-    },
-    {
-      "city": "Grapevine",
-      "state": "Texas",
-      "population": "50,195"
-    },
-    {
-      "city": "Aliso Viejo",
-      "state": "California",
-      "population": "50,175"
-    },
-    {
-      "city": "Sammamish",
-      "state": "Washington",
-      "population": "50,169"
+      "city": "Southaven",
+      "state": "Mississippi",
+      "population": "50,389"
     },
     {
       "city": "Casa Grande",
       "state": "Arizona",
-      "population": "50,111"
+      "population": "50,316"
     },
     {
-      "city": "Pinellas Park",
+      "city": "Enid",
+      "state": "Oklahoma",
+      "population": "50,232"
+    },
+    {
+      "city": "Brookhaven",
+      "state": "Georgia",
+      "population": "50,181"
+    },
+    {
+      "city": "Palm Beach Gardens",
       "state": "Florida",
-      "population": "49,998"
+      "population": "50,147"
+    },
+    {
+      "city": "Grand Island",
+      "state": "Nebraska",
+      "population": "50,059"
     },
     {
       "city": "Troy",
       "state": "New York",
-      "population": "49,974"
+      "population": "49,965"
+    },
+    {
+      "city": "Palm Desert",
+      "state": "California",
+      "population": "49,953"
     },
     {
       "city": "West Sacramento",
       "state": "California",
-      "population": "49,891"
+      "population": "49,946"
     },
     {
-      "city": "Burien",
-      "state": "Washington",
-      "population": "49,858"
+      "city": "Apple Valley",
+      "state": "Minnesota",
+      "population": "49,911"
     },
     {
-      "city": "Commerce City",
-      "state": "Colorado",
-      "population": "49,799"
-    },
-    {
-      "city": "Monroe",
-      "state": "Louisiana",
-      "population": "49,761"
-    },
-    {
-      "city": "Cerritos",
-      "state": "California",
-      "population": "49,707"
-    },
-    {
-      "city": "Downers Grove",
-      "state": "Illinois",
-      "population": "49,670"
-    },
-    {
-      "city": "Coral Gables",
+      "city": "Pinellas Park",
       "state": "Florida",
-      "population": "49,631"
+      "population": "49,874"
     },
     {
-      "city": "Wilson",
-      "state": "North Carolina",
-      "population": "49,628"
+      "city": "Wheaton",
+      "state": "Maryland",
+      "population": "49,831"
+    },
+    {
+      "city": "Kentwood",
+      "state": "Michigan",
+      "population": "49,736"
+    },
+    {
+      "city": "Dublin",
+      "state": "California",
+      "population": "49,694"
     },
     {
       "city": "Niagara Falls",
       "state": "New York",
-      "population": "49,468"
+      "population": "49,679"
     },
     {
-      "city": "Poway",
+      "city": "Tigard",
+      "state": "Oregon",
+      "population": "49,633"
+    },
+    {
+      "city": "Cerritos",
       "state": "California",
-      "population": "49,417"
+      "population": "49,599"
     },
     {
-      "city": "Edina",
-      "state": "Minnesota",
-      "population": "49,376"
+      "city": "Lenexa",
+      "state": "Kansas",
+      "population": "49,573"
+    },
+    {
+      "city": "Ankeny",
+      "state": "Iowa",
+      "population": "49,488"
+    },
+    {
+      "city": "Monroe",
+      "state": "Louisiana",
+      "population": "49,455"
+    },
+    {
+      "city": "Aliso Viejo",
+      "state": "California",
+      "population": "49,437"
+    },
+    {
+      "city": "Wilson",
+      "state": "North Carolina",
+      "population": "49,389"
+    },
+    {
+      "city": "Downers Grove",
+      "state": "Illinois",
+      "population": "49,372"
+    },
+    {
+      "city": "Doral",
+      "state": "Florida",
+      "population": "49,363"
+    },
+    {
+      "city": "Coral Gables",
+      "state": "Florida",
+      "population": "49,319"
     },
     {
       "city": "Cuyahoga Falls",
       "state": "Ohio",
-      "population": "49,267"
-    },
-    {
-      "city": "Rancho Santa Margarita",
-      "state": "California",
-      "population": "49,228"
+      "population": "49,316"
     },
     {
       "city": "Harrisburg",
       "state": "Pennsylvania",
-      "population": "49,188"
+      "population": "49,297"
+    },
+    {
+      "city": "Burien",
+      "state": "Washington",
+      "population": "49,291"
+    },
+    {
+      "city": "Huntersville",
+      "state": "North Carolina",
+      "population": "49,279"
+    },
+    {
+      "city": "Sammamish",
+      "state": "Washington",
+      "population": "49,077"
     },
     {
       "city": "Huntington",
       "state": "West Virginia",
-      "population": "49,177"
+      "population": "49,053"
+    },
+    {
+      "city": "Poway",
+      "state": "California",
+      "population": "49,040"
     },
     {
       "city": "La Mirada",
       "state": "California",
-      "population": "49,133"
+      "population": "49,038"
     },
     {
-      "city": "Cypress",
-      "state": "California",
-      "population": "49,087"
-    },
-    {
-      "city": "Caldwell",
-      "state": "Idaho",
-      "population": "48,957"
+      "city": "Edina",
+      "state": "Minnesota",
+      "population": "48,940"
     },
     {
       "city": "Logan",
       "state": "Utah",
-      "population": "48,913"
+      "population": "48,933"
     },
     {
-      "city": "Galveston",
-      "state": "Texas",
-      "population": "48,733"
+      "city": "East Honolulu",
+      "state": "Hawaii",
+      "population": "48,926"
     },
     {
       "city": "Sheboygan",
       "state": "Wisconsin",
-      "population": "48,725"
+      "population": "48,918"
     },
     {
-      "city": "Middletown",
-      "state": "Ohio",
-      "population": "48,630"
-    },
-    {
-      "city": "Murray",
-      "state": "Utah",
-      "population": "48,612"
-    },
-    {
-      "city": "Roswell",
-      "state": "New Mexico",
-      "population": "48,611"
-    },
-    {
-      "city": "Parker",
+      "city": "Commerce",
       "state": "Colorado",
-      "population": "48,608"
+      "population": "48,792"
     },
     {
-      "city": "Bedford",
+      "city": "Rancho Santa Margarita",
+      "state": "California",
+      "population": "48,758"
+    },
+    {
+      "city": "Cypress",
+      "state": "California",
+      "population": "48,748"
+    },
+    {
+      "city": "Grapevine",
       "state": "Texas",
-      "population": "48,592"
+      "population": "48,671"
     },
     {
       "city": "East Lansing",
       "state": "Michigan",
-      "population": "48,554"
+      "population": "48,611"
     },
     {
-      "city": "Methuen",
-      "state": "Massachusetts",
-      "population": "48,514"
+      "city": "Roswell",
+      "state": "New Mexico",
+      "population": "48,568"
+    },
+    {
+      "city": "Galveston",
+      "state": "Texas",
+      "population": "48,513"
     },
     {
       "city": "Covina",
       "state": "California",
-      "population": "48,508"
+      "population": "48,429"
     },
     {
-      "city": "Alexandria",
-      "state": "Louisiana",
-      "population": "48,426"
-    },
-    {
-      "city": "Olympia",
-      "state": "Washington",
-      "population": "48,338"
+      "city": "Country Club",
+      "state": "Florida",
+      "population": "48,349"
     },
     {
       "city": "Euclid",
       "state": "Ohio",
-      "population": "48,139"
+      "population": "48,313"
+    },
+    {
+      "city": "Middletown",
+      "state": "Ohio",
+      "population": "48,256"
+    },
+    {
+      "city": "Methuen Town",
+      "state": "Massachusetts",
+      "population": "48,159"
     },
     {
       "city": "Mishawaka",
       "state": "Indiana",
-      "population": "47,989"
+      "population": "48,120"
+    },
+    {
+      "city": "Caldwell",
+      "state": "Idaho",
+      "population": "48,114"
+    },
+    {
+      "city": "Bedford",
+      "state": "Texas",
+      "population": "48,104"
+    },
+    {
+      "city": "McLean",
+      "state": "Virginia",
+      "population": "48,078"
+    },
+    {
+      "city": "Trujillo Alto",
+      "state": "Puerto Rico",
+      "population": "48,063"
+    },
+    {
+      "city": "Alexandria",
+      "state": "Louisiana",
+      "population": "47,983"
+    },
+    {
+      "city": "Murray",
+      "state": "Utah",
+      "population": "47,909"
     },
     {
       "city": "Salina",
       "state": "Kansas",
-      "population": "47,846"
+      "population": "47,894"
     },
     {
-      "city": "Azusa",
+      "city": "Olympia",
+      "state": "Washington",
+      "population": "47,847"
+    },
+    {
+      "city": "Antelope",
       "state": "California",
-      "population": "47,842"
+      "population": "47,798"
     },
     {
       "city": "Newark",
       "state": "Ohio",
-      "population": "47,777"
+      "population": "47,744"
     },
     {
       "city": "Chesterfield",
       "state": "Missouri",
-      "population": "47,749"
+      "population": "47,651"
     },
     {
-      "city": "Leesburg",
+      "city": "Parker",
+      "state": "Colorado",
+      "population": "47,515"
+    },
+    {
+      "city": "Ashburn",
       "state": "Virginia",
-      "population": "47,673"
-    },
-    {
-      "city": "Dunwoody",
-      "state": "Georgia",
-      "population": "47,591"
-    },
-    {
-      "city": "Hattiesburg",
-      "state": "Mississippi",
-      "population": "47,556"
-    },
-    {
-      "city": "Roseville",
-      "state": "Michigan",
-      "population": "47,555"
-    },
-    {
-      "city": "Bonita Springs",
-      "state": "Florida",
-      "population": "47,547"
-    },
-    {
-      "city": "Portage",
-      "state": "Michigan",
-      "population": "47,523"
-    },
-    {
-      "city": "St. Louis Park",
-      "state": "Minnesota",
-      "population": "47,411"
-    },
-    {
-      "city": "Collierville",
-      "state": "Tennessee",
-      "population": "47,333"
+      "population": "47,484"
     },
     {
       "city": "Middletown",
       "state": "Connecticut",
-      "population": "47,333"
+      "population": "47,424"
     },
     {
-      "city": "Stillwater",
-      "state": "Oklahoma",
-      "population": "47,186"
+      "city": "Azusa",
+      "state": "California",
+      "population": "47,420"
+    },
+    {
+      "city": "Roseville",
+      "state": "Michigan",
+      "population": "47,408"
+    },
+    {
+      "city": "Pearl",
+      "state": "Hawaii",
+      "population": "47,277"
+    },
+    {
+      "city": "Dunwoody",
+      "state": "Georgia",
+      "population": "47,182"
     },
     {
       "city": "East Providence",
       "state": "Rhode Island",
-      "population": "47,149"
-    },
-    {
-      "city": "Lawrence",
-      "state": "Indiana",
-      "population": "47,135"
-    },
-    {
-      "city": "Wauwatosa",
-      "state": "Wisconsin",
-      "population": "47,134"
-    },
-    {
-      "city": "Mentor",
-      "state": "Ohio",
-      "population": "46,979"
-    },
-    {
-      "city": "Ceres",
-      "state": "California",
-      "population": "46,714"
-    },
-    {
-      "city": "Cedar Hill",
-      "state": "Texas",
-      "population": "46,663"
+      "population": "47,166"
     },
     {
       "city": "Mansfield",
       "state": "Ohio",
-      "population": "46,454"
+      "population": "47,150"
     },
     {
-      "city": "Binghamton",
-      "state": "New York",
-      "population": "46,444"
-    },
-    {
-      "city": "Coeur d'Alene",
-      "state": "Idaho",
-      "population": "46,402"
-    },
-    {
-      "city": "San Luis Obispo",
-      "state": "California",
-      "population": "46,377"
-    },
-    {
-      "city": "Minot",
-      "state": "North Dakota",
-      "population": "46,321"
-    },
-    {
-      "city": "Palm Springs",
-      "state": "California",
-      "population": "46,281"
+      "city": "Portage",
+      "state": "Michigan",
+      "population": "47,137"
     },
     {
       "city": "Pine Bluff",
       "state": "Arkansas",
-      "population": "46,094"
+      "population": "47,058"
     },
     {
-      "city": "Texas City",
-      "state": "Texas",
-      "population": "46,081"
+      "city": "Mentor",
+      "state": "Ohio",
+      "population": "47,008"
     },
     {
-      "city": "Summerville",
-      "state": "South Carolina",
-      "population": "46,074"
+      "city": "Wesley Chapel",
+      "state": "Florida",
+      "population": "46,935"
     },
     {
-      "city": "Twin Falls",
-      "state": "Idaho",
-      "population": "45,981"
+      "city": "Stillwater",
+      "state": "Oklahoma",
+      "population": "46,851"
     },
     {
-      "city": "Jeffersonville",
+      "city": "Wauwatosa",
+      "state": "Wisconsin",
+      "population": "46,838"
+    },
+    {
+      "city": "Lawrence",
       "state": "Indiana",
-      "population": "45,929"
+      "population": "46,796"
     },
     {
-      "city": "San Jacinto",
+      "city": "Collierville",
+      "state": "Tennessee",
+      "population": "46,780"
+    },
+    {
+      "city": "Binghamton",
+      "state": "New York",
+      "population": "46,771"
+    },
+    {
+      "city": "North Bethesda",
+      "state": "Maryland",
+      "population": "46,738"
+    },
+    {
+      "city": "Hattiesburg",
+      "state": "Mississippi",
+      "population": "46,629"
+    },
+    {
+      "city": "Bel Air South",
+      "state": "Maryland",
+      "population": "46,614"
+    },
+    {
+      "city": "Ceres",
       "state": "California",
-      "population": "45,851"
+      "population": "46,570"
     },
     {
-      "city": "Madison",
-      "state": "Alabama",
-      "population": "45,799"
+      "city": "Potomac",
+      "state": "Maryland",
+      "population": "46,475"
+    },
+    {
+      "city": "St. Louis Park",
+      "state": "Minnesota",
+      "population": "46,466"
+    },
+    {
+      "city": "Cedar Hill",
+      "state": "Texas",
+      "population": "46,414"
+    },
+    {
+      "city": "Bonita Springs",
+      "state": "Florida",
+      "population": "46,384"
+    },
+    {
+      "city": "Tuckahoe",
+      "state": "Virginia",
+      "population": "46,235"
+    },
+    {
+      "city": "Leesburg",
+      "state": "Virginia",
+      "population": "46,211"
     },
     {
       "city": "Altoona",
       "state": "Pennsylvania",
-      "population": "45,796"
+      "population": "45,987"
     },
     {
-      "city": "Columbus",
+      "city": "San Luis Obispo",
+      "state": "California",
+      "population": "45,911"
+    },
+    {
+      "city": "Jeffersonville",
       "state": "Indiana",
-      "population": "45,775"
+      "population": "45,869"
+    },
+    {
+      "city": "Coeur d'Alene",
+      "state": "Idaho",
+      "population": "45,848"
+    },
+    {
+      "city": "Palm Springs",
+      "state": "California",
+      "population": "45,827"
+    },
+    {
+      "city": "Texas",
+      "state": "Texas",
+      "population": "45,802"
     },
     {
       "city": "Beavercreek",
       "state": "Ohio",
-      "population": "45,712"
-    },
-    {
-      "city": "Apopka",
-      "state": "Florida",
-      "population": "45,587"
-    },
-    {
-      "city": "Elmhurst",
-      "state": "Illinois",
-      "population": "45,556"
-    },
-    {
-      "city": "Maricopa",
-      "state": "Arizona",
-      "population": "45,508"
-    },
-    {
-      "city": "Farmington",
-      "state": "New Mexico",
-      "population": "45,426"
-    },
-    {
-      "city": "Glenview",
-      "state": "Illinois",
-      "population": "45,417"
+      "population": "45,738"
     },
     {
       "city": "Cleveland Heights",
       "state": "Ohio",
-      "population": "45,394"
+      "population": "45,657"
     },
     {
-      "city": "Draper",
-      "state": "Utah",
-      "population": "45,285"
+      "city": "Columbus",
+      "state": "Indiana",
+      "population": "45,522"
     },
     {
-      "city": "Lincoln",
+      "city": "San Jacinto",
       "state": "California",
-      "population": "45,237"
+      "population": "45,497"
+    },
+    {
+      "city": "Glenview",
+      "state": "Illinois",
+      "population": "45,400"
+    },
+    {
+      "city": "Severn",
+      "state": "Maryland",
+      "population": "45,396"
+    },
+    {
+      "city": "Maricopa",
+      "state": "Arizona",
+      "population": "45,388"
+    },
+    {
+      "city": "Farmington",
+      "state": "New Mexico",
+      "population": "45,383"
     },
     {
       "city": "Sierra Vista",
       "state": "Arizona",
-      "population": "45,129"
+      "population": "45,365"
     },
     {
-      "city": "Lacey",
-      "state": "Washington",
-      "population": "44,919"
+      "city": "Twin Falls",
+      "state": "Idaho",
+      "population": "45,362"
     },
     {
-      "city": "Biloxi",
-      "state": "Mississippi",
-      "population": "44,820"
+      "city": "Elmhurst",
+      "state": "Illinois",
+      "population": "45,105"
     },
     {
-      "city": "Strongsville",
-      "state": "Ohio",
-      "population": "44,730"
+      "city": "West Seneca",
+      "state": "New York",
+      "population": "44,902"
+    },
+    {
+      "city": "North Highlands",
+      "state": "California",
+      "population": "44,899"
+    },
+    {
+      "city": "Madison",
+      "state": "Alabama",
+      "population": "44,866"
     },
     {
       "city": "Barnstable Town",
       "state": "Massachusetts",
-      "population": "44,641"
+      "population": "44,750"
     },
     {
-      "city": "Wylie",
-      "state": "Texas",
-      "population": "44,575"
+      "city": "Summerville",
+      "state": "South Carolina",
+      "population": "44,717"
     },
     {
-      "city": "Sayreville",
-      "state": "New Jersey",
-      "population": "44,412"
+      "city": "Draper",
+      "state": "Utah",
+      "population": "44,656"
     },
     {
-      "city": "Kannapolis",
-      "state": "North Carolina",
-      "population": "44,359"
+      "city": "Strongsville",
+      "state": "Ohio",
+      "population": "44,649"
+    },
+    {
+      "city": "Altadena",
+      "state": "California",
+      "population": "44,622"
+    },
+    {
+      "city": "Lake Ridge",
+      "state": "Virginia",
+      "population": "44,593"
+    },
+    {
+      "city": "Hilo",
+      "state": "Hawaii",
+      "population": "44,549"
+    },
+    {
+      "city": "Minot",
+      "state": "North Dakota",
+      "population": "44,533"
+    },
+    {
+      "city": "Biloxi",
+      "state": "Mississippi",
+      "population": "44,527"
     },
     {
       "city": "Charlottesville",
       "state": "Virginia",
-      "population": "44,349"
+      "population": "44,505"
     },
     {
-      "city": "Littleton",
-      "state": "Colorado",
-      "population": "44,275"
-    },
-    {
-      "city": "Titusville",
+      "city": "Apopka",
       "state": "Florida",
-      "population": "44,206"
+      "population": "44,462"
     },
     {
-      "city": "Hackensack",
-      "state": "New Jersey",
-      "population": "44,113"
-    },
-    {
-      "city": "Newark",
+      "city": "Lincoln",
       "state": "California",
-      "population": "44,096"
+      "population": "44,397"
+    },
+    {
+      "city": "Arecibo",
+      "state": "Puerto Rico",
+      "population": "44,385"
     },
     {
       "city": "Pittsfield",
       "state": "Massachusetts",
-      "population": "44,057"
-    },
-    {
-      "city": "York",
-      "state": "Pennsylvania",
-      "population": "43,935"
-    },
-    {
-      "city": "Lombard",
-      "state": "Illinois",
-      "population": "43,907"
-    },
-    {
-      "city": "Attleboro",
-      "state": "Massachusetts",
-      "population": "43,886"
+      "population": "44,226"
     },
     {
       "city": "DeKalb",
       "state": "Illinois",
-      "population": "43,849"
+      "population": "44,092"
     },
     {
-      "city": "Blacksburg",
-      "state": "Virginia",
-      "population": "43,609"
-    },
-    {
-      "city": "Dublin",
-      "state": "Ohio",
-      "population": "43,607"
-    },
-    {
-      "city": "Haltom City",
-      "state": "Texas",
-      "population": "43,580"
-    },
-    {
-      "city": "Lompoc",
-      "state": "California",
-      "population": "43,509"
-    },
-    {
-      "city": "El Centro",
-      "state": "California",
-      "population": "43,363"
-    },
-    {
-      "city": "Danville",
-      "state": "California",
-      "population": "43,341"
-    },
-    {
-      "city": "Jefferson City",
-      "state": "Missouri",
-      "population": "43,330"
-    },
-    {
-      "city": "Cutler Bay",
+      "city": "Titusville",
       "state": "Florida",
-      "population": "43,328"
+      "population": "44,032"
     },
     {
-      "city": "Oakland Park",
-      "state": "Florida",
-      "population": "43,286"
+      "city": "Lacey",
+      "state": "Washington",
+      "population": "44,031"
     },
     {
-      "city": "North Miami Beach",
-      "state": "Florida",
-      "population": "43,250"
+      "city": "Sayreville",
+      "state": "New Jersey",
+      "population": "43,962"
     },
     {
-      "city": "Freeport",
-      "state": "New York",
-      "population": "43,167"
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "population": "43,903"
     },
     {
-      "city": "Moline",
+      "city": "Kannapolis",
+      "state": "North Carolina",
+      "population": "43,865"
+    },
+    {
+      "city": "El Dorado Hills",
+      "state": "California",
+      "population": "43,862"
+    },
+    {
+      "city": "Lombard",
       "state": "Illinois",
-      "population": "43,116"
+      "population": "43,853"
     },
     {
-      "city": "Coachella",
-      "state": "California",
-      "population": "43,092"
+      "city": "York",
+      "state": "Pennsylvania",
+      "population": "43,817"
     },
     {
-      "city": "Fort Pierce",
-      "state": "Florida",
-      "population": "43,074"
-    },
-    {
-      "city": "Smyrna",
-      "state": "Tennessee",
-      "population": "43,060"
-    },
-    {
-      "city": "Bountiful",
-      "state": "Utah",
-      "population": "43,023"
-    },
-    {
-      "city": "Fond du Lac",
-      "state": "Wisconsin",
-      "population": "42,970"
-    },
-    {
-      "city": "Everett",
+      "city": "Attleboro",
       "state": "Massachusetts",
-      "population": "42,935"
+      "population": "43,774"
     },
     {
-      "city": "Danville",
-      "state": "Virginia",
-      "population": "42,907"
+      "city": "Arlington",
+      "state": "Massachusetts",
+      "population": "43,728"
     },
     {
-      "city": "Keller",
+      "city": "West Babylon",
+      "state": "New York",
+      "population": "43,725"
+    },
+    {
+      "city": "Littleton",
+      "state": "Colorado",
+      "population": "43,710"
+    },
+    {
+      "city": "Newark",
+      "state": "California",
+      "population": "43,635"
+    },
+    {
+      "city": "Wylie",
       "state": "Texas",
-      "population": "42,907"
+      "population": "43,531"
+    },
+    {
+      "city": "Annandale",
+      "state": "Virginia",
+      "population": "43,479"
     },
     {
       "city": "Belleville",
       "state": "Illinois",
-      "population": "42,895"
+      "population": "43,296"
+    },
+    {
+      "city": "El Centro",
+      "state": "California",
+      "population": "43,268"
+    },
+    {
+      "city": "Haltom City",
+      "state": "Texas",
+      "population": "43,259"
+    },
+    {
+      "city": "Blacksburg",
+      "state": "Virginia",
+      "population": "43,204"
+    },
+    {
+      "city": "Jefferson City",
+      "state": "Missouri",
+      "population": "43,184"
+    },
+    {
+      "city": "Freeport",
+      "state": "New York",
+      "population": "43,168"
+    },
+    {
+      "city": "Moline",
+      "state": "Illinois",
+      "population": "43,087"
+    },
+    {
+      "city": "Lompoc",
+      "state": "California",
+      "population": "43,045"
+    },
+    {
+      "city": "North Miami Beach",
+      "state": "Florida",
+      "population": "43,028"
+    },
+    {
+      "city": "Fond du Lac",
+      "state": "Wisconsin",
+      "population": "43,007"
+    },
+    {
+      "city": "Bountiful",
+      "state": "Utah",
+      "population": "42,947"
+    },
+    {
+      "city": "Danville",
+      "state": "California",
+      "population": "42,891"
+    },
+    {
+      "city": "Oakland Park",
+      "state": "Florida",
+      "population": "42,795"
+    },
+    {
+      "city": "Everett",
+      "state": "Massachusetts",
+      "population": "42,758"
+    },
+    {
+      "city": "Fort Pierce",
+      "state": "Florida",
+      "population": "42,744"
     },
     {
       "city": "Bell Gardens",
       "state": "California",
-      "population": "42,889"
+      "population": "42,712"
     },
     {
-      "city": "Cleveland",
-      "state": "Tennessee",
-      "population": "42,774"
-    },
-    {
-      "city": "North Lauderdale",
-      "state": "Florida",
-      "population": "42,757"
+      "city": "Danville",
+      "state": "Virginia",
+      "population": "42,704"
     },
     {
       "city": "Fairfield",
       "state": "Ohio",
-      "population": "42,635"
+      "population": "42,643"
     },
     {
-      "city": "Salem",
-      "state": "Massachusetts",
-      "population": "42,544"
-    },
-    {
-      "city": "Rancho Palos Verdes",
+      "city": "Coachella",
       "state": "California",
-      "population": "42,448"
+      "population": "42,576"
     },
     {
-      "city": "San Bruno",
-      "state": "California",
-      "population": "42,443"
+      "city": "Cutler Bay",
+      "state": "Florida",
+      "population": "42,573"
+    },
+    {
+      "city": "Burke",
+      "state": "Virginia",
+      "population": "42,528"
     },
     {
       "city": "Concord",
       "state": "New Hampshire",
-      "population": "42,419"
+      "population": "42,514"
+    },
+    {
+      "city": "Catonsville",
+      "state": "Maryland",
+      "population": "42,437"
+    },
+    {
+      "city": "Dublin",
+      "state": "Ohio",
+      "population": "42,378"
+    },
+    {
+      "city": "North Lauderdale",
+      "state": "Florida",
+      "population": "42,354"
     },
     {
       "city": "Burlington",
       "state": "Vermont",
-      "population": "42,284"
+      "population": "42,342"
     },
     {
-      "city": "Apex",
-      "state": "North Carolina",
-      "population": "42,214"
+      "city": "Cleveland",
+      "state": "Tennessee",
+      "population": "42,331"
+    },
+    {
+      "city": "Salem",
+      "state": "Massachusetts",
+      "population": "42,321"
+    },
+    {
+      "city": "Rancho Palos Verdes",
+      "state": "California",
+      "population": "42,282"
+    },
+    {
+      "city": "Smyrna",
+      "state": "Tennessee",
+      "population": "42,235"
+    },
+    {
+      "city": "San Bruno",
+      "state": "California",
+      "population": "42,090"
     },
     {
       "city": "Midland",
       "state": "Michigan",
-      "population": "42,181"
-    },
-    {
-      "city": "Altamonte Springs",
-      "state": "Florida",
-      "population": "42,150"
-    },
-    {
-      "city": "Hutchinson",
-      "state": "Kansas",
-      "population": "41,889"
-    },
-    {
-      "city": "Buffalo Grove",
-      "state": "Illinois",
-      "population": "41,778"
-    },
-    {
-      "city": "Urbandale",
-      "state": "Iowa",
-      "population": "41,776"
+      "population": "42,067"
     },
     {
       "city": "State College",
       "state": "Pennsylvania",
-      "population": "41,757"
+      "population": "42,066"
+    },
+    {
+      "city": "Hutchinson",
+      "state": "Kansas",
+      "population": "41,946"
+    },
+    {
+      "city": "Keller",
+      "state": "Texas",
+      "population": "41,913"
+    },
+    {
+      "city": "Altamonte Springs",
+      "state": "Florida",
+      "population": "41,889"
+    },
+    {
+      "city": "Hicksville",
+      "state": "New York",
+      "population": "41,784"
     },
     {
       "city": "Urbana",
       "state": "Illinois",
-      "population": "41,752"
+      "population": "41,760"
     },
     {
-      "city": "Plainfield",
+      "city": "South Valley",
+      "state": "New Mexico",
+      "population": "41,760"
+    },
+    {
+      "city": "University",
+      "state": "Florida",
+      "population": "41,732"
+    },
+    {
+      "city": "Buffalo Grove",
       "state": "Illinois",
-      "population": "41,734"
-    },
-    {
-      "city": "Manassas",
-      "state": "Virginia",
-      "population": "41,705"
-    },
-    {
-      "city": "Bartlett",
-      "state": "Illinois",
-      "population": "41,679"
+      "population": "41,613"
     },
     {
       "city": "Kearny",
       "state": "New Jersey",
-      "population": "41,664"
+      "population": "41,538"
+    },
+    {
+      "city": "Bartlett",
+      "state": "Illinois",
+      "population": "41,529"
     },
     {
       "city": "Oro Valley",
       "state": "Arizona",
-      "population": "41,627"
-    },
-    {
-      "city": "Findlay",
-      "state": "Ohio",
-      "population": "41,512"
-    },
-    {
-      "city": "Rohnert Park",
-      "state": "California",
-      "population": "41,398"
+      "population": "41,493"
     },
     {
       "city": "Westfield",
       "state": "Massachusetts",
-      "population": "41,301"
+      "population": "41,371"
     },
     {
-      "city": "Linden",
-      "state": "New Jersey",
-      "population": "41,301"
+      "city": "Rohnert Park",
+      "state": "California",
+      "population": "41,352"
     },
     {
-      "city": "Sumter",
-      "state": "South Carolina",
-      "population": "41,190"
+      "city": "Findlay",
+      "state": "Ohio",
+      "population": "41,297"
     },
     {
       "city": "Wilkes-Barre",
       "state": "Pennsylvania",
-      "population": "41,108"
+      "population": "41,202"
+    },
+    {
+      "city": "Urbandale",
+      "state": "Iowa",
+      "population": "41,157"
     },
     {
       "city": "Woonsocket",
       "state": "Rhode Island",
-      "population": "41,026"
+      "population": "41,136"
+    },
+    {
+      "city": "Linden",
+      "state": "New Jersey",
+      "population": "41,054"
     },
     {
       "city": "Leominster",
       "state": "Massachusetts",
-      "population": "41,002"
-    },
-    {
-      "city": "Shelton",
-      "state": "Connecticut",
-      "population": "40,999"
-    },
-    {
-      "city": "Brea",
-      "state": "California",
-      "population": "40,963"
-    },
-    {
-      "city": "Covington",
-      "state": "Kentucky",
-      "population": "40,956"
-    },
-    {
-      "city": "Rockwall",
-      "state": "Texas",
-      "population": "40,922"
-    },
-    {
-      "city": "Meridian",
-      "state": "Mississippi",
-      "population": "40,921"
-    },
-    {
-      "city": "Riverton",
-      "state": "Utah",
-      "population": "40,921"
-    },
-    {
-      "city": "St. Cloud",
-      "state": "Florida",
-      "population": "40,918"
-    },
-    {
-      "city": "Quincy",
-      "state": "Illinois",
-      "population": "40,915"
-    },
-    {
-      "city": "Morgan Hill",
-      "state": "California",
-      "population": "40,836"
+      "population": "40,954"
     },
     {
       "city": "Warren",
       "state": "Ohio",
-      "population": "40,768"
+      "population": "40,925"
     },
     {
-      "city": "Edmonds",
-      "state": "Washington",
-      "population": "40,727"
+      "city": "Sumter",
+      "state": "South Carolina",
+      "population": "40,819"
     },
     {
-      "city": "Burleson",
-      "state": "Texas",
-      "population": "40,714"
+      "city": "Meridian",
+      "state": "Mississippi",
+      "population": "40,809"
     },
     {
-      "city": "Beverly",
-      "state": "Massachusetts",
-      "population": "40,664"
-    },
-    {
-      "city": "Mankato",
-      "state": "Minnesota",
-      "population": "40,641"
-    },
-    {
-      "city": "Hagerstown",
-      "state": "Maryland",
-      "population": "40,612"
-    },
-    {
-      "city": "Prescott",
-      "state": "Arizona",
-      "population": "40,590"
-    },
-    {
-      "city": "Campbell",
-      "state": "California",
-      "population": "40,584"
-    },
-    {
-      "city": "Cedar Falls",
-      "state": "Iowa",
-      "population": "40,566"
-    },
-    {
-      "city": "Beaumont",
-      "state": "California",
-      "population": "40,481"
-    },
-    {
-      "city": "La Puente",
-      "state": "California",
-      "population": "40,435"
-    },
-    {
-      "city": "Crystal Lake",
+      "city": "Quincy",
       "state": "Illinois",
-      "population": "40,388"
-    },
-    {
-      "city": "Fitchburg",
-      "state": "Massachusetts",
-      "population": "40,383"
-    },
-    {
-      "city": "Carol Stream",
-      "state": "Illinois",
-      "population": "40,379"
-    },
-    {
-      "city": "Hickory",
-      "state": "North Carolina",
-      "population": "40,361"
+      "population": "40,782"
     },
     {
       "city": "Streamwood",
       "state": "Illinois",
-      "population": "40,351"
+      "population": "40,746"
     },
     {
-      "city": "Norwich",
-      "state": "Connecticut",
-      "population": "40,347"
+      "city": "Covington",
+      "state": "Kentucky",
+      "population": "40,712"
     },
     {
-      "city": "Coppell",
-      "state": "Texas",
-      "population": "40,342"
-    },
-    {
-      "city": "San Gabriel",
-      "state": "California",
-      "population": "40,275"
-    },
-    {
-      "city": "Holyoke",
-      "state": "Massachusetts",
-      "population": "40,249"
-    },
-    {
-      "city": "Bentonville",
-      "state": "Arkansas",
-      "population": "40,167"
-    },
-    {
-      "city": "Florence",
-      "state": "Alabama",
-      "population": "40,059"
-    },
-    {
-      "city": "Peachtree Corners",
-      "state": "Georgia",
-      "population": "40,059"
-    },
-    {
-      "city": "Brentwood",
-      "state": "Tennessee",
-      "population": "40,021"
-    },
-    {
-      "city": "Bozeman",
-      "state": "Montana",
-      "population": "39,860"
-    },
-    {
-      "city": "New Berlin",
-      "state": "Wisconsin",
-      "population": "39,834"
-    },
-    {
-      "city": "Goose Creek",
-      "state": "South Carolina",
-      "population": "39,823"
-    },
-    {
-      "city": "Huntsville",
-      "state": "Texas",
-      "population": "39,795"
-    },
-    {
-      "city": "Prescott Valley",
-      "state": "Arizona",
-      "population": "39,791"
-    },
-    {
-      "city": "Maplewood",
-      "state": "Minnesota",
-      "population": "39,765"
-    },
-    {
-      "city": "Romeoville",
+      "city": "Plainfield",
       "state": "Illinois",
-      "population": "39,650"
+      "population": "40,641"
     },
     {
-      "city": "Duncanville",
-      "state": "Texas",
-      "population": "39,605"
-    },
-    {
-      "city": "Atlantic City",
-      "state": "New Jersey",
-      "population": "39,551"
-    },
-    {
-      "city": "Clovis",
-      "state": "New Mexico",
-      "population": "39,508"
-    },
-    {
-      "city": "The Colony",
-      "state": "Texas",
-      "population": "39,458"
-    },
-    {
-      "city": "Culver City",
-      "state": "California",
-      "population": "39,428"
-    },
-    {
-      "city": "Marlborough",
-      "state": "Massachusetts",
-      "population": "39,414"
-    },
-    {
-      "city": "Hilton Head Island",
-      "state": "South Carolina",
-      "population": "39,412"
-    },
-    {
-      "city": "Moorhead",
-      "state": "Minnesota",
-      "population": "39,398"
-    },
-    {
-      "city": "Calexico",
-      "state": "California",
-      "population": "39,389"
-    },
-    {
-      "city": "Bullhead City",
-      "state": "Arizona",
-      "population": "39,383"
-    },
-    {
-      "city": "Germantown",
-      "state": "Tennessee",
-      "population": "39,375"
-    },
-    {
-      "city": "La Quinta",
-      "state": "California",
-      "population": "39,331"
-    },
-    {
-      "city": "Lancaster",
-      "state": "Ohio",
-      "population": "39,325"
-    },
-    {
-      "city": "Wausau",
-      "state": "Wisconsin",
-      "population": "39,309"
-    },
-    {
-      "city": "Sherman",
-      "state": "Texas",
-      "population": "39,296"
-    },
-    {
-      "city": "Ocoee",
-      "state": "Florida",
-      "population": "39,172"
-    },
-    {
-      "city": "Shakopee",
-      "state": "Minnesota",
-      "population": "39,167"
-    },
-    {
-      "city": "Woburn",
-      "state": "Massachusetts",
-      "population": "39,083"
-    },
-    {
-      "city": "Bremerton",
-      "state": "Washington",
-      "population": "39,056"
-    },
-    {
-      "city": "Rock Island",
-      "state": "Illinois",
-      "population": "38,877"
-    },
-    {
-      "city": "Muskogee",
-      "state": "Oklahoma",
-      "population": "38,863"
-    },
-    {
-      "city": "Cape Girardeau",
-      "state": "Missouri",
-      "population": "38,816"
-    },
-    {
-      "city": "Annapolis",
-      "state": "Maryland",
-      "population": "38,722"
-    },
-    {
-      "city": "Greenacres",
-      "state": "Florida",
-      "population": "38,696"
-    },
-    {
-      "city": "Ormond Beach",
-      "state": "Florida",
-      "population": "38,661"
-    },
-    {
-      "city": "Hallandale Beach",
-      "state": "Florida",
-      "population": "38,632"
-    },
-    {
-      "city": "Stanton",
-      "state": "California",
-      "population": "38,623"
-    },
-    {
-      "city": "Puyallup",
-      "state": "Washington",
-      "population": "38,609"
-    },
-    {
-      "city": "Pacifica",
-      "state": "California",
-      "population": "38,606"
-    },
-    {
-      "city": "Hanover Park",
-      "state": "Illinois",
-      "population": "38,510"
-    },
-    {
-      "city": "Hurst",
-      "state": "Texas",
-      "population": "38,448"
-    },
-    {
-      "city": "Lima",
-      "state": "Ohio",
-      "population": "38,355"
-    },
-    {
-      "city": "Marana",
-      "state": "Arizona",
-      "population": "38,290"
-    },
-    {
-      "city": "Carpentersville",
-      "state": "Illinois",
-      "population": "38,241"
-    },
-    {
-      "city": "Oakley",
-      "state": "California",
-      "population": "38,194"
-    },
-    {
-      "city": "Huber Heights",
-      "state": "Ohio",
-      "population": "38,142"
-    },
-    {
-      "city": "Lancaster",
-      "state": "Texas",
-      "population": "38,071"
-    },
-    {
-      "city": "Montclair",
-      "state": "California",
-      "population": "38,027"
-    },
-    {
-      "city": "Wheeling",
-      "state": "Illinois",
-      "population": "38,015"
-    },
-    {
-      "city": "Brookfield",
-      "state": "Wisconsin",
-      "population": "37,999"
-    },
-    {
-      "city": "Park Ridge",
-      "state": "Illinois",
-      "population": "37,839"
-    },
-    {
-      "city": "Florence",
-      "state": "South Carolina",
-      "population": "37,792"
-    },
-    {
-      "city": "Roy",
-      "state": "Utah",
-      "population": "37,733"
-    },
-    {
-      "city": "Winter Garden",
-      "state": "Florida",
-      "population": "37,711"
-    },
-    {
-      "city": "Chelsea",
-      "state": "Massachusetts",
-      "population": "37,670"
-    },
-    {
-      "city": "Valley Stream",
+      "city": "Coram",
       "state": "New York",
-      "population": "37,659"
+      "population": "40,637"
     },
     {
-      "city": "Spartanburg",
-      "state": "South Carolina",
-      "population": "37,647"
+      "city": "Apex",
+      "state": "North Carolina",
+      "population": "40,631"
     },
     {
-      "city": "Lake Oswego",
-      "state": "Oregon",
-      "population": "37,610"
-    },
-    {
-      "city": "Friendswood",
-      "state": "Texas",
-      "population": "37,587"
-    },
-    {
-      "city": "Westerville",
-      "state": "Ohio",
-      "population": "37,530"
-    },
-    {
-      "city": "Northglenn",
-      "state": "Colorado",
-      "population": "37,499"
-    },
-    {
-      "city": "Phenix City",
-      "state": "Alabama",
-      "population": "37,498"
-    },
-    {
-      "city": "Grove City",
-      "state": "Ohio",
-      "population": "37,490"
-    },
-    {
-      "city": "Texarkana",
-      "state": "Texas",
-      "population": "37,442"
-    },
-    {
-      "city": "Addison",
+      "city": "Crystal Lake",
       "state": "Illinois",
-      "population": "37,385"
-    },
-    {
-      "city": "Dover",
-      "state": "Delaware",
-      "population": "37,366"
-    },
-    {
-      "city": "Lincoln Park",
-      "state": "Michigan",
-      "population": "37,313"
-    },
-    {
-      "city": "Calumet City",
-      "state": "Illinois",
-      "population": "37,240"
-    },
-    {
-      "city": "Muskegon",
-      "state": "Michigan",
-      "population": "37,213"
-    },
-    {
-      "city": "Aventura",
-      "state": "Florida",
-      "population": "37,199"
-    },
-    {
-      "city": "Martinez",
-      "state": "California",
-      "population": "37,165"
-    },
-    {
-      "city": "Greenfield",
-      "state": "Wisconsin",
-      "population": "37,159"
-    },
-    {
-      "city": "Apache Junction",
-      "state": "Arizona",
-      "population": "37,130"
-    },
-    {
-      "city": "Monrovia",
-      "state": "California",
-      "population": "37,101"
-    },
-    {
-      "city": "Weslaco",
-      "state": "Texas",
-      "population": "37,093"
-    },
-    {
-      "city": "Keizer",
-      "state": "Oregon",
-      "population": "37,064"
-    },
-    {
-      "city": "Spanish Fork",
-      "state": "Utah",
-      "population": "36,956"
-    },
-    {
-      "city": "Beloit",
-      "state": "Wisconsin",
-      "population": "36,888"
-    },
-    {
-      "city": "Panama City",
-      "state": "Florida",
-      "population": "36,877"
+      "population": "40,598"
     }
   ]
 }
