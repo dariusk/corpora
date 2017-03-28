@@ -12,6 +12,9 @@
     }, {
       "bracket" : "fibers",
       "winner" : "yarn"
+    }, {
+      "bracket" : "positive emoji",
+      "winner" : "🔥"
     }
   ]
 }
