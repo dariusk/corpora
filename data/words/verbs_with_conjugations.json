@@ -1,5 +1,4 @@
 [{
-	"verb": "add",
 	"infinitive": ["add"],
 	"participle": ["added"],
 	"gerund": ["adding"],
@@ -21,7 +20,6 @@
 	},
 	"imperative": ["add", "add", "add"]
 }, {
-	"verb": "announce",
 	"infinitive": ["announce"],
 	"participle": ["announced"],
 	"gerund": ["announcing"],
@@ -43,7 +41,6 @@
 	},
 	"imperative": ["announce", "announce", "announce"]
 }, {
-	"verb": "advise",
 	"infinitive": ["advise"],
 	"participle": ["advised"],
 	"gerund": ["advising"],
@@ -65,7 +62,6 @@
 	},
 	"imperative": ["advise", "advise", "advise"]
 }, {
-	"verb": "accept",
 	"infinitive": ["accept"],
 	"participle": ["accepted"],
 	"gerund": ["accepting"],
@@ -87,7 +83,6 @@
 	},
 	"imperative": ["accept", "accept", "accept"]
 }, {
-	"verb": "analyse",
 	"infinitive": ["analyse"],
 	"participle": ["analysed"],
 	"gerund": ["analysing"],
@@ -109,7 +104,6 @@
 	},
 	"imperative": ["analyse", "analyse", "analyse"]
 }, {
-	"verb": "afford",
 	"infinitive": ["afford"],
 	"participle": ["afforded"],
 	"gerund": ["affording"],
@@ -131,7 +125,6 @@
 	},
 	"imperative": ["afford", "afford", "afford"]
 }, {
-	"verb": "amuse",
 	"infinitive": ["amuse"],
 	"participle": ["amused"],
 	"gerund": ["amusing"],
@@ -153,7 +146,6 @@
 	},
 	"imperative": ["amuse", "amuse", "amuse"]
 }, {
-	"verb": "admit",
 	"infinitive": ["admit"],
 	"participle": ["admitted"],
 	"gerund": ["admitting"],
@@ -175,7 +167,6 @@
 	},
 	"imperative": ["admit", "admit", "admit"]
 }, {
-	"verb": "agree",
 	"infinitive": ["agree"],
 	"participle": ["agreed"],
 	"gerund": ["agreeing"],
@@ -197,7 +188,6 @@
 	},
 	"imperative": ["agree", "agree", "agree"]
 }, {
-	"verb": "apologise",
 	"infinitive": ["apologise"],
 	"participle": ["apologised"],
 	"gerund": ["apologising"],
@@ -219,7 +209,6 @@
 	},
 	"imperative": ["apologise", "apologise", "apologise"]
 }, {
-	"verb": "admire",
 	"infinitive": ["admire"],
 	"participle": ["admired"],
 	"gerund": ["admiring"],
@@ -241,7 +230,6 @@
 	},
 	"imperative": ["admire", "admire", "admire"]
 }, {
-	"verb": "alert",
 	"infinitive": ["alert"],
 	"participle": ["alerted"],
 	"gerund": ["alerting"],
@@ -263,7 +251,6 @@
 	},
 	"imperative": ["alert", "alert", "alert"]
 }, {
-	"verb": "approve",
 	"infinitive": ["approve"],
 	"participle": ["approved"],
 	"gerund": ["approving"],
@@ -285,7 +272,6 @@
 	},
 	"imperative": ["approve", "approve", "approve"]
 }, {
-	"verb": "applaud",
 	"infinitive": ["applaud"],
 	"participle": ["applauded"],
 	"gerund": ["applauding"],
@@ -307,7 +293,6 @@
 	},
 	"imperative": ["applaud", "applaud", "applaud"]
 }, {
-	"verb": "answer",
 	"infinitive": ["answer"],
 	"participle": ["answered"],
 	"gerund": ["answering"],
@@ -329,7 +314,6 @@
 	},
 	"imperative": ["answer", "answer", "answer"]
 }, {
-	"verb": "appear",
 	"infinitive": ["appear"],
 	"participle": ["appeared"],
 	"gerund": ["appearing"],
@@ -351,7 +335,6 @@
 	},
 	"imperative": ["appear", "appear", "appear"]
 }, {
-	"verb": "appreciate",
 	"infinitive": ["appreciate"],
 	"participle": ["appreciated"],
 	"gerund": ["appreciating"],
@@ -373,7 +356,6 @@
 	},
 	"imperative": ["appreciate", "appreciate", "appreciate"]
 }, {
-	"verb": "annoy",
 	"infinitive": ["annoy"],
 	"participle": ["annoyed"],
 	"gerund": ["annoying"],
@@ -395,7 +377,6 @@
 	},
 	"imperative": ["annoy", "annoy", "annoy"]
 }, {
-	"verb": "allow",
 	"infinitive": ["allow"],
 	"participle": ["allowed"],
 	"gerund": ["allowing"],
@@ -417,7 +398,6 @@
 	},
 	"imperative": ["allow", "allow", "allow"]
 }, {
-	"verb": "argue",
 	"infinitive": ["argue"],
 	"participle": ["argued"],
 	"gerund": ["arguing"],
@@ -439,7 +419,6 @@
 	},
 	"imperative": ["argue", "argue", "argue"]
 }, {
-	"verb": "arrange",
 	"infinitive": ["arrange"],
 	"participle": ["arranged"],
 	"gerund": ["arranging"],
@@ -461,7 +440,6 @@
 	},
 	"imperative": ["arrange", "arrange", "arrange"]
 }, {
-	"verb": "arrive",
 	"infinitive": ["arrive"],
 	"participle": ["arrived"],
 	"gerund": ["arriving"],
@@ -483,7 +461,6 @@
 	},
 	"imperative": ["arrive", "arrive", "arrive"]
 }, {
-	"verb": "arrest",
 	"infinitive": ["arrest"],
 	"participle": ["arrested"],
 	"gerund": ["arresting"],
@@ -505,7 +482,6 @@
 	},
 	"imperative": ["arrest", "arrest", "arrest"]
 }, {
-	"verb": "attract",
 	"infinitive": ["attract"],
 	"participle": ["attracted"],
 	"gerund": ["attracting"],
@@ -527,7 +503,6 @@
 	},
 	"imperative": ["attract", "attract", "attract"]
 }, {
-	"verb": "attach",
 	"infinitive": ["attach"],
 	"participle": ["attached"],
 	"gerund": ["attaching"],
@@ -549,7 +524,6 @@
 	},
 	"imperative": ["attach", "attach", "attach"]
 }, {
-	"verb": "attempt",
 	"infinitive": ["attempt"],
 	"participle": ["attempted"],
 	"gerund": ["attempting"],
@@ -571,7 +545,6 @@
 	},
 	"imperative": ["attempt", "attempt", "attempt"]
 }, {
-	"verb": "bake",
 	"infinitive": ["bake"],
 	"participle": ["baked"],
 	"gerund": ["baking"],
@@ -593,7 +566,6 @@
 	},
 	"imperative": ["bake", "bake", "bake"]
 }, {
-	"verb": "attend",
 	"infinitive": ["attend"],
 	"participle": ["attended"],
 	"gerund": ["attending"],
@@ -615,7 +587,6 @@
 	},
 	"imperative": ["attend", "attend", "attend"]
 }, {
-	"verb": "ask",
 	"infinitive": ["ask"],
 	"participle": ["asked"],
 	"gerund": ["asking"],
@@ -637,7 +608,6 @@
 	},
 	"imperative": ["ask", "ask", "ask"]
 }, {
-	"verb": "ban",
 	"infinitive": ["ban"],
 	"participle": ["banned"],
 	"gerund": ["banning"],
@@ -659,7 +629,6 @@
 	},
 	"imperative": ["ban", "ban", "ban"]
 }, {
-	"verb": "bat",
 	"infinitive": ["bat"],
 	"participle": ["batted"],
 	"gerund": ["batting"],
@@ -681,7 +650,6 @@
 	},
 	"imperative": ["bat", "bat", "bat"]
 }, {
-	"verb": "beam",
 	"infinitive": ["beam"],
 	"participle": ["beamed"],
 	"gerund": ["beaming"],
@@ -703,7 +671,6 @@
 	},
 	"imperative": ["beam", "beam", "beam"]
 }, {
-	"verb": "balance",
 	"infinitive": ["balance"],
 	"participle": ["balanced"],
 	"gerund": ["balancing"],
@@ -725,7 +692,6 @@
 	},
 	"imperative": ["balance", "balance", "balance"]
 }, {
-	"verb": "back",
 	"infinitive": ["back"],
 	"participle": ["backed"],
 	"gerund": ["backing"],
@@ -747,7 +713,6 @@
 	},
 	"imperative": ["back", "back", "back"]
 }, {
-	"verb": "avoid",
 	"infinitive": ["avoid"],
 	"participle": ["avoided"],
 	"gerund": ["avoiding"],
@@ -769,7 +734,6 @@
 	},
 	"imperative": ["avoid", "avoid", "avoid"]
 }, {
-	"verb": "bare",
 	"infinitive": ["bare"],
 	"participle": ["bared"],
 	"gerund": ["baring"],
@@ -791,7 +755,6 @@
 	},
 	"imperative": ["bare", "bare", "bare"]
 }, {
-	"verb": "attack",
 	"infinitive": ["attack"],
 	"participle": ["attacked"],
 	"gerund": ["attacking"],
@@ -813,7 +776,6 @@
 	},
 	"imperative": ["attack", "attack", "attack"]
 }, {
-	"verb": "bang",
 	"infinitive": ["bang"],
 	"participle": ["banged"],
 	"gerund": ["banging"],
@@ -835,7 +797,6 @@
 	},
 	"imperative": ["bang", "bang", "bang"]
 }, {
-	"verb": "bathe",
 	"infinitive": ["bathe"],
 	"participle": ["bathed"],
 	"gerund": ["bathing"],
@@ -857,7 +818,6 @@
 	},
 	"imperative": ["bathe", "bathe", "bathe"]
 }, {
-	"verb": "battle",
 	"infinitive": ["battle"],
 	"participle": ["battled"],
 	"gerund": ["battling"],
@@ -879,7 +839,6 @@
 	},
 	"imperative": ["battle", "battle", "battle"]
 }, {
-	"verb": "behave",
 	"infinitive": ["behave"],
 	"participle": ["behaved"],
 	"gerund": ["behaving"],
@@ -901,7 +860,6 @@
 	},
 	"imperative": ["behave", "behave", "behave"]
 }, {
-	"verb": "blind",
 	"infinitive": ["blind"],
 	"participle": ["blinded"],
 	"gerund": ["blinding"],
@@ -923,7 +881,6 @@
 	},
 	"imperative": ["blind", "blind", "blind"]
 }, {
-	"verb": "belong",
 	"infinitive": ["belong"],
 	"participle": ["belonged"],
 	"gerund": ["belonging"],
@@ -945,7 +902,6 @@
 	},
 	"imperative": ["belong", "belong", "belong"]
 }, {
-	"verb": "bolt",
 	"infinitive": ["bolt"],
 	"participle": ["bolted"],
 	"gerund": ["bolting"],
@@ -967,7 +923,6 @@
 	},
 	"imperative": ["bolt", "bolt", "bolt"]
 }, {
-	"verb": "boil",
 	"infinitive": ["boil"],
 	"participle": ["boiled"],
 	"gerund": ["boiling"],
@@ -989,7 +944,6 @@
 	},
 	"imperative": ["boil", "boil", "boil"]
 }, {
-	"verb": "bleach",
 	"infinitive": ["bleach"],
 	"participle": ["bleached"],
 	"gerund": ["bleaching"],
@@ -1011,7 +965,6 @@
 	},
 	"imperative": ["bleach", "bleach", "bleach"]
 }, {
-	"verb": "blush",
 	"infinitive": ["blush"],
 	"participle": ["blushed"],
 	"gerund": ["blushing"],
@@ -1033,7 +986,6 @@
 	},
 	"imperative": ["blush", "blush", "blush"]
 }, {
-	"verb": "beg",
 	"infinitive": ["beg"],
 	"participle": ["begged"],
 	"gerund": ["begging"],
@@ -1055,7 +1007,6 @@
 	},
 	"imperative": ["beg", "beg", "beg"]
 }, {
-	"verb": "bore",
 	"infinitive": ["bore"],
 	"participle": ["bored"],
 	"gerund": ["boring"],
@@ -1077,7 +1028,6 @@
 	},
 	"imperative": ["bore", "bore", "bore"]
 }, {
-	"verb": "bomb",
 	"infinitive": ["bomb"],
 	"participle": ["bombed"],
 	"gerund": ["bombing"],
@@ -1099,7 +1049,6 @@
 	},
 	"imperative": ["bomb", "bomb", "bomb"]
 }, {
-	"verb": "book",
 	"infinitive": ["book"],
 	"participle": ["booked"],
 	"gerund": ["booking"],
@@ -1121,7 +1070,6 @@
 	},
 	"imperative": ["book", "book", "book"]
 }, {
-	"verb": "boast",
 	"infinitive": ["boast"],
 	"participle": ["boasted"],
 	"gerund": ["boasting"],
@@ -1143,7 +1091,6 @@
 	},
 	"imperative": ["boast", "boast", "boast"]
 }, {
-	"verb": "bless",
 	"infinitive": ["bless"],
 	"participle": ["blessed"],
 	"gerund": ["blessing"],
@@ -1165,7 +1112,6 @@
 	},
 	"imperative": ["bless", "bless", "bless"]
 }, {
-	"verb": "box",
 	"infinitive": ["box"],
 	"participle": ["boxed"],
 	"gerund": ["boxing"],
@@ -1187,7 +1133,6 @@
 	},
 	"imperative": ["box", "box", "box"]
 }, {
-	"verb": "blot",
 	"infinitive": ["blot"],
 	"participle": ["blotted"],
 	"gerund": ["blotting"],
@@ -1209,7 +1154,6 @@
 	},
 	"imperative": ["blot", "blot", "blot"]
 }, {
-	"verb": "blink",
 	"infinitive": ["blink"],
 	"participle": ["blinked"],
 	"gerund": ["blinking"],
@@ -1231,7 +1175,6 @@
 	},
 	"imperative": ["blink", "blink", "blink"]
 }, {
-	"verb": "bow",
 	"infinitive": ["bow"],
 	"participle": ["bowed"],
 	"gerund": ["bowing"],
@@ -1253,7 +1196,6 @@
 	},
 	"imperative": ["bow", "bow", "bow"]
 }, {
-	"verb": "bounce",
 	"infinitive": ["bounce"],
 	"participle": ["bounced"],
 	"gerund": ["bouncing"],
@@ -1275,7 +1217,6 @@
 	},
 	"imperative": ["bounce", "bounce", "bounce"]
 }, {
-	"verb": "brake",
 	"infinitive": ["brake"],
 	"participle": ["braked"],
 	"gerund": ["braking"],
@@ -1297,7 +1238,6 @@
 	},
 	"imperative": ["brake", "brake", "brake"]
 }, {
-	"verb": "borrow",
 	"infinitive": ["borrow"],
 	"participle": ["borrowed"],
 	"gerund": ["borrowing"],
@@ -1319,7 +1259,6 @@
 	},
 	"imperative": ["borrow", "borrow", "borrow"]
 }, {
-	"verb": "breathe",
 	"infinitive": ["breathe"],
 	"participle": ["breathed"],
 	"gerund": ["breathing"],
@@ -1341,7 +1280,6 @@
 	},
 	"imperative": ["breathe", "breathe", "breathe"]
 }, {
-	"verb": "bruise",
 	"infinitive": ["bruise"],
 	"participle": ["bruised"],
 	"gerund": ["bruising"],
@@ -1363,7 +1301,6 @@
 	},
 	"imperative": ["bruise", "bruise", "bruise"]
 }, {
-	"verb": "brush",
 	"infinitive": ["brush"],
 	"participle": ["brushed"],
 	"gerund": ["brushing"],
@@ -1385,7 +1322,6 @@
 	},
 	"imperative": ["brush", "brush", "brush"]
 }, {
-	"verb": "buzz",
 	"infinitive": ["buzz"],
 	"participle": ["buzzed"],
 	"gerund": ["buzzing"],
@@ -1407,7 +1343,6 @@
 	},
 	"imperative": ["buzz", "buzz", "buzz"]
 }, {
-	"verb": "call",
 	"infinitive": ["call"],
 	"participle": ["called"],
 	"gerund": ["calling"],
@@ -1429,7 +1364,6 @@
 	},
 	"imperative": ["call", "call", "call"]
 }, {
-	"verb": "bubble",
 	"infinitive": ["bubble"],
 	"participle": ["bubbled"],
 	"gerund": ["bubbling"],
@@ -1451,7 +1385,6 @@
 	},
 	"imperative": ["bubble", "bubble", "bubble"]
 }, {
-	"verb": "branch",
 	"infinitive": ["branch"],
 	"participle": ["branched"],
 	"gerund": ["branching"],
@@ -1473,7 +1406,6 @@
 	},
 	"imperative": ["branch", "branch", "branch"]
 }, {
-	"verb": "bump",
 	"infinitive": ["bump"],
 	"participle": ["bumped"],
 	"gerund": ["bumping"],
@@ -1495,7 +1427,6 @@
 	},
 	"imperative": ["bump", "bump", "bump"]
 }, {
-	"verb": "burn",
 	"infinitive": ["burn"],
 	"participle": ["burnt", "burned"],
 	"gerund": ["burning"],
@@ -1517,7 +1448,6 @@
 	},
 	"imperative": ["burn", "burn", "burn"]
 }, {
-	"verb": "carve",
 	"infinitive": ["carve"],
 	"participle": ["carved"],
 	"gerund": ["carving"],
@@ -1539,7 +1469,6 @@
 	},
 	"imperative": ["carve", "carve", "carve"]
 }, {
-	"verb": "challenge",
 	"infinitive": ["challenge"],
 	"participle": ["challenged"],
 	"gerund": ["challenging"],
@@ -1561,7 +1490,6 @@
 	},
 	"imperative": ["challenge", "challenge", "challenge"]
 }, {
-	"verb": "cause",
 	"infinitive": ["cause"],
 	"participle": ["caused"],
 	"gerund": ["causing"],
@@ -1583,7 +1511,6 @@
 	},
 	"imperative": ["cause", "cause", "cause"]
 }, {
-	"verb": "carry",
 	"infinitive": ["carry"],
 	"participle": ["carried"],
 	"gerund": ["carrying"],
@@ -1605,7 +1532,6 @@
 	},
 	"imperative": ["carry", "carry", "carry"]
 }, {
-	"verb": "camp",
 	"infinitive": ["camp"],
 	"participle": ["camped"],
 	"gerund": ["camping"],
@@ -1627,7 +1553,6 @@
 	},
 	"imperative": ["camp", "camp", "camp"]
 }, {
-	"verb": "care",
 	"infinitive": ["care"],
 	"participle": ["cared"],
 	"gerund": ["caring"],
@@ -1649,7 +1574,6 @@
 	},
 	"imperative": ["care", "care", "care"]
 }, {
-	"verb": "calculate",
 	"infinitive": ["calculate"],
 	"participle": ["calculated"],
 	"gerund": ["calculating"],
@@ -1671,7 +1595,6 @@
 	},
 	"imperative": ["calculate", "calculate", "calculate"]
 }, {
-	"verb": "bury",
 	"infinitive": ["bury"],
 	"participle": ["buried"],
 	"gerund": ["burying"],
@@ -1693,7 +1616,6 @@
 	},
 	"imperative": ["bury", "bury", "bury"]
 }, {
-	"verb": "charge",
 	"infinitive": ["charge"],
 	"participle": ["charged"],
 	"gerund": ["charging"],
@@ -1715,7 +1637,6 @@
 	},
 	"imperative": ["charge", "charge", "charge"]
 }, {
-	"verb": "chase",
 	"infinitive": ["chase"],
 	"participle": ["chased"],
 	"gerund": ["chasing"],
@@ -1737,7 +1658,6 @@
 	},
 	"imperative": ["chase", "chase", "chase"]
 }, {
-	"verb": "change",
 	"infinitive": ["change"],
 	"participle": ["changed"],
 	"gerund": ["changing"],
@@ -1759,7 +1679,6 @@
 	},
 	"imperative": ["change", "change", "change"]
 }, {
-	"verb": "cheat",
 	"infinitive": ["cheat"],
 	"participle": ["cheated"],
 	"gerund": ["cheating"],
@@ -1781,7 +1700,6 @@
 	},
 	"imperative": ["cheat", "cheat", "cheat"]
 }, {
-	"verb": "clean",
 	"infinitive": ["clean"],
 	"participle": ["cleaned"],
 	"gerund": ["cleaning"],
@@ -1803,7 +1721,6 @@
 	},
 	"imperative": ["clean", "clean", "clean"]
 }, {
-	"verb": "choke",
 	"infinitive": ["choke"],
 	"participle": ["choked"],
 	"gerund": ["choking"],
@@ -1825,7 +1742,6 @@
 	},
 	"imperative": ["choke", "choke", "choke"]
 }, {
-	"verb": "check",
 	"infinitive": ["check"],
 	"participle": ["checked"],
 	"gerund": ["checking"],
@@ -1847,7 +1763,6 @@
 	},
 	"imperative": ["check", "check", "check"]
 }, {
-	"verb": "chop",
 	"infinitive": ["chop"],
 	"participle": ["chopped"],
 	"gerund": ["chopping"],
@@ -1869,7 +1784,6 @@
 	},
 	"imperative": ["chop", "chop", "chop"]
 }, {
-	"verb": "chew",
 	"infinitive": ["chew"],
 	"participle": ["chewed"],
 	"gerund": ["chewing"],
@@ -1891,7 +1805,6 @@
 	},
 	"imperative": ["chew", "chew", "chew"]
 }, {
-	"verb": "claim",
 	"infinitive": ["claim"],
 	"participle": ["claimed"],
 	"gerund": ["claiming"],
@@ -1913,7 +1826,6 @@
 	},
 	"imperative": ["claim", "claim", "claim"]
 }, {
-	"verb": "coach",
 	"infinitive": ["coach"],
 	"participle": ["coached"],
 	"gerund": ["coaching"],
@@ -1935,7 +1847,6 @@
 	},
 	"imperative": ["coach", "coach", "coach"]
 }, {
-	"verb": "collect",
 	"infinitive": ["collect"],
 	"participle": ["collected"],
 	"gerund": ["collecting"],
@@ -1957,7 +1868,6 @@
 	},
 	"imperative": ["collect", "collect", "collect"]
 }, {
-	"verb": "comb",
 	"infinitive": ["comb"],
 	"participle": ["combed"],
 	"gerund": ["combing"],
@@ -1979,7 +1889,6 @@
 	},
 	"imperative": ["comb", "comb", "comb"]
 }, {
-	"verb": "clear",
 	"infinitive": ["clear"],
 	"participle": ["cleared"],
 	"gerund": ["clearing"],
@@ -2001,7 +1910,6 @@
 	},
 	"imperative": ["clear", "clear", "clear"]
 }, {
-	"verb": "clip",
 	"infinitive": ["clip"],
 	"participle": ["clipped"],
 	"gerund": ["clipping"],
@@ -2023,7 +1931,6 @@
 	},
 	"imperative": ["clip", "clip", "clip"]
 }, {
-	"verb": "compare",
 	"infinitive": ["compare"],
 	"participle": ["compared"],
 	"gerund": ["comparing"],
@@ -2045,7 +1952,6 @@
 	},
 	"imperative": ["compare", "compare", "compare"]
 }, {
-	"verb": "command",
 	"infinitive": ["command"],
 	"participle": ["commanded"],
 	"gerund": ["commanding"],
@@ -2067,7 +1973,6 @@
 	},
 	"imperative": ["command", "command", "command"]
 }, {
-	"verb": "close",
 	"infinitive": ["close"],
 	"participle": ["closed"],
 	"gerund": ["closing"],
@@ -2089,7 +1994,6 @@
 	},
 	"imperative": ["close", "close", "close"]
 }, {
-	"verb": "coil",
 	"infinitive": ["coil"],
 	"participle": ["coiled"],
 	"gerund": ["coiling"],
@@ -2111,7 +2015,6 @@
 	},
 	"imperative": ["coil", "coil", "coil"]
 }, {
-	"verb": "colour",
 	"infinitive": ["colour"],
 	"participle": ["coloured"],
 	"gerund": ["colouring"],
@@ -2133,7 +2036,6 @@
 	},
 	"imperative": ["colour", "colour", "colour"]
 }, {
-	"verb": "cheer",
 	"infinitive": ["cheer"],
 	"participle": ["cheered"],
 	"gerund": ["cheering"],
@@ -2155,7 +2057,6 @@
 	},
 	"imperative": ["cheer", "cheer", "cheer"]
 }, {
-	"verb": "clap",
 	"infinitive": ["clap"],
 	"participle": ["claped"],
 	"gerund": ["claping"],
@@ -2177,7 +2078,6 @@
 	},
 	"imperative": ["clap", "clap", "clap"]
 }, {
-	"verb": "communicate",
 	"infinitive": ["communicate"],
 	"participle": ["communicated"],
 	"gerund": ["communicating"],
@@ -2199,7 +2099,6 @@
 	},
 	"imperative": ["communicate", "communicate", "communicate"]
 }, {
-	"verb": "concentrate",
 	"infinitive": ["concentrate"],
 	"participle": ["concentrated"],
 	"gerund": ["concentrating"],
@@ -2221,7 +2120,6 @@
 	},
 	"imperative": ["concentrate", "concentrate", "concentrate"]
 }, {
-	"verb": "concern",
 	"infinitive": ["concern"],
 	"participle": ["concerned"],
 	"gerund": ["concerning"],
@@ -2243,7 +2141,6 @@
 	},
 	"imperative": ["concern", "concern", "concern"]
 }, {
-	"verb": "confess",
 	"infinitive": ["confess"],
 	"participle": ["confessed"],
 	"gerund": ["confessing"],
@@ -2265,7 +2162,6 @@
 	},
 	"imperative": ["confess", "confess", "confess"]
 }, {
-	"verb": "complain",
 	"infinitive": ["complain"],
 	"participle": ["complained"],
 	"gerund": ["complaining"],
@@ -2287,7 +2183,6 @@
 	},
 	"imperative": ["complain", "complain", "complain"]
 }, {
-	"verb": "consider",
 	"infinitive": ["consider"],
 	"participle": ["considered"],
 	"gerund": ["considering"],
@@ -2309,7 +2204,6 @@
 	},
 	"imperative": ["consider", "consider", "consider"]
 }, {
-	"verb": "contain",
 	"infinitive": ["contain"],
 	"participle": ["contained"],
 	"gerund": ["containing"],
@@ -2331,7 +2225,6 @@
 	},
 	"imperative": ["contain", "contain", "contain"]
 }, {
-	"verb": "count",
 	"infinitive": ["count"],
 	"participle": ["counted"],
 	"gerund": ["counting"],
@@ -2353,7 +2246,6 @@
 	},
 	"imperative": ["count", "count", "count"]
 }, {
-	"verb": "complete",
 	"infinitive": ["complete"],
 	"participle": ["completed"],
 	"gerund": ["completing"],
@@ -2375,7 +2267,6 @@
 	},
 	"imperative": ["complete", "complete", "complete"]
 }, {
-	"verb": "confuse",
 	"infinitive": ["confuse"],
 	"participle": ["confused"],
 	"gerund": ["confusing"],
@@ -2397,7 +2288,6 @@
 	},
 	"imperative": ["confuse", "confuse", "confuse"]
 }, {
-	"verb": "compete",
 	"infinitive": ["compete"],
 	"participle": ["competed"],
 	"gerund": ["competing"],
@@ -2419,7 +2309,6 @@
 	},
 	"imperative": ["compete", "compete", "compete"]
 }, {
-	"verb": "connect",
 	"infinitive": ["connect"],
 	"participle": ["connected"],
 	"gerund": ["connecting"],
@@ -2441,7 +2330,6 @@
 	},
 	"imperative": ["connect", "connect", "connect"]
 }, {
-	"verb": "continue",
 	"infinitive": ["continue"],
 	"participle": ["continued"],
 	"gerund": ["continuing"],
@@ -2463,7 +2351,6 @@
 	},
 	"imperative": ["continue", "continue", "continue"]
 }, {
-	"verb": "cover",
 	"infinitive": ["cover"],
 	"participle": ["covered"],
 	"gerund": ["covering"],
@@ -2485,7 +2372,6 @@
 	},
 	"imperative": ["cover", "cover", "cover"]
 }, {
-	"verb": "cough",
 	"infinitive": ["cough"],
 	"participle": ["coughed"],
 	"gerund": ["coughing"],
@@ -2507,7 +2393,6 @@
 	},
 	"imperative": ["cough", "cough", "cough"]
 }, {
-	"verb": "copy",
 	"infinitive": ["copy"],
 	"participle": ["copied"],
 	"gerund": ["copying"],
@@ -2529,7 +2414,6 @@
 	},
 	"imperative": ["copy", "copy", "copy"]
 }, {
-	"verb": "correct",
 	"infinitive": ["correct"],
 	"participle": ["corrected"],
 	"gerund": ["correcting"],
@@ -2551,7 +2435,6 @@
 	},
 	"imperative": ["correct", "correct", "correct"]
 }, {
-	"verb": "crawl",
 	"infinitive": ["crawl"],
 	"participle": ["crawled"],
 	"gerund": ["crawling"],
@@ -2573,7 +2456,6 @@
 	},
 	"imperative": ["crawl", "crawl", "crawl"]
 }, {
-	"verb": "crash",
 	"infinitive": ["crash"],
 	"participle": ["crashed"],
 	"gerund": ["crashing"],
@@ -2595,7 +2477,6 @@
 	},
 	"imperative": ["crash", "crash", "crash"]
 }, {
-	"verb": "consist",
 	"infinitive": ["consist"],
 	"participle": ["consisted"],
 	"gerund": ["consisting"],
@@ -2617,7 +2498,6 @@
 	},
 	"imperative": ["consist", "consist", "consist"]
 }, {
-	"verb": "crack",
 	"infinitive": ["crack"],
 	"participle": ["cracked"],
 	"gerund": ["cracking"],
@@ -2639,7 +2519,6 @@
 	},
 	"imperative": ["crack", "crack", "crack"]
 }, {
-	"verb": "cycle",
 	"infinitive": ["cycle"],
 	"participle": ["cycled"],
 	"gerund": ["cycling"],
@@ -2661,7 +2540,6 @@
 	},
 	"imperative": ["cycle", "cycle", "cycle"]
 }, {
-	"verb": "cure",
 	"infinitive": ["cure"],
 	"participle": ["cured"],
 	"gerund": ["curing"],
@@ -2683,7 +2561,6 @@
 	},
 	"imperative": ["cure", "cure", "cure"]
 }, {
-	"verb": "crush",
 	"infinitive": ["crush"],
 	"participle": ["crushed"],
 	"gerund": ["crushing"],
@@ -2705,7 +2582,6 @@
 	},
 	"imperative": ["crush", "crush", "crush"]
 }, {
-	"verb": "cross",
 	"infinitive": ["cross"],
 	"participle": ["crossed"],
 	"gerund": ["crossing"],
@@ -2727,7 +2603,6 @@
 	},
 	"imperative": ["cross", "cross", "cross"]
 }, {
-	"verb": "curl",
 	"infinitive": ["curl"],
 	"participle": ["curled"],
 	"gerund": ["curling"],
@@ -2749,7 +2624,6 @@
 	},
 	"imperative": ["curl", "curl", "curl"]
 }, {
-	"verb": "dance",
 	"infinitive": ["dance"],
 	"participle": ["danced"],
 	"gerund": ["dancing"],
@@ -2771,7 +2645,6 @@
 	},
 	"imperative": ["dance", "dance", "dance"]
 }, {
-	"verb": "decide",
 	"infinitive": ["decide"],
 	"participle": ["decided"],
 	"gerund": ["deciding"],
@@ -2793,7 +2666,6 @@
 	},
 	"imperative": ["decide", "decide", "decide"]
 }, {
-	"verb": "curve",
 	"infinitive": ["curve"],
 	"participle": ["curved"],
 	"gerund": ["curving"],
@@ -2815,7 +2687,6 @@
 	},
 	"imperative": ["curve", "curve", "curve"]
 }, {
-	"verb": "dam",
 	"infinitive": ["dam"],
 	"participle": ["damed"],
 	"gerund": ["daming"],
@@ -2837,7 +2708,6 @@
 	},
 	"imperative": ["dam", "dam", "dam"]
 }, {
-	"verb": "damage",
 	"infinitive": ["damage"],
 	"participle": ["damaged"],
 	"gerund": ["damaging"],
@@ -2859,7 +2729,6 @@
 	},
 	"imperative": ["damage", "damage", "damage"]
 }, {
-	"verb": "deliver",
 	"infinitive": ["deliver"],
 	"participle": ["delivered"],
 	"gerund": ["delivering"],
@@ -2881,7 +2750,6 @@
 	},
 	"imperative": ["deliver", "deliver", "deliver"]
 }, {
-	"verb": "delay",
 	"infinitive": ["delay"],
 	"participle": ["delayed"],
 	"gerund": ["delaying"],
@@ -2903,7 +2771,6 @@
 	},
 	"imperative": ["delay", "delay", "delay"]
 }, {
-	"verb": "depend",
 	"infinitive": ["depend"],
 	"participle": ["depended"],
 	"gerund": ["depending"],
@@ -2925,7 +2792,6 @@
 	},
 	"imperative": ["depend", "depend", "depend"]
 }, {
-	"verb": "delight",
 	"infinitive": ["delight"],
 	"participle": ["delighted"],
 	"gerund": ["delighting"],
@@ -2947,7 +2813,6 @@
 	},
 	"imperative": ["delight", "delight", "delight"]
 }, {
-	"verb": "deceive",
 	"infinitive": ["deceive"],
 	"participle": ["deceived"],
 	"gerund": ["deceiving"],
@@ -2969,7 +2834,6 @@
 	},
 	"imperative": ["deceive", "deceive", "deceive"]
 }, {
-	"verb": "dare",
 	"infinitive": ["dare"],
 	"participle": ["dared"],
 	"gerund": ["daring"],
@@ -2991,7 +2855,6 @@
 	},
 	"imperative": ["dare", "dare", "dare"]
 }, {
-	"verb": "decay",
 	"infinitive": ["decay"],
 	"participle": ["decayed"],
 	"gerund": ["decaying"],
@@ -3013,7 +2876,6 @@
 	},
 	"imperative": ["decay", "decay", "decay"]
 }, {
-	"verb": "cry",
 	"infinitive": ["cry"],
 	"participle": ["cried"],
 	"gerund": ["crying"],
@@ -3035,7 +2897,6 @@
 	},
 	"imperative": ["cry", "cry", "cry"]
 }, {
-	"verb": "decorate",
 	"infinitive": ["decorate"],
 	"participle": ["decorated"],
 	"gerund": ["decorating"],
@@ -3057,7 +2918,6 @@
 	},
 	"imperative": ["decorate", "decorate", "decorate"]
 }, {
-	"verb": "describe",
 	"infinitive": ["describe"],
 	"participle": ["described"],
 	"gerund": ["describing"],
@@ -3079,7 +2939,6 @@
 	},
 	"imperative": ["describe", "describe", "describe"]
 }, {
-	"verb": "destroy",
 	"infinitive": ["destroy"],
 	"participle": ["destroyed"],
 	"gerund": ["destroying"],
@@ -3101,7 +2960,6 @@
 	},
 	"imperative": ["destroy", "destroy", "destroy"]
 }, {
-	"verb": "detect",
 	"infinitive": ["detect"],
 	"participle": ["detected"],
 	"gerund": ["detecting"],
@@ -3123,7 +2981,6 @@
 	},
 	"imperative": ["detect", "detect", "detect"]
 }, {
-	"verb": "deserve",
 	"infinitive": ["deserve"],
 	"participle": ["deserved"],
 	"gerund": ["deserving"],
@@ -3145,7 +3002,6 @@
 	},
 	"imperative": ["deserve", "deserve", "deserve"]
 }, {
-	"verb": "desert",
 	"infinitive": ["desert"],
 	"participle": ["deserted"],
 	"gerund": ["deserting"],
@@ -3167,7 +3023,6 @@
 	},
 	"imperative": ["desert", "desert", "desert"]
 }, {
-	"verb": "discover",
 	"infinitive": ["discover"],
 	"participle": ["discovered"],
 	"gerund": ["discovering"],
@@ -3189,7 +3044,6 @@
 	},
 	"imperative": ["discover", "discover", "discover"]
 }, {
-	"verb": "develop",
 	"infinitive": ["develop"],
 	"participle": ["developed"],
 	"gerund": ["developing"],
@@ -3211,7 +3065,6 @@
 	},
 	"imperative": ["develop", "develop", "develop"]
 }, {
-	"verb": "disagree",
 	"infinitive": ["disagree"],
 	"participle": ["disagreed"],
 	"gerund": ["disagreeing"],
@@ -3233,7 +3086,6 @@
 	},
 	"imperative": ["disagree", "disagree", "disagree"]
 }, {
-	"verb": "disapprove",
 	"infinitive": ["disapprove"],
 	"participle": ["disapproved"],
 	"gerund": ["disapproving"],
@@ -3255,7 +3107,6 @@
 	},
 	"imperative": ["disapprove", "disapprove", "disapprove"]
 }, {
-	"verb": "doubt",
 	"infinitive": ["doubt"],
 	"participle": ["doubted"],
 	"gerund": ["doubting"],
@@ -3277,7 +3128,6 @@
 	},
 	"imperative": ["doubt", "doubt", "doubt"]
 }, {
-	"verb": "double",
 	"infinitive": ["double"],
 	"participle": ["doubled"],
 	"gerund": ["doubling"],
@@ -3299,7 +3149,6 @@
 	},
 	"imperative": ["double", "double", "double"]
 }, {
-	"verb": "dress",
 	"infinitive": ["dress"],
 	"participle": ["dressed"],
 	"gerund": ["dressing"],
@@ -3321,7 +3170,6 @@
 	},
 	"imperative": ["dress", "dress", "dress"]
 }, {
-	"verb": "drop",
 	"infinitive": ["drop"],
 	"participle": ["dropped"],
 	"gerund": ["dropping"],
@@ -3343,7 +3191,6 @@
 	},
 	"imperative": ["drop", "drop", "drop"]
 }, {
-	"verb": "dream",
 	"infinitive": ["dream"],
 	"participle": ["dreamt", "dreamed"],
 	"gerund": ["dreaming"],
@@ -3365,7 +3212,6 @@
 	},
 	"imperative": ["dream", "dream", "dream"]
 }, {
-	"verb": "dislike",
 	"infinitive": ["dislike"],
 	"participle": ["disliked"],
 	"gerund": ["disliking"],
@@ -3387,7 +3233,6 @@
 	},
 	"imperative": ["dislike", "dislike", "dislike"]
 }, {
-	"verb": "drag",
 	"infinitive": ["drag"],
 	"participle": ["draged"],
 	"gerund": ["draging"],
@@ -3409,7 +3254,6 @@
 	},
 	"imperative": ["drag", "drag", "drag"]
 }, {
-	"verb": "divide",
 	"infinitive": ["divide"],
 	"participle": ["divided"],
 	"gerund": ["dividing"],
@@ -3431,7 +3275,6 @@
 	},
 	"imperative": ["divide", "divide", "divide"]
 }, {
-	"verb": "disappear",
 	"infinitive": ["disappear"],
 	"participle": ["disappeared"],
 	"gerund": ["disappearing"],
@@ -3453,7 +3296,6 @@
 	},
 	"imperative": ["disappear", "disappear", "disappear"]
 }, {
-	"verb": "disarm",
 	"infinitive": ["disarm"],
 	"participle": ["disarmed"],
 	"gerund": ["disarming"],
@@ -3475,7 +3317,6 @@
 	},
 	"imperative": ["disarm", "disarm", "disarm"]
 }, {
-	"verb": "drip",
 	"infinitive": ["drip"],
 	"participle": ["dripped"],
 	"gerund": ["dripping"],
@@ -3497,7 +3338,6 @@
 	},
 	"imperative": ["drip", "drip", "drip"]
 }, {
-	"verb": "drain",
 	"infinitive": ["drain"],
 	"participle": ["drained"],
 	"gerund": ["draining"],
@@ -3519,7 +3359,6 @@
 	},
 	"imperative": ["drain", "drain", "drain"]
 }, {
-	"verb": "educate",
 	"infinitive": ["educate"],
 	"participle": ["educated"],
 	"gerund": ["educating"],
@@ -3541,7 +3380,6 @@
 	},
 	"imperative": ["educate", "educate", "educate"]
 }, {
-	"verb": "dust",
 	"infinitive": ["dust"],
 	"participle": ["dusted"],
 	"gerund": ["dusting"],
@@ -3563,7 +3401,6 @@
 	},
 	"imperative": ["dust", "dust", "dust"]
 }, {
-	"verb": "earn",
 	"infinitive": ["earn"],
 	"participle": ["earned"],
 	"gerund": ["earning"],
@@ -3585,7 +3422,6 @@
 	},
 	"imperative": ["earn", "earn", "earn"]
 }, {
-	"verb": "embarrass",
 	"infinitive": ["embarrass"],
 	"participle": ["embarrassed"],
 	"gerund": ["embarrassing"],
@@ -3607,7 +3443,6 @@
 	},
 	"imperative": ["embarrass", "embarrass", "embarrass"]
 }, {
-	"verb": "dry",
 	"infinitive": ["dry"],
 	"participle": ["dried"],
 	"gerund": ["drying"],
@@ -3629,7 +3464,6 @@
 	},
 	"imperative": ["dry", "dry", "dry"]
 }, {
-	"verb": "empty",
 	"infinitive": ["empty"],
 	"participle": ["emptied"],
 	"gerund": ["emptying"],
@@ -3651,7 +3485,6 @@
 	},
 	"imperative": ["empty", "empty", "empty"]
 }, {
-	"verb": "escape",
 	"infinitive": ["escape"],
 	"participle": ["escaped"],
 	"gerund": ["escaping"],
@@ -3673,7 +3506,6 @@
 	},
 	"imperative": ["escape", "escape", "escape"]
 }, {
-	"verb": "employ",
 	"infinitive": ["employ"],
 	"participle": ["emploied"],
 	"gerund": ["employing"],
@@ -3695,7 +3527,6 @@
 	},
 	"imperative": ["employ", "employ", "employ"]
 }, {
-	"verb": "encourage",
 	"infinitive": ["encourage"],
 	"participle": ["encouraged"],
 	"gerund": ["encouraging"],
@@ -3717,7 +3548,6 @@
 	},
 	"imperative": ["encourage", "encourage", "encourage"]
 }, {
-	"verb": "examine",
 	"infinitive": ["examine"],
 	"participle": ["examined"],
 	"gerund": ["examining"],
@@ -3739,7 +3569,6 @@
 	},
 	"imperative": ["examine", "examine", "examine"]
 }, {
-	"verb": "excite",
 	"infinitive": ["excite"],
 	"participle": ["excited"],
 	"gerund": ["exciting"],
@@ -3761,7 +3590,6 @@
 	},
 	"imperative": ["excite", "excite", "excite"]
 }, {
-	"verb": "end",
 	"infinitive": ["end"],
 	"participle": ["ended"],
 	"gerund": ["ending"],
@@ -3783,7 +3611,6 @@
 	},
 	"imperative": ["end", "end", "end"]
 }, {
-	"verb": "drum",
 	"infinitive": ["drum"],
 	"participle": ["drumed"],
 	"gerund": ["druming"],
@@ -3805,7 +3632,6 @@
 	},
 	"imperative": ["drum", "drum", "drum"]
 }, {
-	"verb": "enjoy",
 	"infinitive": ["enjoy"],
 	"participle": ["enjoyed"],
 	"gerund": ["enjoying"],
@@ -3827,7 +3653,6 @@
 	},
 	"imperative": ["enjoy", "enjoy", "enjoy"]
 }, {
-	"verb": "enter",
 	"infinitive": ["enter"],
 	"participle": ["entered"],
 	"gerund": ["entering"],
@@ -3849,7 +3674,6 @@
 	},
 	"imperative": ["enter", "enter", "enter"]
 }, {
-	"verb": "entertain",
 	"infinitive": ["entertain"],
 	"participle": ["entertained"],
 	"gerund": ["entertaining"],
@@ -3871,7 +3695,6 @@
 	},
 	"imperative": ["entertain", "entertain", "entertain"]
 }, {
-	"verb": "excuse",
 	"infinitive": ["excuse"],
 	"participle": ["excused"],
 	"gerund": ["excusing"],
@@ -3893,7 +3716,6 @@
 	},
 	"imperative": ["excuse", "excuse", "excuse"]
 }, {
-	"verb": "exercise",
 	"infinitive": ["exercise"],
 	"participle": ["exercised"],
 	"gerund": ["exercising"],
@@ -3915,7 +3737,6 @@
 	},
 	"imperative": ["exercise", "exercise", "exercise"]
 }, {
-	"verb": "drown",
 	"infinitive": ["drown"],
 	"participle": ["drowned"],
 	"gerund": ["drowning"],
@@ -3937,7 +3758,6 @@
 	},
 	"imperative": ["drown", "drown", "drown"]
 }, {
-	"verb": "exist",
 	"infinitive": ["exist"],
 	"participle": ["existed"],
 	"gerund": ["existing"],
@@ -3959,7 +3779,6 @@
 	},
 	"imperative": ["exist", "exist", "exist"]
 }, {
-	"verb": "expand",
 	"infinitive": ["expand"],
 	"participle": ["expanded"],
 	"gerund": ["expanding"],
@@ -3981,7 +3800,6 @@
 	},
 	"imperative": ["expand", "expand", "expand"]
 }, {
-	"verb": "expect",
 	"infinitive": ["expect"],
 	"participle": ["expected"],
 	"gerund": ["expecting"],
@@ -4003,7 +3821,6 @@
 	},
 	"imperative": ["expect", "expect", "expect"]
 }, {
-	"verb": "fade",
 	"infinitive": ["fade"],
 	"participle": ["faded"],
 	"gerund": ["fading"],
@@ -4025,7 +3842,6 @@
 	},
 	"imperative": ["fade", "fade", "fade"]
 }, {
-	"verb": "fence",
 	"infinitive": ["fence"],
 	"participle": ["fenced"],
 	"gerund": ["fencing"],
@@ -4047,7 +3863,6 @@
 	},
 	"imperative": ["fence", "fence", "fence"]
 }, {
-	"verb": "fear",
 	"infinitive": ["fear"],
 	"participle": ["feared"],
 	"gerund": ["fearing"],
@@ -4069,7 +3884,6 @@
 	},
 	"imperative": ["fear", "fear", "fear"]
 }, {
-	"verb": "explain",
 	"infinitive": ["explain"],
 	"participle": ["explained"],
 	"gerund": ["explaining"],
@@ -4091,7 +3905,6 @@
 	},
 	"imperative": ["explain", "explain", "explain"]
 }, {
-	"verb": "explode",
 	"infinitive": ["explode"],
 	"participle": ["exploded"],
 	"gerund": ["exploding"],
@@ -4113,7 +3926,6 @@
 	},
 	"imperative": ["explode", "explode", "explode"]
 }, {
-	"verb": "fail",
 	"infinitive": ["fail"],
 	"participle": ["failed"],
 	"gerund": ["failing"],
@@ -4135,7 +3947,6 @@
 	},
 	"imperative": ["fail", "fail", "fail"]
 }, {
-	"verb": "fill",
 	"infinitive": ["fill"],
 	"participle": ["filled"],
 	"gerund": ["filling"],
@@ -4157,7 +3968,6 @@
 	},
 	"imperative": ["fill", "fill", "fill"]
 }, {
-	"verb": "extend",
 	"infinitive": ["extend"],
 	"participle": ["extended"],
 	"gerund": ["extending"],
@@ -4179,7 +3989,6 @@
 	},
 	"imperative": ["extend", "extend", "extend"]
 }, {
-	"verb": "fax",
 	"infinitive": ["fax"],
 	"participle": ["faxed"],
 	"gerund": ["faxing"],
@@ -4201,7 +4010,6 @@
 	},
 	"imperative": ["fax", "fax", "fax"]
 }, {
-	"verb": "file",
 	"infinitive": ["file"],
 	"participle": ["filed"],
 	"gerund": ["filing"],
@@ -4223,7 +4031,6 @@
 	},
 	"imperative": ["file", "file", "file"]
 }, {
-	"verb": "face",
 	"infinitive": ["face"],
 	"participle": ["faced"],
 	"gerund": ["facing"],
@@ -4245,7 +4052,6 @@
 	},
 	"imperative": ["face", "face", "face"]
 }, {
-	"verb": "fasten",
 	"infinitive": ["fasten"],
 	"participle": ["fastened"],
 	"gerund": ["fastening"],
@@ -4267,7 +4073,6 @@
 	},
 	"imperative": ["fasten", "fasten", "fasten"]
 }, {
-	"verb": "film",
 	"infinitive": ["film"],
 	"participle": ["filmed"],
 	"gerund": ["filming"],
@@ -4289,7 +4094,6 @@
 	},
 	"imperative": ["film", "film", "film"]
 }, {
-	"verb": "fire",
 	"infinitive": ["fire"],
 	"participle": ["fired"],
 	"gerund": ["firing"],
@@ -4311,7 +4115,6 @@
 	},
 	"imperative": ["fire", "fire", "fire"]
 }, {
-	"verb": "fetch",
 	"infinitive": ["fetch"],
 	"participle": ["fetched"],
 	"gerund": ["fetching"],
@@ -4333,7 +4136,6 @@
 	},
 	"imperative": ["fetch", "fetch", "fetch"]
 }, {
-	"verb": "fix",
 	"infinitive": ["fix"],
 	"participle": ["fixed"],
 	"gerund": ["fixing"],
@@ -4355,7 +4157,6 @@
 	},
 	"imperative": ["fix", "fix", "fix"]
 }, {
-	"verb": "fit",
 	"infinitive": ["fit"],
 	"participle": ["fitted"],
 	"gerund": ["fitting"],
@@ -4377,7 +4178,6 @@
 	},
 	"imperative": ["fit", "fit", "fit"]
 }, {
-	"verb": "fancy",
 	"infinitive": ["fancy"],
 	"participle": ["fancied"],
 	"gerund": ["fancying"],
@@ -4399,7 +4199,6 @@
 	},
 	"imperative": ["fancy", "fancy", "fancy"]
 }, {
-	"verb": "flash",
 	"infinitive": ["flash"],
 	"participle": ["flashed"],
 	"gerund": ["flashing"],
@@ -4421,7 +4220,6 @@
 	},
 	"imperative": ["flash", "flash", "flash"]
 }, {
-	"verb": "flap",
 	"infinitive": ["flap"],
 	"participle": ["flaped"],
 	"gerund": ["flaping"],
@@ -4443,7 +4241,6 @@
 	},
 	"imperative": ["flap", "flap", "flap"]
 }, {
-	"verb": "flood",
 	"infinitive": ["flood"],
 	"participle": ["flooded"],
 	"gerund": ["flooding"],
@@ -4465,7 +4262,6 @@
 	},
 	"imperative": ["flood", "flood", "flood"]
 }, {
-	"verb": "flow",
 	"infinitive": ["flow"],
 	"participle": ["flowed"],
 	"gerund": ["flowing"],
@@ -4487,7 +4283,6 @@
 	},
 	"imperative": ["flow", "flow", "flow"]
 }, {
-	"verb": "fold",
 	"infinitive": ["fold"],
 	"participle": ["folded"],
 	"gerund": ["folding"],
@@ -4509,7 +4304,6 @@
 	},
 	"imperative": ["fold", "fold", "fold"]
 }, {
-	"verb": "flower",
 	"infinitive": ["flower"],
 	"participle": ["flowered"],
 	"gerund": ["flowering"],
@@ -4531,7 +4325,6 @@
 	},
 	"imperative": ["flower", "flower", "flower"]
 }, {
-	"verb": "frame",
 	"infinitive": ["frame"],
 	"participle": ["framed"],
 	"gerund": ["framing"],
@@ -4553,7 +4346,6 @@
 	},
 	"imperative": ["frame", "frame", "frame"]
 }, {
-	"verb": "force",
 	"infinitive": ["force"],
 	"participle": ["forced"],
 	"gerund": ["forcing"],
@@ -4575,7 +4367,6 @@
 	},
 	"imperative": ["force", "force", "force"]
 }, {
-	"verb": "follow",
 	"infinitive": ["follow"],
 	"participle": ["followed"],
 	"gerund": ["following"],
@@ -4597,7 +4388,6 @@
 	},
 	"imperative": ["follow", "follow", "follow"]
 }, {
-	"verb": "frighten",
 	"infinitive": ["frighten"],
 	"participle": ["frightened"],
 	"gerund": ["frightening"],
@@ -4619,7 +4409,6 @@
 	},
 	"imperative": ["frighten", "frighten", "frighten"]
 }, {
-	"verb": "glow",
 	"infinitive": ["glow"],
 	"participle": ["glowed"],
 	"gerund": ["glowing"],
@@ -4641,7 +4430,6 @@
 	},
 	"imperative": ["glow", "glow", "glow"]
 }, {
-	"verb": "gaze",
 	"infinitive": ["gaze"],
 	"participle": ["gazed"],
 	"gerund": ["gazing"],
@@ -4663,7 +4451,6 @@
 	},
 	"imperative": ["gaze", "gaze", "gaze"]
 }, {
-	"verb": "fool",
 	"infinitive": ["fool"],
 	"participle": ["fooled"],
 	"gerund": ["fooling"],
@@ -4685,7 +4472,6 @@
 	},
 	"imperative": ["fool", "fool", "fool"]
 }, {
-	"verb": "gather",
 	"infinitive": ["gather"],
 	"participle": ["gathered"],
 	"gerund": ["gathering"],
@@ -4707,7 +4493,6 @@
 	},
 	"imperative": ["gather", "gather", "gather"]
 }, {
-	"verb": "fry",
 	"infinitive": ["fry"],
 	"participle": ["fried"],
 	"gerund": ["frying"],
@@ -4729,7 +4514,6 @@
 	},
 	"imperative": ["fry", "fry", "fry"]
 }, {
-	"verb": "float",
 	"infinitive": ["float"],
 	"participle": ["floated"],
 	"gerund": ["floating"],
@@ -4751,7 +4535,6 @@
 	},
 	"imperative": ["float", "float", "float"]
 }, {
-	"verb": "found",
 	"infinitive": ["found"],
 	"participle": ["founded"],
 	"gerund": ["founding"],
@@ -4773,7 +4556,6 @@
 	},
 	"imperative": ["found", "found", "found"]
 }, {
-	"verb": "grab",
 	"infinitive": ["grab"],
 	"participle": ["grabed"],
 	"gerund": ["grabing"],
@@ -4795,7 +4577,6 @@
 	},
 	"imperative": ["grab", "grab", "grab"]
 }, {
-	"verb": "glue",
 	"infinitive": ["glue"],
 	"participle": ["glued"],
 	"gerund": ["gluing"],
@@ -4817,7 +4598,6 @@
 	},
 	"imperative": ["glue", "glue", "glue"]
 }, {
-	"verb": "form",
 	"infinitive": ["form"],
 	"participle": ["formed"],
 	"gerund": ["forming"],
@@ -4839,7 +4619,6 @@
 	},
 	"imperative": ["form", "form", "form"]
 }, {
-	"verb": "grease",
 	"infinitive": ["grease"],
 	"participle": ["greased"],
 	"gerund": ["greasing"],
@@ -4861,7 +4640,6 @@
 	},
 	"imperative": ["grease", "grease", "grease"]
 }, {
-	"verb": "grip",
 	"infinitive": ["grip"],
 	"participle": ["gripped"],
 	"gerund": ["gripping"],
@@ -4883,7 +4661,6 @@
 	},
 	"imperative": ["grip", "grip", "grip"]
 }, {
-	"verb": "grin",
 	"infinitive": ["grin"],
 	"participle": ["grined"],
 	"gerund": ["grining"],
@@ -4905,7 +4682,6 @@
 	},
 	"imperative": ["grin", "grin", "grin"]
 }, {
-	"verb": "guard",
 	"infinitive": ["guard"],
 	"participle": ["guarded"],
 	"gerund": ["guarding"],
@@ -4927,7 +4703,6 @@
 	},
 	"imperative": ["guard", "guard", "guard"]
 }, {
-	"verb": "guess",
 	"infinitive": ["guess"],
 	"participle": ["guessed"],
 	"gerund": ["guessing"],
@@ -4949,7 +4724,6 @@
 	},
 	"imperative": ["guess", "guess", "guess"]
 }, {
-	"verb": "guarantee",
 	"infinitive": ["guarantee"],
 	"participle": ["guaranteed"],
 	"gerund": ["guaranteeing"],
@@ -4971,7 +4745,6 @@
 	},
 	"imperative": ["guarantee", "guarantee", "guarantee"]
 }, {
-	"verb": "hammer",
 	"infinitive": ["hammer"],
 	"participle": ["hammered"],
 	"gerund": ["hammering"],
@@ -4993,7 +4766,6 @@
 	},
 	"imperative": ["hammer", "hammer", "hammer"]
 }, {
-	"verb": "guide",
 	"infinitive": ["guide"],
 	"participle": ["guided"],
 	"gerund": ["guiding"],
@@ -5015,7 +4787,6 @@
 	},
 	"imperative": ["guide", "guide", "guide"]
 }, {
-	"verb": "groan",
 	"infinitive": ["groan"],
 	"participle": ["groaned"],
 	"gerund": ["groaning"],
@@ -5037,7 +4808,6 @@
 	},
 	"imperative": ["groan", "groan", "groan"]
 }, {
-	"verb": "haunt",
 	"infinitive": ["haunt"],
 	"participle": ["haunted"],
 	"gerund": ["haunting"],
@@ -5059,7 +4829,6 @@
 	},
 	"imperative": ["haunt", "haunt", "haunt"]
 }, {
-	"verb": "handle",
 	"infinitive": ["handle"],
 	"participle": ["handled"],
 	"gerund": ["handling"],
@@ -5081,7 +4850,6 @@
 	},
 	"imperative": ["handle", "handle", "handle"]
 }, {
-	"verb": "hang",
 	"infinitive": ["hang"],
 	"participle": ["hanged", "hung"],
 	"gerund": ["hanging"],
@@ -5103,7 +4871,6 @@
 	},
 	"imperative": ["hang", "hang", "hang"]
 }, {
-	"verb": "happen",
 	"infinitive": ["happen"],
 	"participle": ["happened"],
 	"gerund": ["happening"],
@@ -5125,7 +4892,6 @@
 	},
 	"imperative": ["happen", "happen", "happen"]
 }, {
-	"verb": "hand",
 	"infinitive": ["hand"],
 	"participle": ["handed"],
 	"gerund": ["handing"],
@@ -5147,7 +4913,6 @@
 	},
 	"imperative": ["hand", "hand", "hand"]
 }, {
-	"verb": "hate",
 	"infinitive": ["hate"],
 	"participle": ["hated"],
 	"gerund": ["hating"],
@@ -5169,7 +4934,6 @@
 	},
 	"imperative": ["hate", "hate", "hate"]
 }, {
-	"verb": "head",
 	"infinitive": ["head"],
 	"participle": ["headed"],
 	"gerund": ["heading"],
@@ -5191,7 +4955,6 @@
 	},
 	"imperative": ["head", "head", "head"]
 }, {
-	"verb": "harm",
 	"infinitive": ["harm"],
 	"participle": ["harmed"],
 	"gerund": ["harming"],
@@ -5213,7 +4976,6 @@
 	},
 	"imperative": ["harm", "harm", "harm"]
 }, {
-	"verb": "grate",
 	"infinitive": ["grate"],
 	"participle": ["grated"],
 	"gerund": ["grating"],
@@ -5235,7 +4997,6 @@
 	},
 	"imperative": ["grate", "grate", "grate"]
 }, {
-	"verb": "harass",
 	"infinitive": ["harass"],
 	"participle": ["harassed"],
 	"gerund": ["harassing"],
@@ -5257,7 +5018,6 @@
 	},
 	"imperative": ["harass", "harass", "harass"]
 }, {
-	"verb": "greet",
 	"infinitive": ["greet"],
 	"participle": ["greeted"],
 	"gerund": ["greeting"],
@@ -5279,7 +5039,6 @@
 	},
 	"imperative": ["greet", "greet", "greet"]
 }, {
-	"verb": "heap",
 	"infinitive": ["heap"],
 	"participle": ["heaped"],
 	"gerund": ["heaping"],
@@ -5301,7 +5060,6 @@
 	},
 	"imperative": ["heap", "heap", "heap"]
 }, {
-	"verb": "hug",
 	"infinitive": ["hug"],
 	"participle": ["hugged"],
 	"gerund": ["hugging"],
@@ -5323,7 +5081,6 @@
 	},
 	"imperative": ["hug", "hug", "hug"]
 }, {
-	"verb": "heal",
 	"infinitive": ["heal"],
 	"participle": ["healed"],
 	"gerund": ["healing"],
@@ -5345,7 +5102,6 @@
 	},
 	"imperative": ["heal", "heal", "heal"]
 }, {
-	"verb": "hook",
 	"infinitive": ["hook"],
 	"participle": ["hooked"],
 	"gerund": ["hooking"],
@@ -5367,7 +5123,6 @@
 	},
 	"imperative": ["hook", "hook", "hook"]
 }, {
-	"verb": "help",
 	"infinitive": ["help"],
 	"participle": ["helped"],
 	"gerund": ["helping"],
@@ -5389,7 +5144,6 @@
 	},
 	"imperative": ["help", "help", "help"]
 }, {
-	"verb": "hop",
 	"infinitive": ["hop"],
 	"participle": ["hopped"],
 	"gerund": ["hopping"],
@@ -5411,7 +5165,6 @@
 	},
 	"imperative": ["hop", "hop", "hop"]
 }, {
-	"verb": "hover",
 	"infinitive": ["hover"],
 	"participle": ["hovered"],
 	"gerund": ["hovering"],
@@ -5433,7 +5186,6 @@
 	},
 	"imperative": ["hover", "hover", "hover"]
 }, {
-	"verb": "hope",
 	"infinitive": ["hope"],
 	"participle": ["hoped"],
 	"gerund": ["hoping"],
@@ -5455,7 +5207,6 @@
 	},
 	"imperative": ["hope", "hope", "hope"]
 }, {
-	"verb": "identify",
 	"infinitive": ["identify"],
 	"participle": ["identified"],
 	"gerund": ["identifying"],
@@ -5477,7 +5228,6 @@
 	},
 	"imperative": ["identify", "identify", "identify"]
 }, {
-	"verb": "heat",
 	"infinitive": ["heat"],
 	"participle": ["heated"],
 	"gerund": ["heating"],
@@ -5499,7 +5249,6 @@
 	},
 	"imperative": ["heat", "heat", "heat"]
 }, {
-	"verb": "imagine",
 	"infinitive": ["imagine"],
 	"participle": ["imagined"],
 	"gerund": ["imagining"],
@@ -5521,7 +5270,6 @@
 	},
 	"imperative": ["imagine", "imagine", "imagine"]
 }, {
-	"verb": "include",
 	"infinitive": ["include"],
 	"participle": ["included"],
 	"gerund": ["including"],
@@ -5543,7 +5291,6 @@
 	},
 	"imperative": ["include", "include", "include"]
 }, {
-	"verb": "hum",
 	"infinitive": ["hum"],
 	"participle": ["hummed"],
 	"gerund": ["humming"],
@@ -5565,7 +5312,6 @@
 	},
 	"imperative": ["hum", "hum", "hum"]
 }, {
-	"verb": "influence",
 	"infinitive": ["influence"],
 	"participle": ["influenced"],
 	"gerund": ["influencing"],
@@ -5587,7 +5333,6 @@
 	},
 	"imperative": ["influence", "influence", "influence"]
 }, {
-	"verb": "impress",
 	"infinitive": ["impress"],
 	"participle": ["impressed"],
 	"gerund": ["impressing"],
@@ -5609,7 +5354,6 @@
 	},
 	"imperative": ["impress", "impress", "impress"]
 }, {
-	"verb": "hurry",
 	"infinitive": ["hurry"],
 	"participle": ["hurried"],
 	"gerund": ["hurrying"],
@@ -5631,7 +5375,6 @@
 	},
 	"imperative": ["hurry", "hurry", "hurry"]
 }, {
-	"verb": "increase",
 	"infinitive": ["increase"],
 	"participle": ["increased"],
 	"gerund": ["increasing"],
@@ -5653,7 +5396,6 @@
 	},
 	"imperative": ["increase", "increase", "increase"]
 }, {
-	"verb": "ignore",
 	"infinitive": ["ignore"],
 	"participle": ["ignored"],
 	"gerund": ["ignoring"],
@@ -5675,7 +5417,6 @@
 	},
 	"imperative": ["ignore", "ignore", "ignore"]
 }, {
-	"verb": "hunt",
 	"infinitive": ["hunt"],
 	"participle": ["hunted"],
 	"gerund": ["hunting"],
@@ -5697,7 +5438,6 @@
 	},
 	"imperative": ["hunt", "hunt", "hunt"]
 }, {
-	"verb": "improve",
 	"infinitive": ["improve"],
 	"participle": ["improved"],
 	"gerund": ["improving"],
@@ -5719,7 +5459,6 @@
 	},
 	"imperative": ["improve", "improve", "improve"]
 }, {
-	"verb": "injure",
 	"infinitive": ["injure"],
 	"participle": ["injured"],
 	"gerund": ["injuring"],
@@ -5741,7 +5480,6 @@
 	},
 	"imperative": ["injure", "injure", "injure"]
 }, {
-	"verb": "inform",
 	"infinitive": ["inform"],
 	"participle": ["informed"],
 	"gerund": ["informing"],
@@ -5763,7 +5501,6 @@
 	},
 	"imperative": ["inform", "inform", "inform"]
 }, {
-	"verb": "inject",
 	"infinitive": ["inject"],
 	"participle": ["injected"],
 	"gerund": ["injecting"],
@@ -5785,7 +5522,6 @@
 	},
 	"imperative": ["inject", "inject", "inject"]
 }, {
-	"verb": "interfere",
 	"infinitive": ["interfere"],
 	"participle": ["interfered"],
 	"gerund": ["interfering"],
@@ -5807,7 +5543,6 @@
 	},
 	"imperative": ["interfere", "interfere", "interfere"]
 }, {
-	"verb": "instruct",
 	"infinitive": ["instruct"],
 	"participle": ["instructed"],
 	"gerund": ["instructing"],
@@ -5829,7 +5564,6 @@
 	},
 	"imperative": ["instruct", "instruct", "instruct"]
 }, {
-	"verb": "intend",
 	"infinitive": ["intend"],
 	"participle": ["intended"],
 	"gerund": ["intending"],
@@ -5851,7 +5585,6 @@
 	},
 	"imperative": ["intend", "intend", "intend"]
 }, {
-	"verb": "invite",
 	"infinitive": ["invite"],
 	"participle": ["invited"],
 	"gerund": ["inviting"],
@@ -5873,7 +5606,6 @@
 	},
 	"imperative": ["invite", "invite", "invite"]
 }, {
-	"verb": "interrupt",
 	"infinitive": ["interrupt"],
 	"participle": ["interrupted"],
 	"gerund": ["interrupting"],
@@ -5895,7 +5627,6 @@
 	},
 	"imperative": ["interrupt", "interrupt", "interrupt"]
 }, {
-	"verb": "introduce",
 	"infinitive": ["introduce"],
 	"participle": ["introduced"],
 	"gerund": ["introducing"],
@@ -5917,7 +5648,6 @@
 	},
 	"imperative": ["introduce", "introduce", "introduce"]
 }, {
-	"verb": "jam",
 	"infinitive": ["jam"],
 	"participle": ["jamed"],
 	"gerund": ["jaming"],
@@ -5939,7 +5669,6 @@
 	},
 	"imperative": ["jam", "jam", "jam"]
 }, {
-	"verb": "itch",
 	"infinitive": ["itch"],
 	"participle": ["itched"],
 	"gerund": ["itching"],
@@ -5961,7 +5690,6 @@
 	},
 	"imperative": ["itch", "itch", "itch"]
 }, {
-	"verb": "irritate",
 	"infinitive": ["irritate"],
 	"participle": ["irritated"],
 	"gerund": ["irritating"],
@@ -5983,7 +5711,6 @@
 	},
 	"imperative": ["irritate", "irritate", "irritate"]
 }, {
-	"verb": "judge",
 	"infinitive": ["judge"],
 	"participle": ["judged"],
 	"gerund": ["judging"],
@@ -6005,7 +5732,6 @@
 	},
 	"imperative": ["judge", "judge", "judge"]
 }, {
-	"verb": "invent",
 	"infinitive": ["invent"],
 	"participle": ["invented"],
 	"gerund": ["inventing"],
@@ -6027,7 +5753,6 @@
 	},
 	"imperative": ["invent", "invent", "invent"]
 }, {
-	"verb": "joke",
 	"infinitive": ["joke"],
 	"participle": ["joked"],
 	"gerund": ["joking"],
@@ -6049,7 +5774,6 @@
 	},
 	"imperative": ["joke", "joke", "joke"]
 }, {
-	"verb": "join",
 	"infinitive": ["join"],
 	"participle": ["joined"],
 	"gerund": ["joining"],
@@ -6071,7 +5795,6 @@
 	},
 	"imperative": ["join", "join", "join"]
 }, {
-	"verb": "interest",
 	"infinitive": ["interest"],
 	"participle": ["interested"],
 	"gerund": ["interesting"],
@@ -6093,7 +5816,6 @@
 	},
 	"imperative": ["interest", "interest", "interest"]
 }, {
-	"verb": "jail",
 	"infinitive": ["jail"],
 	"participle": ["jailed"],
 	"gerund": ["jailing"],
@@ -6115,7 +5837,6 @@
 	},
 	"imperative": ["jail", "jail", "jail"]
 }, {
-	"verb": "jog",
 	"infinitive": ["jog"],
 	"participle": ["joged"],
 	"gerund": ["joging"],
@@ -6137,7 +5858,6 @@
 	},
 	"imperative": ["jog", "jog", "jog"]
 }, {
-	"verb": "juggle",
 	"infinitive": ["juggle"],
 	"participle": ["juggled"],
 	"gerund": ["juggling"],
@@ -6159,7 +5879,6 @@
 	},
 	"imperative": ["juggle", "juggle", "juggle"]
 }, {
-	"verb": "land",
 	"infinitive": ["land"],
 	"participle": ["landed"],
 	"gerund": ["landing"],
@@ -6181,7 +5900,6 @@
 	},
 	"imperative": ["land", "land", "land"]
 }, {
-	"verb": "kneel",
 	"infinitive": ["kneel"],
 	"participle": ["knelt", "kneeled"],
 	"gerund": ["kneeling"],
@@ -6203,7 +5921,6 @@
 	},
 	"imperative": ["kneel", "kneel", "kneel"]
 }, {
-	"verb": "kiss",
 	"infinitive": ["kiss"],
 	"participle": ["kissed"],
 	"gerund": ["kissing"],
@@ -6225,7 +5942,6 @@
 	},
 	"imperative": ["kiss", "kiss", "kiss"]
 }, {
-	"verb": "jump",
 	"infinitive": ["jump"],
 	"participle": ["jumped"],
 	"gerund": ["jumping"],
@@ -6247,7 +5963,6 @@
 	},
 	"imperative": ["jump", "jump", "jump"]
 }, {
-	"verb": "knock",
 	"infinitive": ["knock"],
 	"participle": ["knocked"],
 	"gerund": ["knocking"],
@@ -6269,7 +5984,6 @@
 	},
 	"imperative": ["knock", "knock", "knock"]
 }, {
-	"verb": "knit",
 	"infinitive": ["knit"],
 	"participle": ["knitted", "knit"],
 	"gerund": ["knitting"],
@@ -6291,7 +6005,6 @@
 	},
 	"imperative": ["knit", "knit", "knit"]
 }, {
-	"verb": "launch",
 	"infinitive": ["launch"],
 	"participle": ["launched"],
 	"gerund": ["launching"],
@@ -6313,7 +6026,6 @@
 	},
 	"imperative": ["launch", "launch", "launch"]
 }, {
-	"verb": "label",
 	"infinitive": ["label"],
 	"participle": ["labeled", "labelled"],
 	"gerund": ["labeling", "labelling"],
@@ -6335,7 +6047,6 @@
 	},
 	"imperative": ["label", "label", "label"]
 }, {
-	"verb": "kick",
 	"infinitive": ["kick"],
 	"participle": ["kicked"],
 	"gerund": ["kicking"],
@@ -6357,7 +6068,6 @@
 	},
 	"imperative": ["kick", "kick", "kick"]
 }, {
-	"verb": "learn",
 	"infinitive": ["learn"],
 	"participle": ["learnt", "learned"],
 	"gerund": ["learning"],
@@ -6379,7 +6089,6 @@
 	},
 	"imperative": ["learn", "learn", "learn"]
 }, {
-	"verb": "license",
 	"infinitive": ["license"],
 	"participle": ["licensed"],
 	"gerund": ["licensing"],
@@ -6401,7 +6110,6 @@
 	},
 	"imperative": ["license", "license", "license"]
 }, {
-	"verb": "level",
 	"infinitive": ["level"],
 	"participle": ["leveled", "levelled"],
 	"gerund": ["leveling", "levelling"],
@@ -6423,7 +6131,6 @@
 	},
 	"imperative": ["level", "level", "level"]
 }, {
-	"verb": "kill",
 	"infinitive": ["kill"],
 	"participle": ["killed"],
 	"gerund": ["killing"],
@@ -6445,7 +6152,6 @@
 	},
 	"imperative": ["kill", "kill", "kill"]
 }, {
-	"verb": "laugh",
 	"infinitive": ["laugh"],
 	"participle": ["laughed"],
 	"gerund": ["laughing"],
@@ -6467,7 +6173,6 @@
 	},
 	"imperative": ["laugh", "laugh", "laugh"]
 }, {
-	"verb": "lighten",
 	"infinitive": ["lighten"],
 	"participle": ["lightened"],
 	"gerund": ["lightening"],
@@ -6489,7 +6194,6 @@
 	},
 	"imperative": ["lighten", "lighten", "lighten"]
 }, {
-	"verb": "last",
 	"infinitive": ["last"],
 	"participle": ["lasted"],
 	"gerund": ["lasting"],
@@ -6511,7 +6215,6 @@
 	},
 	"imperative": ["last", "last", "last"]
 }, {
-	"verb": "knot",
 	"infinitive": ["knot"],
 	"participle": ["knoted"],
 	"gerund": ["knoting"],
@@ -6533,7 +6236,6 @@
 	},
 	"imperative": ["knot", "knot", "knot"]
 }, {
-	"verb": "like",
 	"infinitive": ["like"],
 	"participle": ["liked"],
 	"gerund": ["liking"],
@@ -6555,7 +6257,6 @@
 	},
 	"imperative": ["like", "like", "like"]
 }, {
-	"verb": "lick",
 	"infinitive": ["lick"],
 	"participle": ["licked"],
 	"gerund": ["licking"],
@@ -6577,7 +6278,6 @@
 	},
 	"imperative": ["lick", "lick", "lick"]
 }, {
-	"verb": "lie",
 	"infinitive": ["lie"],
 	"participle": ["lain", "lied"],
 	"gerund": ["lying"],
@@ -6599,7 +6299,6 @@
 	},
 	"imperative": ["lie", "lie", "lie"]
 }, {
-	"verb": "listen",
 	"infinitive": ["listen"],
 	"participle": ["listened"],
 	"gerund": ["listening"],
@@ -6621,7 +6320,6 @@
 	},
 	"imperative": ["listen", "listen", "listen"]
 }, {
-	"verb": "load",
 	"infinitive": ["load"],
 	"participle": ["loaded"],
 	"gerund": ["loading"],
@@ -6643,7 +6341,6 @@
 	},
 	"imperative": ["load", "load", "load"]
 }, {
-	"verb": "live",
 	"infinitive": ["live"],
 	"participle": ["lived"],
 	"gerund": ["living"],
@@ -6665,7 +6362,6 @@
 	},
 	"imperative": ["live", "live", "live"]
 }, {
-	"verb": "lock",
 	"infinitive": ["lock"],
 	"participle": ["locked"],
 	"gerund": ["locking"],
@@ -6687,7 +6383,6 @@
 	},
 	"imperative": ["lock", "lock", "lock"]
 }, {
-	"verb": "list",
 	"infinitive": ["list"],
 	"participle": ["listed"],
 	"gerund": ["listing"],
@@ -6709,7 +6404,6 @@
 	},
 	"imperative": ["list", "list", "list"]
 }, {
-	"verb": "look",
 	"infinitive": ["look"],
 	"participle": ["looked"],
 	"gerund": ["looking"],
@@ -6731,7 +6425,6 @@
 	},
 	"imperative": ["look", "look", "look"]
 }, {
-	"verb": "long",
 	"infinitive": ["long"],
 	"participle": ["longed"],
 	"gerund": ["longing"],
@@ -6753,7 +6446,6 @@
 	},
 	"imperative": ["long", "long", "long"]
 }, {
-	"verb": "marry",
 	"infinitive": ["marry"],
 	"participle": ["married"],
 	"gerund": ["marrying"],
@@ -6775,7 +6467,6 @@
 	},
 	"imperative": ["marry", "marry", "marry"]
 }, {
-	"verb": "memorise",
 	"infinitive": ["memorise"],
 	"participle": ["memorised"],
 	"gerund": ["memorising"],
@@ -6797,7 +6488,6 @@
 	},
 	"imperative": ["memorise", "memorise", "memorise"]
 }, {
-	"verb": "love",
 	"infinitive": ["love"],
 	"participle": ["loved"],
 	"gerund": ["loving"],
@@ -6819,7 +6509,6 @@
 	},
 	"imperative": ["love", "love", "love"]
 }, {
-	"verb": "manage",
 	"infinitive": ["manage"],
 	"participle": ["managed"],
 	"gerund": ["managing"],
@@ -6841,7 +6530,6 @@
 	},
 	"imperative": ["manage", "manage", "manage"]
 }, {
-	"verb": "man",
 	"infinitive": ["man"],
 	"participle": ["maned"],
 	"gerund": ["maning"],
@@ -6863,7 +6551,6 @@
 	},
 	"imperative": ["man", "man", "man"]
 }, {
-	"verb": "measure",
 	"infinitive": ["measure"],
 	"participle": ["measured"],
 	"gerund": ["measuring"],
@@ -6885,7 +6572,6 @@
 	},
 	"imperative": ["measure", "measure", "measure"]
 }, {
-	"verb": "march",
 	"infinitive": ["march"],
 	"participle": ["marched"],
 	"gerund": ["marching"],
@@ -6907,7 +6593,6 @@
 	},
 	"imperative": ["march", "march", "march"]
 }, {
-	"verb": "mark",
 	"infinitive": ["mark"],
 	"participle": ["marked"],
 	"gerund": ["marking"],
@@ -6929,7 +6614,6 @@
 	},
 	"imperative": ["mark", "mark", "mark"]
 }, {
-	"verb": "matter",
 	"infinitive": ["matter"],
 	"participle": ["mattered"],
 	"gerund": ["mattering"],
@@ -6951,7 +6635,6 @@
 	},
 	"imperative": ["matter", "matter", "matter"]
 }, {
-	"verb": "match",
 	"infinitive": ["match"],
 	"participle": ["matched"],
 	"gerund": ["matching"],
@@ -6973,7 +6656,6 @@
 	},
 	"imperative": ["match", "match", "match"]
 }, {
-	"verb": "melt",
 	"infinitive": ["melt"],
 	"participle": ["melted"],
 	"gerund": ["melting"],
@@ -6995,7 +6677,6 @@
 	},
 	"imperative": ["melt", "melt", "melt"]
 }, {
-	"verb": "mate",
 	"infinitive": ["mate"],
 	"participle": ["mated"],
 	"gerund": ["mating"],
@@ -7017,7 +6698,6 @@
 	},
 	"imperative": ["mate", "mate", "mate"]
 }, {
-	"verb": "meddle",
 	"infinitive": ["meddle"],
 	"participle": ["meddled"],
 	"gerund": ["meddling"],
@@ -7039,7 +6719,6 @@
 	},
 	"imperative": ["meddle", "meddle", "meddle"]
 }, {
-	"verb": "miss",
 	"infinitive": ["miss"],
 	"participle": ["missed"],
 	"gerund": ["missing"],
@@ -7061,7 +6740,6 @@
 	},
 	"imperative": ["miss", "miss", "miss"]
 }, {
-	"verb": "mend",
 	"infinitive": ["mend"],
 	"participle": ["mended"],
 	"gerund": ["mending"],
@@ -7083,7 +6761,6 @@
 	},
 	"imperative": ["mend", "mend", "mend"]
 }, {
-	"verb": "moor",
 	"infinitive": ["moor"],
 	"participle": ["moored"],
 	"gerund": ["mooring"],
@@ -7105,7 +6782,6 @@
 	},
 	"imperative": ["moor", "moor", "moor"]
 }, {
-	"verb": "moan",
 	"infinitive": ["moan"],
 	"participle": ["moaned"],
 	"gerund": ["moaning"],
@@ -7127,7 +6803,6 @@
 	},
 	"imperative": ["moan", "moan", "moan"]
 }, {
-	"verb": "mix",
 	"infinitive": ["mix"],
 	"participle": ["mixed"],
 	"gerund": ["mixing"],
@@ -7149,7 +6824,6 @@
 	},
 	"imperative": ["mix", "mix", "mix"]
 }, {
-	"verb": "mess",
 	"infinitive": ["up"],
 	"participle": ["up"],
 	"gerund": ["up"],
@@ -7171,7 +6845,6 @@
 	},
 	"imperative": ["up", "up", "up"]
 }, {
-	"verb": "name",
 	"infinitive": ["name"],
 	"participle": ["named"],
 	"gerund": ["naming"],
@@ -7193,7 +6866,6 @@
 	},
 	"imperative": ["name", "name", "name"]
 }, {
-	"verb": "mug",
 	"infinitive": ["mug"],
 	"participle": ["mugged"],
 	"gerund": ["mugging"],
@@ -7215,7 +6887,6 @@
 	},
 	"imperative": ["mug", "mug", "mug"]
 }, {
-	"verb": "move",
 	"infinitive": ["move"],
 	"participle": ["moved"],
 	"gerund": ["moving"],
@@ -7237,7 +6908,6 @@
 	},
 	"imperative": ["move", "move", "move"]
 }, {
-	"verb": "muddle",
 	"infinitive": ["muddle"],
 	"participle": ["muddled"],
 	"gerund": ["muddling"],
@@ -7259,7 +6929,6 @@
 	},
 	"imperative": ["muddle", "muddle", "muddle"]
 }, {
-	"verb": "need",
 	"infinitive": ["need"],
 	"participle": ["needed"],
 	"gerund": ["needing"],
@@ -7281,7 +6950,6 @@
 	},
 	"imperative": ["need", "need", "need"]
 }, {
-	"verb": "nest",
 	"infinitive": ["nest"],
 	"participle": ["nested"],
 	"gerund": ["nesting"],
@@ -7303,7 +6971,6 @@
 	},
 	"imperative": ["nest", "nest", "nest"]
 }, {
-	"verb": "murder",
 	"infinitive": ["murder"],
 	"participle": ["murdered"],
 	"gerund": ["murdering"],
@@ -7325,7 +6992,6 @@
 	},
 	"imperative": ["murder", "murder", "murder"]
 }, {
-	"verb": "nail",
 	"infinitive": ["nail"],
 	"participle": ["nailed"],
 	"gerund": ["nailing"],
@@ -7347,7 +7013,6 @@
 	},
 	"imperative": ["nail", "nail", "nail"]
 }, {
-	"verb": "multiply",
 	"infinitive": ["multiply"],
 	"participle": ["multiplied"],
 	"gerund": ["multiplying"],
@@ -7369,7 +7034,6 @@
 	},
 	"imperative": ["multiply", "multiply", "multiply"]
 }, {
-	"verb": "mourn",
 	"infinitive": ["mourn"],
 	"participle": ["mourned"],
 	"gerund": ["mourning"],
@@ -7391,7 +7055,6 @@
 	},
 	"imperative": ["mourn", "mourn", "mourn"]
 }, {
-	"verb": "nod",
 	"infinitive": ["nod"],
 	"participle": ["nodded"],
 	"gerund": ["nodding"],
@@ -7413,7 +7076,6 @@
 	},
 	"imperative": ["nod", "nod", "nod"]
 }, {
-	"verb": "milk",
 	"infinitive": ["milk"],
 	"participle": ["milked"],
 	"gerund": ["milking"],
@@ -7435,7 +7097,6 @@
 	},
 	"imperative": ["milk", "milk", "milk"]
 }, {
-	"verb": "note",
 	"infinitive": ["note"],
 	"participle": ["noted"],
 	"gerund": ["noting"],
@@ -7457,7 +7118,6 @@
 	},
 	"imperative": ["note", "note", "note"]
 }, {
-	"verb": "mine",
 	"infinitive": ["mine"],
 	"participle": ["mined"],
 	"gerund": ["mining"],
@@ -7479,7 +7139,6 @@
 	},
 	"imperative": ["mine", "mine", "mine"]
 }, {
-	"verb": "number",
 	"infinitive": ["number"],
 	"participle": ["numbered"],
 	"gerund": ["numbering"],
@@ -7501,7 +7160,6 @@
 	},
 	"imperative": ["number", "number", "number"]
 }, {
-	"verb": "notice",
 	"infinitive": ["notice"],
 	"participle": ["noticed"],
 	"gerund": ["noticing"],
@@ -7523,7 +7181,6 @@
 	},
 	"imperative": ["notice", "notice", "notice"]
 }, {
-	"verb": "obey",
 	"infinitive": ["obey"],
 	"participle": ["obeyed"],
 	"gerund": ["obeying"],
@@ -7545,7 +7202,6 @@
 	},
 	"imperative": ["obey", "obey", "obey"]
 }, {
-	"verb": "offer",
 	"infinitive": ["offer"],
 	"participle": ["offered"],
 	"gerund": ["offering"],
@@ -7567,7 +7223,6 @@
 	},
 	"imperative": ["offer", "offer", "offer"]
 }, {
-	"verb": "occur",
 	"infinitive": ["occur"],
 	"participle": ["occurred"],
 	"gerund": ["occurring"],
@@ -7589,7 +7244,6 @@
 	},
 	"imperative": ["occur", "occur", "occur"]
 }, {
-	"verb": "observe",
 	"infinitive": ["observe"],
 	"participle": ["observed"],
 	"gerund": ["observing"],
@@ -7611,7 +7265,6 @@
 	},
 	"imperative": ["observe", "observe", "observe"]
 }, {
-	"verb": "obtain",
 	"infinitive": ["obtain"],
 	"participle": ["obtained"],
 	"gerund": ["obtaining"],
@@ -7633,7 +7286,6 @@
 	},
 	"imperative": ["obtain", "obtain", "obtain"]
 }, {
-	"verb": "open",
 	"infinitive": ["open"],
 	"participle": ["opened"],
 	"gerund": ["opening"],
@@ -7655,7 +7307,6 @@
 	},
 	"imperative": ["open", "open", "open"]
 }, {
-	"verb": "owe",
 	"infinitive": ["owe"],
 	"participle": ["owed"],
 	"gerund": ["owing"],
@@ -7677,7 +7328,6 @@
 	},
 	"imperative": ["owe", "owe", "owe"]
 }, {
-	"verb": "paddle",
 	"infinitive": ["paddle"],
 	"participle": ["paddled"],
 	"gerund": ["paddling"],
@@ -7699,7 +7349,6 @@
 	},
 	"imperative": ["paddle", "paddle", "paddle"]
 }, {
-	"verb": "overflow",
 	"infinitive": ["overflow"],
 	"participle": ["overflowed"],
 	"gerund": ["overflowing"],
@@ -7721,7 +7370,6 @@
 	},
 	"imperative": ["overflow", "overflow", "overflow"]
 }, {
-	"verb": "own",
 	"infinitive": ["own"],
 	"participle": ["owned"],
 	"gerund": ["owning"],
@@ -7743,7 +7391,6 @@
 	},
 	"imperative": ["own", "own", "own"]
 }, {
-	"verb": "park",
 	"infinitive": ["park"],
 	"participle": ["parked"],
 	"gerund": ["parking"],
@@ -7765,7 +7412,6 @@
 	},
 	"imperative": ["park", "park", "park"]
 }, {
-	"verb": "order",
 	"infinitive": ["order"],
 	"participle": ["ordered"],
 	"gerund": ["ordering"],
@@ -7787,7 +7433,6 @@
 	},
 	"imperative": ["order", "order", "order"]
 }, {
-	"verb": "part",
 	"infinitive": ["part"],
 	"participle": ["parted"],
 	"gerund": ["parting"],
@@ -7809,7 +7454,6 @@
 	},
 	"imperative": ["part", "part", "part"]
 }, {
-	"verb": "pass",
 	"infinitive": ["pass"],
 	"participle": ["passed"],
 	"gerund": ["passing"],
@@ -7831,7 +7475,6 @@
 	},
 	"imperative": ["pass", "pass", "pass"]
 }, {
-	"verb": "paint",
 	"infinitive": ["paint"],
 	"participle": ["painted"],
 	"gerund": ["painting"],
@@ -7853,7 +7496,6 @@
 	},
 	"imperative": ["paint", "paint", "paint"]
 }, {
-	"verb": "offend",
 	"infinitive": ["offend"],
 	"participle": ["offended"],
 	"gerund": ["offending"],
@@ -7875,7 +7517,6 @@
 	},
 	"imperative": ["offend", "offend", "offend"]
 }, {
-	"verb": "pack",
 	"infinitive": ["pack"],
 	"participle": ["packed"],
 	"gerund": ["packing"],
@@ -7897,7 +7538,6 @@
 	},
 	"imperative": ["pack", "pack", "pack"]
 }, {
-	"verb": "object",
 	"infinitive": ["object"],
 	"participle": ["objected"],
 	"gerund": ["objecting"],
@@ -7919,7 +7559,6 @@
 	},
 	"imperative": ["object", "object", "object"]
 }, {
-	"verb": "paste",
 	"infinitive": ["paste"],
 	"participle": ["pasted"],
 	"gerund": ["pasting"],
@@ -7941,7 +7580,6 @@
 	},
 	"imperative": ["paste", "paste", "paste"]
 }, {
-	"verb": "pat",
 	"infinitive": ["pat"],
 	"participle": ["pated"],
 	"gerund": ["pating"],
@@ -7963,7 +7601,6 @@
 	},
 	"imperative": ["pat", "pat", "pat"]
 }, {
-	"verb": "pedal",
 	"infinitive": ["pedal"],
 	"participle": ["pedaled", "pedalled"],
 	"gerund": ["pedaling", "pedalling"],
@@ -7985,7 +7622,6 @@
 	},
 	"imperative": ["pedal", "pedal", "pedal"]
 }, {
-	"verb": "pause",
 	"infinitive": ["pause"],
 	"participle": ["paused"],
 	"gerund": ["pausing"],
@@ -8007,7 +7643,6 @@
 	},
 	"imperative": ["pause", "pause", "pause"]
 }, {
-	"verb": "peck",
 	"infinitive": ["peck"],
 	"participle": ["pecked"],
 	"gerund": ["pecking"],
@@ -8029,7 +7664,6 @@
 	},
 	"imperative": ["peck", "peck", "peck"]
 }, {
-	"verb": "pick",
 	"infinitive": ["pick"],
 	"participle": ["picked"],
 	"gerund": ["picking"],
@@ -8051,7 +7685,6 @@
 	},
 	"imperative": ["pick", "pick", "pick"]
 }, {
-	"verb": "perform",
 	"infinitive": ["perform"],
 	"participle": ["performed"],
 	"gerund": ["performing"],
@@ -8073,7 +7706,6 @@
 	},
 	"imperative": ["perform", "perform", "perform"]
 }, {
-	"verb": "peel",
 	"infinitive": ["peel"],
 	"participle": ["peeled"],
 	"gerund": ["peeling"],
@@ -8095,7 +7727,6 @@
 	},
 	"imperative": ["peel", "peel", "peel"]
 }, {
-	"verb": "phone",
 	"infinitive": ["phone"],
 	"participle": ["phoned"],
 	"gerund": ["phoning"],
@@ -8117,7 +7748,6 @@
 	},
 	"imperative": ["phone", "phone", "phone"]
 }, {
-	"verb": "pine",
 	"infinitive": ["pine"],
 	"participle": ["pined"],
 	"gerund": ["pining"],
@@ -8139,7 +7769,6 @@
 	},
 	"imperative": ["pine", "pine", "pine"]
 }, {
-	"verb": "permit",
 	"infinitive": ["permit"],
 	"participle": ["permitted"],
 	"gerund": ["permitting"],
@@ -8161,7 +7790,6 @@
 	},
 	"imperative": ["permit", "permit", "permit"]
 }, {
-	"verb": "plan",
 	"infinitive": ["plan"],
 	"participle": ["planned"],
 	"gerund": ["planning"],
@@ -8183,7 +7811,6 @@
 	},
 	"imperative": ["plan", "plan", "plan"]
 }, {
-	"verb": "place",
 	"infinitive": ["place"],
 	"participle": ["placed"],
 	"gerund": ["placing"],
@@ -8205,7 +7832,6 @@
 	},
 	"imperative": ["place", "place", "place"]
 }, {
-	"verb": "pinch",
 	"infinitive": ["pinch"],
 	"participle": ["pinched"],
 	"gerund": ["pinching"],
@@ -8227,7 +7853,6 @@
 	},
 	"imperative": ["pinch", "pinch", "pinch"]
 }, {
-	"verb": "peep",
 	"infinitive": ["peep"],
 	"participle": ["peeped"],
 	"gerund": ["peeping"],
@@ -8249,7 +7874,6 @@
 	},
 	"imperative": ["peep", "peep", "peep"]
 }, {
-	"verb": "play",
 	"infinitive": ["play"],
 	"participle": ["played"],
 	"gerund": ["playing"],
@@ -8271,7 +7895,6 @@
 	},
 	"imperative": ["play", "play", "play"]
 }, {
-	"verb": "please",
 	"infinitive": ["please"],
 	"participle": ["pleased"],
 	"gerund": ["pleasing"],
@@ -8293,7 +7916,6 @@
 	},
 	"imperative": ["please", "please", "please"]
 }, {
-	"verb": "point",
 	"infinitive": ["point"],
 	"participle": ["pointed"],
 	"gerund": ["pointing"],
@@ -8315,7 +7937,6 @@
 	},
 	"imperative": ["point", "point", "point"]
 }, {
-	"verb": "plug",
 	"infinitive": ["plug"],
 	"participle": ["pluged"],
 	"gerund": ["pluging"],
@@ -8337,7 +7958,6 @@
 	},
 	"imperative": ["plug", "plug", "plug"]
 }, {
-	"verb": "plant",
 	"infinitive": ["plant"],
 	"participle": ["planted"],
 	"gerund": ["planting"],
@@ -8359,7 +7979,6 @@
 	},
 	"imperative": ["plant", "plant", "plant"]
 }, {
-	"verb": "polish",
 	"infinitive": ["polish"],
 	"participle": ["polished"],
 	"gerund": ["polishing"],
@@ -8381,7 +8000,6 @@
 	},
 	"imperative": ["polish", "polish", "polish"]
 }, {
-	"verb": "pop",
 	"infinitive": ["pop"],
 	"participle": ["poped"],
 	"gerund": ["poping"],
@@ -8403,7 +8021,6 @@
 	},
 	"imperative": ["pop", "pop", "pop"]
 }, {
-	"verb": "poke",
 	"infinitive": ["poke"],
 	"participle": ["poked"],
 	"gerund": ["poking"],
@@ -8425,7 +8042,6 @@
 	},
 	"imperative": ["poke", "poke", "poke"]
 }, {
-	"verb": "possess",
 	"infinitive": ["possess"],
 	"participle": ["possessed"],
 	"gerund": ["possessing"],
@@ -8447,7 +8063,6 @@
 	},
 	"imperative": ["possess", "possess", "possess"]
 }, {
-	"verb": "practise",
 	"infinitive": ["practise"],
 	"participle": ["practised"],
 	"gerund": ["practising"],
@@ -8469,7 +8084,6 @@
 	},
 	"imperative": ["practise", "practise", "practise"]
 }, {
-	"verb": "prefer",
 	"infinitive": ["prefer"],
 	"participle": ["preferred"],
 	"gerund": ["preferring"],
@@ -8491,7 +8105,6 @@
 	},
 	"imperative": ["prefer", "prefer", "prefer"]
 }, {
-	"verb": "pour",
 	"infinitive": ["pour"],
 	"participle": ["poured"],
 	"gerund": ["pouring"],
@@ -8513,7 +8126,6 @@
 	},
 	"imperative": ["pour", "pour", "pour"]
 }, {
-	"verb": "post",
 	"infinitive": ["post"],
 	"participle": ["posted"],
 	"gerund": ["posting"],
@@ -8535,7 +8147,6 @@
 	},
 	"imperative": ["post", "post", "post"]
 }, {
-	"verb": "precede",
 	"infinitive": ["precede"],
 	"participle": ["preceded"],
 	"gerund": ["preceding"],
@@ -8557,7 +8168,6 @@
 	},
 	"imperative": ["precede", "precede", "precede"]
 }, {
-	"verb": "press",
 	"infinitive": ["press"],
 	"participle": ["pressed"],
 	"gerund": ["pressing"],
@@ -8579,7 +8189,6 @@
 	},
 	"imperative": ["press", "press", "press"]
 }, {
-	"verb": "pray",
 	"infinitive": ["pray"],
 	"participle": ["prayed"],
 	"gerund": ["praying"],
@@ -8601,7 +8210,6 @@
 	},
 	"imperative": ["pray", "pray", "pray"]
 }, {
-	"verb": "present",
 	"infinitive": ["present"],
 	"participle": ["presented"],
 	"gerund": ["presenting"],
@@ -8623,7 +8231,6 @@
 	},
 	"imperative": ["present", "present", "present"]
 }, {
-	"verb": "preserve",
 	"infinitive": ["preserve"],
 	"participle": ["preserved"],
 	"gerund": ["preserving"],
@@ -8645,7 +8252,6 @@
 	},
 	"imperative": ["preserve", "preserve", "preserve"]
 }, {
-	"verb": "print",
 	"infinitive": ["print"],
 	"participle": ["printed"],
 	"gerund": ["printing"],
@@ -8667,7 +8273,6 @@
 	},
 	"imperative": ["print", "print", "print"]
 }, {
-	"verb": "pretend",
 	"infinitive": ["pretend"],
 	"participle": ["pretended"],
 	"gerund": ["pretending"],
@@ -8689,7 +8294,6 @@
 	},
 	"imperative": ["pretend", "pretend", "pretend"]
 }, {
-	"verb": "preach",
 	"infinitive": ["preach"],
 	"participle": ["preached"],
 	"gerund": ["preaching"],
@@ -8711,7 +8315,6 @@
 	},
 	"imperative": ["preach", "preach", "preach"]
 }, {
-	"verb": "produce",
 	"infinitive": ["produce"],
 	"participle": ["produced"],
 	"gerund": ["producing"],
@@ -8733,7 +8336,6 @@
 	},
 	"imperative": ["produce", "produce", "produce"]
 }, {
-	"verb": "prepare",
 	"infinitive": ["prepare"],
 	"participle": ["prepared"],
 	"gerund": ["preparing"],
@@ -8755,7 +8357,6 @@
 	},
 	"imperative": ["prepare", "prepare", "prepare"]
 }, {
-	"verb": "prick",
 	"infinitive": ["prick"],
 	"participle": ["pricked"],
 	"gerund": ["pricking"],
@@ -8777,7 +8378,6 @@
 	},
 	"imperative": ["prick", "prick", "prick"]
 }, {
-	"verb": "prevent",
 	"infinitive": ["prevent"],
 	"participle": ["prevented"],
 	"gerund": ["preventing"],
@@ -8799,7 +8399,6 @@
 	},
 	"imperative": ["prevent", "prevent", "prevent"]
 }, {
-	"verb": "promise",
 	"infinitive": ["promise"],
 	"participle": ["promised"],
 	"gerund": ["promising"],
@@ -8821,7 +8420,6 @@
 	},
 	"imperative": ["promise", "promise", "promise"]
 }, {
-	"verb": "protect",
 	"infinitive": ["protect"],
 	"participle": ["protected"],
 	"gerund": ["protecting"],
@@ -8843,7 +8441,6 @@
 	},
 	"imperative": ["protect", "protect", "protect"]
 }, {
-	"verb": "provide",
 	"infinitive": ["provide"],
 	"participle": ["provided"],
 	"gerund": ["providing"],
@@ -8865,7 +8462,6 @@
 	},
 	"imperative": ["provide", "provide", "provide"]
 }, {
-	"verb": "push",
 	"infinitive": ["push"],
 	"participle": ["pushed"],
 	"gerund": ["pushing"],
@@ -8887,7 +8483,6 @@
 	},
 	"imperative": ["push", "push", "push"]
 }, {
-	"verb": "puncture",
 	"infinitive": ["puncture"],
 	"participle": ["punctured"],
 	"gerund": ["puncturing"],
@@ -8909,7 +8504,6 @@
 	},
 	"imperative": ["puncture", "puncture", "puncture"]
 }, {
-	"verb": "punish",
 	"infinitive": ["punish"],
 	"participle": ["punished"],
 	"gerund": ["punishing"],
@@ -8931,7 +8525,6 @@
 	},
 	"imperative": ["punish", "punish", "punish"]
 }, {
-	"verb": "question",
 	"infinitive": ["question"],
 	"participle": ["questioned"],
 	"gerund": ["questioning"],
@@ -8953,7 +8546,6 @@
 	},
 	"imperative": ["question", "question", "question"]
 }, {
-	"verb": "rain",
 	"infinitive": ["rain"],
 	"participle": ["rained"],
 	"gerund": ["raining"],
@@ -8975,7 +8567,6 @@
 	},
 	"imperative": ["rain", "rain", "rain"]
 }, {
-	"verb": "race",
 	"infinitive": ["race"],
 	"participle": ["raced"],
 	"gerund": ["racing"],
@@ -8997,7 +8588,6 @@
 	},
 	"imperative": ["race", "race", "race"]
 }, {
-	"verb": "radiate",
 	"infinitive": ["radiate"],
 	"participle": ["radiated"],
 	"gerund": ["radiating"],
@@ -9019,7 +8609,6 @@
 	},
 	"imperative": ["radiate", "radiate", "radiate"]
 }, {
-	"verb": "realise",
 	"infinitive": ["realise"],
 	"participle": ["realised"],
 	"gerund": ["realising"],
@@ -9041,7 +8630,6 @@
 	},
 	"imperative": ["realise", "realise", "realise"]
 }, {
-	"verb": "receive",
 	"infinitive": ["receive"],
 	"participle": ["received"],
 	"gerund": ["receiving"],
@@ -9063,7 +8651,6 @@
 	},
 	"imperative": ["receive", "receive", "receive"]
 }, {
-	"verb": "recognise",
 	"infinitive": ["recognise"],
 	"participle": ["recognised"],
 	"gerund": ["recognising"],
@@ -9085,7 +8672,6 @@
 	},
 	"imperative": ["recognise", "recognise", "recognise"]
 }, {
-	"verb": "reach",
 	"infinitive": ["reach"],
 	"gerund": ["reaching"],
 	"indicative": {
@@ -9105,7 +8691,6 @@
 	},
 	"imperative": ["reach", "reach", "reach"]
 }, {
-	"verb": "punch",
 	"infinitive": ["punch"],
 	"participle": ["punched"],
 	"gerund": ["punching"],
@@ -9127,7 +8712,6 @@
 	},
 	"imperative": ["punch", "punch", "punch"]
 }, {
-	"verb": "pull",
 	"infinitive": ["pull"],
 	"participle": ["pulled"],
 	"gerund": ["pulling"],
@@ -9149,7 +8733,6 @@
 	},
 	"imperative": ["pull", "pull", "pull"]
 }, {
-	"verb": "program",
 	"infinitive": ["program"],
 	"participle": ["programmed"],
 	"gerund": ["programming"],
@@ -9171,7 +8754,6 @@
 	},
 	"imperative": ["program", "program", "program"]
 }, {
-	"verb": "queue",
 	"infinitive": ["queue"],
 	"participle": ["queued"],
 	"gerund": ["queuing"],
@@ -9193,7 +8775,6 @@
 	},
 	"imperative": ["queue", "queue", "queue"]
 }, {
-	"verb": "raise",
 	"infinitive": ["raise"],
 	"participle": ["raised"],
 	"gerund": ["raising"],
@@ -9215,7 +8796,6 @@
 	},
 	"imperative": ["raise", "raise", "raise"]
 }, {
-	"verb": "pump",
 	"infinitive": ["pump"],
 	"participle": ["pumped"],
 	"gerund": ["pumping"],
@@ -9237,7 +8817,6 @@
 	},
 	"imperative": ["pump", "pump", "pump"]
 }, {
-	"verb": "refuse",
 	"infinitive": ["refuse"],
 	"participle": ["refused"],
 	"gerund": ["refusing"],
@@ -9259,7 +8838,6 @@
 	},
 	"imperative": ["refuse", "refuse", "refuse"]
 }, {
-	"verb": "regret",
 	"infinitive": ["regret"],
 	"participle": ["regreted"],
 	"gerund": ["regreting"],
@@ -9281,7 +8859,6 @@
 	},
 	"imperative": ["regret", "regret", "regret"]
 }, {
-	"verb": "reflect",
 	"infinitive": ["reflect"],
 	"participle": ["reflected"],
 	"gerund": ["reflecting"],
@@ -9303,7 +8880,6 @@
 	},
 	"imperative": ["reflect", "reflect", "reflect"]
 }, {
-	"verb": "reign",
 	"infinitive": ["reign"],
 	"participle": ["reigned"],
 	"gerund": ["reigning"],
@@ -9325,7 +8901,6 @@
 	},
 	"imperative": ["reign", "reign", "reign"]
 }, {
-	"verb": "rejoice",
 	"infinitive": ["rejoice"],
 	"participle": ["rejoiced"],
 	"gerund": ["rejoicing"],
@@ -9347,7 +8922,6 @@
 	},
 	"imperative": ["rejoice", "rejoice", "rejoice"]
 }, {
-	"verb": "rely",
 	"infinitive": ["rely"],
 	"participle": ["relied"],
 	"gerund": ["relying"],
@@ -9369,7 +8943,6 @@
 	},
 	"imperative": ["rely", "rely", "rely"]
 }, {
-	"verb": "reduce",
 	"infinitive": ["reduce"],
 	"participle": ["reduced"],
 	"gerund": ["reducing"],
@@ -9391,7 +8964,6 @@
 	},
 	"imperative": ["reduce", "reduce", "reduce"]
 }, {
-	"verb": "remove",
 	"infinitive": ["remove"],
 	"participle": ["removed"],
 	"gerund": ["removing"],
@@ -9413,7 +8985,6 @@
 	},
 	"imperative": ["remove", "remove", "remove"]
 }, {
-	"verb": "remember",
 	"infinitive": ["remember"],
 	"participle": ["remembered"],
 	"gerund": ["remembering"],
@@ -9435,7 +9006,6 @@
 	},
 	"imperative": ["remember", "remember", "remember"]
 }, {
-	"verb": "repeat",
 	"infinitive": ["repeat"],
 	"participle": ["repeated"],
 	"gerund": ["repeating"],
@@ -9457,7 +9027,6 @@
 	},
 	"imperative": ["repeat", "repeat", "repeat"]
 }, {
-	"verb": "remind",
 	"infinitive": ["remind"],
 	"participle": ["reminded"],
 	"gerund": ["reminding"],
@@ -9479,7 +9048,6 @@
 	},
 	"imperative": ["remind", "remind", "remind"]
 }, {
-	"verb": "report",
 	"infinitive": ["report"],
 	"participle": ["reported"],
 	"gerund": ["reporting"],
@@ -9501,7 +9069,6 @@
 	},
 	"imperative": ["report", "report", "report"]
 }, {
-	"verb": "remain",
 	"infinitive": ["remain"],
 	"participle": ["remained"],
 	"gerund": ["remaining"],
@@ -9523,7 +9090,6 @@
 	},
 	"imperative": ["remain", "remain", "remain"]
 }, {
-	"verb": "replace",
 	"infinitive": ["replace"],
 	"participle": ["replaced"],
 	"gerund": ["replacing"],
@@ -9545,7 +9111,6 @@
 	},
 	"imperative": ["replace", "replace", "replace"]
 }, {
-	"verb": "reply",
 	"infinitive": ["reply"],
 	"participle": ["replied"],
 	"gerund": ["replying"],
@@ -9567,7 +9132,6 @@
 	},
 	"imperative": ["reply", "reply", "reply"]
 }, {
-	"verb": "record",
 	"infinitive": ["record"],
 	"participle": ["recorded"],
 	"gerund": ["recording"],
@@ -9589,7 +9153,6 @@
 	},
 	"imperative": ["record", "record", "record"]
 }, {
-	"verb": "repair",
 	"infinitive": ["repair"],
 	"participle": ["repaired"],
 	"gerund": ["repairing"],
@@ -9611,7 +9174,6 @@
 	},
 	"imperative": ["repair", "repair", "repair"]
 }, {
-	"verb": "relax",
 	"infinitive": ["relax"],
 	"participle": ["relaxed"],
 	"gerund": ["relaxing"],
@@ -9633,7 +9195,6 @@
 	},
 	"imperative": ["relax", "relax", "relax"]
 }, {
-	"verb": "release",
 	"infinitive": ["release"],
 	"participle": ["released"],
 	"gerund": ["releasing"],
@@ -9655,7 +9216,6 @@
 	},
 	"imperative": ["release", "release", "release"]
 }, {
-	"verb": "reject",
 	"infinitive": ["reject"],
 	"participle": ["rejected"],
 	"gerund": ["rejecting"],
@@ -9677,7 +9237,6 @@
 	},
 	"imperative": ["reject", "reject", "reject"]
 }, {
-	"verb": "request",
 	"infinitive": ["request"],
 	"participle": ["requested"],
 	"gerund": ["requesting"],
@@ -9699,7 +9258,6 @@
 	},
 	"imperative": ["request", "request", "request"]
 }, {
-	"verb": "retire",
 	"infinitive": ["retire"],
 	"participle": ["retired"],
 	"gerund": ["retiring"],
@@ -9721,7 +9279,6 @@
 	},
 	"imperative": ["retire", "retire", "retire"]
 }, {
-	"verb": "reproduce",
 	"infinitive": ["reproduce"],
 	"participle": ["reproduced"],
 	"gerund": ["reproducing"],
@@ -9743,7 +9300,6 @@
 	},
 	"imperative": ["reproduce", "reproduce", "reproduce"]
 }, {
-	"verb": "rinse",
 	"infinitive": ["rinse"],
 	"participle": ["rinsed"],
 	"gerund": ["rinsing"],
@@ -9765,7 +9321,6 @@
 	},
 	"imperative": ["rinse", "rinse", "rinse"]
 }, {
-	"verb": "risk",
 	"infinitive": ["risk"],
 	"participle": ["risked"],
 	"gerund": ["risking"],
@@ -9787,7 +9342,6 @@
 	},
 	"imperative": ["risk", "risk", "risk"]
 }, {
-	"verb": "rescue",
 	"infinitive": ["rescue"],
 	"participle": ["rescued"],
 	"gerund": ["rescuing"],
@@ -9809,7 +9363,6 @@
 	},
 	"imperative": ["rescue", "rescue", "rescue"]
 }, {
-	"verb": "rhyme",
 	"infinitive": ["rhyme"],
 	"participle": ["rhymed"],
 	"gerund": ["rhyming"],
@@ -9831,7 +9384,6 @@
 	},
 	"imperative": ["rhyme", "rhyme", "rhyme"]
 }, {
-	"verb": "rob",
 	"infinitive": ["rob"],
 	"participle": ["robed"],
 	"gerund": ["robing"],
@@ -9853,7 +9405,6 @@
 	},
 	"imperative": ["rob", "rob", "rob"]
 }, {
-	"verb": "roll",
 	"infinitive": ["roll"],
 	"participle": ["rolled"],
 	"gerund": ["rolling"],
@@ -9875,7 +9426,6 @@
 	},
 	"imperative": ["roll", "roll", "roll"]
 }, {
-	"verb": "rule",
 	"infinitive": ["rule"],
 	"participle": ["ruled"],
 	"gerund": ["ruling"],
@@ -9897,7 +9447,6 @@
 	},
 	"imperative": ["rule", "rule", "rule"]
 }, {
-	"verb": "rot",
 	"infinitive": ["rot"],
 	"participle": ["roted"],
 	"gerund": ["roting"],
@@ -9919,7 +9468,6 @@
 	},
 	"imperative": ["rot", "rot", "rot"]
 }, {
-	"verb": "rub",
 	"infinitive": ["rub"],
 	"participle": ["rubed"],
 	"gerund": ["rubing"],
@@ -9941,7 +9489,6 @@
 	},
 	"imperative": ["rub", "rub", "rub"]
 }, {
-	"verb": "rock",
 	"infinitive": ["rock"],
 	"participle": ["rocked"],
 	"gerund": ["rocking"],
@@ -9963,7 +9510,6 @@
 	},
 	"imperative": ["rock", "rock", "rock"]
 }, {
-	"verb": "ruin",
 	"infinitive": ["ruin"],
 	"participle": ["ruined"],
 	"gerund": ["ruining"],
@@ -9985,7 +9531,6 @@
 	},
 	"imperative": ["ruin", "ruin", "ruin"]
 }, {
-	"verb": "save",
 	"infinitive": ["save"],
 	"participle": ["saved"],
 	"gerund": ["saving"],
@@ -10007,7 +9552,6 @@
 	},
 	"imperative": ["save", "save", "save"]
 }, {
-	"verb": "satisfy",
 	"infinitive": ["satisfy"],
 	"participle": ["satisfied"],
 	"gerund": ["satisfying"],
@@ -10029,7 +9573,6 @@
 	},
 	"imperative": ["satisfy", "satisfy", "satisfy"]
 }, {
-	"verb": "return",
 	"infinitive": ["return"],
 	"participle": ["returned"],
 	"gerund": ["returning"],
@@ -10051,7 +9594,6 @@
 	},
 	"imperative": ["return", "return", "return"]
 }, {
-	"verb": "sail",
 	"infinitive": ["sail"],
 	"participle": ["sailed"],
 	"gerund": ["sailing"],
@@ -10073,7 +9615,6 @@
 	},
 	"imperative": ["sail", "sail", "sail"]
 }, {
-	"verb": "rush",
 	"infinitive": ["rush"],
 	"participle": ["rushed"],
 	"gerund": ["rushing"],
@@ -10095,7 +9636,6 @@
 	},
 	"imperative": ["rush", "rush", "rush"]
 }, {
-	"verb": "sack",
 	"infinitive": ["sack"],
 	"participle": ["sacked"],
 	"gerund": ["sacking"],
@@ -10117,7 +9657,6 @@
 	},
 	"imperative": ["sack", "sack", "sack"]
 }, {
-	"verb": "scare",
 	"infinitive": ["scare"],
 	"participle": ["scared"],
 	"gerund": ["scaring"],
@@ -10139,7 +9678,6 @@
 	},
 	"imperative": ["scare", "scare", "scare"]
 }, {
-	"verb": "saw",
 	"infinitive": ["saw"],
 	"participle": ["(E)"],
 	"gerund": ["sawing"],
@@ -10161,7 +9699,6 @@
 	},
 	"imperative": ["saw", "saw", "saw"]
 }, {
-	"verb": "scold",
 	"infinitive": ["scold"],
 	"participle": ["scolded"],
 	"gerund": ["scolding"],
@@ -10183,7 +9720,6 @@
 	},
 	"imperative": ["scold", "scold", "scold"]
 }, {
-	"verb": "scorch",
 	"infinitive": ["scorch"],
 	"participle": ["scorched"],
 	"gerund": ["scorching"],
@@ -10205,7 +9741,6 @@
 	},
 	"imperative": ["scorch", "scorch", "scorch"]
 }, {
-	"verb": "search",
 	"infinitive": ["search"],
 	"participle": ["searched"],
 	"gerund": ["searching"],
@@ -10227,7 +9762,6 @@
 	},
 	"imperative": ["search", "search", "search"]
 }, {
-	"verb": "scrape",
 	"infinitive": ["scrape"],
 	"participle": ["scraped"],
 	"gerund": ["scraping"],
@@ -10249,7 +9783,6 @@
 	},
 	"imperative": ["scrape", "scrape", "scrape"]
 }, {
-	"verb": "scream",
 	"infinitive": ["scream"],
 	"participle": ["screamed"],
 	"gerund": ["screaming"],
@@ -10271,7 +9804,6 @@
 	},
 	"imperative": ["scream", "scream", "scream"]
 }, {
-	"verb": "screw",
 	"infinitive": ["screw"],
 	"participle": ["screwed"],
 	"gerund": ["screwing"],
@@ -10293,7 +9825,6 @@
 	},
 	"imperative": ["screw", "screw", "screw"]
 }, {
-	"verb": "scrub",
 	"infinitive": ["scrub"],
 	"participle": ["scrubbed"],
 	"gerund": ["scrubbing"],
@@ -10315,7 +9846,6 @@
 	},
 	"imperative": ["scrub", "scrub", "scrub"]
 }, {
-	"verb": "seal",
 	"infinitive": ["seal"],
 	"participle": ["sealed"],
 	"gerund": ["sealing"],
@@ -10337,7 +9867,6 @@
 	},
 	"imperative": ["seal", "seal", "seal"]
 }, {
-	"verb": "share",
 	"infinitive": ["share"],
 	"participle": ["shared"],
 	"gerund": ["sharing"],
@@ -10359,7 +9888,6 @@
 	},
 	"imperative": ["share", "share", "share"]
 }, {
-	"verb": "shave",
 	"infinitive": ["shave"],
 	"participle": ["shaved"],
 	"gerund": ["shaving"],
@@ -10381,7 +9909,6 @@
 	},
 	"imperative": ["shave", "shave", "shave"]
 }, {
-	"verb": "serve",
 	"infinitive": ["serve"],
 	"participle": ["served"],
 	"gerund": ["serving"],
@@ -10403,7 +9930,6 @@
 	},
 	"imperative": ["serve", "serve", "serve"]
 }, {
-	"verb": "scatter",
 	"infinitive": ["scatter"],
 	"participle": ["scattered"],
 	"gerund": ["scattering"],
@@ -10425,7 +9951,6 @@
 	},
 	"imperative": ["scatter", "scatter", "scatter"]
 }, {
-	"verb": "shade",
 	"infinitive": ["shade"],
 	"participle": ["shaded"],
 	"gerund": ["shading"],
@@ -10447,7 +9972,6 @@
 	},
 	"imperative": ["shade", "shade", "shade"]
 }, {
-	"verb": "shelter",
 	"infinitive": ["shelter"],
 	"participle": ["sheltered"],
 	"gerund": ["sheltering"],
@@ -10469,7 +9993,6 @@
 	},
 	"imperative": ["shelter", "shelter", "shelter"]
 }, {
-	"verb": "settle",
 	"infinitive": ["settle"],
 	"participle": ["settled"],
 	"gerund": ["settling"],
@@ -10491,7 +10014,6 @@
 	},
 	"imperative": ["settle", "settle", "settle"]
 }, {
-	"verb": "separate",
 	"infinitive": ["separate"],
 	"participle": ["separated"],
 	"gerund": ["separating"],
@@ -10513,7 +10035,6 @@
 	},
 	"imperative": ["separate", "separate", "separate"]
 }, {
-	"verb": "scribble",
 	"infinitive": ["scribble"],
 	"participle": ["scribbled"],
 	"gerund": ["scribbling"],
@@ -10535,7 +10056,6 @@
 	},
 	"imperative": ["scribble", "scribble", "scribble"]
 }, {
-	"verb": "scratch",
 	"infinitive": ["scratch"],
 	"participle": ["scratched"],
 	"gerund": ["scratching"],
@@ -10557,7 +10077,6 @@
 	},
 	"imperative": ["scratch", "scratch", "scratch"]
 }, {
-	"verb": "shiver",
 	"infinitive": ["shiver"],
 	"participle": ["shivered"],
 	"gerund": ["shivering"],
@@ -10579,7 +10098,6 @@
 	},
 	"imperative": ["shiver", "shiver", "shiver"]
 }, {
-	"verb": "shop",
 	"infinitive": ["shop"],
 	"participle": ["shopped"],
 	"gerund": ["shopping"],
@@ -10601,7 +10119,6 @@
 	},
 	"imperative": ["shop", "shop", "shop"]
 }, {
-	"verb": "sin",
 	"infinitive": ["sin"],
 	"participle": ["sinned"],
 	"gerund": ["sinning"],
@@ -10623,7 +10140,6 @@
 	},
 	"imperative": ["sin", "sin", "sin"]
 }, {
-	"verb": "signal",
 	"infinitive": ["signal"],
 	"participle": ["signaled", "signalled"],
 	"gerund": ["signaling", "signalling"],
@@ -10645,7 +10161,6 @@
 	},
 	"imperative": ["signal", "signal", "signal"]
 }, {
-	"verb": "sign",
 	"infinitive": ["sign"],
 	"participle": ["signed"],
 	"gerund": ["signing"],
@@ -10667,7 +10182,6 @@
 	},
 	"imperative": ["sign", "sign", "sign"]
 }, {
-	"verb": "sigh",
 	"infinitive": ["sigh"],
 	"participle": ["sighed"],
 	"gerund": ["sighing"],
@@ -10689,7 +10203,6 @@
 	},
 	"imperative": ["sigh", "sigh", "sigh"]
 }, {
-	"verb": "ski",
 	"infinitive": ["ski"],
 	"participle": ["ski"],
 	"gerund": ["skiing"],
@@ -10711,7 +10224,6 @@
 	},
 	"imperative": ["ski", "ski", "ski"]
 }, {
-	"verb": "shrug",
 	"infinitive": ["shrug"],
 	"participle": ["shruged", "shrugged"],
 	"gerund": ["shruging", "shrugging"],
@@ -10733,7 +10245,6 @@
 	},
 	"imperative": ["shrug", "shrug", "shrug"]
 }, {
-	"verb": "sneeze",
 	"infinitive": ["sneeze"],
 	"participle": ["sneezed"],
 	"gerund": ["sneezing"],
@@ -10755,7 +10266,6 @@
 	},
 	"imperative": ["sneeze", "sneeze", "sneeze"]
 }, {
-	"verb": "sip",
 	"infinitive": ["sip"],
 	"participle": ["sipped"],
 	"gerund": ["sipping"],
@@ -10777,7 +10287,6 @@
 	},
 	"imperative": ["sip", "sip", "sip"]
 }, {
-	"verb": "slow",
 	"infinitive": ["slow"],
 	"participle": ["slowed"],
 	"gerund": ["slowing"],
@@ -10799,7 +10308,6 @@
 	},
 	"imperative": ["slow", "slow", "slow"]
 }, {
-	"verb": "shock",
 	"infinitive": ["shock"],
 	"participle": ["shocked"],
 	"gerund": ["shocking"],
@@ -10821,7 +10329,6 @@
 	},
 	"imperative": ["shock", "shock", "shock"]
 }, {
-	"verb": "smoke",
 	"infinitive": ["smoke"],
 	"participle": ["smoked"],
 	"gerund": ["smoking"],
@@ -10843,7 +10350,6 @@
 	},
 	"imperative": ["smoke", "smoke", "smoke"]
 }, {
-	"verb": "slip",
 	"infinitive": ["slip"],
 	"participle": ["slipped"],
 	"gerund": ["slipping"],
@@ -10865,7 +10371,6 @@
 	},
 	"imperative": ["slip", "slip", "slip"]
 }, {
-	"verb": "smell",
 	"infinitive": ["smell"],
 	"participle": ["smelt", "smelled"],
 	"gerund": ["smelling"],
@@ -10887,7 +10392,6 @@
 	},
 	"imperative": ["smell", "smell", "smell"]
 }, {
-	"verb": "smile",
 	"infinitive": ["smile"],
 	"participle": ["smiled"],
 	"gerund": ["smiling"],
@@ -10909,7 +10413,6 @@
 	},
 	"imperative": ["smile", "smile", "smile"]
 }, {
-	"verb": "snatch",
 	"infinitive": ["snatch"],
 	"participle": ["snatched"],
 	"gerund": ["snatching"],
@@ -10931,7 +10434,6 @@
 	},
 	"imperative": ["snatch", "snatch", "snatch"]
 }, {
-	"verb": "slap",
 	"infinitive": ["slap"],
 	"participle": ["slapped"],
 	"gerund": ["slapping"],
@@ -10953,7 +10455,6 @@
 	},
 	"imperative": ["slap", "slap", "slap"]
 }, {
-	"verb": "smash",
 	"infinitive": ["smash"],
 	"participle": ["smashed"],
 	"gerund": ["smashing"],
@@ -10975,7 +10476,6 @@
 	},
 	"imperative": ["smash", "smash", "smash"]
 }, {
-	"verb": "skip",
 	"infinitive": ["skip"],
 	"participle": ["skipped"],
 	"gerund": ["skipping"],
@@ -10997,7 +10497,6 @@
 	},
 	"imperative": ["skip", "skip", "skip"]
 }, {
-	"verb": "soothe",
 	"infinitive": ["soothe"],
 	"participle": ["soothed"],
 	"gerund": ["soothing"],
@@ -11019,7 +10518,6 @@
 	},
 	"imperative": ["soothe", "soothe", "soothe"]
 }, {
-	"verb": "sniff",
 	"infinitive": ["sniff"],
 	"participle": ["sniffed"],
 	"gerund": ["sniffing"],
@@ -11041,7 +10539,6 @@
 	},
 	"imperative": ["sniff", "sniff", "sniff"]
 }, {
-	"verb": "snow",
 	"infinitive": ["snow"],
 	"participle": ["snowed"],
 	"gerund": ["snowing"],
@@ -11063,7 +10560,6 @@
 	},
 	"imperative": ["snow", "snow", "snow"]
 }, {
-	"verb": "snore",
 	"infinitive": ["snore"],
 	"participle": ["snored"],
 	"gerund": ["snoring"],
@@ -11085,7 +10581,6 @@
 	},
 	"imperative": ["snore", "snore", "snore"]
 }, {
-	"verb": "spell",
 	"infinitive": ["spell"],
 	"participle": ["spelt", "spelled"],
 	"gerund": ["spelling"],
@@ -11107,7 +10602,6 @@
 	},
 	"imperative": ["spell", "spell", "spell"]
 }, {
-	"verb": "spoil",
 	"infinitive": ["spoil"],
 	"participle": ["spoilt", "spoiled"],
 	"gerund": ["spoiling"],
@@ -11129,7 +10623,6 @@
 	},
 	"imperative": ["spoil", "spoil", "spoil"]
 }, {
-	"verb": "soak",
 	"infinitive": ["soak"],
 	"participle": ["soaked"],
 	"gerund": ["soaking"],
@@ -11151,7 +10644,6 @@
 	},
 	"imperative": ["soak", "soak", "soak"]
 }, {
-	"verb": "sound",
 	"infinitive": ["sound"],
 	"participle": ["sounded"],
 	"gerund": ["sounding"],
@@ -11173,7 +10665,6 @@
 	},
 	"imperative": ["sound", "sound", "sound"]
 }, {
-	"verb": "spray",
 	"infinitive": ["spray"],
 	"participle": ["sprayed"],
 	"gerund": ["spraying"],
@@ -11195,7 +10686,6 @@
 	},
 	"imperative": ["spray", "spray", "spray"]
 }, {
-	"verb": "spark",
 	"infinitive": ["spark"],
 	"participle": ["sparked"],
 	"gerund": ["sparking"],
@@ -11217,7 +10707,6 @@
 	},
 	"imperative": ["spark", "spark", "spark"]
 }, {
-	"verb": "spot",
 	"infinitive": ["spot"],
 	"participle": ["spotted"],
 	"gerund": ["spotting"],
@@ -11239,7 +10728,6 @@
 	},
 	"imperative": ["spot", "spot", "spot"]
 }, {
-	"verb": "sprout",
 	"infinitive": ["sprout"],
 	"participle": ["sprouted"],
 	"gerund": ["sprouting"],
@@ -11261,7 +10749,6 @@
 	},
 	"imperative": ["sprout", "sprout", "sprout"]
 }, {
-	"verb": "spill",
 	"infinitive": ["spill"],
 	"participle": ["spilt", "spilled"],
 	"gerund": ["spilling"],
@@ -11283,7 +10770,6 @@
 	},
 	"imperative": ["spill", "spill", "spill"]
 }, {
-	"verb": "stain",
 	"infinitive": ["stain"],
 	"participle": ["stained"],
 	"gerund": ["staining"],
@@ -11305,7 +10791,6 @@
 	},
 	"imperative": ["stain", "stain", "stain"]
 }, {
-	"verb": "sparkle",
 	"infinitive": ["sparkle"],
 	"participle": ["sparkled"],
 	"gerund": ["sparkling"],
@@ -11327,7 +10812,6 @@
 	},
 	"imperative": ["sparkle", "sparkle", "sparkle"]
 }, {
-	"verb": "squeeze",
 	"infinitive": ["squeeze"],
 	"participle": ["squeezed"],
 	"gerund": ["squeezing"],
@@ -11349,7 +10833,6 @@
 	},
 	"imperative": ["squeeze", "squeeze", "squeeze"]
 }, {
-	"verb": "squeal",
 	"infinitive": ["squeal"],
 	"participle": ["squealed"],
 	"gerund": ["squealing"],
@@ -11371,7 +10854,6 @@
 	},
 	"imperative": ["squeal", "squeal", "squeal"]
 }, {
-	"verb": "spare",
 	"infinitive": ["spare"],
 	"participle": ["spared"],
 	"gerund": ["sparing"],
@@ -11393,7 +10875,6 @@
 	},
 	"imperative": ["spare", "spare", "spare"]
 }, {
-	"verb": "squeak",
 	"infinitive": ["squeak"],
 	"participle": ["squeaked"],
 	"gerund": ["squeaking"],
@@ -11415,7 +10896,6 @@
 	},
 	"imperative": ["squeak", "squeak", "squeak"]
 }, {
-	"verb": "squash",
 	"infinitive": ["squash"],
 	"participle": ["squashed"],
 	"gerund": ["squashing"],
@@ -11437,7 +10917,6 @@
 	},
 	"imperative": ["squash", "squash", "squash"]
 }, {
-	"verb": "stare",
 	"infinitive": ["stare"],
 	"participle": ["stared"],
 	"gerund": ["staring"],
@@ -11459,7 +10938,6 @@
 	},
 	"imperative": ["stare", "stare", "stare"]
 }, {
-	"verb": "start",
 	"infinitive": ["start"],
 	"participle": ["started"],
 	"gerund": ["starting"],
@@ -11481,7 +10959,6 @@
 	},
 	"imperative": ["start", "start", "start"]
 }, {
-	"verb": "stay",
 	"infinitive": ["stay"],
 	"participle": ["staid"],
 	"gerund": ["staying"],
@@ -11503,7 +10980,6 @@
 	},
 	"imperative": ["stay", "stay", "stay"]
 }, {
-	"verb": "stamp",
 	"infinitive": ["stamp"],
 	"participle": ["stamped"],
 	"gerund": ["stamping"],
@@ -11525,7 +11001,6 @@
 	},
 	"imperative": ["stamp", "stamp", "stamp"]
 }, {
-	"verb": "stop",
 	"infinitive": ["stop"],
 	"participle": ["stopped"],
 	"gerund": ["stopping"],
@@ -11547,7 +11022,6 @@
 	},
 	"imperative": ["stop", "stop", "stop"]
 }, {
-	"verb": "stir",
 	"infinitive": ["stir"],
 	"participle": ["stirred"],
 	"gerund": ["stirring"],
@@ -11569,7 +11043,6 @@
 	},
 	"imperative": ["stir", "stir", "stir"]
 }, {
-	"verb": "stitch",
 	"infinitive": ["stitch"],
 	"participle": ["stitched"],
 	"gerund": ["stitching"],
@@ -11591,7 +11064,6 @@
 	},
 	"imperative": ["stitch", "stitch", "stitch"]
 }, {
-	"verb": "step",
 	"infinitive": ["step"],
 	"participle": ["stepped"],
 	"gerund": ["stepping"],
@@ -11613,7 +11085,6 @@
 	},
 	"imperative": ["step", "step", "step"]
 }, {
-	"verb": "steer",
 	"infinitive": ["steer"],
 	"participle": ["steered"],
 	"gerund": ["steering"],
@@ -11635,7 +11106,6 @@
 	},
 	"imperative": ["steer", "steer", "steer"]
 }, {
-	"verb": "store",
 	"infinitive": ["store"],
 	"participle": ["stored"],
 	"gerund": ["storing"],
@@ -11657,7 +11127,6 @@
 	},
 	"imperative": ["store", "store", "store"]
 }, {
-	"verb": "suck",
 	"infinitive": ["suck"],
 	"participle": ["sucked"],
 	"gerund": ["sucking"],
@@ -11679,7 +11148,6 @@
 	},
 	"imperative": ["suck", "suck", "suck"]
 }, {
-	"verb": "strengthen",
 	"infinitive": ["strengthen"],
 	"participle": ["strengthened"],
 	"gerund": ["strengthening"],
@@ -11701,7 +11169,6 @@
 	},
 	"imperative": ["strengthen", "strengthen", "strengthen"]
 }, {
-	"verb": "stretch",
 	"infinitive": ["stretch"],
 	"participle": ["stretched"],
 	"gerund": ["stretching"],
@@ -11723,7 +11190,6 @@
 	},
 	"imperative": ["stretch", "stretch", "stretch"]
 }, {
-	"verb": "strip",
 	"infinitive": ["strip"],
 	"participle": ["stripped"],
 	"gerund": ["stripping"],
@@ -11745,7 +11211,6 @@
 	},
 	"imperative": ["strip", "strip", "strip"]
 }, {
-	"verb": "strap",
 	"infinitive": ["strap"],
 	"participle": ["strapped"],
 	"gerund": ["strapping"],
@@ -11767,7 +11232,6 @@
 	},
 	"imperative": ["strap", "strap", "strap"]
 }, {
-	"verb": "stuff",
 	"infinitive": ["stuff"],
 	"participle": ["stuffed"],
 	"gerund": ["stuffing"],
@@ -11789,7 +11253,6 @@
 	},
 	"imperative": ["stuff", "stuff", "stuff"]
 }, {
-	"verb": "succeed",
 	"infinitive": ["succeed"],
 	"participle": ["succeeded"],
 	"gerund": ["succeeding"],
@@ -11811,7 +11274,6 @@
 	},
 	"imperative": ["succeed", "succeed", "succeed"]
 }, {
-	"verb": "stroke",
 	"infinitive": ["stroke"],
 	"participle": ["stroked"],
 	"gerund": ["stroking"],
@@ -11833,7 +11295,6 @@
 	},
 	"imperative": ["stroke", "stroke", "stroke"]
 }, {
-	"verb": "subtract",
 	"infinitive": ["subtract"],
 	"participle": ["subtracted"],
 	"gerund": ["subtracting"],
@@ -11855,7 +11316,6 @@
 	},
 	"imperative": ["subtract", "subtract", "subtract"]
 }, {
-	"verb": "suffer",
 	"infinitive": ["suffer"],
 	"participle": ["suffered"],
 	"gerund": ["suffering"],
@@ -11877,7 +11337,6 @@
 	},
 	"imperative": ["suffer", "suffer", "suffer"]
 }, {
-	"verb": "suggest",
 	"infinitive": ["suggest"],
 	"participle": ["suggested"],
 	"gerund": ["suggesting"],
@@ -11899,7 +11358,6 @@
 	},
 	"imperative": ["suggest", "suggest", "suggest"]
 }, {
-	"verb": "talk",
 	"infinitive": ["talk"],
 	"participle": ["talked"],
 	"gerund": ["talking"],
@@ -11921,7 +11379,6 @@
 	},
 	"imperative": ["talk", "talk", "talk"]
 }, {
-	"verb": "surprise",
 	"infinitive": ["surprise"],
 	"participle": ["surprised"],
 	"gerund": ["surprising"],
@@ -11943,7 +11400,6 @@
 	},
 	"imperative": ["surprise", "surprise", "surprise"]
 }, {
-	"verb": "switch",
 	"infinitive": ["switch"],
 	"participle": ["switched"],
 	"gerund": ["switching"],
@@ -11965,7 +11421,6 @@
 	},
 	"imperative": ["switch", "switch", "switch"]
 }, {
-	"verb": "support",
 	"infinitive": ["support"],
 	"participle": ["supported"],
 	"gerund": ["supporting"],
@@ -11987,7 +11442,6 @@
 	},
 	"imperative": ["support", "support", "support"]
 }, {
-	"verb": "surround",
 	"infinitive": ["surround"],
 	"participle": ["surrounded"],
 	"gerund": ["surrounding"],
@@ -12009,7 +11463,6 @@
 	},
 	"imperative": ["surround", "surround", "surround"]
 }, {
-	"verb": "suspect",
 	"infinitive": ["suspect"],
 	"participle": ["suspected"],
 	"gerund": ["suspecting"],
@@ -12031,7 +11484,6 @@
 	},
 	"imperative": ["suspect", "suspect", "suspect"]
 }, {
-	"verb": "suit",
 	"infinitive": ["suit"],
 	"participle": ["suited"],
 	"gerund": ["suiting"],
@@ -12053,7 +11505,6 @@
 	},
 	"imperative": ["suit", "suit", "suit"]
 }, {
-	"verb": "suspend",
 	"infinitive": ["suspend"],
 	"participle": ["suspended"],
 	"gerund": ["suspending"],
@@ -12075,7 +11526,6 @@
 	},
 	"imperative": ["suspend", "suspend", "suspend"]
 }, {
-	"verb": "tap",
 	"infinitive": ["tap"],
 	"participle": ["taped"],
 	"gerund": ["taping"],
@@ -12097,7 +11547,6 @@
 	},
 	"imperative": ["tap", "tap", "tap"]
 }, {
-	"verb": "tease",
 	"infinitive": ["tease"],
 	"participle": ["teased"],
 	"gerund": ["teasing"],
@@ -12119,7 +11568,6 @@
 	},
 	"imperative": ["tease", "tease", "tease"]
 }, {
-	"verb": "tame",
 	"infinitive": ["tame"],
 	"participle": ["tamed"],
 	"gerund": ["taming"],
@@ -12141,7 +11589,6 @@
 	},
 	"imperative": ["tame", "tame", "tame"]
 }, {
-	"verb": "terrify",
 	"infinitive": ["terrify"],
 	"participle": ["terrified"],
 	"gerund": ["terrifying"],
@@ -12163,7 +11610,6 @@
 	},
 	"imperative": ["terrify", "terrify", "terrify"]
 }, {
-	"verb": "telephone",
 	"infinitive": ["telephone"],
 	"participle": ["telephoned"],
 	"gerund": ["telephoning"],
@@ -12185,7 +11631,6 @@
 	},
 	"imperative": ["telephone", "telephone", "telephone"]
 }, {
-	"verb": "suppose",
 	"infinitive": ["suppose"],
 	"participle": ["supposed"],
 	"gerund": ["supposing"],
@@ -12207,7 +11652,6 @@
 	},
 	"imperative": ["suppose", "suppose", "suppose"]
 }, {
-	"verb": "test",
 	"infinitive": ["test"],
 	"participle": ["tested"],
 	"gerund": ["testing"],
@@ -12229,7 +11673,6 @@
 	},
 	"imperative": ["test", "test", "test"]
 }, {
-	"verb": "taste",
 	"infinitive": ["taste"],
 	"participle": ["tasted"],
 	"gerund": ["tasting"],
@@ -12251,7 +11694,6 @@
 	},
 	"imperative": ["taste", "taste", "taste"]
 }, {
-	"verb": "thank",
 	"infinitive": ["thank"],
 	"participle": ["thanked"],
 	"gerund": ["thanking"],
@@ -12273,7 +11715,6 @@
 	},
 	"imperative": ["thank", "thank", "thank"]
 }, {
-	"verb": "tempt",
 	"infinitive": ["tempt"],
 	"participle": ["tempted"],
 	"gerund": ["tempting"],
@@ -12295,7 +11736,6 @@
 	},
 	"imperative": ["tempt", "tempt", "tempt"]
 }, {
-	"verb": "supply",
 	"infinitive": ["supply"],
 	"participle": ["supplied"],
 	"gerund": ["supplying"],
@@ -12317,7 +11757,6 @@
 	},
 	"imperative": ["supply", "supply", "supply"]
 }, {
-	"verb": "tickle",
 	"infinitive": ["tickle"],
 	"participle": ["tickled"],
 	"gerund": ["tickling"],
@@ -12339,7 +11778,6 @@
 	},
 	"imperative": ["tickle", "tickle", "tickle"]
 }, {
-	"verb": "tie",
 	"infinitive": ["tie"],
 	"participle": ["tied"],
 	"gerund": ["tying"],
@@ -12361,7 +11799,6 @@
 	},
 	"imperative": ["tie", "tie", "tie"]
 }, {
-	"verb": "tour",
 	"infinitive": ["tour"],
 	"participle": ["toured"],
 	"gerund": ["touring"],
@@ -12383,7 +11820,6 @@
 	},
 	"imperative": ["tour", "tour", "tour"]
 }, {
-	"verb": "tick",
 	"infinitive": ["tick"],
 	"participle": ["ticked"],
 	"gerund": ["ticking"],
@@ -12405,7 +11841,6 @@
 	},
 	"imperative": ["tick", "tick", "tick"]
 }, {
-	"verb": "thaw",
 	"infinitive": ["thaw"],
 	"participle": ["thawed"],
 	"gerund": ["thawing"],
@@ -12427,7 +11862,6 @@
 	},
 	"imperative": ["thaw", "thaw", "thaw"]
 }, {
-	"verb": "touch",
 	"infinitive": ["touch"],
 	"participle": ["touched"],
 	"gerund": ["touching"],
@@ -12449,7 +11883,6 @@
 	},
 	"imperative": ["touch", "touch", "touch"]
 }, {
-	"verb": "trace",
 	"infinitive": ["trace"],
 	"participle": ["traced"],
 	"gerund": ["tracing"],
@@ -12471,7 +11904,6 @@
 	},
 	"imperative": ["trace", "trace", "trace"]
 }, {
-	"verb": "tire",
 	"infinitive": ["tire"],
 	"participle": ["tired"],
 	"gerund": ["tiring"],
@@ -12493,7 +11925,6 @@
 	},
 	"imperative": ["tire", "tire", "tire"]
 }, {
-	"verb": "tow",
 	"infinitive": ["tow"],
 	"participle": ["towed"],
 	"gerund": ["towing"],
@@ -12515,7 +11946,6 @@
 	},
 	"imperative": ["tow", "tow", "tow"]
 }, {
-	"verb": "treat",
 	"infinitive": ["treat"],
 	"participle": ["treated"],
 	"gerund": ["treating"],
@@ -12537,7 +11967,6 @@
 	},
 	"imperative": ["treat", "treat", "treat"]
 }, {
-	"verb": "trip",
 	"infinitive": ["trip"],
 	"participle": ["tripped"],
 	"gerund": ["tripping"],
@@ -12559,7 +11988,6 @@
 	},
 	"imperative": ["trip", "trip", "trip"]
 }, {
-	"verb": "train",
 	"infinitive": ["train"],
 	"participle": ["trained"],
 	"gerund": ["training"],
@@ -12581,7 +12009,6 @@
 	},
 	"imperative": ["train", "train", "train"]
 }, {
-	"verb": "travel",
 	"infinitive": ["travel"],
 	"participle": ["traveled", "travelled"],
 	"gerund": ["traveling", "travelling"],
@@ -12603,7 +12030,6 @@
 	},
 	"imperative": ["travel", "travel", "travel"]
 }, {
-	"verb": "tremble",
 	"infinitive": ["tremble"],
 	"participle": ["trembled"],
 	"gerund": ["trembling"],
@@ -12625,7 +12051,6 @@
 	},
 	"imperative": ["tremble", "tremble", "tremble"]
 }, {
-	"verb": "time",
 	"infinitive": ["time"],
 	"participle": ["timed"],
 	"gerund": ["timing"],
@@ -12647,7 +12072,6 @@
 	},
 	"imperative": ["time", "time", "time"]
 }, {
-	"verb": "trap",
 	"infinitive": ["trap"],
 	"participle": ["traped"],
 	"gerund": ["traping"],
@@ -12669,7 +12093,6 @@
 	},
 	"imperative": ["trap", "trap", "trap"]
 }, {
-	"verb": "tip",
 	"infinitive": ["tip"],
 	"participle": ["tipped"],
 	"gerund": ["tipping"],
@@ -12691,7 +12114,6 @@
 	},
 	"imperative": ["tip", "tip", "tip"]
 }, {
-	"verb": "trick",
 	"infinitive": ["trick"],
 	"participle": ["tricked"],
 	"gerund": ["tricking"],
@@ -12713,7 +12135,6 @@
 	},
 	"imperative": ["trick", "trick", "trick"]
 }, {
-	"verb": "transport",
 	"infinitive": ["transport"],
 	"participle": ["transported"],
 	"gerund": ["transporting"],
@@ -12735,7 +12156,6 @@
 	},
 	"imperative": ["transport", "transport", "transport"]
 }, {
-	"verb": "trade",
 	"infinitive": ["trade"],
 	"participle": ["traded"],
 	"gerund": ["trading"],
@@ -12757,7 +12177,6 @@
 	},
 	"imperative": ["trade", "trade", "trade"]
 }, {
-	"verb": "trot",
 	"infinitive": ["trot"],
 	"participle": ["troted"],
 	"gerund": ["troting"],
@@ -12779,7 +12198,6 @@
 	},
 	"imperative": ["trot", "trot", "trot"]
 }, {
-	"verb": "trouble",
 	"infinitive": ["trouble"],
 	"participle": ["troubled"],
 	"gerund": ["troubling"],
@@ -12801,7 +12219,6 @@
 	},
 	"imperative": ["trouble", "trouble", "trouble"]
 }, {
-	"verb": "trust",
 	"infinitive": ["trust"],
 	"participle": ["trusted"],
 	"gerund": ["trusting"],
@@ -12823,7 +12240,6 @@
 	},
 	"imperative": ["trust", "trust", "trust"]
 }, {
-	"verb": "try",
 	"infinitive": ["try"],
 	"participle": ["tried"],
 	"gerund": ["trying"],
@@ -12845,7 +12261,6 @@
 	},
 	"imperative": ["try", "try", "try"]
 }, {
-	"verb": "twist",
 	"infinitive": ["twist"],
 	"participle": ["twisted"],
 	"gerund": ["twisting"],
@@ -12867,7 +12282,6 @@
 	},
 	"imperative": ["twist", "twist", "twist"]
 }, {
-	"verb": "tumble",
 	"infinitive": ["tumble"],
 	"participle": ["tumbled"],
 	"gerund": ["tumbling"],
@@ -12889,7 +12303,6 @@
 	},
 	"imperative": ["tumble", "tumble", "tumble"]
 }, {
-	"verb": "tug",
 	"infinitive": ["tug"],
 	"participle": ["tuged"],
 	"gerund": ["tuging"],
@@ -12911,7 +12324,6 @@
 	},
 	"imperative": ["tug", "tug", "tug"]
 }, {
-	"verb": "type",
 	"infinitive": ["type"],
 	"participle": ["typed"],
 	"gerund": ["typing"],
@@ -12933,7 +12345,6 @@
 	},
 	"imperative": ["type", "type", "type"]
 }, {
-	"verb": "unfasten",
 	"infinitive": ["unfasten"],
 	"participle": ["unfastened"],
 	"gerund": ["unfastening"],
@@ -12955,7 +12366,6 @@
 	},
 	"imperative": ["unfasten", "unfasten", "unfasten"]
 }, {
-	"verb": "undress",
 	"infinitive": ["undress"],
 	"participle": ["undressed"],
 	"gerund": ["undressing"],
@@ -12977,7 +12387,6 @@
 	},
 	"imperative": ["undress", "undress", "undress"]
 }, {
-	"verb": "untidy",
 	"infinitive": ["untidy"],
 	"participle": ["untidyed"],
 	"gerund": ["untidying"],
@@ -12999,7 +12408,6 @@
 	},
 	"imperative": ["untidy", "untidy", "untidy"]
 }, {
-	"verb": "unite",
 	"infinitive": ["unite"],
 	"participle": ["united"],
 	"gerund": ["uniting"],
@@ -13021,7 +12429,6 @@
 	},
 	"imperative": ["unite", "unite", "unite"]
 }, {
-	"verb": "unlock",
 	"infinitive": ["unlock"],
 	"participle": ["unlocked"],
 	"gerund": ["unlocking"],
@@ -13043,7 +12450,6 @@
 	},
 	"imperative": ["unlock", "unlock", "unlock"]
 }, {
-	"verb": "wail",
 	"infinitive": ["wail"],
 	"participle": ["wailed"],
 	"gerund": ["wailing"],
@@ -13065,7 +12471,6 @@
 	},
 	"imperative": ["wail", "wail", "wail"]
 }, {
-	"verb": "visit",
 	"infinitive": ["visit"],
 	"participle": ["visited"],
 	"gerund": ["visiting"],
@@ -13087,7 +12492,6 @@
 	},
 	"imperative": ["visit", "visit", "visit"]
 }, {
-	"verb": "unpack",
 	"infinitive": ["unpack"],
 	"participle": ["unpacked"],
 	"gerund": ["unpacking"],
@@ -13109,7 +12513,6 @@
 	},
 	"imperative": ["unpack", "unpack", "unpack"]
 }, {
-	"verb": "vanish",
 	"infinitive": ["vanish"],
 	"participle": ["vanished"],
 	"gerund": ["vanishing"],
@@ -13131,7 +12534,6 @@
 	},
 	"imperative": ["vanish", "vanish", "vanish"]
 }, {
-	"verb": "wait",
 	"infinitive": ["wait"],
 	"participle": ["waited"],
 	"gerund": ["waiting"],
@@ -13153,7 +12555,6 @@
 	},
 	"imperative": ["wait", "wait", "wait"]
 }, {
-	"verb": "use",
 	"infinitive": ["use"],
 	"participle": ["used"],
 	"gerund": ["using"],
@@ -13175,7 +12576,6 @@
 	},
 	"imperative": ["use", "use", "use"]
 }, {
-	"verb": "turn",
 	"infinitive": ["turn"],
 	"participle": ["turned"],
 	"gerund": ["turning"],
@@ -13197,7 +12597,6 @@
 	},
 	"imperative": ["turn", "turn", "turn"]
 }, {
-	"verb": "wander",
 	"infinitive": ["wander"],
 	"participle": ["wandered"],
 	"gerund": ["wandering"],
@@ -13219,7 +12618,6 @@
 	},
 	"imperative": ["wander", "wander", "wander"]
 }, {
-	"verb": "warm",
 	"infinitive": ["warm"],
 	"participle": ["warmed"],
 	"gerund": ["warming"],
@@ -13241,7 +12639,6 @@
 	},
 	"imperative": ["warm", "warm", "warm"]
 }, {
-	"verb": "want",
 	"infinitive": ["want"],
 	"participle": ["wanted"],
 	"gerund": ["wanting"],
@@ -13263,7 +12660,6 @@
 	},
 	"imperative": ["want", "want", "want"]
 }, {
-	"verb": "walk",
 	"infinitive": ["walk"],
 	"participle": ["walked"],
 	"gerund": ["walking"],
@@ -13285,7 +12681,6 @@
 	},
 	"imperative": ["walk", "walk", "walk"]
 }, {
-	"verb": "welcome",
 	"infinitive": ["welcome"],
 	"participle": ["welcomed"],
 	"gerund": ["welcoming"],
@@ -13307,7 +12702,6 @@
 	},
 	"imperative": ["welcome", "welcome", "welcome"]
 }, {
-	"verb": "whip",
 	"infinitive": ["whip"],
 	"participle": ["whipped"],
 	"gerund": ["whipping"],
@@ -13329,7 +12723,6 @@
 	},
 	"imperative": ["whip", "whip", "whip"]
 }, {
-	"verb": "wash",
 	"infinitive": ["wash"],
 	"participle": ["washed"],
 	"gerund": ["washing"],
@@ -13351,7 +12744,6 @@
 	},
 	"imperative": ["wash", "wash", "wash"]
 }, {
-	"verb": "weigh",
 	"infinitive": ["weigh"],
 	"participle": ["weighed"],
 	"gerund": ["weighing"],
@@ -13373,7 +12765,6 @@
 	},
 	"imperative": ["weigh", "weigh", "weigh"]
 }, {
-	"verb": "whine",
 	"infinitive": ["whine"],
 	"participle": ["whined"],
 	"gerund": ["whining"],
@@ -13395,7 +12786,6 @@
 	},
 	"imperative": ["whine", "whine", "whine"]
 }, {
-	"verb": "warn",
 	"infinitive": ["warn"],
 	"participle": ["warned"],
 	"gerund": ["warning"],
@@ -13417,7 +12807,6 @@
 	},
 	"imperative": ["warn", "warn", "warn"]
 }, {
-	"verb": "watch",
 	"infinitive": ["watch"],
 	"participle": ["watched"],
 	"gerund": ["watching"],
@@ -13439,7 +12828,6 @@
 	},
 	"imperative": ["watch", "watch", "watch"]
 }, {
-	"verb": "water",
 	"infinitive": ["water"],
 	"participle": ["watered"],
 	"gerund": ["watering"],
@@ -13461,7 +12849,6 @@
 	},
 	"imperative": ["water", "water", "water"]
 }, {
-	"verb": "whisper",
 	"infinitive": ["whisper"],
 	"participle": ["whispered"],
 	"gerund": ["whispering"],
@@ -13483,7 +12870,6 @@
 	},
 	"imperative": ["whisper", "whisper", "whisper"]
 }, {
-	"verb": "whistle",
 	"infinitive": ["whistle"],
 	"participle": ["whistled"],
 	"gerund": ["whistling"],
@@ -13505,7 +12891,6 @@
 	},
 	"imperative": ["whistle", "whistle", "whistle"]
 }, {
-	"verb": "waste",
 	"infinitive": ["waste"],
 	"participle": ["wasted"],
 	"gerund": ["wasting"],
@@ -13527,7 +12912,6 @@
 	},
 	"imperative": ["waste", "waste", "waste"]
 }, {
-	"verb": "wave",
 	"infinitive": ["wave"],
 	"participle": ["waved"],
 	"gerund": ["waving"],
@@ -13549,7 +12933,6 @@
 	},
 	"imperative": ["wave", "wave", "wave"]
 }, {
-	"verb": "wink",
 	"infinitive": ["wink"],
 	"participle": ["winked"],
 	"gerund": ["winking"],
@@ -13571,7 +12954,6 @@
 	},
 	"imperative": ["wink", "wink", "wink"]
 }, {
-	"verb": "wish",
 	"infinitive": ["wish"],
 	"participle": ["wished"],
 	"gerund": ["wishing"],
@@ -13593,7 +12975,6 @@
 	},
 	"imperative": ["wish", "wish", "wish"]
 }, {
-	"verb": "wipe",
 	"infinitive": ["wipe"],
 	"participle": ["wiped"],
 	"gerund": ["wiping"],
@@ -13615,7 +12996,6 @@
 	},
 	"imperative": ["wipe", "wipe", "wipe"]
 }, {
-	"verb": "whirl",
 	"infinitive": ["whirl"],
 	"participle": ["whirled"],
 	"gerund": ["whirling"],
@@ -13637,7 +13017,6 @@
 	},
 	"imperative": ["whirl", "whirl", "whirl"]
 }, {
-	"verb": "wonder",
 	"infinitive": ["wonder"],
 	"participle": ["wondered"],
 	"gerund": ["wondering"],
@@ -13659,7 +13038,6 @@
 	},
 	"imperative": ["wonder", "wonder", "wonder"]
 }, {
-	"verb": "wobble",
 	"infinitive": ["wobble"],
 	"participle": ["wobbled"],
 	"gerund": ["wobbling"],
@@ -13681,7 +13059,6 @@
 	},
 	"imperative": ["wobble", "wobble", "wobble"]
 }, {
-	"verb": "worry",
 	"infinitive": ["worry"],
 	"participle": ["worried"],
 	"gerund": ["worrying"],
@@ -13703,7 +13080,6 @@
 	},
 	"imperative": ["worry", "worry", "worry"]
 }, {
-	"verb": "work",
 	"infinitive": ["work"],
 	"participle": ["worked"],
 	"gerund": ["working"],
@@ -13725,7 +13101,6 @@
 	},
 	"imperative": ["work", "work", "work"]
 }, {
-	"verb": "wrap",
 	"infinitive": ["wrap"],
 	"participle": ["wrapt", "wrapped"],
 	"gerund": ["wrapping"],
@@ -13747,7 +13122,6 @@
 	},
 	"imperative": ["wrap", "wrap", "wrap"]
 }, {
-	"verb": "undefined",
 	"infinitive": ["undefined"],
 	"participle": ["undefineded"],
 	"gerund": ["undefineding"],
@@ -13769,7 +13143,6 @@
 	},
 	"imperative": ["undefined", "undefined", "undefined"]
 }, {
-	"verb": "yawn",
 	"infinitive": ["yawn"],
 	"participle": ["yawned"],
 	"gerund": ["yawning"],
@@ -13791,7 +13164,6 @@
 	},
 	"imperative": ["yawn", "yawn", "yawn"]
 }, {
-	"verb": "x-ray",
 	"infinitive": ["x-ray"],
 	"participle": ["x-rayed"],
 	"gerund": ["x-raying"],
@@ -13813,7 +13185,6 @@
 	},
 	"imperative": ["x-ray", "x-ray", "x-ray"]
 }, {
-	"verb": "wriggle",
 	"infinitive": ["wriggle"],
 	"participle": ["wriggled"],
 	"gerund": ["wriggling"],
@@ -13835,7 +13206,6 @@
 	},
 	"imperative": ["wriggle", "wriggle", "wriggle"]
 }, {
-	"verb": "zip",
 	"infinitive": ["zip"],
 	"participle": ["zipped"],
 	"gerund": ["zipping"],
@@ -13857,7 +13227,6 @@
 	},
 	"imperative": ["zip", "zip", "zip"]
 }, {
-	"verb": "yell",
 	"infinitive": ["yell"],
 	"participle": ["yelled"],
 	"gerund": ["yelling"],
@@ -13879,7 +13248,6 @@
 	},
 	"imperative": ["yell", "yell", "yell"]
 }, {
-	"verb": "zoom",
 	"infinitive": ["zoom"],
 	"participle": ["zoomed"],
 	"gerund": ["zooming"],
@@ -13901,7 +13269,6 @@
 	},
 	"imperative": ["zoom", "zoom", "zoom"]
 }, {
-	"verb": "wreck",
 	"infinitive": ["wreck"],
 	"participle": ["wrecked"],
 	"gerund": ["wrecking"],
@@ -13923,7 +13290,6 @@
 	},
 	"imperative": ["wreck", "wreck", "wreck"]
 }, {
-	"verb": "wrestle",
 	"infinitive": ["wrestle"],
 	"participle": ["wrestled"],
 	"gerund": ["wrestling"],
