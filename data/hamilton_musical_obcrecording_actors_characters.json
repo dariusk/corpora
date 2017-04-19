@@ -1,0 +1,63 @@
+{
+	"description": "Actors and the named characters played by them in the Original Broadway Cast recording of Hamilton: An American Musical. Actors who played multiple characters are listed multiple times.",
+	"source": "https://en.wikipedia.org/wiki/Hamilton_(musical)#Principal_roles_and_major_casts",
+
+	"actors": [{
+		"actor": "Lin-Manuel Miranda",
+		"character": "Alexander Hamilton"
+	}, {
+		"actor": "Leslie Odom, Jr.",
+		"character": "Aaron Burr"
+	}, {
+		"actor": "Phillipa Soo",
+		"character": "Eliza Schuyler Hamilton"
+	}, {
+		"actor": "Renée Elise Goldsberry",
+		"character": "Angelica Schuyler Church"
+	}, {
+		"actor": "Daveed Diggs",
+		"character": "Marquis de Lafayette"
+	}, {
+		"actor": "Daveed Diggs",
+		"character": "Thomas Jefferson"
+	}, {
+		"actor": "Christopher Jackson",
+		"character": "George Washington"
+	}, {
+		"actor": "Jonathan Groff",
+		"character": "King George III"
+	}, {
+		"actor": "Jasmine Cephas Jones",
+		"character": "Peggy Schuyler"
+	}, {
+		"actor": "Jasmine Cephas Jones",
+		"character": "Maria Reynolds"
+	}, {
+		"actor": "Anthony Ramos",
+		"character": "John Laurens"
+	}, {
+		"actor": "Anthony Ramos",
+		"character": "Philip Hamilton"
+	}, {
+		"actor": "Okieriete Onaodowan",
+		"character": "Hercules Mulligan"
+	}, {
+		"actor": "Okieriete Onaodowan",
+		"character": "James Madison"
+	}, {
+		"actor": "Jon Rua",
+		"character": "Charles Lee"
+	}, {
+		"actor": "Thayne Jasperson",
+		"character": "Samuel Seabury"
+	}, {
+		"actor": "Sydney James Harcourt",
+		"character": "Philip Schuyler"
+	}, {
+		"actor": "Sydney James Harcourt",
+		"character": "James Reynolds"
+	}, {
+		"actor": "Ephraim Sykes",
+		"character": "George Eacker"
+	}]
+}
