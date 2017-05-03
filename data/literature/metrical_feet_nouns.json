@@ -1,0 +1,19 @@
+{
+  "description": "A list of types of metrical feet in poetry, as nouns.",
+  "metrical_foot_nouns": [
+    "pyrrhus",
+    "dibrach",
+    "iamb",
+    "trochee",
+    "spondee",
+    "tribrach",
+    "dactyl",
+    "amphibrach",
+    "anapest",
+    "bacchius",
+    "antibacchius",
+    "cretic",
+    "amphimacer",
+    "molossus"
+  ]
+}

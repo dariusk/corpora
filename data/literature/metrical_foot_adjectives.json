@@ -1,0 +1,19 @@
+{
+  "description": "A list of types of metrical feet in poetry, as adjectives.",
+  "metrical_foot_adjectives": [
+    "pyrrhic",
+    "dibrachic",
+    "iambic",
+    "trochaic",
+    "spondic",
+    "tribrachic",
+    "dactylic",
+    "amphibrachic",
+    "anapestic",
+    "bacchius",
+    "antibacchic",
+    "cretic",
+    "amphimacic",
+    "molossic"
+  ]
+}
