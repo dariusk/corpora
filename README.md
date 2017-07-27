@@ -45,3 +45,5 @@ We accept pull requests to this repository. Some guidelines:
 
  * Tyler Kellen ([tkellen](https://github.com/tkellen)): prefixes and suffixes
  * Parker Higgins ([thisisparker](https://github.com/thisisparker)): apple cultivars from the pomological watercolor collection
+ * Cristian Rivas ([CRivasGomez](https://github.com/crivasgomez)): the first 1000 prime numbers in binary
+ 
