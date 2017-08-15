@@ -1,0 +1,117 @@
+{
+	"description": "IATA and ICAO airport codes for the primary commercial airports in each state.",
+	"states": [
+				{"Alabama":[
+					{"Birmingham": {"IATA": "BHM", "ICAO": "KBHM"}},
+					{"Huntsville": {"IATA": "HSV", "ICAO": "KHSV"}},
+					{"Mobile": {"IATA": "MOB", "ICAO": "KMOB"}},
+					{"Montgomery": {"IATA": "MGM", "ICAO": "KMGM"}}
+					] 
+				},
+				{"Alaska": [
+					{"Anchorage": {"IATA": "ANC", "ICAO": "PANC"}},
+					{"Bethel": {"IATA": "BET", "ICAO": "PABE"}},
+					{"Fairbanks": {"IATA": "FAI", "ICAO": "PAFA"}},
+					{"Juneau": {"IATA": "JNU", "ICAO": "PAJN"}},
+					{"Ketchikan": {"IATA":"KTN", "ICAO": "PAKT"}}
+					]
+
+				}, 
+				{"Arizona": [
+					{"Bullhead City": {"IATA": "IFP", "ICAO": "KIFP"}},
+					{"Grand Canyon": {"IATA": "GCN", "ICAO": "KGCN"}},
+					{"Mesa": {"IATA": "AZA", "ICAO": "KIWA"}},
+					{"Phoenix": {"IATA":"PHX", "ICAO": "KPHX"}},
+					{"Tucson": {"IATA": "TUS", "ICAO": "KTUS"}}
+					]
+				}, 
+				{"Arkansas": [
+					{"Fayetteville": {"IATA":"XNA", "ICAO": "KXNA"}},
+					{"Little Rock": {"IATA": "LIT", "ICAO": "KLIT"}}
+					]
+				},
+				{"California": [
+					{"Bakersfield": {"IATA":"BFL", "ICAO": "KBFL"}},
+					{"Burbank": {"IATA": "BUR", "ICAO": "KBUR"}},
+					{"Fresno": {"IATA": "FAT", "ICAO": "KFAT"}},
+					{"Long Beach": {"IATA": "LGB", "ICAO": "KLGB"}},
+					{"Los Angeles": {"IATA": "LAX", "ICAO": "LAX"}},
+					{"Monterey": {"IATA": "MRY", "ICAO": "KMRY"}},
+					{"Oakland": {"IATA": "OAK", "ICAO": "KOAK"}},
+					{"Ontario": {"IATA": "ONT", "ICAO": "KONT"}},
+					{"Palm Springs": {"IATA": "PSP", "ICAO": "KPSP"}},
+					{"Sacramento": {"IATA": "SMF", "ICAO": "SMF"}},
+					{"San Diego": {"IATA": "SAN", "ICAO": "KSAN"}},
+					{"San Francisco": {"IATA": "SFO", "ICAO": "KSFO"}},
+					{"San Jose": {"IATA": "SJC", "ICAO": "KSJC"}},
+					{"San Luis Obispo": {"IATA": "SBP", "ICAO": "KSBP"}},
+					{"Santa Ana": {"IATA": "SNA", "ICAO": "KSNA"}},
+					{"Santa Barbara": {"IATA": "SBA", "ICAO": "KSBA"}},
+					{"Santa Rosa": { "IATA": "STS", "ICAO": "KSTS"}}
+					]
+				}, 
+				{"Colorado": [
+					{"Aspen": {"IATA": "ASE", "ICAO": "KASE"}},
+					{"Colorado Springs": {"IATA": "COS", "ICAO": "KCOS"}},
+					{"Denver": {"IATA": "DEN", "ICAO": "KDEN"}},
+					{"Durango": {"IATA": "DRO", "ICAO": "KDRO"}},
+					{"Eagle": {"IATA": "EGE", "ICAO": "KEGE"}},
+					{"Grand Junction": {"IATA": "GJT", "ICAO": "KGJT"}}
+					]
+				},
+				{"Conecticut": [
+					{"Hartford": {"IATA": "BDL", "ICAO": "KBDL"}}
+					]
+				},
+				{"Delaware": [
+					{"Wilmington": {"IATA": "ILG", "ICAO": "KILG"}}
+					]
+				},
+				{"Florida": [
+					{"Daytona Beach": {"IATA": "DAB", "ICAO": "KDAB"}},
+					{"Fort Lauderdale": {"IATA": "FLL", "ICAO": "KFLL"}},
+					{"Fort Myers": {"IATA": "RSW", "ICAO": "KRSW"}},
+					{"Gainesville": {"IATA": "GNV", "ICAO": "KGNV"}},
+					{"Jacksonville": {"IATA": "JAX", "ICAO": "KJAX"}},
+					{"Key West": {"IATA": "EYW", "ICAO": "KEYW"}},
+					{"Melbourne": {"IATA": "MLB", "ICAO": "KMLB"}},
+					{"Miami": {"IATA": "MIA", "ICAO": "KMIA"}},
+					{"Orlando": {"IATA":"MCO", "ICAO": "KMCO"}},
+					{"Orlando/ Sanford": {"IATA": "SFB", "ICAO": "KSFB"}},
+					{"Panama City Beach": {"IATA": "ECP", "ICAO": "KECP"}},
+					{"Pensacola": {"IATA": "PNS", "ICAO": "KPNS"}},
+					{"Punta Gorda": {"IATA": "PGD", "ICAO": "KPGD"}},
+					{"Sarasota": {"IATA": "SRQ", "ICAO": "KSRQ"}},
+					{"St. Petersburg": {"IATA": "PIE", "ICAO": "KPIE"}},
+					{"Tallahassee": {"IATA": "TLH", "ICAO": "KTLH"}},
+					{"Tampa": {"IATA": "TPA", "ICAO": "KTPA"}},
+					{"Valparaiso": {"IATA": "VPS", "ICAO": "KVPS"}}
+					]
+				},
+				{"Georgia":[
+					{"Atlanta": {"IATA": "ATL", "ICAO": "KATL"}},
+					{"Augusta": {"IATA": "AGS", "ICAO": "KAGS"}},
+					{"Savannah": {"IATA": "SAV", "ICAO": "KSAV"}}
+					]
+				}
+
+					
+			] 
+
+}  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
