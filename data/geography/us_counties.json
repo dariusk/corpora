@@ -1916,6 +1916,12 @@
       "Walsh",
       "Ward"
     ],
+    "Hawaii": [
+      "Hawaii",
+      "Kalawao",
+      "Kauai",
+      "Maui"
+    ],
     "Pennsylvania": [
       "Adams",
       "Allegheny",
@@ -2047,11 +2053,19 @@
       "Wakulla",
       "Walton"
     ],
-    "Hawaii": [
-      "Hawaii",
-      "Kalawao",
-      "Kauai",
-      "Maui"
+    "Alaska": [
+      "Aleutians East",
+      "Bristol Bay",
+      "Denali",
+      "Fairbanks North Star",
+      "Kenai Peninsula",
+      "Ketchikan Gateway",
+      "Kodiak Island",
+      "Lake and Peninsula",
+      "Matanuska-Susitna",
+      "North Slope",
+      "Northwest Arctic",
+      "Unorganized"
     ],
     "Kentucky": [
       "Adair",
