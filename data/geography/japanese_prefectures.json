@@ -1,0 +1,99 @@
+{
+  "description": "Japanese areas and prefectures.",
+  "areas":
+  [
+      {
+        "area": "Chūbu area",
+        "prefectures": [
+            "Aichi",
+            "Fukui",
+            "Gifu",
+            "Ishikawa",
+            "Nagano",
+            "Niigata",
+            "Shizuoka",
+            "Toyama",
+            "Yamanashi"
+        ]
+      },
+      {
+        "area": "Chūgoku area",
+        "prefectures": [
+            "Hiroshima",
+            "Okayama",
+            "Shimane",
+            "Tottori",
+            "Yamaguchi"
+        ]
+
+      },
+      {
+        "area": "Hokkaido area",
+        "prefectures": [
+            "Hokkaido"
+        ]
+
+      },
+      {
+        "area": "Kansai area",
+        "prefectures": [
+            "Hyōgo",
+            "Kyoto",
+            "Mie",
+            "Nara",
+            "Osaka",
+            "Shiga",
+            "Wakayama"
+        ]
+
+      },
+      {
+        "area": "Kantō area",
+        "prefectures": [
+            "Chiba",
+            "Gunma",
+            "Ibaraki",
+            "Kanagawa",
+            "Saitama",
+            "Tochigi",
+            "Tokyo"
+        ]
+
+      },
+      {
+        "area": "Kyushu area",
+        "prefectures": [
+            "Fukuoka",
+            "Kagoshima",
+            "Kumamoto",
+            "Miyazaki",
+            "Nagasaki",
+            "Ōita",
+            "Okinawa",
+            "Saga"
+        ]
+
+      },
+      {
+        "area": "Shikoku area",
+        "prefectures": [
+            "Ehime",
+            "Kagawa",
+            "Kōchi",
+            "Tokushima"
+        ]
+
+      },
+      {
+        "area": "Tōhoku area",
+        "prefectures": [
+            "Akita",
+            "Aomori",
+            "Fukushima",
+            "Iwate",
+            "Miyagi",
+            "Yamagata"
+        ]
+      }
+  ]
+}
