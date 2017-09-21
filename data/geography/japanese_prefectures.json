@@ -1,9 +1,9 @@
 {
-  "description": "Japanese areas and prefectures.",
-  "areas":
+  "description": "Japanese regions and prefectures.",
+  "regions":
   [
       {
-        "area": "Chūbu area",
+        "region": "Chūbu",
         "prefectures": [
             "Aichi",
             "Fukui",
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "area": "Chūgoku area",
+        "region": "Chūgoku",
         "prefectures": [
             "Hiroshima",
             "Okayama",
@@ -28,14 +28,14 @@
 
       },
       {
-        "area": "Hokkaido area",
+        "region": "Hokkaido",
         "prefectures": [
             "Hokkaido"
         ]
 
       },
       {
-        "area": "Kansai area",
+        "region": "Kansai",
         "prefectures": [
             "Hyōgo",
             "Kyoto",
@@ -48,7 +48,7 @@
 
       },
       {
-        "area": "Kantō area",
+        "region": "Kantō",
         "prefectures": [
             "Chiba",
             "Gunma",
@@ -61,7 +61,7 @@
 
       },
       {
-        "area": "Kyushu area",
+        "region": "Kyushu",
         "prefectures": [
             "Fukuoka",
             "Kagoshima",
@@ -75,7 +75,7 @@
 
       },
       {
-        "area": "Shikoku area",
+        "region": "Shikoku",
         "prefectures": [
             "Ehime",
             "Kagawa",
@@ -85,7 +85,7 @@
 
       },
       {
-        "area": "Tōhoku area",
+        "region": "Tōhoku",
         "prefectures": [
             "Akita",
             "Aomori",
