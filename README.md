@@ -44,3 +44,4 @@ We accept pull requests to this repository. Some guidelines:
 ## Contributors:
 
  * Tyler Kellen ([tkellen](https://github.com/tkellen)): prefixes and suffixes
+ * Cristian Rivas ([CRivasGomez](https://github.com/crivasgomez)): the first 1000 prime numbers in binary
