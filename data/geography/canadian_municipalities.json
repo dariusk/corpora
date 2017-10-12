@@ -1,0 +1,606 @@
+{
+    "description": "Top 100 Canadian municipalities by 2011 population",
+    "source": "https://en.wikipedia.org/wiki/List_of_the_100_largest_municipalities_in_Canada_by_population",
+    "municipalities": [
+        {
+            "name": "Toronto",
+            "province": "Ontario",
+            "type": "city",
+            "population": "2,615,060"
+        },
+        {
+            "name": "Montreal",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "1,649,519"
+        },
+        {
+            "name": "Calgary",
+            "province": "Alberta",
+            "type": "city",
+            "population": "1,096,833"
+        },
+        {
+            "name": "Ottawa",
+            "province": "Ontario",
+            "type": "city",
+            "population": "883,391"
+        },
+        {
+            "name": "Edmonton",
+            "province": "Alberta",
+            "type": "city",
+            "population": "812,201"
+        },
+        {
+            "name": "Mississauga",
+            "province": "Ontario",
+            "type": "city",
+            "population": "713,443"
+        },
+        {
+            "name": "Winnipeg",
+            "province": "Manitoba",
+            "type": "city",
+            "population": "663,617"
+        },
+        {
+            "name": "Vancouver",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "603,502"
+        },
+        {
+            "name": "Brampton",
+            "province": "Ontario",
+            "type": "city",
+            "population": "523,911"
+        },
+        {
+            "name": "Hamilton",
+            "province": "Ontario",
+            "type": "city",
+            "population": "519,949"
+        },
+        {
+            "name": "Quebec City",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "516,622"
+        },
+        {
+            "name": "Surrey",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "468,251"
+        },
+        {
+            "name": "Laval",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "401,553"
+        },
+        {
+            "name": "Halifax",
+            "province": "Nova Scotia",
+            "type": "regional municipality",
+            "population": "390,096"
+        },
+        {
+            "name": "London",
+            "province": "Ontario",
+            "type": "city",
+            "population": "366,151"
+        },
+        {
+            "name": "Markham",
+            "province": "Ontario",
+            "type": "city",
+            "population": "301,709"
+        },
+        {
+            "name": "Vaughan",
+            "province": "Ontario",
+            "type": "city",
+            "population": "288,301"
+        },
+        {
+            "name": "Gatineau",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "265,349"
+        },
+        {
+            "name": "Longueuil",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "231,409"
+        },
+        {
+            "name": "Burnaby",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "223,218"
+        },
+        {
+            "name": "Saskatoon",
+            "province": "Saskatchewan",
+            "type": "city",
+            "population": "222,189"
+        },
+        {
+            "name": "Kitchener",
+            "province": "Ontario",
+            "type": "city",
+            "population": "219,153"
+        },
+        {
+            "name": "Windsor",
+            "province": "Ontario",
+            "type": "city",
+            "population": "210,891"
+        },
+        {
+            "name": "Regina",
+            "province": "Saskatchewan",
+            "type": "city",
+            "population": "193,100"
+        },
+        {
+            "name": "Richmond",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "190,473"
+        },
+        {
+            "name": "Richmond Hill",
+            "province": "Ontario",
+            "type": "town",
+            "population": "185,541"
+        },
+        {
+            "name": "Oakville",
+            "province": "Ontario",
+            "type": "town",
+            "population": "182,520"
+        },
+        {
+            "name": "Burlington",
+            "province": "Ontario",
+            "type": "city",
+            "population": "175,779"
+        },
+        {
+            "name": "Greater Sudbury",
+            "province": "Ontario",
+            "type": "city",
+            "population": "160,274"
+        },
+        {
+            "name": "Sherbrooke",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "154,601"
+        },
+        {
+            "name": "Oshawa",
+            "province": "Ontario",
+            "type": "city",
+            "population": "149,607"
+        },
+        {
+            "name": "Saguenay",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "144,746"
+        },
+        {
+            "name": "L\u00e9vis",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "138,769"
+        },
+        {
+            "name": "Barrie",
+            "province": "Ontario",
+            "type": "city",
+            "population": "135,711"
+        },
+        {
+            "name": "Abbotsford",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "133,497"
+        },
+        {
+            "name": "St. Catharines",
+            "province": "Ontario",
+            "type": "city",
+            "population": "131,400"
+        },
+        {
+            "name": "Trois-Rivi\u00e8res",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "131,338"
+        },
+        {
+            "name": "Cambridge",
+            "province": "Ontario",
+            "type": "city",
+            "population": "126,748"
+        },
+        {
+            "name": "Coquitlam",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "126,456"
+        },
+        {
+            "name": "Kingston",
+            "province": "Ontario",
+            "type": "city",
+            "population": "123,363"
+        },
+        {
+            "name": "Whitby",
+            "province": "Ontario",
+            "type": "town",
+            "population": "122,022"
+        },
+        {
+            "name": "Guelph",
+            "province": "Ontario",
+            "type": "city",
+            "population": "121,688"
+        },
+        {
+            "name": "Kelowna",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "117,312"
+        },
+        {
+            "name": "Saanich",
+            "province": "British Columbia",
+            "type": "district municipality",
+            "population": "109,752"
+        },
+        {
+            "name": "Ajax",
+            "province": "Ontario",
+            "type": "town",
+            "population": "109,600"
+        },
+        {
+            "name": "Thunder Bay",
+            "province": "Ontario",
+            "type": "city",
+            "population": "108,359"
+        },
+        {
+            "name": "Terrebonne",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "106,322"
+        },
+        {
+            "name": "St. John's",
+            "province": "Newfoundland and Labrador",
+            "type": "city",
+            "population": "106,172"
+        },
+        {
+            "name": "Langley",
+            "province": "British Columbia",
+            "type": "district municipality",
+            "population": "104,177"
+        },
+        {
+            "name": "Chatham-Kent",
+            "province": "Ontario",
+            "type": "municipality",
+            "population": "103,671"
+        },
+        {
+            "name": "Delta",
+            "province": "British Columbia",
+            "type": "district municipality",
+            "population": "99,863"
+        },
+        {
+            "name": "Waterloo",
+            "province": "Ontario",
+            "type": "city",
+            "population": "98,780"
+        },
+        {
+            "name": "Cape Breton",
+            "province": "Nova Scotia",
+            "type": "regional municipality",
+            "population": "97,398"
+        },
+        {
+            "name": "Brantford",
+            "province": "Ontario",
+            "type": "city",
+            "population": "93,650"
+        },
+        {
+            "name": "Strathcona County",
+            "province": "Alberta",
+            "type": "specialized municipality",
+            "population": "92,490"
+        },
+        {
+            "name": "Saint-Jean-sur-Richelieu",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "92,394"
+        },
+        {
+            "name": "Red Deer",
+            "province": "Alberta",
+            "type": "city",
+            "population": "90,564"
+        },
+        {
+            "name": "Pickering",
+            "province": "Ontario",
+            "type": "city",
+            "population": "88,721"
+        },
+        {
+            "name": "Kamloops",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "85,678"
+        },
+        {
+            "name": "Clarington",
+            "province": "Ontario",
+            "type": "municipality",
+            "population": "84,548"
+        },
+        {
+            "name": "North Vancouver",
+            "province": "British Columbia",
+            "type": "district municipality",
+            "population": "84,412"
+        },
+        {
+            "name": "Milton",
+            "province": "Ontario",
+            "type": "town",
+            "population": "84,362"
+        },
+        {
+            "name": "Nanaimo",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "83,810"
+        },
+        {
+            "name": "Lethbridge",
+            "province": "Alberta",
+            "type": "city",
+            "population": "83,517"
+        },
+        {
+            "name": "Niagara Falls",
+            "province": "Ontario",
+            "type": "city",
+            "population": "82,997"
+        },
+        {
+            "name": "Repentigny",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "82,000"
+        },
+        {
+            "name": "Victoria",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "80,017"
+        },
+        {
+            "name": "Newmarket",
+            "province": "Ontario",
+            "type": "town",
+            "population": "79,978"
+        },
+        {
+            "name": "Brossard",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "79,273"
+        },
+        {
+            "name": "Peterborough",
+            "province": "Ontario",
+            "type": "city",
+            "population": "78,698"
+        },
+        {
+            "name": "Chilliwack",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "77,936"
+        },
+        {
+            "name": "Maple Ridge",
+            "province": "British Columbia",
+            "type": "district municipality",
+            "population": "76,052"
+        },
+        {
+            "name": "Sault Ste. Marie",
+            "province": "Ontario",
+            "type": "city",
+            "population": "75,141"
+        },
+        {
+            "name": "Kawartha Lakes",
+            "province": "Ontario",
+            "type": "city",
+            "population": "73,214"
+        },
+        {
+            "name": "Sarnia",
+            "province": "Ontario",
+            "type": "city",
+            "population": "72,366"
+        },
+        {
+            "name": "Prince George",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "71,974"
+        },
+        {
+            "name": "Drummondville",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "71,852"
+        },
+        {
+            "name": "Saint John",
+            "province": "New Brunswick",
+            "type": "city",
+            "population": "70,063"
+        },
+        {
+            "name": "Moncton",
+            "province": "New Brunswick",
+            "type": "city",
+            "population": "69,074"
+        },
+        {
+            "name": "Saint-J\u00e9r\u00f4me",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "68,456"
+        },
+        {
+            "name": "New Westminster",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "65,976"
+        },
+        {
+            "name": "Wood Buffalo",
+            "province": "Alberta",
+            "type": "specialized municipality",
+            "population": "65,565"
+        },
+        {
+            "name": "Granby",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "63,433"
+        },
+        {
+            "name": "Norfolk County",
+            "province": "Ontario",
+            "type": "city",
+            "population": "63,175"
+        },
+        {
+            "name": "St. Albert",
+            "province": "Alberta",
+            "type": "city",
+            "population": "61,466"
+        },
+        {
+            "name": "Medicine Hat",
+            "province": "Alberta",
+            "type": "city",
+            "population": "60,005"
+        },
+        {
+            "name": "Caledon",
+            "province": "Ontario",
+            "type": "town",
+            "population": "59,460"
+        },
+        {
+            "name": "Halton Hills",
+            "province": "Ontario",
+            "type": "town",
+            "population": "59,008"
+        },
+        {
+            "name": "Port Coquitlam",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "56,342"
+        },
+        {
+            "name": "Fredericton",
+            "province": "New Brunswick",
+            "type": "city",
+            "population": "56,224"
+        },
+        {
+            "name": "Grande Prairie",
+            "province": "Alberta",
+            "type": "city",
+            "population": "55,032"
+        },
+        {
+            "name": "North Bay",
+            "province": "Ontario",
+            "type": "city",
+            "population": "53,651"
+        },
+        {
+            "name": "Blainville",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "53,510"
+        },
+        {
+            "name": "Saint-Hyacinthe",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "53,236"
+        },
+        {
+            "name": "Aurora",
+            "province": "Ontario",
+            "type": "town",
+            "population": "53,203"
+        },
+        {
+            "name": "Welland",
+            "province": "Ontario",
+            "type": "city",
+            "population": "50,631"
+        },
+        {
+            "name": "Shawinigan",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "50,060"
+        },
+        {
+            "name": "Dollard-des-Ormeaux",
+            "province": "Quebec",
+            "type": "ville",
+            "population": "49,637"
+        },
+        {
+            "name": "Belleville",
+            "province": "Ontario",
+            "type": "city",
+            "population": "49,454"
+        },
+        {
+            "name": "North Vancouver",
+            "province": "British Columbia",
+            "type": "city",
+            "population": "48,196"
+        }
+    ]
+}

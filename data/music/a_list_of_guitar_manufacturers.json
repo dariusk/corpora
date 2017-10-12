@@ -1,0 +1,722 @@
+{
+	"description": "A list of guitar manufacturers",
+	"source": "https://en.wikipedia.org/wiki/List_of_guitar_manufacturers",
+	"guitar manufacturing companies": [{
+			"name": "Alembic",
+			"year founded": 1969,
+			"country founded in": "United States",
+			"url": "http://www.alembic.com"
+		}, {
+			"name": "Alvarez Guitars",
+			"year founded": 1965,
+			"country founded in": "United States",
+			"url": "http://alvarezguitars.com"
+		}, {
+			"name": "Amada guitars",
+			"year founded": 1922,
+			"country founded in": "Czechoslovakia",
+			"url": "https://www.strunal.cz/welcome/index.php"
+		}, {
+			"name": "Antoria",
+			"year founded": 1950,
+			"country founded in": "Germany",
+			"url": "http://antoriaguitars.com/25-0-About.html"
+		}, {
+			"name": "Aria",
+			"year founded": 1956,
+			"country founded in": "Japan",
+			"url": "http://www.ariaguitars.com"
+		}, {
+			"name": "Ashton Music",
+			"year founded": 1997,
+			"country founded in": "Australia",
+			"url": "http://www.ashtonmusic.com"
+		}, {
+			"name": "Avalon Guitars",
+			"year founded": 1989,
+			"country founded in": "Northern Ireland",
+			"url": "https://www.avalonguitars.com"
+		}, {
+			"name": "AXL Guitars",
+			"url": "http://www.axlguitars.com"
+		}, {
+			"name": "B.C. Rich",
+			"year founded": 1969,
+			"country founded in": "United States",
+			"url": "http://www.bcrich.com/"
+		}, {
+			"name": "Babicz Guitars",
+			"year founded": 2003,
+			"country founded in": "United States",
+			"url": "http://www.babiczguitars.com/"
+		}, {
+			"name": "BassLab",
+			"year founded": 1992,
+			"country founded in": "Germany",
+			"url": "http://basslab.de/"
+		}, {
+			"name": "Bear Creek Guitars",
+			"year founded": 1995,
+			"country founded in": "United States",
+			"url": "http://www.bearcreekguitars.com/"
+		}, {
+			"name": "Becker guitars",
+			"year founded": 1995,
+			"country founded in": "United States"
+		}, {
+			"name": "Beltona Resonator Instruments",
+			"year founded": 1990,
+			"country founded in": "New Zealand",
+			"url": "http://www.beltona.net/wordpress/"
+		}, {
+			"name": "Beneteau Guitars",
+			"year founded": 1974,
+			"country founded in": "Canada",
+			"url": "http://www.beneteauguitars.com/"
+		}, {
+			"name": "Blackbird Guitars",
+			"year founded": 2005,
+			"country founded in": "United States",
+			"url": "https://www.blackbirdguitar.com/"
+		}, {
+			"name": "Blade Guitars",
+			"year founded": 1987,
+			"country founded in": "Switzerland",
+			"url": "http://www.bladeguitars.com/"
+		}, {
+			"name": "Bohemian Guitars",
+			"year founded": 2012,
+			"country founded in": "United States",
+			"url": "https://www.bohemianguitars.com/"
+		}, {
+			"name": "Bond Guitars",
+			"year founded": 1984,
+			"country founded in": "Scotland"
+		}, {
+			"name": "Brawley Guitars",
+			"year founded": 1989
+		}, {
+			"name": "Breedlove Guitars",
+			"year founded": 1990,
+			"country founded in": "United States",
+			"url": "http://breedlovemusic.com/"
+		}, {
+			"name": "Burns London",
+			"year founded": 1959,
+			"country founded in": "England",
+			"url": "http://www.burnsguitars.com/"
+		}, {
+			"name": "Campbell American Guitars",
+			"year founded": 2002,
+			"country founded in": "United States",
+			"url": "https://www.campbellamerican.com/"
+		}, {
+			"name": "Caparison Guitars",
+			"year founded": 1995,
+			"country founded in": "Japan",
+			"url": "http://www.caparisonguitars.com/en/"
+		}, {
+			"name": "C. F. Martin & Company",
+			"year founded": 1833,
+			"country founded in": "United States",
+			"url": "https://www.martinguitar.com/"
+		}, {
+			"name": "Chapman Guitars",
+			"year founded": 2009,
+			"country founded in": "United Kingdom",
+			"url": "http://www.chapmanguitars.co.uk"
+		}, {
+			"name": "Charvel",
+			"year founded": 1974,
+			"country founded in": "United States",
+			"url": "http://www.charvel.com"
+		}, {
+			"name": "Cole Clark",
+			"year founded": 2001,
+			"country founded in": "Australia",
+			"url": "http://www.coleclarkguitars.com"
+		}, {
+			"name": "Collings Guitars",
+			"year founded": 1973,
+			"country founded in": "United States",
+			"url": "http://www.collingsguitars.com"
+		}, {
+			"name": "Cort Guitars",
+			"year founded": 1972,
+			"country founded in": "South Korea",
+			"url": "http://www.cortguitars.net/en/"
+		}, {
+			"name": "Daisy Rock Girl Guitars",
+			"year founded": 2000,
+			"country founded in": "United States",
+			"url": "http://www.daisyrock.com"
+		}, {
+			"name": "DBZ Guitars",
+			"year founded": 2008,
+			"country founded in": "United States",
+			"url": "http://www.diamondguitars.com"
+		}, {
+			"name": "Dean Guitars",
+			"year founded": 1977,
+			"country founded in": "United States",
+			"url": "http://www.deanguitars.com"
+		}, {
+			"name": "D'Alegria",
+			"country founded in": "Brazil"
+		}, {
+			"name": "D'Angelico, John",
+			"year founded": 1932,
+			"country founded in": "United States",
+			"url": "http://dangelicoguitars.com"
+		}, {
+			"name": "Danelectro",
+			"year founded": 1947,
+			"country founded in": "United States",
+			"url": "http://danelectro.com"
+		}, {
+			"name": "Dobro",
+			"year founded": 1928,
+			"country founded in": "United States",
+			"url": "http://www.epiphone.com/Products/Acoustics/Bluegrass.aspx"
+		}, {
+			"name": "Duesenberg Guitars",
+			"year founded": 1986,
+			"country founded in": "Germany",
+			"url": "http://www.duesenberg.de"
+		}, {
+			"name": "Eastwood",
+			"year founded": 2001,
+			"country founded in": "Canada",
+			"url": "http://www.eastwoodguitars.com"
+		}, {
+			"name": "Eccleshall",
+			"url": "http://www.eccleshallguitars.co.uk"
+		}, {
+			"name": "Epiphone",
+			"year founded": 1873,
+			"country founded in": "United States",
+			"url": "http://www.epiphone.com"
+		}, {
+			"name": "ESP",
+			"year founded": 1975,
+			"country founded in": "Japan",
+			"url": "http://www.espguitars.com"
+		}, {
+			"name": "Eko",
+			"year founded": 1959,
+			"country founded in": "Italy",
+			"url": "http://ekousaguitars.com"
+		}, {
+			"name": "Electrical Guitar Company",
+			"year founded": 2003,
+			"country founded in": "United States",
+			"url": "http://www.electricalguitarcompany.com"
+		}, {
+			"name": "Esoterik Guitars",
+			"year founded": 2010,
+			"url": "http://www.esoterikguitars.com"
+		}, {
+			"name": "Fender",
+			"year founded": 1946,
+			"country founded in": "United States",
+			"url": "http://shop.fender.com/en-US/"
+		}, {
+			"name": "Fernandes",
+			"year founded": 1969,
+			"country founded in": "Japan",
+			"url": "http://www.fernandesguitars.com"
+		}, {
+			"name": "First Act",
+			"year founded": 1997,
+			"country founded in": "United States",
+			"url": "http://firstact.com"
+		}, {
+			"name": "Flaxwood Guitars",
+			"year founded": 2005,
+			"country founded in": "Finland",
+			"url": "http://www.flaxwood.com/home/"
+		}, {
+			"name": "Framus",
+			"year founded": 1946,
+			"country founded in": "Germany",
+			"url": "http://www.warwick.de/en/Home.html"
+		}, {
+			"name": "Freshman",
+			"year founded": 2002,
+			"country founded in": "Scotland",
+			"url": "http://www.freshmanguitars.net"
+		}, {
+			"name": "FujiGen",
+			"year founded": 1960,
+			"country founded in": "Japan",
+			"url": "http://www.fujigen.co.jp"
+		}, {
+			"name": "Furch Guitars",
+			"year founded": 1981,
+			"country founded in": "Czech Republic",
+			"url": "http://www.furch.cz/en/"
+		}, {
+			"name": "G&L",
+			"year founded": 1979,
+			"country founded in": "United States",
+			"url": "http://www.glguitars.com"
+		}, {
+			"name": "Garrison",
+			"year founded": 2007,
+			"country founded in": "Newfoundland"
+		}, {
+			"name": "Giannini",
+			"year founded": 1900,
+			"country founded in": "Brazil",
+			"url": "http://www.gianniniguitars.com/?v2"
+		}, {
+			"name": "Gibson",
+			"year founded": 1902,
+			"country founded in": "United States",
+			"url": "http://www.gibson.com"
+		}, {
+			"name": "Godin",
+			"year founded": 1972,
+			"country founded in": "Canada",
+			"url": "http://www.godinguitars.com"
+		}, {
+			"name": "Gordon-Smith",
+			"year founded": 1974,
+			"country founded in": "England",
+			"url": "http://www.gordonsmithguitars.com"
+		}, {
+			"name": "Greco",
+			"year founded": 1960,
+			"country founded in": "Japan"
+		}, {
+			"name": "Gretsch",
+			"year founded": 1883,
+			"country founded in": "United States",
+			"url": "http://www.gretsch.com"
+		}, {
+			"name": "Guild",
+			"year founded": 1952,
+			"country founded in": "United States",
+			"url": "http://guildguitars.com"
+		}, {
+			"name": "Hagström",
+			"year founded": 1952,
+			"country founded in": "Sweden",
+			"url": "http://www.albinhagstrom.se"
+		}, {
+			"name": "Hamer",
+			"year founded": 1973,
+			"country founded in": "United States",
+			"url": "http://www.hamerguitars.com"
+		}, {
+			"name": "Heritage Guitars",
+			"year founded": 1985,
+			"country founded in": "United States",
+			"url": "http://heritageguitar.com"
+		}, {
+			"name": "Höfner",
+			"year founded": 1887,
+			"country founded in": "Austira-Hungary",
+			"url": "http://www.hofner.com"
+		}, {
+			"name": "Hohner",
+			"year founded": 1857,
+			"country founded in": "Germany",
+			"url": "http://us.playhohner.com"
+		}, {
+			"name": "Hondo",
+			"year founded": 1969,
+			"country founded in": "United States"
+		}, {
+			"name": "Ibanez",
+			"year founded": 1957,
+			"country founded in": "Japan",
+			"url": "http://www.ibanez.com/usa/"
+		}, {
+			"name": "Italia",
+			"year founded": 1999,
+			"country founded in": "England",
+			"url": "http://www.italiaguitars.com/intro/new_intro/ItaliaIntroPageHTML/"
+		}, {
+			"name": "Jackson",
+			"year founded": 1980,
+			"country founded in": "United States",
+			"url": "http://www.jacksonguitars.com/"
+		}, {
+			"name": "James Tyler Guitars",
+			"year founded": 1972,
+			"country founded in": "United States",
+			"url": "https://tylerguitars.com/"
+		}, {
+			"name": "Jay Turser",
+			"url": "http://www.jayturser.com/"
+		}, {
+			"name": "Joseph Lukes Guitars",
+			"year founded": 2011,
+			"country founded in": "England",
+			"url": "http://josephlukes.com/"
+		}, {
+			"name": "Johnson Guitars",
+			"year founded": 1986,
+			"country founded in": "Unites States",
+			"url": "https://stremelguitars.wordpress.com/"
+		}, {
+			"name": "Jolana",
+			"year founded": 1953,
+			"country founded in": "Czechoslovakia"
+		}, {
+			"name": "Kalamazoo",
+			"year founded": 1933
+		}, {
+			"name": "Kay",
+			"year founded": 1931,
+			"country founded in": "United States",
+			"url": "http://www.kayguitar.com/"
+		}, {
+			"name": "Kiesel Guitars",
+			"year founded": 1946,
+			"country founded in": "United States",
+			"url": "http://www.kieselguitars.com/"
+		}, {
+			"name": "Klira",
+			"year founded": 1887,
+			"country founded in": "Germany"
+		}, {
+			"name": "Koll",
+			"year founded": 1990,
+			"country founded in": "United States",
+			"url": "http://www.kollguitars.com/"
+		}, {
+			"name": "Kramer",
+			"year founded": 1976,
+			"country founded in": "United States",
+			"url": "http://www.kramerguitars.com/"
+		}, {
+			"name": "Lado",
+			"year founded": 1973,
+			"country founded in": "Canada",
+			"url": "http://www.jklado.com/"
+		}, {
+			"name": "Lâg",
+			"year founded": 1980,
+			"country founded in": "France",
+			"url": "http://www.lagguitars.com/"
+		}, {
+			"name": "Larrivée",
+			"year founded": 1967,
+			"country founded in": "Canada",
+			"url": "http://www.larrivee.com/"
+		}, {
+			"name": "Levin",
+			"year founded": 1900,
+			"country founded in": "Sweden",
+			"url": "http://web.archive.org/web/20090221074056/http://levinguitars.eu/sv-se/home/"
+		}, {
+			"name": "Lichty Guitars",
+			"year founded": 2009,
+			"country founded in": "United States",
+			"url": "http://lichtyguitars.com/"
+		}, {
+			"name": "Lindert",
+			"year founded": 1986,
+			"country founded in": "Unites States"
+		}, {
+			"name": "Lotus"
+		}, {
+			"name": "Lowden",
+			"year founded": 1961,
+			"country founded in": "Ireland",
+			"url": "http://www.lowdenguitars.com/"
+		}, {
+			"name": "Luna Guitars"
+		}, {
+			"name": "Lyle",
+			"year founded": 1960,
+			"country founded in": "Japan"
+		}, {
+			"name": "Maton",
+			"year founded": 1946,
+			"country founded in": "Australia",
+			"url": "http://maton.com.au/"
+		}, {
+			"name": "Matsumoku",
+			"year founded": 1951,
+			"country founded in": "Japan"
+		}, {
+			"name": "Maestro guitars",
+			"year founded": 2004,
+			"country founded in": "Singapore",
+			"url": "http://www.maestroguitars.com/"
+		}, {
+			"name": "Mayones Guitars & Basses",
+			"year founded": 1982,
+			"country founded in": "Poland",
+			"url": "http://www.mayones.com/"
+		}, {
+			"name": "Michael Kelly Guitars",
+			"year founded": 1999,
+			"country founded in": "United States",
+			"url": "https://www.michaelkellyguitars.com/en/"
+		}, {
+			"name": "Modulus",
+			"year founded": 1978,
+			"country founded in": "United States",
+			"url": "http://www.modulusgraphite.com/"
+		}, {
+			"name": "Moniker Guitars",
+			"year founded": 2012,
+			"country founded in": "United States",
+			"url": "https://monikerguitars.com/"
+		}, {
+			"name": "Mosrite",
+			"year founded": 1952,
+			"country founded in": "United States"
+		}, {
+			"name": "MotorAve",
+			"year founded": 2002,
+			"country founded in": "United States",
+			"url": "http://www.motorave.com/"
+		}, {
+			"name": "Music Man",
+			"year founded": 1974,
+			"country founded in": "United States",
+			"url": "http://www.music-man.com//"
+		}, {
+			"name": "National String Instrument Corporation",
+			"year founded": 1927,
+			"country founded in": "United States"
+		}, {
+			"name": "Ovation Guitar Company",
+			"year founded": 1965,
+			"country founded in": "United States",
+			"url": "http://www.ovationguitars.com/"
+		}, {
+			"name": "Parker",
+			"year founded": 1993,
+			"country founded in": "United States",
+			"url": "http://www.parkerguitars.com/"
+		}, {
+			"name": "Peavey",
+			"year founded": 1965,
+			"country founded in": "United States",
+			"url": "https://peavey.com/"
+		}, {
+			"name": "Penco",
+			"year founded": 1974,
+			"country founded in": "Japan"
+		},
+
+		{
+			"name": "PRS Guitars",
+			"year founded": 1985,
+			"country founded in": "United States",
+			"url": "http://www.prsguitars.com/"
+		}, {
+			"name": "RainSong",
+			"country founded in": "United States",
+			"url": "http://www.rainsong.com/"
+		}, {
+			"name": "Ramírez Guitars",
+			"year founded": 1882,
+			"country founded in": "Spain",
+			"url": "http://www.guitarrasramirez.com/"
+		}, {
+			"name": "Recording King",
+			"country founded in": "United States",
+			"url": "http://www.recordingking.com/"
+		}, {
+			"name": "Reverend",
+			"year founded": 1997,
+			"country founded in": "United States",
+			"url": "http://www.reverendguitars.com/"
+		}, {
+			"name": "Rickenbacker",
+			"year founded": 1931,
+			"country founded in": "United States",
+			"url": "http://www.rickenbacker.com/"
+		}, {
+			"name": "Robin Guitars",
+			"year founded": 1982,
+			"country founded in": "United States",
+			"url": ["http://www.robinguitars.com/", "http://robinguitars.com/home.html"]
+		}, {
+			"name": "Ruokangas Guitars",
+			"year founded": 1995,
+			"country founded in": "Finland",
+			"url": "http://www.ruokangas.com/"
+		}, {
+			"name": "Samick",
+			"year founded": 1958,
+			"url": "http://samick.co.kr/eng/"
+		}, {
+			"name": "Schecter",
+			"year founded": 1976,
+			"country founded in": "United States",
+			"url": "http://www.schecterguitars.com/"
+		}, "Sadowsky", {
+			"name": "Santa Cruz Guitar Company",
+			"year founded": 1976,
+			"country founded in": "United States",
+			"url": "http://www.santacruzguitar.com/"
+		}, {
+			"name": "Seagull Guitars",
+			"year founded": 1982,
+			"country founded in": "Canada",
+			"url": "http://www.seagullguitars.com/"
+		}, {
+			"name": "Sigma Guitars",
+			"year founded": 1970,
+			"country founded in": "United States",
+			"url": "http://www.sigma-guitars.com/"
+		}, {
+			"name": "Squier (by Fender)",
+			"year founded": 1890,
+			"country founded in": "United States",
+			"url": "http://www.squierguitars.com/"
+		}, {
+			"name": "Stagg Music",
+			"year founded": 1995,
+			"country founded in": "Belgiam",
+			"url": "http://www.staggmusic.com/en/home.html"
+		}, {
+			"name": "Steinberger",
+			"year founded": 1979,
+			"country founded in": "United States",
+			"url": "http://www.steinberger.com/"
+		}, {
+			"name": "Stella",
+			"year founded": 1899,
+			"country founded in": "United States"
+		}, {
+			"name": "Suhr Guitars",
+			"year founded": 1997,
+			"country founded in": "United States",
+			"url": "http://www.suhr.com/"
+		}, {
+			"name": "Sundberg Guitars",
+			"country founded in": "Sweden",
+			"url": "http://www.sundbergguitars.com/"
+		}, {
+			"name": "Suzuki Musical Instrument Corporation",
+			"year founded": 1953,
+			"country founded in": "Japan",
+			"url": "http://www.suzukimusic.com/"
+		}, {
+			"name": "Tokai",
+			"year founded": 1947,
+			"country founded in": "Japan",
+			"url": "http://www1.odn.ne.jp/tokaigakki/"
+		}, {
+			"name": "Takamine",
+			"year founded": 1962,
+			"country founded in": "Japan",
+			"url": "http://www.takamine.com/"
+		}, {
+			"name": "Taylor",
+			"year founded": 1974,
+			"country founded in": "United States",
+			"url": "https://www.taylorguitars.com/"
+		}, {
+			"name": "Teisco",
+			"year founded": 1946,
+			"country founded in": "Japan"
+		}, {
+			"name": "Tom Anderson Guitarworks",
+			"year founded": 1984,
+			"country founded in": "United States",
+			"url": "http://www.andersonguitarworks.com/"
+		}, {
+			"name": "Tonante",
+			"year founded": 1954,
+			"country founded in": "Brazil"
+		}, {
+			"name": "Travis Bean",
+			"year founded": 1974,
+			"url": "http://www.travisbeanguitars.com/"
+		}, {
+			"name": "Trembita Musical Instrument Factory",
+			"year founded": 1948,
+			"country founded in": "Ukraine",
+			"url": "http://www.trembita.lviv.ua/index"
+		}, {
+			"name": "TYM Guitars",
+			"year founded": 1997,
+			"country founded in": "Australia",
+			"url": "http://www.tymguitars.com.au/"
+		}, {
+			"name": "Tanglewood Guitars",
+			"year founded": 1988,
+			"country founded in": "England",
+			"url": "http://www.tanglewoodguitars.co.uk/"
+		}, {
+			"name": "Tagima",
+			"country founded in": "Brazil",
+			"url": "http://www.tagima.com.br/"
+		}, {
+			"name": "Tacoma Guitars",
+			"year founded": 1991,
+			"country founded in": "United States",
+			"url": "http://www.tacomaguitars.com/"
+		}, {
+			"name": "Univox",
+			"year founded": 1960,
+			"country founded in": "United States",
+			"url": "http://www.vintageunivox.com/"
+		}, {
+			"name": "Valco",
+			"year founded": 1940,
+			"country founded in": "United States"
+		}, {
+			"name": "Valley Arts Guitar",
+			"year founded": 1999,
+			"country founded in": "United States",
+			"url": "http://archive.gibson.com/en-us/Divisions/ValleyArts/"
+		}, {
+			"name": "Vester Guitars",
+			"year founded": 1946
+		}, {
+			"name": "Vigier Guitars",
+			"year founded": 1980,
+			"country founded in": "France",
+			"url": "http://www.vigierguitars.com/"
+		}, {
+			"name": "VOX",
+			"year founded": 1947,
+			"country founded in": "England",
+			"url": "http://www.voxamps.com/"
+		}, {
+			"name": "Walden",
+			"year founded": 1996,
+			"country founded in": "China"
+		}, {
+			"name": "Warmoth",
+			"url": "http://www.warmoth.com/Mobile.aspx"
+		}, {
+			"name": "Washburn",
+			"year founded": 1883,
+			"country founded in": "United States",
+			"url": "http://www.washburn.com/"
+		}, {
+			"name": "Westfield",
+			"year founded": 1989,
+			"country founded in": "Scotland"
+		}, {
+			"name": "Westone",
+			"url": "http://www.westoneguitars.net/"
+		}, {
+			"name": "Yamaha",
+			"year founded": 1887,
+			"country founded in": "Japan",
+			"url": "https://www.yamaha.com/en/"
+		}, {
+			"name": "Yairi",
+			"url": "http://yairi.com/"
+		}, {
+			"name": "Zemaitis",
+			"year founded": 1965,
+			"country founded in": "England",
+			"url": "http://zemaitisguitar.com/"
+		}
+
+	]
+}

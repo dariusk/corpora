@@ -1,0 +1,17 @@
+{
+  "description" : "Winners in the Corpora Brackets, from https://twitter.com/corporabrackets",
+  "winners" : [{
+      "bracket" : "condiments",
+      "winner" : "Guacamole"
+    }, {
+      "bracket" : "Deities and supernatural creatures",
+      "winner" : "Many-angled One"
+    }, {
+      "bracket" : "elements",
+      "winner" : "Ytterbium"
+    }, {
+      "bracket" : "fibers",
+      "winner" : "yarn"
+    }
+  ]
+}

@@ -4,7 +4,8 @@
   "description": "A collection of small corpuses of interesting data for the creation of weird internet stuff.",
   "devDependencies": {
     "grunt": "^0.4.3",
-    "grunt-jsonlint": "^1.0.4"
+    "grunt-jsonlint": "^1.0.4",
+    "grunt-cli": "^0.1.13"
   },
   "scripts": {
     "test": "grunt travis --verbose"

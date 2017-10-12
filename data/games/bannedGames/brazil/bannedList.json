@@ -1,0 +1,53 @@
+{
+  "description":"A list of video games banned in Brazil",
+  "games":[
+    {
+    "name":"The Cat In The Hat",
+    "reason":"Banned due to a copyright claim by Discovery Communications."
+    },
+    {
+    "name":"Blood",
+    "reason":"Banned because of high impact violence."
+    },
+    {
+    "name":"Bully",
+    "reason":"Banned for showing violence and harassment in a school setting."
+    },
+    {
+    "name":"Carmageddon",
+    "reason":"Banned because of high impact violence against pedestrians."
+    },
+    {
+    "name":"Carmageddon II: Carpocalypse Now",
+    "reason":"Banned because of high impact violence against pedestrians."
+    },
+    {
+    "name":"Doom",
+    "reason":"Banned because of very high impact violence and offensive depictions of cruelty."
+    },
+    {
+    "name":"Duke Nukem 3D",
+    "reason":"Banned because of high impact violence."
+    },
+    {
+    "name":"EverQuest",
+    "reason":"Banned because of X18+ references."
+    },
+    {
+    "name":"Grand Theft Auto: Episodes from Liberty City",
+    "reason":"Banned because it uses music by the Brazilian composer Hamilton da Silva Lourenço without correct permissions."
+    },
+    {
+    "name":"Mortal Kombat",
+    "reason":"Banned because of high impact violence and depictions of cruelty."
+    },
+    {
+    "name":"Requiem: Avenging Angel",
+    "reason":"Banned because of high impact violence."
+    },
+    {
+    "name":"Postal",
+    "reason":"Both banned because of high impact violence and offensive depictions of cruelty."
+    }
+  ]
+}

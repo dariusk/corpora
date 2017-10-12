@@ -1,0 +1,107 @@
+{
+    "description": "Archetypal events.",
+    "events": [
+        {
+            "name": "arrival",
+            "synonyms": ["birth","introduction","reveal"],
+            "qualities": [""],
+            "nature": "neutral"
+        },
+        {
+            "name": "departure",
+            "synonyms": ["leaving","exiting","embarking","parting"],
+            "qualities": ["voluntary"],
+            "nature": "neutral"
+        },
+        {
+            "name": "giving",
+            "synonyms": ["delivery","donation","presentation","endowment"],
+            "qualities": ["generous","thoughtful"],
+            "nature": "good"
+        },
+        {
+            "name": "receiving",
+            "synonyms": ["acceptance"],
+            "qualities": [""],
+            "nature": "neutral"
+        },
+        {
+            "name": "discovery",
+            "synonyms": ["reveal","exposure"],
+            "qualities": ["educational"],
+            "nature": "neutral"
+        },
+        {
+            "name": "loss",
+            "synonyms": ["separation","death","abandonment"],
+            "qualities": ["involuntary"],
+            "nature": "evil"
+        },
+        {
+            "name": "deceit",
+            "synonyms": ["trickery","con","fool"],
+            "qualities": ["frustrating","unexpected"],
+            "nature": "evil"
+        },
+        {
+            "name": "victory",
+            "synonyms": ["success","overcoming","triumph","passage"],
+            "qualities": ["relieving"],
+            "nature": "good"
+        },
+        {
+            "name": "defeat",
+            "synonyms": ["fall","failure"],
+            "qualities": ["disheartening","reducing"],
+            "nature": "neutral"
+        },
+        {
+            "name": "reversal",
+            "synonyms": ["turnabout"],
+            "qualities": ["unexpected","changing"],
+            "nature": "neutral"
+        },
+        {
+            "name": "enlightenment",
+            "synonyms": ["awakening","rise","improvement","learning","education"],
+            "qualities": ["positive"],
+            "nature": "good"
+        },
+        {
+            "name": "initiation",
+            "synonyms": ["acceptance","embracing","welcoming","joining"],
+            "qualities": [""],
+            "nature": "good"
+        },
+        {
+            "name": "expulsion",
+            "synonyms": ["separation","removal","rejection","elimination"],
+            "qualities": [""],
+            "nature": "neutral"
+        },
+        {
+            "name": "ritual",
+            "synonyms": ["ceremony","rite","process"],
+            "qualities": ["formal","practiced","routine"],
+            "nature": "neutral"
+        },
+        {
+            "name": "injury",
+            "synonyms": ["wounding","hurting","insulting"],
+            "qualities": [""],
+            "nature": "evil"
+        },
+        {
+            "name": "healing",
+            "synonyms": ["improvement","mending","joining"],
+            "qualities": ["beneficial"],
+            "nature": "good"
+        },
+        {
+            "name": "rebirth",
+            "synonyms": ["renewal","return"],
+            "qualities": [""],
+            "nature": "good"
+        }
+    ]
+}

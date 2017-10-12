@@ -1,0 +1,183 @@
+{
+  "description": "Commonly mistaken English phrases most likely caused by hearing them rather than reading them (eggcorns)",
+  "source": "Most of the examples come from http://eggcorns.lascribe.net/",
+  "eggcorns": [
+    {
+      "mistakes": ["butt naked"],
+      "correct": "buck naked"
+    },
+    {
+      "mistakes": ["nip it in the butt"],
+      "correct": "nip it in the bud"
+    },
+    {
+      "mistakes": ["test your metal", "test your medal"],
+      "correct": "test your mettle"
+    },
+    {
+      "mistakes": ["could care less"],
+      "correct": "couldn't care less"
+    },
+    {
+      "mistakes": ["for all intensive purposes"],
+      "correct": "for all intents and purposes"
+    },
+    {
+      "mistakes": ["reek havoc", "wreck havoc"],
+      "correct": "wreak havoc"
+    },
+    {
+      "mistakes": ["nerve-wrecking"],
+      "correct": "nerve-racking"
+    },
+    {
+      "mistakes": ["deep-seeded"],
+      "correct": "deep-seated"
+    },
+    {
+      "mistakes": ["chomping at the bit"],
+      "correct": "champing at the bit"
+    },
+    {
+      "mistakes": ["you've got another thing coming"],
+      "correct": "you've got another think coming"
+    },
+    {
+      "mistakes": ["statue of limitations"],
+      "correct": "statute of limtations"
+    },
+    {
+      "mistakes": ["ripe with conflict"],
+      "correct": "rife with conflict"
+    },
+    {
+      "mistakes": ["hone in on a problem"],
+      "correct": "home in on a problem"
+    },
+    {
+      "mistakes": ["take the reigns"],
+      "correct": "take the reins"
+    },
+    {
+      "mistakes": ["pour through a book"],
+      "correct": "pore through a book"
+    },
+    {
+      "mistakes": ["speak your peace"],
+      "correct": "speak your piece"
+    },
+    {
+      "mistakes": ["peak your interest", "peek your interest"],
+      "correct": "pique your interest"
+    },
+    {
+      "mistakes": ["sneak peak"],
+      "correct": "sneak peek"
+    },
+    {
+      "mistakes": ["flush out the details"],
+      "correct": "flesh out the details"
+    },
+    {
+      "mistakes": ["doesn't pass mustard"],
+      "correct": "doesn't pass muster"
+    },
+    {
+      "mistakes": ["doesn't jive with"],
+      "correct": "doesn't jibe with"
+    },
+    {
+      "mistakes": ["mute point"],
+      "correct": "moot point"
+    },
+    {
+      "mistakes": ["new leash on life"],
+      "correct": "new lease on life"
+    },
+    {
+      "mistakes": ["hare's breath", "hair's breath"],
+      "correct": "hair's breadth"
+    },
+    {
+      "mistakes": ["all for not", "all for knot"],
+      "correct": "all for naught"
+    },
+    {
+      "mistakes": ["anchors away"],
+      "correct": "anchors aweigh"
+    },
+    {
+      "mistakes": ["augers well for"],
+      "correct": "augurs well for"
+    },
+    {
+      "mistakes": ["baited breath"],
+      "correct": "bated breath"
+    },
+    {
+      "mistakes": ["bold-faced lie"],
+      "correct": "bald-faced lie"
+    },
+    {
+      "mistakes": ["beckon call"],
+      "correct": "beck and call"
+    },
+    {
+      "mistakes": ["chalk full", "chuck full"],
+      "correct": "chock full"
+    },
+    {
+      "mistakes": ["this day in age"],
+      "correct": "this day and age"
+    },
+    {
+      "mistakes": ["far gone conclusion"],
+      "correct": "foregone conclusion"
+    },
+    {
+      "mistakes": ["grin and bare it", "grim and bear it"],
+      "correct": "grin and bear it"
+    },
+    {
+      "mistakes": ["in high dungeon"],
+      "correct": "in high dudgeon"
+    },
+    {
+      "mistakes": ["just desserts"],
+      "correct": "just deserts"
+    },
+    {
+      "mistakes": ["no holes barred"],
+      "correct": "no holds barred"
+    },
+    {
+      "mistakes": ["old wise tale"],
+      "correct": "old wives' tale"
+    },
+    {
+      "mistakes": ["one foul swoop", "one fowl swoop"],
+      "correct": "one fell swoop"
+    },
+    {
+      "mistakes": ["rebel rouser", "rubble rouser"],
+      "correct": "rabble rouser"
+    },
+    {
+      "mistakes": ["ring your neck"],
+      "correct": "wring your neck"
+    },
+    {
+      "mistakes": ["slight of hand"],
+      "correct": "sleight of hand"
+    },
+    {
+      "mistakes": ["take another tact"],
+      "correct": "take another tack"
+    },
+    {
+      "mistakes": ["get down on your knees and gravel"],
+      "correct": "get down on your knees and grovel"
+    }
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "description": "A list of beer categories.",
+  "beer_categories": [
+    "Belgian and French ale",
+    "British ale",
+    "German ale",
+    "German lager",
+    "international ale",
+    "international lager",
+    "Irish ale",
+    "North American ale",
+    "North American lager",
+    "other lager",
+    "other style"
+  ]
+}

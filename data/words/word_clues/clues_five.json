@@ -1,0 +1,10296 @@
+{
+  "description":"a list of common 5-letter words followed by crossword/thesaurus-style hints for that word",
+  "data":{
+    "abase":[
+      "put down",
+      "humiliate",
+      "cut down",
+      "bring down",
+      "belittle",
+      "put to shame",
+      "humble",
+      "lower",
+      "demean",
+      "degrade"
+    ],
+    "abate":[
+      "diminish",
+      "let up",
+      "fade away",
+      "die down",
+      "lessen",
+      "drop off",
+      "subside",
+      "fall off"
+    ],
+    "abbot":[
+      "monastery head",
+      "monastic title",
+      "monk's superior",
+      "monastery leader"
+    ],
+    "abort":[
+      "scrub a space mission",
+      "cancel",
+      "call off",
+      "cut short",
+      "halt"
+    ],
+    "about":[
+      "concerning",
+      "regarding",
+      "aproximately"
+    ],
+    "abuse":[
+      "take advantage of",
+      "bully",
+      "wrong",
+      "mishandle",
+      "corrupt practice"
+    ],
+    "abyss":[
+      "bottomless pit",
+      "chasm",
+      "great gulf",
+      "deep chasm",
+      "deep fissure",
+      "vast chasm",
+      "immeasurable chasm",
+      "gaping hole"
+    ],
+    "aches":[
+      "pines",
+      "flu symptoms",
+      "sorrows",
+      "yearns",
+      "feels sore",
+      "sore spots"
+    ],
+    "acids":[
+      "corrosive chemicals",
+      "etcher's supply",
+      "gastric juices",
+      "corrosive liquids",
+      "alkali neutralizers"
+    ],
+    "acorn":[
+      "squirrel morsel",
+      "oak seed",
+      "tree nut",
+      "oak nut"
+    ],
+    "acres":[
+      "lots of land",
+      "farm units",
+      "farm measures",
+      "land measures"
+    ],
+    "actor":[
+      "cast",
+      "stage performer",
+      "leading man"
+    ],
+    "adapt":[
+      "fit",
+      "modify to one's needs",
+      "modify",
+      "adjust",
+      "show flexibility",
+      "go with the flow",
+      "evolve"
+    ],
+    "admit":[
+      "confess",
+      "own up to",
+      "let in",
+      "own up",
+      "allow inside",
+      "permit to pass"
+    ],
+    "adopt":[
+      "take in",
+      "take on",
+      "embrace",
+      "vote to accept"
+    ],
+    "adorn":[
+      "trim",
+      "embellish",
+      "pretty up",
+      "deck out",
+      "decorate",
+      "festoon"
+    ],
+    "adult":[
+      "grownup",
+      "mature",
+      "of age",
+      "insect stage",
+      "no longer a minor",
+      "not for kids"
+    ],
+    "after":[
+      "following",
+      "subsequently",
+      "later",
+      "in the future"
+    ],
+    "again":[
+      "over",
+      "from the top",
+      "once more",
+      "on the other hand",
+      "from square one",
+      "one more time"
+    ],
+    "agent":[
+      "fbi operative",
+      "go between",
+      "representative",
+      "insurance broker",
+      "sports represesentative",
+      "talent representative"
+    ],
+    "agile":[
+      "nimble",
+      "quick",
+      "fleet",
+      "quick-witted",
+      "flexible",
+      "light on one's feet"
+    ],
+    "agony":[
+      "torment",
+      "anguish",
+      "excruciating pain",
+      "suffering",
+      "prolonged pain"
+    ],
+    "agree":[
+      "reach consensus",
+      "see eye to eye",
+      "match",
+      "come to terms",
+      "concur",
+      "think alike"
+    ],
+    "ahead":[
+      "leading",
+      "coming up",
+      "forward",
+      "in the lead",
+      "off in the distance",
+      "winning"
+    ],
+    "aisle":[
+      "bridal path",
+      "supermarket section",
+      "airplane seat choice",
+      "theater walkway",
+      "path"
+    ],
+    "alarm":[
+      "frighten",
+      "warning",
+      "unsettle",
+      "warning sound",
+      "startle",
+      "warning device",
+      "security device"
+    ],
+    "alert":[
+      "sharp",
+      "with it",
+      "wide eyed",
+      "ready",
+      "vigilant",
+      "watchful",
+      "let someone know"
+    ],
+    "alias":[
+      "handle",
+      "cover",
+      "pen name",
+      "false front",
+      "assumed name",
+      "moniker",
+      "false name"
+    ],
+    "alibi":[
+      "way out",
+      "cover",
+      "suspect's story",
+      "excuse",
+      "courtroom defense"
+    ],
+    "alien":[
+      "visitor from outer space",
+      "strange",
+      "unfamiliar",
+      "not natural",
+      "unearthly",
+      "foreign",
+      "completely unfamiliar"
+    ],
+    "align":[
+      "set straight",
+      "make flush",
+      "put into the correct position",
+      "straighten"
+    ],
+    "alive":[
+      "in play",
+      "full of energy",
+      "still in the game",
+      "energetic",
+      "full of pep",
+      "animate",
+      "vibrant",
+      "not dead"
+    ],
+    "alley":[
+      "back street",
+      "bowling lane",
+      "back way",
+      "space between buildings"
+    ],
+    "allow":[
+      "permit",
+      "tolerate",
+      "sanction",
+      "authorize",
+      "grant"
+    ],
+    "alloy":[
+      "mix",
+      "brass or pewter",
+      "metallic mixture",
+      "amalgamated metal"
+    ],
+    "alone":[
+      "separate",
+      "unaccompanied",
+      "cut off",
+      "singly",
+      "isolated",
+      "solitary"
+    ],
+    "along":[
+      "in progress",
+      "as a companion",
+      "during",
+      "in the course of",
+      "accompanying",
+      "beside"
+    ],
+    "aloof":[
+      "cool",
+      "distant",
+      "standoffish",
+      "reserved",
+      "remote",
+      "unfriendly",
+      "chilly"
+    ],
+    "alpha":[
+      "beginning",
+      "top dog",
+      "primary",
+      "leader of the pack",
+      "dominant"
+    ],
+    "altar":[
+      "church area",
+      "sacred stand",
+      "church platform",
+      "rite place",
+      "church part",
+      "wedding site"
+    ],
+    "alter":[
+      "fix",
+      "change",
+      "take in or let out",
+      "modify",
+      "adjust"
+    ],
+    "amaze":[
+      "flabbergast",
+      "blow away",
+      "dazzle",
+      "wow",
+      "bowl over",
+      "floor",
+      "stagger",
+      "stun"
+    ],
+    "amber":[
+      "jewelry material",
+      "yellow shade",
+      "yellowish brown",
+      "honey colored",
+      "ancient insect trap"
+    ],
+    "amend":[
+      "modify",
+      "change for the better",
+      "make changes to"
+    ],
+    "among":[
+      "surrounded by",
+      "in the thick of",
+      "in a group of",
+      "in the midst of",
+      "in the middle of",
+      "within"
+    ],
+    "ample":[
+      "more than enough",
+      "plenty",
+      "substantial",
+      "spacious",
+      "abundant",
+      "plentiful",
+      "sufficient",
+      "copious"
+    ],
+    "amuse":[
+      "entertain",
+      "charm",
+      "give a smile"
+    ],
+    "angel":[
+      "sweetie",
+      "sweetheart",
+      "darling",
+      "dear",
+      "dearie",
+      "christmas tree topper",
+      "halo wearer"
+    ],
+    "anger":[
+      "wrath",
+      "dander",
+      "fury",
+      "rage",
+      "irritate",
+      "indignation",
+      "provoke"
+    ],
+    "angle":[
+      "viewpoint",
+      "slant",
+      "geometry calculation",
+      "corner",
+      "point of view",
+      "turn sharply",
+      "perspective"
+    ],
+    "angry":[
+      "ticked off",
+      "outraged",
+      "furious",
+      "steamed",
+      "peeved",
+      "mad"
+    ],
+    "angst":[
+      "worry",
+      "distress",
+      "apprehension",
+      "dread",
+      "uneasy feeling",
+      "anxiety"
+    ],
+    "ankle":[
+      "leg joint",
+      "part of a sock",
+      "lower leg joint",
+      "common sprain site",
+      "alternative bracelet site"
+    ],
+    "annex":[
+      "building wing",
+      "appropriate",
+      "take over",
+      "incorporate"
+    ],
+    "annoy":[
+      "bug",
+      "tick off",
+      "bother",
+      "irritate",
+      "get to",
+      "pester"
+    ],
+    "antes":[
+      "puts chips in the pot",
+      "poker pot fees",
+      "gets in the game",
+      "chips in",
+      "pays to play"
+    ],
+    "antic":[
+      "lark",
+      "prank",
+      "caper",
+      "shenanigan",
+      "playful prank"
+    ],
+    "anvil":[
+      "blacksmith's tool",
+      "small bone",
+      "forge item",
+      "blacksmith block"
+    ],
+    "aorta":[
+      "trunk",
+      "main artery",
+      "blood line",
+      "it comes from the heart",
+      "major blood vessel"
+    ],
+    "apart":[
+      "split",
+      "in pieces",
+      "separate",
+      "cut off",
+      "isolated",
+      "in reserve",
+      "not together"
+    ],
+    "apple":[
+      "cider provider",
+      "orchard fruit",
+      "waldorf salad ingredient",
+      "pie choice"
+    ],
+    "arbor":[
+      "shady spot",
+      "garden spot",
+      "shady retreat",
+      "leafy shelter"
+    ],
+    "arena":[
+      "sphere",
+      "field",
+      "sports venue",
+      "bowl",
+      "ring",
+      "hockey venue",
+      "venue",
+      "battleground",
+      "large concert site"
+    ],
+    "array":[
+      "variety",
+      "put in order",
+      "host",
+      "deck out",
+      "impressive display",
+      "assortment",
+      "impressive grouping",
+      "orderly grouping"
+    ],
+    "arrow":[
+      "pointer",
+      "traffic director",
+      "thing to follow",
+      "ammo for a bow"
+    ],
+    "arson":[
+      "possible fire cause",
+      "fiery felony",
+      "fire setting crime",
+      "firebug crime"
+    ],
+    "ashes":[
+      "fireplace residue",
+      "hibachi residue",
+      "campfire remnants",
+      "hearth remains",
+      "hardwood trees",
+      "cigar residue"
+    ],
+    "aside":[
+      "out of the way",
+      "in reserve",
+      "comment to the audience",
+      "stage whisper",
+      "in private"
+    ],
+    "asset":[
+      "balance sheet item",
+      "selling point",
+      "property",
+      "holding",
+      "plus"
+    ],
+    "atoms":[
+      "smidgens",
+      "energy source",
+      "bits",
+      "physics units",
+      "tiny bits",
+      "molecule parts"
+    ],
+    "aunts":[
+      "reunion attendees",
+      "family members",
+      "uncles' mates",
+      "mom's sisters"
+    ],
+    "avian":[
+      "winged",
+      "birdlike",
+      "bird-related",
+      "pertaining to birds"
+    ],
+    "await":[
+      "anticipate",
+      "look for",
+      "expect",
+      "look forward to",
+      "stand by for"
+    ],
+    "awake":[
+      "not asleep",
+      "up and about",
+      "already up"
+    ],
+    "award":[
+      "prize",
+      "bestow",
+      "honor",
+      "trophy"
+    ],
+    "aware":[
+      "cognizant",
+      "informed",
+      "knowing",
+      "alert",
+      "vigilant"
+    ],
+    "backs":[
+      "funds",
+      "supports",
+      "endorses",
+      "campaigns for",
+      "bets on"
+    ],
+    "badge":[
+      "symbol of authority",
+      "police identifier",
+      "scouting prize"
+    ],
+    "bagel":[
+      "deli offering",
+      "breakfast favorite",
+      "breakfast serving",
+      "breakfast option",
+      "lox partner"
+    ],
+    "baggy":[
+      "fashionably loose",
+      "like oversized clothes",
+      "trouser style"
+    ],
+    "bails":[
+      "jumps out",
+      "tries to keep the boat afloat",
+      "removes water from a boat"
+    ],
+    "baits":[
+      "entices",
+      "teases",
+      "makes fun of",
+      "tempts",
+      "sets a trap"
+    ],
+    "baker":[
+      "cake maker",
+      "breadmaker",
+      "someone who uses an oven"
+    ],
+    "bakes":[
+      "lies in the sun",
+      "cooks in the oven",
+      "cooks cakes"
+    ],
+    "bales":[
+      "units of hay",
+      "bundle",
+      "tightly bound blocks of hay"
+    ],
+    "balls":[
+      "formal dances",
+      "black tie events",
+      "strike alternatives",
+      "playground equipment"
+    ],
+    "balms":[
+      "skin soothers",
+      "salves",
+      "sunburn remedies",
+      "ointments"
+    ],
+    "balsa":[
+      "model airplane material",
+      "light wood",
+      "model material",
+      "ultralight wood"
+    ],
+    "bands":[
+      "rings",
+      "rock groups",
+      "wedding rings",
+      "musical groups"
+    ],
+    "bangs":[
+      "loud noises",
+      "hair style",
+      "forehead fringe",
+      "firecracker sounds",
+      "gun noises"
+    ],
+    "banks":[
+      "deposits",
+      "tilts a plane",
+      "river sides",
+      "money lenders"
+    ],
+    "barge":[
+      "flat bottomed boat",
+      "trash vessel",
+      "river vessel",
+      "freight boat"
+    ],
+    "barns":[
+      "livestock holders",
+      "farm storage buildings",
+      "farm structures",
+      "hayloft locales"
+    ],
+    "bases":[
+      "headquarters",
+      "acid neutralizers",
+      "military installations",
+      "baseball corners",
+      "bottoms",
+      "foundations"
+    ],
+    "basic":[
+      "fundamental",
+      "primer topic",
+      "essential"
+    ],
+    "basil":[
+      "pasta sauce herb",
+      "pesto ingredient",
+      "green herb",
+      "fragrant herb"
+    ],
+    "basin":[
+      "natural depression",
+      "washbowl",
+      "tub",
+      "water holder",
+      "depressed area"
+    ],
+    "bawdy":[
+      "off color",
+      "ribald",
+      "humorously coarse"
+    ],
+    "bayou":[
+      "louisiana waterway",
+      "louisiana feature",
+      "marshy tract",
+      "sluggish southern stream",
+      "marshy inlet"
+    ],
+    "beads":[
+      "necklace components",
+      "sweat units",
+      "abacus parts",
+      "droplets",
+      "mardi gras mementos"
+    ],
+    "beaks":[
+      "bird bills",
+      "noses",
+      "squid jaws"
+    ],
+    "beams":[
+      "rays",
+      "rafters",
+      "headlights",
+      "main roof supports",
+      "ceiling supports"
+    ],
+    "beans":[
+      "coffee harvest",
+      "legumes",
+      "burrito staple"
+    ],
+    "beard":[
+      "goat feature",
+      "razor target",
+      "facial growth"
+    ],
+    "bears":[
+      "some circus performers",
+      "puts up with",
+      "market pessimists",
+      "hibernating mammals",
+      "camping dangers"
+    ],
+    "beast":[
+      "barbarian",
+      "zoo attraction",
+      "monster",
+      "wild thing",
+      "savage sort",
+      "wild animal"
+    ],
+    "beats":[
+      "tops",
+      "outscores",
+      "heart throbs",
+      "overcomes",
+      "thumps"
+    ],
+    "beeps":[
+      "summons",
+      "attention-getters",
+      "traffic sounds",
+      "sonar sounds"
+    ],
+    "beers":[
+      "pub servings",
+      "draughts",
+      "watering hole items",
+      "cold drafts",
+      "foamy brews"
+    ],
+    "beets":[
+      "sugar source",
+      "borscht base",
+      "red vegetables",
+      "red roots"
+    ],
+    "began":[
+      "set off",
+      "started",
+      "got going",
+      "kicked off",
+      "set in motion",
+      "commenced"
+    ],
+    "begin":[
+      "start",
+      "open",
+      "get going",
+      "kick off",
+      "commence"
+    ],
+    "begun":[
+      "originated",
+      "started",
+      "under way",
+      "kicked off",
+      "commenced"
+    ],
+    "being":[
+      "person",
+      "human",
+      "fellow creature",
+      "individual"
+    ],
+    "belay":[
+      "secure a climbing rope",
+      "ignore that order",
+      "climbing safety word"
+    ],
+    "belch":[
+      "burp",
+      "emit gas",
+      "discharge"
+    ],
+    "bells":[
+      "cow attachments",
+      "chimes",
+      "ringing instruments",
+      "bicycle noisemakers"
+    ],
+    "belly":[
+      "stomach",
+      "type of dancer",
+      "paunch"
+    ],
+    "below":[
+      "reporting to",
+      "under",
+      "subordinate to",
+      "less than",
+      "lower than"
+    ],
+    "belts":[
+      "hits hard",
+      "big shots",
+      "wallops",
+      "auto parts",
+      "pant holders"
+    ],
+    "bench":[
+      "seat in the park",
+      "dugout seat",
+      "park amenity",
+      "judge's perch",
+      "bus stop amenity"
+    ],
+    "bends":[
+      "gives in",
+      "road curves",
+      "shows flexibility",
+      "compromises",
+      "decompression disorder"
+    ],
+    "berry":[
+      "juicy fruit",
+      "jelly ingredient",
+      "fruit on a bush",
+      "tart ingredient"
+    ],
+    "bevel":[
+      "cut at an angle",
+      "oblique",
+      "angled edge",
+      "cut at a slant"
+    ],
+    "bicep":[
+      "arm muscle",
+      "upper arm muscle",
+      "curling muscle"
+    ],
+    "bikes":[
+      "choppers",
+      "velodrome vehicles",
+      "two wheelers",
+      "some exercise equipment",
+      "triathlon needs"
+    ],
+    "bills":[
+      "debtor's woe",
+      "folding money",
+      "duck noses",
+      "invoices"
+    ],
+    "binds":[
+      "fixes",
+      "ties up",
+      "tight spots",
+      "pickles",
+      "finishes making a book"
+    ],
+    "binge":[
+      "spree",
+      "pig out",
+      "opposite of fast",
+      "overindulge",
+      "overindulgence",
+      "eat to excess"
+    ],
+    "birch":[
+      "tree with smooth bark",
+      "canoe material",
+      "graceful tree",
+      "switch material"
+    ],
+    "birds":[
+      "aviary inhabitants",
+      "cage dwellers",
+      "flying animals",
+      "singing animals"
+    ],
+    "birth":[
+      "beginning",
+      "dawn",
+      "hospital delivery",
+      "blessed event"
+    ],
+    "bites":[
+      "takes the bait",
+      "snacks",
+      "morsels",
+      "chomps"
+    ],
+    "black":[
+      "dark color",
+      "lack of light",
+      "crow's color"
+    ],
+    "blade":[
+      "little shaver",
+      "piece of grass",
+      "cutting edge",
+      "sharp part of a knife",
+      "ice skate part"
+    ],
+    "blame":[
+      "point the finger at",
+      "hold responsible",
+      "culpability",
+      "scapegoat's burden"
+    ],
+    "bland":[
+      "insipid",
+      "lacking spice",
+      "short on flavor",
+      "flavorless"
+    ],
+    "blank":[
+      "expressionless",
+      "erased",
+      "bulletless cartridge"
+    ],
+    "blast":[
+      "criticize",
+      "good time",
+      "great time",
+      "big explosion",
+      "dynamite"
+    ],
+    "blaze":[
+      "fire",
+      "burn",
+      "brilliant display",
+      "dazzling display",
+      "conflagration",
+      "mark a trail"
+    ],
+    "bleak":[
+      "cheerless",
+      "dreary",
+      "just about hopeless",
+      "like a wasteland",
+      "grim"
+    ],
+    "bleed":[
+      "run",
+      "leak fluid",
+      "remove the color from",
+      "drain"
+    ],
+    "bleep":[
+      "censor",
+      "audibly censor",
+      "censor's sound",
+      "censor audibly"
+    ],
+    "blend":[
+      "recipe direction",
+      "mix together",
+      "mix",
+      "mixture",
+      "harmonize",
+      "combination"
+    ],
+    "blimp":[
+      "dirigible",
+      "stadium hoverer",
+      "floating advertisement",
+      "zeppelin"
+    ],
+    "blink":[
+      "lose one's nerve",
+      "back down",
+      "lose a staring contest",
+      "eyelash flutter"
+    ],
+    "bloop":[
+      "botch",
+      "careless mistake",
+      "ball hit just over the infield",
+      "bubble sound"
+    ],
+    "blows":[
+      "explodes",
+      "puts out the candles",
+      "botches",
+      "exhales hard",
+      "punches"
+    ],
+    "blues":[
+      "music genre",
+      "rhythm partner",
+      "memphis music",
+      "sad genre"
+    ],
+    "bluff":[
+      "poker ploy",
+      "steep faced hill",
+      "exaggerate your ability"
+    ],
+    "blurb":[
+      "book jacket bit",
+      "promotional statement",
+      "brief promotional quote"
+    ],
+    "blurs":[
+      "makes indistinct",
+      "muddles",
+      "loses focus",
+      "becomes hazy"
+    ],
+    "blush":[
+      "kind of wine",
+      "bit of makeup",
+      "show embarrassment",
+      "turn red"
+    ],
+    "boars":[
+      "wild swine",
+      "big game",
+      "sty dwellers",
+      "swine",
+      "wild pigs"
+    ],
+    "boast":[
+      "swagger",
+      "talk big",
+      "brag",
+      "bluster"
+    ],
+    "boats":[
+      "regatta entrants",
+      "gravy holders",
+      "fishing vessels",
+      "watercraft"
+    ],
+    "boils":[
+      "cooks in a cauldron",
+      "more than simmers",
+      "swelters",
+      "cooks with hot water"
+    ],
+    "bombs":[
+      "strikes out",
+      "turkeys",
+      "fails on stage",
+      "explosives"
+    ],
+    "bones":[
+      "dog treats",
+      "dice",
+      "jolly roger feature",
+      "archeological find"
+    ],
+    "bonus":[
+      "something extra",
+      "windfall",
+      "employee's reward",
+      "paycheck booster"
+    ],
+    "books":[
+      "library loans",
+      "library assets",
+      "accounting record"
+    ],
+    "boost":[
+      "up",
+      "back",
+      "shoplift",
+      "leg up",
+      "hoist",
+      "bit of help",
+      "give a lift"
+    ],
+    "bosom":[
+      "intimate",
+      "cherished",
+      "bust",
+      "beloved",
+      "very close"
+    ],
+    "botch":[
+      "mess up",
+      "bungle",
+      "muff",
+      "screw up"
+    ],
+    "bowls":[
+      "plays in an alley",
+      "plays with pins",
+      "soup dishes",
+      "rice dishes"
+    ],
+    "boxes":[
+      "gift holders",
+      "puts up a fight",
+      "square shapes",
+      "cereal holders",
+      "fights in a ring"
+    ],
+    "brags":[
+      "crows",
+      "talks big",
+      "boasts"
+    ],
+    "braid":[
+      "hair arrangement",
+      "decorative weave",
+      "three or more interlaced strands"
+    ],
+    "brain":[
+      "gray matter",
+      "mental acuity",
+      "really smart person",
+      "thinking organ"
+    ],
+    "brake":[
+      "car stopper",
+      "slow a vehicle",
+      "slow down"
+    ],
+    "brand":[
+      "label",
+      "cattle identifier",
+      "fashionista concern",
+      "trademark"
+    ],
+    "brass":[
+      "orchestra section",
+      "audacity",
+      "heavy metal",
+      "impudence",
+      "military bigwigs"
+    ],
+    "brave":[
+      "intrepid",
+      "heroic",
+      "courageous",
+      "plucky",
+      "valiant"
+    ],
+    "brawl":[
+      "free for all",
+      "dust up",
+      "noisy fight",
+      "rumble",
+      "melee"
+    ],
+    "bread":[
+      "bakery offering",
+      "loaf",
+      "sandwich material"
+    ],
+    "break":[
+      "separate",
+      "smash",
+      "render inoperable",
+      "fracture"
+    ],
+    "breed":[
+      "type of dog",
+      "mate",
+      "produce offspring"
+    ],
+    "brews":[
+      "pub orders",
+      "bar orders",
+      "steeps",
+      "witch's concoctions",
+      "makes beer"
+    ],
+    "bribe":[
+      "monetary persuasion",
+      "inducement",
+      "buy off",
+      "pay off"
+    ],
+    "brick":[
+      "building block",
+      "mason material",
+      "block of hardened clay"
+    ],
+    "bride":[
+      "vow taker",
+      "groom's companion",
+      "bouquet tosser",
+      "newlywed"
+    ],
+    "brief":[
+      "to the point",
+      "summary",
+      "short",
+      "succinct",
+      "fleeting"
+    ],
+    "bring":[
+      "fetch",
+      "convey",
+      "deliver"
+    ],
+    "broil":[
+      "swelter",
+      "cooking method",
+      "char",
+      "oven setting"
+    ],
+    "brook":[
+      "small stream",
+      "fishing spot",
+      "creek",
+      "babbling waterway"
+    ],
+    "brown":[
+      "toast",
+      "coffee or cocoa",
+      "common eye color"
+    ],
+    "brows":[
+      "foreheads",
+      "tweezer targets",
+      "anatomical ridges"
+    ],
+    "brunt":[
+      "main impact",
+      "main thrust",
+      "main force",
+      "main impact of an attack",
+      "principal force",
+      "main burden",
+      "full force"
+    ],
+    "build":[
+      "create",
+      "construct",
+      "assemble",
+      "increase"
+    ],
+    "bulbs":[
+      "lamp inserts",
+      "fall plantings",
+      "nursery purchases",
+      "lighting needs"
+    ],
+    "bulge":[
+      "swell",
+      "protrude",
+      "protuberance",
+      "stick out"
+    ],
+    "bulls":[
+      "stock market optimists",
+      "male whales",
+      "heifer mates"
+    ],
+    "burst":[
+      "pop",
+      "explode",
+      "flurry",
+      "break open"
+    ],
+    "butch":[
+      "decidedly masculine in manner",
+      "haircut style",
+      "manly"
+    ],
+    "buyer":[
+      "retail focus",
+      "ad target",
+      "purchasing agent",
+      "seller's need"
+    ],
+    "cabin":[
+      "mountain home",
+      "nautical quarters",
+      "mountain retreat",
+      "log house",
+      "simple home"
+    ],
+    "cable":[
+      "bridge support",
+      "computer attachment",
+      "heavy rope",
+      "metal rope"
+    ],
+    "cafes":[
+      "eateries",
+      "bistros",
+      "diners",
+      "sandwich shops"
+    ],
+    "cages":[
+      "bird quarters",
+      "locks up",
+      "zoo sights",
+      "pens",
+      "prisons"
+    ],
+    "cakes":[
+      "bakery offerings",
+      "bakery buys",
+      "soap units",
+      "birthday buys",
+      "wedding desserts"
+    ],
+    "camel":[
+      "sahara animal",
+      "desert ruminant",
+      "caravan critter",
+      "desert transport",
+      "llama cousin"
+    ],
+    "cameo":[
+      "small part",
+      "small role",
+      "tiny part",
+      "carved piece of jewelry",
+      "small role for a big star"
+    ],
+    "camps":[
+      "pitches a tent",
+      "roughs it",
+      "army bases",
+      "bivouacs",
+      "sleeps under the stars",
+      "barracks sites"
+    ],
+    "campy":[
+      "deliberately affected",
+      "overdone",
+      "ridiculously showy",
+      "goofy"
+    ],
+    "canal":[
+      "ear part",
+      "narrow waterway",
+      "man made waterway",
+      "artificial waterway"
+    ],
+    "candy":[
+      "sweet treat",
+      "halloween haul",
+      "sugary treats",
+      "confection"
+    ],
+    "canoe":[
+      "watercraft",
+      "fishing craft",
+      "lake craft",
+      "vacation rental",
+      "lake boat",
+      "paddled boat"
+    ],
+    "canon":[
+      "church doctrine",
+      "religious doctrine",
+      "church law",
+      "body of principles",
+      "accepted standards"
+    ],
+    "capes":[
+      "headlands",
+      "sleeveless garments",
+      "superhero accessories",
+      "magician accessories",
+      "lands by the sea"
+    ],
+    "cards":[
+      "contents of some decks",
+      "kings and queens",
+      "birthday mail"
+    ],
+    "cares":[
+      "troubles",
+      "worries",
+      "is concerned",
+      "burdens",
+      "concerns"
+    ],
+    "carry":[
+      "tote",
+      "haul",
+      "transport"
+    ],
+    "carts":[
+      "shopping aids",
+      "golf vehicles",
+      "grocery carriers",
+      "supermarket vehicles",
+      "trolleys",
+      "apple conveyors"
+    ],
+    "carve":[
+      "cut a turkey",
+      "cut a roast",
+      "sculpt",
+      "whittle"
+    ],
+    "catch":[
+      "fine print",
+      "capture",
+      "apprehend",
+      "backyard game",
+      "hidden drawback",
+      "fisherman's take"
+    ],
+    "cater":[
+      "supply party food for",
+      "provide party food",
+      "provide for",
+      "provide food for",
+      "supply food and service"
+    ],
+    "caulk":[
+      "make watertight",
+      "bathtub sealant",
+      "tub sealant"
+    ],
+    "cause":[
+      "bring about",
+      "give rise to",
+      "precipitate",
+      "justification",
+      "make happen"
+    ],
+    "caves":[
+      "gives in",
+      "relents",
+      "bats' hangouts",
+      "dark passages",
+      "spelunking sites",
+      "bat hideouts",
+      "underground chambers",
+      "locales for some paintings",
+      "troglodyte homes",
+      "collapses, with 'in'",
+      "gives in under pressure",
+      "spelunkers' haunts",
+      "gives up the fight"
+    ],
+    "cease":[
+      "let up",
+      "stop",
+      "knock off",
+      "call off",
+      "terminate",
+      "break off"
+    ],
+    "cedar":[
+      "furniture wood",
+      "chest material",
+      "cone bearing tree",
+      "fragrant wood",
+      "aromatic wood"
+    ],
+    "cello":[
+      "stringed instrument",
+      "string quartet member",
+      "orchestra member",
+      "large instrument"
+    ],
+    "chafe":[
+      "rub the wrong way",
+      "irritate",
+      "abrade",
+      "cause friction",
+      "irritate by rubbing"
+    ],
+    "chaff":[
+      "refuse",
+      "grain husks",
+      "wheat waste",
+      "threshing refuse"
+    ],
+    "chain":[
+      "bicycle part",
+      "mountain range",
+      "superstitious letter",
+      "metal links"
+    ],
+    "chair":[
+      "committee head",
+      "place to sit",
+      "table accessory"
+    ],
+    "chalk":[
+      "billiards need",
+      "blackboard accessory",
+      "hopscotch need",
+      "schoolroom staple"
+    ],
+    "chaos":[
+      "free for all",
+      "jumble",
+      "pandemonium",
+      "turmoil",
+      "anarchy",
+      "total confusion"
+    ],
+    "charm":[
+      "tickle",
+      "sweet talk",
+      "magnetism",
+      "bracelet attachment",
+      "charisma"
+    ],
+    "chart":[
+      "map",
+      "statistical diagram",
+      "figure",
+      "plot a course",
+      "make the top 100"
+    ],
+    "chase":[
+      "go after",
+      "pursue",
+      "tail",
+      "take after",
+      "pursuit",
+      "run after",
+      "try to catch"
+    ],
+    "cheap":[
+      "underhanded",
+      "penny pinching",
+      "tight",
+      "inexpensive",
+      "low priced",
+      "flimsy"
+    ],
+    "cheat":[
+      "swindler",
+      "scam artist",
+      "fraud",
+      "break the rules"
+    ],
+    "check":[
+      "cash alternative",
+      "chess announcement",
+      "request to a waiter"
+    ],
+    "cheek":[
+      "blush site",
+      "fleshy bit of face",
+      "mouth side"
+    ],
+    "cheer":[
+      "make happy",
+      "merriment",
+      "gladden",
+      "joy",
+      "shout of approval",
+      "holiday spirit"
+    ],
+    "chess":[
+      "board game",
+      "game with kings and pawns",
+      "strategy game"
+    ],
+    "chest":[
+      "where the heart is",
+      "bedroom piece",
+      "place for valuables",
+      "treasure holder",
+      "pirate's box"
+    ],
+    "chews":[
+      "masticates",
+      "munches on",
+      "readies for swallowing",
+      "grinds up"
+    ],
+    "chick":[
+      "barnyard baby",
+      "young bird",
+      "brood member"
+    ],
+    "chide":[
+      "scold",
+      "admonish",
+      "reprimand",
+      "scold mildly",
+      "rebuke"
+    ],
+    "chief":[
+      "head honcho",
+      "top dog",
+      "principal",
+      "main",
+      "boss",
+      "tribal leader"
+    ],
+    "child":[
+      "kid",
+      "family member",
+      "youngster",
+      "little one",
+      "toddler",
+      "tot",
+      "pediatric patient"
+    ],
+    "chili":[
+      "hot stuff",
+      "hot dog topping",
+      "tex mex dish",
+      "spicy beef dish"
+    ],
+    "chill":[
+      "recipe direction",
+      "relax",
+      "kick back",
+      "flu symptom",
+      "cool down",
+      "put on ice"
+    ],
+    "chime":[
+      "ring",
+      "doorbell sound",
+      "hourly clock sound"
+    ],
+    "chimp":[
+      "zoo favorite",
+      "zoo attraction",
+      "lab primate",
+      "small ape",
+      "early rocket traveler"
+    ],
+    "china":[
+      "kind of doll",
+      "marco polo destination",
+      "fancy dinnerware",
+      "fine dishes"
+    ],
+    "chips":[
+      "party snacks",
+      "small imperfections",
+      "casino stack",
+      "poker tokens",
+      "snack items",
+      "salsa holders"
+    ],
+    "chirp":[
+      "aviary sound",
+      "bird call",
+      "happy sound",
+      "cricket sound",
+      "parakeet sound",
+      "songbird sound"
+    ],
+    "chive":[
+      "sour cream seasoning",
+      "onion kin",
+      "leek relative",
+      "common seasoning"
+    ],
+    "chock":[
+      "wood block",
+      "steadying wedge",
+      "wheel brace"
+    ],
+    "choir":[
+      "church area",
+      "singing group",
+      "sunday singers",
+      "church group",
+      "gospel group"
+    ],
+    "choke":[
+      "clog",
+      "collapse under pressure",
+      "fail in the clutch",
+      "stifle",
+      "strangle"
+    ],
+    "chore":[
+      "everyday work",
+      "household task",
+      "tiresome task",
+      "daily duty"
+    ],
+    "chose":[
+      "selected",
+      "went for",
+      "went with",
+      "picked",
+      "picked out",
+      "opted for",
+      "elected"
+    ],
+    "chump":[
+      "sap",
+      "stupid sort",
+      "patsy",
+      "fall guy",
+      "sucker"
+    ],
+    "chunk":[
+      "thick piece",
+      "large portion",
+      "much more than a speck",
+      "sizable slice"
+    ],
+    "cider":[
+      "apple product",
+      "fruit drink",
+      "apple drink",
+      "autumn beverage",
+      "apple beverage"
+    ],
+    "cigar":[
+      "smoke",
+      "stogie",
+      "cuban export",
+      "humidor item",
+      "delivery room smoke"
+    ],
+    "claim":[
+      "maintain",
+      "allege",
+      "prospector filing",
+      "insurance filing"
+    ],
+    "clamp":[
+      "gripping gadget",
+      "shop tool",
+      "squeeze",
+      "workshop gripper"
+    ],
+    "claps":[
+      "applauds",
+      "shows approval",
+      "puts palms together"
+    ],
+    "class":[
+      "category",
+      "reunion group",
+      "elegance",
+      "social stratum",
+      "student group"
+    ],
+    "claws":[
+      "scratches",
+      "natural weapons",
+      "talons"
+    ],
+    "clean":[
+      "unsullied",
+      "innocent",
+      "spotless",
+      "scrub",
+      "untainted"
+    ],
+    "clear":[
+      "fair",
+      "understood",
+      "cloudless",
+      "transparent",
+      "see through",
+      "exonerate"
+    ],
+    "clerk":[
+      "salesperson",
+      "grocery employee",
+      "store salesperson",
+      "court employee"
+    ],
+    "click":[
+      "select with a mouse",
+      "fit together well",
+      "camera sound"
+    ],
+    "climb":[
+      "rise",
+      "move upward",
+      "go up",
+      "ascend",
+      "scale",
+      "gain altitude"
+    ],
+    "clips":[
+      "film excerpts",
+      "paper fasteners",
+      "cuts with scissors",
+      "snips"
+    ],
+    "cloak":[
+      "hide",
+      "conceal",
+      "mask",
+      "long cape"
+    ],
+    "clock":[
+      "time keeper",
+      "time piece",
+      "chronograph"
+    ],
+    "close":[
+      "intimate",
+      "neck and neck",
+      "in the neighborhood",
+      "in the vicinity",
+      "nearby",
+      "opposite of open"
+    ],
+    "cloth":[
+      "fabric",
+      "dressmaker's need",
+      "tailor's need"
+    ],
+    "cloud":[
+      "sun blocker",
+      "floating water vapor",
+      "swarm",
+      "become murky"
+    ],
+    "clown":[
+      "fool",
+      "circus performer",
+      "birthday party performer"
+    ],
+    "clubs":[
+      "golf equipment",
+      "black suit",
+      "nightspots",
+      "blunt weapons"
+    ],
+    "clues":[
+      "hints",
+      "leads",
+      "pieces of evidence"
+    ],
+    "clump":[
+      "stick together",
+      "mass of grass",
+      "glob",
+      "heavy footstep",
+      "thick mass"
+    ],
+    "clung":[
+      "adhered",
+      "held fast",
+      "held on",
+      "gripped"
+    ],
+    "coast":[
+      "shoreline",
+      "bike without pedaling",
+      "beach",
+      "get by on previous effort"
+    ],
+    "coats":[
+      "winter wear",
+      "layers",
+      "layers of paint",
+      "covers completely",
+      "lab wear"
+    ],
+    "codes":[
+      "things to crack",
+      "secret writings",
+      "cyphers",
+      "writes a computer program"
+    ],
+    "coins":[
+      "change",
+      "nickels and dimes",
+      "invents a term"
+    ],
+    "colon":[
+      "hour and minute separator",
+      "analogy symbol",
+      "ratio punctuation",
+      "part of the intestine"
+    ],
+    "color":[
+      "play with crayons",
+      "hue",
+      "shade",
+      "tint",
+      "pigment"
+    ],
+    "combo":[
+      "small band",
+      "includes side and a drink",
+      "value menu option"
+    ],
+    "comet":[
+      "celestial streaker",
+      "halley discovered one",
+      "astronomical observation"
+    ],
+    "comic":[
+      "joker",
+      "stand up performer",
+      "humorous",
+      "illustrated serial",
+      "funny"
+    ],
+    "comma":[
+      "pause indicator",
+      "list seperator",
+      "series divider",
+      "common punctuation"
+    ],
+    "conch":[
+      "beach souvenir",
+      "shell",
+      "large sea snail",
+      "collectible shell",
+      "large spiral shell"
+    ],
+    "cones":[
+      "traffic directors",
+      "summer treats",
+      "funnel shapes",
+      "scoop holders",
+      "detour guides"
+    ],
+    "coral":[
+      "reef material",
+      "shade of pink",
+      "pinkish",
+      "marine reef material",
+      "snorkelling sight"
+    ],
+    "corks":[
+      "seals a bottle",
+      "wine toppers",
+      "champagne seals"
+    ],
+    "couch":[
+      "put into words",
+      "sofa",
+      "living room seating",
+      "comfortable furniture piece"
+    ],
+    "cough":[
+      "engine sound",
+      "doctor's request",
+      "drop target",
+      "clear one's throat, in a way",
+      "it may accompany ''ahem!''",
+      "smoker's ailment"
+    ],
+    "could":[
+      "might",
+      "possibly will",
+      "was capable of"
+    ],
+    "count":[
+      "matter",
+      "be important",
+      "mean something",
+      "tally",
+      "take inventory"
+    ],
+    "court":[
+      "legal setting",
+      "woo",
+      "trial locale",
+      "judicial body",
+      "tennis venue"
+    ],
+    "cover":[
+      "alibi",
+      "nightclub charge",
+      "not the first recording",
+      "spy's story"
+    ],
+    "covet":[
+      "desire",
+      "wish for",
+      "envy",
+      "yearn for",
+      "be jealous of",
+      "want badly"
+    ],
+    "crabs":[
+      "grouches",
+      "grumps",
+      "common crustaceans",
+      "tasty crustaceans",
+      "skittering seafood"
+    ],
+    "crack":[
+      "first rate",
+      "figure out",
+      "clever remark",
+      "liberty bell flaw",
+      "split",
+      "glass fracture"
+    ],
+    "craft":[
+      "skill",
+      "workmanship",
+      "vessel",
+      "manual skill"
+    ],
+    "cramp":[
+      "hinder",
+      "muscle malady",
+      "ache",
+      "muscle problem"
+    ],
+    "crank":[
+      "curmudgeon",
+      "wind",
+      "twist",
+      "start a car"
+    ],
+    "crate":[
+      "orange container",
+      "moving aid",
+      "shipping container",
+      "warehouse container",
+      "box"
+    ],
+    "crave":[
+      "desire",
+      "long for",
+      "hunger for",
+      "want",
+      "yearn for"
+    ],
+    "crawl":[
+      "creep",
+      "swimming stroke",
+      "move on all fours",
+      "move on hands and knees",
+      "rush hour pace"
+    ],
+    "craze":[
+      "fad",
+      "mania",
+      "delirium",
+      "hot item"
+    ],
+    "crazy":[
+      "bonkers",
+      "nuts",
+      "insane",
+      "cuckoo"
+    ],
+    "creak":[
+      "haunted house sound",
+      "old floorboard sound",
+      "creepy sound"
+    ],
+    "cream":[
+      "beat badly",
+      "defeat decisively",
+      "off white",
+      "dairy product",
+      "coffee additive"
+    ],
+    "creek":[
+      "small stream",
+      "brook",
+      "stream"
+    ],
+    "creep":[
+      "move stealthily",
+      "sneak",
+      "loser",
+      "weirdo",
+      "repulsive sort"
+    ],
+    "crepe":[
+      "fancy pancake",
+      "brunch serving",
+      "thin pancake",
+      "brunch selection",
+      "french pancake"
+    ],
+    "crest":[
+      "high point",
+      "top",
+      "summit",
+      "peak",
+      "top of a wave"
+    ],
+    "cribs":[
+      "baby beds",
+      "places for babies",
+      "plagiarizes",
+      "nursery fixtures"
+    ],
+    "crime":[
+      "rap sheet entry",
+      "serious wrongdoing",
+      "legal offense",
+      "reason for punishment"
+    ],
+    "croak":[
+      "raven's call",
+      "kick the bucket",
+      "bullfrog sound",
+      "barely speak"
+    ],
+    "crook":[
+      "thief",
+      "criminal",
+      "hustler",
+      "shepherd's aid"
+    ],
+    "cross":[
+      "angry",
+      "annoyed",
+      "upset",
+      "peeved",
+      "religious symbol",
+      "hybrid"
+    ],
+    "crowd":[
+      "assembled mass",
+      "mob",
+      "large group of people"
+    ],
+    "crown":[
+      "symbol of sovereignty",
+      "monarch topper",
+      "tooth covering",
+      "bonk on the head"
+    ],
+    "crows":[
+      "black birds",
+      "blusters",
+      "brags",
+      "cawing birds",
+      "raven's cousins"
+    ],
+    "cruel":[
+      "mean",
+      "harsh",
+      "ruthless",
+      "merciless",
+      "hard-hearted",
+      "vicious"
+    ],
+    "crumb":[
+      "morsel",
+      "leftover",
+      "bit of bread",
+      "tiny morsel",
+      "cookie morsel"
+    ],
+    "crust":[
+      "outer layer",
+      "pizza perimeter",
+      "hard cover",
+      "pie edge",
+      "bread end"
+    ],
+    "crypt":[
+      "underground chamber",
+      "mausoleum",
+      "underground vault"
+    ],
+    "cubes":[
+      "numbers raised to the 3rd power",
+      "sugar lumps",
+      "ice used in drinks",
+      "six faced shapes"
+    ],
+    "cupid":[
+      "amorous archer",
+      "valentine symbol",
+      "boy with a bow",
+      "mythical matchmaker"
+    ],
+    "curly":[
+      "not straight",
+      "wavy",
+      "frizzy",
+      "like some fries"
+    ],
+    "curry":[
+      "rice dish",
+      "spicy yellow seasoning",
+      "indian seasoning",
+      "spicy seasoning"
+    ],
+    "curse":[
+      "swear",
+      "evil spell",
+      "jinx",
+      "hex"
+    ],
+    "curve":[
+      "tricky pitch",
+      "boomerang path",
+      "bend in a road"
+    ],
+    "cyber":[
+      "internet prefix",
+      "online related",
+      "computer related",
+      "electronic",
+      "digital"
+    ],
+    "cycle":[
+      "ride a bike",
+      "repeating series",
+      "round",
+      "washing machine phase",
+      "go by bike",
+      "repetitive process"
+    ],
+    "cynic":[
+      "misanthrope",
+      "nonbeliever",
+      "skeptical sort",
+      "negative sort of person"
+    ],
+    "daddy":[
+      "family man",
+      "papa",
+      "father"
+    ],
+    "daily":[
+      "every 24 hours",
+      "type of newspaper",
+      "365 times per year"
+    ],
+    "dairy":[
+      "supermarket section",
+      "grocery section",
+      "market section",
+      "milk related"
+    ],
+    "daisy":[
+      "freshness symbol",
+      "simple flower",
+      "white petaled flower"
+    ],
+    "dance":[
+      "ball",
+      "social event",
+      "high school event",
+      "do the tango"
+    ],
+    "dandy":[
+      "foppish fellow",
+      "splendiferous",
+      "just swell",
+      "foppish dresser"
+    ],
+    "dares":[
+      "has the gumption",
+      "playground challenges",
+      "challenges",
+      "has the nerve",
+      "takes a risk"
+    ],
+    "darts":[
+      "moves quickly",
+      "pub game",
+      "blowgun ammo",
+      "thrown projectiles"
+    ],
+    "dates":[
+      "goes out with",
+      "times to remember",
+      "takes out",
+      "tropical fruits",
+      "sees socially"
+    ],
+    "deals":[
+      "agreements",
+      "gives cards",
+      "bargains",
+      "values"
+    ],
+    "death":[
+      "end",
+      "ruination",
+      "failure",
+      "opposite of life"
+    ],
+    "debit":[
+      "ledger entry",
+      "kind of card",
+      "payment option",
+      "check card"
+    ],
+    "debts":[
+      "money owed",
+      "financial obligations",
+      "obligations",
+      "financial burdens",
+      "things you owe"
+    ],
+    "debug":[
+      "fix a computer program",
+      "troubleshoot computer problems",
+      "repair software"
+    ],
+    "debut":[
+      "opening",
+      "come out",
+      "introduction",
+      "first time out",
+      "first appearance",
+      "unveiling"
+    ],
+    "decaf":[
+      "coffee order",
+      "coffee choice",
+      "kind of coffee",
+      "evening coffee"
+    ],
+    "decay":[
+      "break down",
+      "deteriorate",
+      "rot",
+      "decompose"
+    ],
+    "decor":[
+      "style",
+      "interior design",
+      "ornamentation",
+      "furnishings"
+    ],
+    "decoy":[
+      "fake duck",
+      "hunter's lure",
+      "fake",
+      "red herring"
+    ],
+    "defer":[
+      "yield",
+      "put off",
+      "postpone",
+      "hold off",
+      "table"
+    ],
+    "delay":[
+      "hold up",
+      "snag",
+      "holdup",
+      "stall",
+      "schedule setback"
+    ],
+    "delta":[
+      "river feature",
+      "river mouth",
+      "triangular formation",
+      "marsh system at the mouth of a river"
+    ],
+    "demon":[
+      "evil spirit",
+      "fiend",
+      "imp",
+      "evil one",
+      "devil"
+    ],
+    "denim":[
+      "jeans fabric",
+      "casual attire",
+      "jeans material",
+      "blue material",
+      "durable fabric",
+      "cotton fabric"
+    ],
+    "dense":[
+      "thick",
+      "tightly packed",
+      "slow to comprehend",
+      "thickheaded",
+      "heavy for its size"
+    ],
+    "dents":[
+      "dings",
+      "fender flaws",
+      "auto damage",
+      "pushes in",
+      "impressiosn"
+    ],
+    "depot":[
+      "station",
+      "train station",
+      "warehouse",
+      "train stop",
+      "storehouse",
+      "terminal",
+      "bus station"
+    ],
+    "depth":[
+      "profundity",
+      "pool measurement",
+      "intensity",
+      "downward measurement",
+      "diver's concern"
+    ],
+    "desks":[
+      "classroom furniture",
+      "office furniture",
+      "study stations"
+    ],
+    "deter":[
+      "stop",
+      "block",
+      "ward off",
+      "intimidate",
+      "put off",
+      "restrain",
+      "discourage"
+    ],
+    "devil":[
+      "rascal",
+      "mischievous one",
+      "imp",
+      "evil one",
+      "demon"
+    ],
+    "dials":[
+      "calls",
+      "retro phone features",
+      "watch faces",
+      "watch parts",
+      "radio features"
+    ],
+    "diets":[
+      "food plans",
+      "cuts calories",
+      "weight loss plans",
+      "eating regimens"
+    ],
+    "diner":[
+      "informal eatery",
+      "casual eatery",
+      "greasy spoon",
+      "eatery"
+    ],
+    "disco":[
+      "musical genre",
+      "70s music",
+      "70s dance club"
+    ],
+    "docks":[
+      "berths",
+      "piers",
+      "marina features",
+      "penalizes pay",
+      "ties up in port",
+      "deducts from wages"
+    ],
+    "dolls":[
+      "kid toys",
+      "dames",
+      "fashion focused toys"
+    ],
+    "donor":[
+      "patron",
+      "philanthropist",
+      "fund contributor",
+      "contributor",
+      "charity supporter"
+    ],
+    "donut":[
+      "diner dessert",
+      "breakfast item",
+      "breakfast pastry",
+      "breakfast treat"
+    ],
+    "dooms":[
+      "condemns",
+      "sentences",
+      "destines to an ill fate",
+      "destines to a tragic fate",
+      "brings to ruin"
+    ],
+    "doubt":[
+      "question",
+      "reservations",
+      "uncertainty",
+      "have reservations about"
+    ],
+    "dough":[
+      "future bread",
+      "money",
+      "something that needs kneeding"
+    ],
+    "dowel":[
+      "wooden rod",
+      "wooden peg",
+      "connecting rod",
+      "window blind rod"
+    ],
+    "dozen":[
+      "egg quantity",
+      "rose quantity",
+      "donut quantity"
+    ],
+    "draft":[
+      "pub serving",
+      "early manuscript version",
+      "light air current",
+      "work in progress",
+      "bartender serving"
+    ],
+    "drags":[
+      "pulls",
+      "burdens",
+      "hauls",
+      "moves without lifting"
+    ],
+    "drain":[
+      "sap",
+      "exhaust",
+      "run off",
+      "water outlet",
+      "bathtub feature"
+    ],
+    "drape":[
+      "hang loosely",
+      "hang",
+      "window covering",
+      "window dressing",
+      "window treatment"
+    ],
+    "drawn":[
+      "looking pale",
+      "sketched",
+      "haggard",
+      "tired looking",
+      "about to be quartered",
+      "illustrated"
+    ],
+    "draws":[
+      "attracts",
+      "sketches",
+      "pulls a sword",
+      "pulls a pistol",
+      "makes a sketch",
+      "tied games",
+      "illustrates"
+    ],
+    "dream":[
+      "aspiration",
+      "ideal",
+      "hope",
+      "fantasize",
+      "cherished desire",
+      "goal"
+    ],
+    "drift":[
+      "wander aimlessly",
+      "snow pile",
+      "snow formation",
+      "snow buildup"
+    ],
+    "drink":[
+      "bar buy",
+      "bar serving",
+      "take in liquid"
+    ],
+    "drips":[
+      "plumbing problems",
+      "tap problems",
+      "leak results",
+      "leak result"
+    ],
+    "drive":[
+      "energy",
+      "ambition",
+      "motivation",
+      "tee shot",
+      "pilot an automobile",
+      "use a car"
+    ],
+    "drone":[
+      "go on and on",
+      "buzz",
+      "pilotless plane",
+      "run on",
+      "stingless bee",
+      "male bee"
+    ],
+    "drool":[
+      "drivel",
+      "slobber",
+      "show eager anticipation",
+      "salivate"
+    ],
+    "drops":[
+      "lets slip",
+      "plummets",
+      "lozenges",
+      "lets go of",
+      "fails to pursue",
+      "bits of rain"
+    ],
+    "drown":[
+      "soak",
+      "go under",
+      "go down with the ship",
+      "die underwater",
+      "drink the sea"
+    ],
+    "druid":[
+      "ancient celt",
+      "celtic priest",
+      "stonehenge worshiper",
+      "priest of old"
+    ],
+    "drums":[
+      "rock band gear",
+      "bongos",
+      "percussion instruments"
+    ],
+    "ducks":[
+      "avoids",
+      "mallards",
+      "stoops suddenly",
+      "quacking birds",
+      "pond birds"
+    ],
+    "duels":[
+      "fights",
+      "sword fights",
+      "head-to-head contests",
+      "showdowns",
+      "face-offs"
+    ],
+    "dumps":[
+      "gets rid of",
+      "unloads",
+      "jettisons",
+      "ejects"
+    ],
+    "dunes":[
+      "beach sights",
+      "desert mounds",
+      "desert features",
+      "sand drifts"
+    ],
+    "dunks":[
+      "basketball highlights",
+      "dips",
+      "briefly submerges"
+    ],
+    "dwarf":[
+      "overshadow",
+      "tower over",
+      "kind of star",
+      "underground fantasy race"
+    ],
+    "dwell":[
+      "live",
+      "reside",
+      "stay",
+      "fixate on",
+      "habitate",
+      "linger"
+    ],
+    "eager":[
+      "gung ho",
+      "enthusiastic",
+      "raring to go",
+      "zealous",
+      "itching to go",
+      "ready for action"
+    ],
+    "eagle":[
+      "national bird",
+      "bird of prey",
+      "american symbol",
+      "patriotic symbol",
+      "sharp eyed hunter",
+      "golf goal"
+    ],
+    "early":[
+      "in advance",
+      "ahead of time",
+      "in the wee hours",
+      "primitive",
+      "too soon",
+      "premature"
+    ],
+    "earns":[
+      "brings in",
+      "clears",
+      "takes in",
+      "takes home",
+      "yields",
+      "acquires",
+      "gets paid"
+    ],
+    "earth":[
+      "terra firma",
+      "soil",
+      "farm soil",
+      "dirt",
+      "home planet"
+    ],
+    "eaten":[
+      "consumed",
+      "devoured",
+      "corroded",
+      "gobbled up",
+      "scarfed down",
+      "wolfed down"
+    ],
+    "ebony":[
+      "black",
+      "furniture wood",
+      "key material",
+      "durable wood",
+      "jet black",
+      "hard wood"
+    ],
+    "edits":[
+      "cuts and pastes",
+      "rewrites",
+      "touches up",
+      "reviews and corrects",
+      "prepares for publication",
+      "trims down"
+    ],
+    "eight":[
+      "black billiard ball",
+      "less than ten",
+      "number of octupus arms",
+      "stop sign sides"
+    ],
+    "eject":[
+      "discharge",
+      "throw out",
+      "kick out",
+      "oust",
+      "bail out"
+    ],
+    "elbow":[
+      "bend in the arm",
+      "nudge",
+      "arm joint",
+      "macaroni shape"
+    ],
+    "elder":[
+      "church official",
+      "revered figure",
+      "senior",
+      "old timer",
+      "born first"
+    ],
+    "elect":[
+      "choose",
+      "make a choice",
+      "vote in",
+      "decide",
+      "vote into office"
+    ],
+    "elegy":[
+      "mournful poem",
+      "plaintive poem",
+      "poem of lament",
+      "melancholy poem"
+    ],
+    "elite":[
+      "exclusive",
+      "first class",
+      "best",
+      "select",
+      "cream of the crop"
+    ],
+    "elope":[
+      "abscond",
+      "run off to get hitched",
+      "run away together",
+      "marry secretly"
+    ],
+    "elude":[
+      "dodge",
+      "give the slip to",
+      "get away from",
+      "avoid"
+    ],
+    "email":[
+      "send a message",
+      "online inbox",
+      "digital messages"
+    ],
+    "ember":[
+      "hot coal",
+      "fireplace remnant",
+      "glowing coal",
+      "smoldering coal"
+    ],
+    "empty":[
+      "drain",
+      "unoccupied",
+      "barren",
+      "deserted",
+      "vacuous",
+      "vacant"
+    ],
+    "enact":[
+      "pass",
+      "make into law",
+      "sanction",
+      "put on the books",
+      "put into law",
+      "portray"
+    ],
+    "enjoy":[
+      "relish",
+      "delight in",
+      "take pleasure in",
+      "savor",
+      "have fun with"
+    ],
+    "enter":[
+      "keyboard key",
+      "register",
+      "join",
+      "door sign",
+      "go inside",
+      "get into"
+    ],
+    "entry":[
+      "diary note",
+      "contest submission",
+      "access",
+      "way in",
+      "vestibule",
+      "foyer"
+    ],
+    "envoy":[
+      "representative",
+      "agent",
+      "emissary",
+      "diplomatic agent"
+    ],
+    "epoxy":[
+      "sticky stuff",
+      "strong adhesive",
+      "glue",
+      "bonding agent",
+      "strong glue"
+    ],
+    "equal":[
+      "identical",
+      "match",
+      "peer",
+      "even",
+      "fifty-fifty"
+    ],
+    "equip":[
+      "outfit",
+      "supply",
+      "provide with gear",
+      "rig",
+      "prepare for battle",
+      "furnish with gear"
+    ],
+    "erase":[
+      "clear",
+      "get rid of",
+      "take off",
+      "wipe clean",
+      "delete",
+      "destroy"
+    ],
+    "erect":[
+      "put up",
+      "pitch",
+      "upright",
+      "raise",
+      "raised",
+      "standing"
+    ],
+    "erode":[
+      "wear away",
+      "sap",
+      "break down",
+      "wear down",
+      "deteriorate"
+    ],
+    "error":[
+      "bug",
+      "goof",
+      "blunder",
+      "glitch",
+      "mistake"
+    ],
+    "erupt":[
+      "lose it",
+      "go ballistic",
+      "blow up",
+      "blow one's top",
+      "go off",
+      "blow",
+      "explode"
+    ],
+    "essay":[
+      "composition",
+      "opinion piece",
+      "school assignment"
+    ],
+    "ether":[
+      "early anesthetic",
+      "heavens",
+      "chloroform kin",
+      "early surgical aid"
+    ],
+    "evade":[
+      "steer clear of",
+      "dodge",
+      "sidestep",
+      "get away from",
+      "keep away from",
+      "avoid"
+    ],
+    "event":[
+      "to-do",
+      "happening",
+      "occurrence",
+      "big occasion",
+      "big social gathering",
+      "timeline item"
+    ],
+    "every":[
+      "each",
+      "all possible",
+      "without exception"
+    ],
+    "evict":[
+      "throw out",
+      "kick out",
+      "boot",
+      "remove",
+      "oust",
+      "boot out",
+      "toss out",
+      "force out"
+    ],
+    "evils":[
+      "misfortunes",
+      "sins",
+      "bad stuff",
+      "poisons",
+      "maladies"
+    ],
+    "evoke":[
+      "bring up",
+      "draw out",
+      "bring out",
+      "draw forth",
+      "call forth",
+      "call up",
+      "conjure up",
+      "remind"
+    ],
+    "exact":[
+      "require",
+      "precise",
+      "on the dot",
+      "demand"
+    ],
+    "excel":[
+      "shine",
+      "stand out",
+      "do well",
+      "do very well",
+      "be outstanding"
+    ],
+    "exert":[
+      "put to work",
+      "employ",
+      "bring to bear",
+      "put forth",
+      "strain",
+      "make an effort"
+    ],
+    "exile":[
+      "put out",
+      "kick out",
+      "banish",
+      "oust",
+      "outcast",
+      "cast out",
+      "send away"
+    ],
+    "exist":[
+      "live",
+      "live and breathe",
+      "be",
+      "get by",
+      "have a life",
+      "be real"
+    ],
+    "exits":[
+      "takes off",
+      "means of escape",
+      "goes out",
+      "leaves",
+      "freeway ramps"
+    ],
+    "extra":[
+      "in addition",
+      "plus",
+      "additional",
+      "bonus",
+      "more",
+      "left over",
+      "spare",
+      "uncredited actor"
+    ],
+    "fable":[
+      "legend",
+      "moral story",
+      "aesop tale",
+      "old story"
+    ],
+    "faces":[
+      "confronts",
+      "aspects",
+      "stands up to",
+      "looks toward",
+      "fronts"
+    ],
+    "facts":[
+      "info",
+      "almanac tidbits",
+      "reference material",
+      "particulars",
+      "trivia"
+    ],
+    "fades":[
+      "loses steam",
+      "diminishes",
+      "loses color",
+      "weakens",
+      "decreases",
+      "grows faint"
+    ],
+    "fails":[
+      "breaks down",
+      "doesn't succeed",
+      "falls through",
+      "does not pass"
+    ],
+    "faint":[
+      "woozy",
+      "barely perceptible",
+      "pass out",
+      "barely audible",
+      "hard to see",
+      "hard to discern",
+      "swoon"
+    ],
+    "faith":[
+      "belief system",
+      "trust",
+      "conviction",
+      "total trust",
+      "confidence"
+    ],
+    "falls":[
+      "slips",
+      "topples",
+      "goes sprawling",
+      "yosemite attraction"
+    ],
+    "fancy":[
+      "ornate",
+      "imagination",
+      "high end",
+      "take a shine to"
+    ],
+    "fangs":[
+      "large canines",
+      "snake teeth",
+      "vampire teeth",
+      "vicious teeth"
+    ],
+    "farce":[
+      "parody",
+      "mockery",
+      "madcap comedy",
+      "literary genre",
+      "slapstick comedy",
+      "travesty"
+    ],
+    "farms":[
+      "cultivates",
+      "agricultural sites",
+      "works the soil",
+      "grows crops",
+      "crop sites"
+    ],
+    "fatal":[
+      "calamitous",
+      "deadly",
+      "terminal",
+      "lethal"
+    ],
+    "fates":[
+      "mythological trio",
+      "goddesses of destiny",
+      "destinies",
+      "outcomes"
+    ],
+    "fault":[
+      "mistake",
+      "earthquake epicenter",
+      "geologic fracture",
+      "bad tennis serve"
+    ],
+    "favor":[
+      "small gift",
+      "lean toward",
+      "prefer",
+      "party handout",
+      "act of kindness"
+    ],
+    "fears":[
+      "dreads",
+      "phobias",
+      "apprehensions",
+      "is scared of"
+    ],
+    "feast":[
+      "gorge",
+      "elaborate meal",
+      "banquet",
+      "gorge yourself"
+    ],
+    "felon":[
+      "convict",
+      "lawbreaker",
+      "serious offender",
+      "major criminal",
+      "career criminal"
+    ],
+    "fence":[
+      "obstacle",
+      "barrier",
+      "back yard border"
+    ],
+    "feral":[
+      "wild",
+      "unbroken",
+      "savage",
+      "untamed",
+      "not domesticated"
+    ],
+    "ferns":[
+      "flowerless plants",
+      "plants with fronds",
+      "moisture-loving plants"
+    ],
+    "ferry":[
+      "river crosser",
+      "vessel for short crossings",
+      "passenger ship"
+    ],
+    "fiber":[
+      "dietary component",
+      "cereal stuff",
+      "bran substance",
+      "roughage",
+      "moral fortitude",
+      "strand"
+    ],
+    "field":[
+      "pasture",
+      "specialty",
+      "expanse",
+      "area of expertise"
+    ],
+    "fiend":[
+      "enthusiast",
+      "buff",
+      "villain",
+      "monster",
+      "devilish one"
+    ],
+    "fifth":[
+      "liquor purchase",
+      "twenty percent",
+      "behind fourth"
+    ],
+    "fifty":[
+      "evenly split",
+      "stars on the american flag",
+      "half way to one hundred"
+    ],
+    "fight":[
+      "brawl",
+      "argument",
+      "melee",
+      "battle"
+    ],
+    "filth":[
+      "refuse",
+      "dirt",
+      "squalor",
+      "smut",
+      "crud",
+      "scum"
+    ],
+    "fires":[
+      "flames",
+      "things to put out",
+      "drops from the payroll",
+      "lets someone go",
+      "makes redundant"
+    ],
+    "first":[
+      "leading",
+      "in the lead",
+      "original",
+      "leading the pack"
+    ],
+    "flags":[
+      "gets tired",
+      "pennants",
+      "national symbols",
+      "penalty markers",
+      "markers"
+    ],
+    "flail":[
+      "beat",
+      "thrash",
+      "swing wildly",
+      "thrash about",
+      "threshing tool"
+    ],
+    "flair":[
+      "panache",
+      "knack",
+      "natural talent",
+      "distinctive style"
+    ],
+    "flake":[
+      "peel off",
+      "cereal morsel",
+      "bit of snow",
+      "ditsy sort",
+      "unreliable one"
+    ],
+    "flame":[
+      "pilot light",
+      "olympics symbol",
+      "fire"
+    ],
+    "flank":[
+      "beef cut",
+      "steak cut",
+      "kind of steak",
+      "side of a military formation",
+      "sneak up on the side"
+    ],
+    "flaps":[
+      "envelope parts",
+      "airplane parts",
+      "tent openings",
+      "tries to fly",
+      "birdlike motions"
+    ],
+    "flare":[
+      "distress signal",
+      "emergency signal",
+      "highway warning",
+      "danger signal",
+      "solar phenomenon"
+    ],
+    "flash":[
+      "pizazz",
+      "jiffy",
+      "instant",
+      "burst of light",
+      "news bulletin"
+    ],
+    "flask":[
+      "lab container",
+      "booze holder",
+      "personal liquor supply"
+    ],
+    "flaws":[
+      "imperfections",
+      "faults",
+      "defects",
+      "weak spots"
+    ],
+    "fleas":[
+      "dog bane",
+      "some circus performers",
+      "pet parasites",
+      "plague carriers"
+    ],
+    "flees":[
+      "takes off",
+      "skedaddles",
+      "gets away",
+      "runs away",
+      "retreats"
+    ],
+    "flesh":[
+      "skin",
+      "meat",
+      "fruit pulp",
+      "can be bruised",
+      "meaty bits"
+    ],
+    "flick":[
+      "wrist action",
+      "wrist movement",
+      "finger whip"
+    ],
+    "flies":[
+      "goes quickly",
+      "takes a jet",
+      "rides in a plane",
+      "moves through the air",
+      "home pests"
+    ],
+    "flint":[
+      "spark producer",
+      "camping aid",
+      "old school fire starter"
+    ],
+    "flips":[
+      "somersaults",
+      "tosses a coin",
+      "uses a spatula",
+      "turns over"
+    ],
+    "flirt":[
+      "coquette",
+      "make goo-goo eyes",
+      "act amorously",
+      "tease amorously"
+    ],
+    "flock":[
+      "rush to",
+      "bunch up",
+      "group of birds"
+    ],
+    "flood":[
+      "overwhelm",
+      "escape the bounds",
+      "overflow"
+    ],
+    "floor":[
+      "flabbergast",
+      "blow away",
+      "bowl over",
+      "stun",
+      "amaze",
+      "astound",
+      "astonish",
+      "knock to the ground"
+    ],
+    "floss":[
+      "dental directive",
+      "dental thread",
+      "clean between the teeth"
+    ],
+    "flour":[
+      "baking need",
+      "milled wheat",
+      "gravy ingredient",
+      "bread ingredient"
+    ],
+    "fluff":[
+      "lightweight reporting",
+      "downy mass",
+      "trivial stuff",
+      "padding"
+    ],
+    "fluid":[
+      "smooth",
+      "not fixed",
+      "not settled",
+      "graceful",
+      "smooth in motion"
+    ],
+    "fluke":[
+      "stroke of luck",
+      "chance happening",
+      "accidental success",
+      "whale tail feature"
+    ],
+    "flung":[
+      "hurled",
+      "threw",
+      "tossed hard"
+    ],
+    "flunk":[
+      "fail",
+      "not pass",
+      "keep back"
+    ],
+    "flush":[
+      "loaded",
+      "even",
+      "squarely",
+      "good poker hand"
+    ],
+    "flute":[
+      "wind instrument",
+      "marching band instrument",
+      "piccolo cousin"
+    ],
+    "foamy":[
+      "frothy",
+      "like cappuccino",
+      "like waves",
+      "like whitewater"
+    ],
+    "focal":[
+      "central",
+      "centrally located",
+      "middle",
+      "optical point"
+    ],
+    "focus":[
+      "concentrate",
+      "adjust a camera lens",
+      "think hard",
+      "adjust binoculars"
+    ],
+    "foggy":[
+      "unclear",
+      "not clear",
+      "misty",
+      "like san francisco"
+    ],
+    "foist":[
+      "impose",
+      "pass off",
+      "pass off as genuine"
+    ],
+    "folly":[
+      "madness",
+      "bad move",
+      "nonsensical act",
+      "indiscretion",
+      "huge mistake"
+    ],
+    "foods":[
+      "dietary concerns",
+      "nutritional topics",
+      "supermarket offerings"
+    ],
+    "fools":[
+      "puts one over on",
+      "tricks",
+      "jesters",
+      "prank victims"
+    ],
+    "force":[
+      "might",
+      "compel",
+      "coerce",
+      "strength",
+      "power"
+    ],
+    "forge":[
+      "smithing workshop",
+      "shape using heat",
+      "beat into shape",
+      "imitate a signature",
+      "create a false document"
+    ],
+    "forks":[
+      "branches",
+      "splits in the path",
+      "salad utensils"
+    ],
+    "forty":[
+      "two score",
+      "milestone birthday",
+      "halfway to eighty",
+      "winks in a nap"
+    ],
+    "forum":[
+      "discussion group",
+      "discussion venue",
+      "place for a panel",
+      "discussion site",
+      "public meeting"
+    ],
+    "found":[
+      "came across",
+      "establish",
+      "stumbled upon",
+      "stumbled on to",
+      "recovered"
+    ],
+    "foyer":[
+      "vestibule",
+      "entrance hall",
+      "lobby",
+      "entrance area",
+      "hallway",
+      "theater lobby"
+    ],
+    "frail":[
+      "delicate",
+      "weak",
+      "easily broken",
+      "easily injured"
+    ],
+    "frame":[
+      "set up",
+      "construct",
+      "picture holder",
+      "prepare for hanging",
+      "picture border",
+      "portrait holder"
+    ],
+    "fraud":[
+      "criminal trickery",
+      "charlatan",
+      "hoax",
+      "impostor",
+      "deceit",
+      "illegal trickery"
+    ],
+    "freak":[
+      "monster",
+      "sideshow attraction",
+      "extremely unlikely",
+      "carnival oddity",
+      "rare and unlucky occurance"
+    ],
+    "fresh":[
+      "impudent",
+      "sassy",
+      "novel",
+      "just-baked",
+      "straight from the garden",
+      "not canned or frozen"
+    ],
+    "fries":[
+      "deli side",
+      "popular side",
+      "fast food order",
+      "burger side",
+      "salty fried treat"
+    ],
+    "frill":[
+      "nice but unnecessary feature",
+      "nonessential",
+      "showy extra",
+      "extra thing"
+    ],
+    "frisk":[
+      "pat down",
+      "check for weapons",
+      "search for contraband"
+    ],
+    "frogs":[
+      "ancient plague",
+      "pond dwellers",
+      "leaping amphibians",
+      "common dissection subjects"
+    ],
+    "front":[
+      "foremost",
+      "pretense",
+      "battlefield",
+      "facade",
+      "vanguard",
+      "lead"
+    ],
+    "frost":[
+      "cold covering",
+      "winter coat",
+      "crop killer",
+      "put icing on a cake"
+    ],
+    "froth":[
+      "head",
+      "foam",
+      "cappuccino topper",
+      "latte topper",
+      "insubstantial stuff"
+    ],
+    "frown":[
+      "display displeasure",
+      "displeased look",
+      "opposite of smile"
+    ],
+    "froze":[
+      "stopped in one's tracks",
+      "turned to ice",
+      "got stage fright",
+      "didn't move a muscle",
+      "stood still"
+    ],
+    "fruit":[
+      "apples and oranges",
+      "lunchbox item",
+      "compote ingredient",
+      "smoothie ingredient",
+      "part of a balanced diet"
+    ],
+    "fudge":[
+      "chocolate treat",
+      "chocolate candy",
+      "sweet square"
+    ],
+    "funds":[
+      "bankrolls",
+      "backs",
+      "cash",
+      "provides the cash for"
+    ],
+    "funky":[
+      "groovy",
+      "jazzy",
+      "smells odd"
+    ],
+    "funny":[
+      "odd",
+      "peculiar",
+      "amusing",
+      "comical"
+    ],
+    "furry":[
+      "hairy",
+      "covered with hair",
+      "fuzzy"
+    ],
+    "fussy":[
+      "particular",
+      "hard to please",
+      "very particular",
+      "detail-oriented"
+    ],
+    "futon":[
+      "collapsible bed",
+      "japanese-style mattress",
+      "bachelor pad mattress",
+      "foldable mattress",
+      "dorm furnishing"
+    ],
+    "fuzzy":[
+      "unclear",
+      "like a teddy bear",
+      "hairy"
+    ],
+    "gable":[
+      "victorian house feature",
+      "bit of gothic architecture",
+      "cape cod feature",
+      "gothic feature"
+    ],
+    "gamma":[
+      "greek letter",
+      "kind of ray",
+      "beta follower"
+    ],
+    "gates":[
+      "fence openings",
+      "airport areas",
+      "castle entrances"
+    ],
+    "gaudy":[
+      "garish",
+      "tastelessly showy",
+      "overly showy",
+      "flashy",
+      "too showy",
+      "like much vegas stagewear",
+      "cheaply ornate"
+    ],
+    "gauge":[
+      "standard",
+      "assess",
+      "measure",
+      "measuring device",
+      "measuring instrument"
+    ],
+    "gaunt":[
+      "scrawny",
+      "very thin",
+      "haggard",
+      "all skin and bones",
+      "overly thin"
+    ],
+    "gauze":[
+      "first aid fabric",
+      "wound dressing",
+      "filmy fabric",
+      "wrapping material",
+      "surgical dressing"
+    ],
+    "gavel":[
+      "symbol of authority",
+      "auction prop",
+      "judicial hammer"
+    ],
+    "gears":[
+      "transmission units",
+      "cogs",
+      "wheels with teeth",
+      "watch parts"
+    ],
+    "gecko":[
+      "tropical lizard",
+      "small lizard",
+      "chirping lizard"
+    ],
+    "geeky":[
+      "dweebish",
+      "uncool",
+      "nerdy",
+      "socially awkward"
+    ],
+    "geese":[
+      "hunted birds",
+      "honkers",
+      "migrating birds",
+      "gaggle members"
+    ],
+    "genes":[
+      "heredity units",
+      "code carriers",
+      "trait carriers",
+      "splicing candidates",
+      "chromosome components"
+    ],
+    "genre":[
+      "kind",
+      "variety",
+      "sort",
+      "class",
+      "style",
+      "category",
+      "literary classification",
+      "music category"
+    ],
+    "germs":[
+      "bugs",
+      "cold causes",
+      "microbes",
+      "bacteria",
+      "infection causes"
+    ],
+    "ghost":[
+      "spirit",
+      "apparition",
+      "phantom",
+      "real author"
+    ],
+    "ghoul":[
+      "evil spirit",
+      "halloween costume",
+      "undead monster"
+    ],
+    "giant":[
+      "enormous",
+      "huge",
+      "humongous",
+      "supersized",
+      "mammoth",
+      "very large"
+    ],
+    "gifts":[
+      "birthday buys",
+      "inherent abilities",
+      "endowments",
+      "presents"
+    ],
+    "girly":[
+      "frilly",
+      "feminine",
+      "female friendly",
+      "pink, according to stereotypes"
+    ],
+    "girth":[
+      "circumference",
+      "distance around",
+      "middle measurement",
+      "waist size"
+    ],
+    "given":[
+      "donated",
+      "assumed",
+      "established fact",
+      "taken for granted",
+      "assumption",
+      "accepted fact"
+    ],
+    "glade":[
+      "forest clearing",
+      "clearing",
+      "open space",
+      "forest opening"
+    ],
+    "gland":[
+      "hormone regulator",
+      "secretion organ",
+      "hormone producer"
+    ],
+    "glare":[
+      "driving hazard",
+      "dirty look",
+      "harsh light",
+      "menacing look",
+      "mean stare"
+    ],
+    "glass":[
+      "bar request",
+      "tumbler",
+      "lens",
+      "windshield material",
+      "window material"
+    ],
+    "glaze":[
+      "donut coating",
+      "sugarcoat",
+      "pottery finish",
+      "ice over"
+    ],
+    "glide":[
+      "dance move",
+      "dance movement",
+      "coast",
+      "go smoothly",
+      "move effortlessly",
+      "soar",
+      "smooth move"
+    ],
+    "glint":[
+      "inkling",
+      "sparkle",
+      "luster",
+      "flash",
+      "flash of light"
+    ],
+    "gloat":[
+      "be a bad winner",
+      "rub it in",
+      "be a sore winner",
+      "add insult to injury",
+      "be smug"
+    ],
+    "globe":[
+      "sphere",
+      "ball",
+      "planet",
+      "classroom accessory",
+      "geography class feature"
+    ],
+    "gloom":[
+      "melancholy",
+      "depression",
+      "low spirits",
+      "darkness",
+      "despondency",
+      "sad state"
+    ],
+    "glory":[
+      "magnificence",
+      "high praise",
+      "exaltation",
+      "hero's acclaim"
+    ],
+    "gloss":[
+      "photo finish",
+      "shine",
+      "polish",
+      "sheen",
+      "lip cosmetic",
+      "makeup item"
+    ],
+    "glove":[
+      "baseball equipment",
+      "hand warmer",
+      "boxing need",
+      "hand covering"
+    ],
+    "glows":[
+      "shines",
+      "emits light",
+      "radiates",
+      "gleams"
+    ],
+    "glues":[
+      "sticks",
+      "fixes firmly",
+      "stickers",
+      "bonds",
+      "epoxies"
+    ],
+    "glyph":[
+      "idea carved in stone",
+      "informational symbol",
+      "mayan calendar symbol"
+    ],
+    "gnats":[
+      "little pests",
+      "flying nuisances at dusk",
+      "small flies",
+      "tiny flies",
+      "pesky swarm"
+    ],
+    "gnome":[
+      "fairy tale creature",
+      "garden figure",
+      "tiny folk creature"
+    ],
+    "goals":[
+      "aspirations",
+      "objectives",
+      "soccer scores",
+      "ambitions",
+      "things to strive for"
+    ],
+    "goats":[
+      "barnyard butters",
+      "barnyard animals",
+      "agile mountain animals",
+      "alternative cheese source"
+    ],
+    "golem":[
+      "automaton",
+      "artificial being",
+      "jewish folk creature"
+    ],
+    "goner":[
+      "dead duck",
+      "lost cause",
+      "hopeless case",
+      "done for",
+      "his goose is cooked"
+    ],
+    "goods":[
+      "merchandise",
+      "stock",
+      "items in inventory"
+    ],
+    "gooey":[
+      "like roasted marshmallows",
+      "like molasses",
+      "like hot fudge",
+      "sticky",
+      "like caramels",
+      "more than tacky"
+    ],
+    "goofy":[
+      "silly",
+      "inane",
+      "awkward"
+    ],
+    "goose":[
+      "honker",
+      "barnyard honker",
+      "honking bird",
+      "one in a flock",
+      "swan relative",
+      "gaggle member"
+    ],
+    "gouge":[
+      "take advantage of",
+      "overcharge",
+      "scoop out",
+      "charge way too much"
+    ],
+    "gourd":[
+      "squash or pumpkin",
+      "cornucopia element",
+      "natural flask",
+      "primitive drum"
+    ],
+    "grace":[
+      "elegance",
+      "mealtime prayer",
+      "charming trait",
+      "honor someone with your presence"
+    ],
+    "grade":[
+      "incline",
+      "inclination",
+      "rank",
+      "mark",
+      "slope",
+      "school score",
+      "school year"
+    ],
+    "graft":[
+      "horticultural transplant",
+      "surgical procedure",
+      "corruption"
+    ],
+    "grail":[
+      "last supper cup",
+      "holy chalice",
+      "arthurian quest goal"
+    ],
+    "grain":[
+      "tiny amount",
+      "unit of sand",
+      "bit of truth",
+      "silo contents",
+      "lumber feature",
+      "wood pattern"
+    ],
+    "grant":[
+      "research funding",
+      "research money",
+      "concede",
+      "confer",
+      "award",
+      "give permission"
+    ],
+    "grape":[
+      "purplish red",
+      "soda flavor",
+      "jelly flavor",
+      "vineyard fruit",
+      "wine source"
+    ],
+    "graph":[
+      "plot",
+      "diagram",
+      "chart"
+    ],
+    "grass":[
+      "ground cover",
+      "green stuff",
+      "tennis surface",
+      "football surface"
+    ],
+    "grate":[
+      "annoy",
+      "irritate",
+      "rankle",
+      "fireplace insert",
+      "grill part"
+    ],
+    "grave":[
+      "critical",
+      "serious",
+      "somber",
+      "solemn",
+      "burial plot"
+    ],
+    "gravy":[
+      "dinner topping",
+      "turkey topper",
+      "biscuit topper",
+      "extra bonus"
+    ],
+    "graze":[
+      "nibble",
+      "nick",
+      "barely touch"
+    ],
+    "great":[
+      "first rate",
+      "super",
+      "monumental",
+      "distinguished",
+      "splendid",
+      "wonderful",
+      "huge"
+    ],
+    "green":[
+      "inexperienced",
+      "verdant",
+      "environmentally friendly"
+    ],
+    "greet":[
+      "hail",
+      "welcome",
+      "receive",
+      "welcome warmly"
+    ],
+    "grief":[
+      "trouble",
+      "distress",
+      "sorrow",
+      "heartache"
+    ],
+    "grill":[
+      "interrogate",
+      "patio appliance",
+      "barbecue",
+      "outdoor cooking apparatus"
+    ],
+    "grime":[
+      "dirt",
+      "laundry challenge",
+      "scrub brush target",
+      "engine buildup"
+    ],
+    "grind":[
+      "pulverize",
+      "use a whetstone",
+      "prepare coffee beans",
+      "reduce to dust"
+    ],
+    "grins":[
+      "broad smiles",
+      "beams",
+      "smiles"
+    ],
+    "gripe":[
+      "complain",
+      "bellyache",
+      "complaint",
+      "grouse"
+    ],
+    "groan":[
+      "complain",
+      "reaction to bad news",
+      "creak"
+    ],
+    "groom":[
+      "prepare",
+      "stable worker",
+      "member of the wedding",
+      "make presentable"
+    ],
+    "grope":[
+      "search uncertainly",
+      "feel",
+      "search blindly",
+      "fumble"
+    ],
+    "gross":[
+      "wholesale quantity",
+      "yucky",
+      "flagrant",
+      "disgusting"
+    ],
+    "group":[
+      "association",
+      "category",
+      "class",
+      "batch"
+    ],
+    "grows":[
+      "increases",
+      "waxes",
+      "gets bigger"
+    ],
+    "gruel":[
+      "unappetizing food",
+      "thin porridge",
+      "bland breakfast"
+    ],
+    "grunt":[
+      "sound of discomfort",
+      "menial worker",
+      "weight room sound",
+      "gym sound",
+      "exertion indicator"
+    ],
+    "guard":[
+      "protect",
+      "sentry",
+      "watchful one",
+      "keep safe",
+      "prison employee"
+    ],
+    "guess":[
+      "shot in the dark",
+      "conjecture",
+      "surmise",
+      "take a stab",
+      "speculate",
+      "estimate"
+    ],
+    "guide":[
+      "steer",
+      "tour leader",
+      "safari escort",
+      "museum employee"
+    ],
+    "guild":[
+      "society",
+      "early trade union",
+      "trade organization"
+    ],
+    "gulch":[
+      "deep ravine",
+      "arroyo",
+      "ditch",
+      "gorge"
+    ],
+    "habit":[
+      "custom",
+      "regular practice",
+      "nun's garb"
+    ],
+    "hacks":[
+      "unskilled writers",
+      "cabbies",
+      "breaks a computer code",
+      "chops clumsily"
+    ],
+    "hairy":[
+      "shaggy",
+      "fuzzy",
+      "bushy",
+      "perilous"
+    ],
+    "halls":[
+      "corridors",
+      "large gathering places",
+      "lecture sites"
+    ],
+    "hands":[
+      "ranch workers",
+      "deck crew",
+      "clapping requirements"
+    ],
+    "handy":[
+      "within reach",
+      "within easy reach",
+      "useful",
+      "good to have around"
+    ],
+    "hangs":[
+      "puts up",
+      "suspends",
+      "hovers"
+    ],
+    "happy":[
+      "cheerful",
+      "pleased",
+      "tickled",
+      "in good spirits"
+    ],
+    "harpy":[
+      "shrew",
+      "nag",
+      "mythical winged monster",
+      "mythical bird woman"
+    ],
+    "harsh":[
+      "raspy",
+      "severe",
+      "savage",
+      "caustic",
+      "grating",
+      "ruthless"
+    ],
+    "haste":[
+      "hurry",
+      "rush",
+      "speed",
+      "swiftness"
+    ],
+    "hasty":[
+      "rushed",
+      "hurried",
+      "ill-considered",
+      "impulsive",
+      "rash"
+    ],
+    "hates":[
+      "can't stand",
+      "loathes",
+      "despises",
+      "detests"
+    ],
+    "haunt":[
+      "familiar hangout",
+      "frequented spot",
+      "stomping ground"
+    ],
+    "haven":[
+      "retreat",
+      "refuge",
+      "safe place",
+      "harbor",
+      "sanctuary"
+    ],
+    "havoc":[
+      "chaos",
+      "pandemonium",
+      "disorder",
+      "mayhem"
+    ],
+    "hawks":[
+      "peddles",
+      "raptors",
+      "touts",
+      "type of birds"
+    ],
+    "hazel":[
+      "light brown",
+      "yellowish brown",
+      "eye color",
+      "eye shade",
+      "brownish"
+    ],
+    "heads":[
+      "directs",
+      "is in charge of",
+      "coin toss call",
+      "bosses",
+      "lettuce units"
+    ],
+    "heard":[
+      "learned",
+      "picked up",
+      "got wind of",
+      "listened to",
+      "found out",
+      "got the message"
+    ],
+    "hears":[
+      "listens to",
+      "uses one of the senses",
+      "gets wind of",
+      "receives sounds"
+    ],
+    "heart":[
+      "central part",
+      "spirit",
+      "center",
+      "cardiology concern",
+      "vital organ"
+    ],
+    "heats":[
+      "qualifying races",
+      "warms up",
+      "increases the temperature"
+    ],
+    "heave":[
+      "chuck",
+      "pitch",
+      "fling",
+      "cast",
+      "throw",
+      "toss",
+      "hurl"
+    ],
+    "heavy":[
+      "serious",
+      "weighty",
+      "of great weight",
+      "dificult to lift"
+    ],
+    "hedge":[
+      "be indecisive",
+      "financial safeguard",
+      "property divider",
+      "row of bushes",
+      "line of bushes"
+    ],
+    "heels":[
+      "shoe parts",
+      "scoundrels",
+      "classy female shoes"
+    ],
+    "helix":[
+      "spiral",
+      "dna structure",
+      "ornamental spiral"
+    ],
+    "hello":[
+      "conversation starter",
+      "word of welcome",
+      "welcoming word",
+      "greeting"
+    ],
+    "hence":[
+      "therefore",
+      "as a result",
+      "consequently",
+      "so",
+      "thus",
+      "ergo"
+    ],
+    "herbs":[
+      "seasonings",
+      "basil and oregano",
+      "flavorful plants"
+    ],
+    "heron":[
+      "wading bird",
+      "marsh bird",
+      "graceful bird",
+      "shore bird"
+    ],
+    "highs":[
+      "euphoric moments",
+      "forecast extremes",
+      "peaks"
+    ],
+    "hiker":[
+      "path finder",
+      "trail user",
+      "backpacking sort",
+      "backpacker"
+    ],
+    "hikes":[
+      "raises prices",
+      "increases",
+      "walks",
+      "goes backpacking",
+      "takes to the trails",
+      "walks in the woods"
+    ],
+    "hills":[
+      "inclines",
+      "slopes",
+      "sledding sites",
+      "rises"
+    ],
+    "hilly":[
+      "good for sledding",
+      "rolling",
+      "not flat",
+      "like some terrain"
+    ],
+    "hinge":[
+      "depend",
+      "turning point",
+      "door attachment",
+      "door part",
+      "pivot point",
+      "door hardware"
+    ],
+    "hints":[
+      "traces",
+      "indications",
+      "clues",
+      "suggests",
+      "implies subtly"
+    ],
+    "hitch":[
+      "snag",
+      "unforeseen obstacle",
+      "towing appendage"
+    ],
+    "hoard":[
+      "put away",
+      "stockpile",
+      "cache",
+      "stash",
+      "secret store",
+      "stash away",
+      "hidden treasure"
+    ],
+    "hoist":[
+      "bring up",
+      "lift",
+      "raise"
+    ],
+    "holds":[
+      "maintains",
+      "storage areas",
+      "wrestling maneuvers",
+      "keeps in place"
+    ],
+    "holes":[
+      "golf goals",
+      "logical flaws",
+      "swiss cheese features",
+      "collandar features",
+      "missing pieces",
+      "donut features"
+    ],
+    "homes":[
+      "residences",
+      "realty listings",
+      "houses",
+      "realty offerings"
+    ],
+    "honey":[
+      "bee product",
+      "mead ingredient",
+      "natural sweetener",
+      "tea additive"
+    ],
+    "honor":[
+      "treat respectfully",
+      "pay tribute to",
+      "revere",
+      "venerate",
+      "esteem"
+    ],
+    "horde":[
+      "swarm",
+      "multitude",
+      "throng",
+      "crowd",
+      "legion"
+    ],
+    "horns":[
+      "brass instruments",
+      "antlers",
+      "traffic noise"
+    ],
+    "horse":[
+      "mount",
+      "gymnastics apparatus",
+      "stable occupant",
+      "cowboy ride",
+      "large mammal",
+      "equine concern"
+    ],
+    "hotel":[
+      "place to stay",
+      "inn",
+      "traveler's lodging",
+      "vacation lodging"
+    ],
+    "hotly":[
+      "intensely",
+      "angrily",
+      "with passion",
+      "heatedly"
+    ],
+    "hound":[
+      "pester",
+      "pursue relentlessly",
+      "harass nonstop",
+      "keep after",
+      "kind of dog"
+    ],
+    "hours":[
+      "day divisions",
+      "sixty minute chunks",
+      "timecard data"
+    ],
+    "house":[
+      "dwelling",
+      "residence",
+      "give shelter to",
+      "single family dwelling"
+    ],
+    "hover":[
+      "hang in the air",
+      "float midair",
+      "linger"
+    ],
+    "human":[
+      "earthling",
+      "person",
+      "mortal",
+      "anthropological concern"
+    ],
+    "humor":[
+      "state of mind",
+      "funny business",
+      "indulge",
+      "comical quality",
+      "sitcom material"
+    ],
+    "hunch":[
+      "gut feeling",
+      "sneaking suspicion",
+      "funny feeling",
+      "nagging suspicion"
+    ],
+    "hunts":[
+      "looks for",
+      "searches",
+      "tracks down",
+      "tracks prey"
+    ],
+    "hurts":[
+      "aches",
+      "injures",
+      "feels sore",
+      "wounds",
+      "does damage to",
+      "harms",
+      "offends"
+    ],
+    "hyena":[
+      "pack animal",
+      "spotted scavenger",
+      "laughing predator",
+      "doglike scavenger"
+    ],
+    "icons":[
+      "desktop items",
+      "computer symbols",
+      "graphic symbols",
+      "revered ones",
+      "famous symbols"
+    ],
+    "ideal":[
+      "perfect",
+      "just right",
+      "best",
+      "objective",
+      "goal",
+      "model"
+    ],
+    "ideas":[
+      "theories",
+      "thoughts",
+      "notions",
+      "concepts",
+      "creative thoughts"
+    ],
+    "idiom":[
+      "figure of speech",
+      "manner of speaking",
+      "expression",
+      "linguistic quirk"
+    ],
+    "idiot":[
+      "jerk",
+      "doofus",
+      "fool",
+      "knucklehead",
+      "dope",
+      "dimwit"
+    ],
+    "idles":[
+      "runs in neutral",
+      "does nothing",
+      "lollygags",
+      "wastes time",
+      "dawdles",
+      "loafs"
+    ],
+    "idols":[
+      "adored ones",
+      "admired ones",
+      "superstars",
+      "objects of devotion",
+      "objects of worship"
+    ],
+    "image":[
+      "mental picture",
+      "likeness",
+      "picture",
+      "picture on a screen"
+    ],
+    "incur":[
+      "provoke",
+      "bring about",
+      "bring upon oneself",
+      "rack up"
+    ],
+    "index":[
+      "kind of card",
+      "back of a reference book",
+      "one of the fingers"
+    ],
+    "inept":[
+      "clueless",
+      "bumbling",
+      "clumsy",
+      "klutzy",
+      "useless",
+      "bungling",
+      "awkward"
+    ],
+    "inert":[
+      "doing nothing",
+      "still",
+      "sluggish",
+      "not moving",
+      "motionless",
+      "lifeless",
+      "inactive"
+    ],
+    "infer":[
+      "hint",
+      "figure out",
+      "gather",
+      "draw",
+      "conclude",
+      "derive by reasoning",
+      "deduce"
+    ],
+    "ingot":[
+      "bar",
+      "gold bar",
+      "gold brick",
+      "metal bar",
+      "bullion unit"
+    ],
+    "inner":[
+      "central",
+      "hidden",
+      "private",
+      "secret",
+      "toward the center",
+      "part of the ear"
+    ],
+    "input":[
+      "enter",
+      "data",
+      "suggestions",
+      "feedback",
+      "opinions",
+      "advice"
+    ],
+    "inset":[
+      "map within a map",
+      "map feature",
+      "atlas feature",
+      "map detail",
+      "cartographic closeup"
+    ],
+    "irate":[
+      "hot",
+      "ticked off",
+      "outraged",
+      "angry",
+      "cross",
+      "furious",
+      "sore",
+      "steamed",
+      "peeved"
+    ],
+    "irons":[
+      "shackles",
+      "presses",
+      "smooths",
+      "flattens",
+      "fireplace tools",
+      "some golf clubs",
+      "restraints"
+    ],
+    "irony":[
+      "literary device",
+      "literary twist",
+      "dramatic device",
+      "subtle sarcasm"
+    ],
+    "issue":[
+      "put out",
+      "send out",
+      "discussion point",
+      "release",
+      "give out",
+      "assign",
+      "edition"
+    ],
+    "itchy":[
+      "unable to sit still",
+      "anxious",
+      "restless",
+      "not satisfied",
+      "affected by poison ivy",
+      "like a bug bite"
+    ],
+    "items":[
+      "stuff",
+      "things",
+      "points",
+      "agenda entries",
+      "list entries"
+    ],
+    "ivory":[
+      "piano key material",
+      "off-white shade",
+      "tusk material",
+      "scrimshaw material",
+      "outlawed material"
+    ],
+    "jails":[
+      "puts away",
+      "locks up",
+      "puts behind bars",
+      "imprisons",
+      "penitentiaries",
+      "prisons"
+    ],
+    "jaunt":[
+      "quick trip",
+      "short trip",
+      "pleasure trip",
+      "quick holiday"
+    ],
+    "jeans":[
+      "casual wear",
+      "casual pants",
+      "denim pants"
+    ],
+    "jelly":[
+      "toast topper",
+      "breakfast spread",
+      "sweet spread",
+      "sandwich staple"
+    ],
+    "jerks":[
+      "idiots",
+      "yanks",
+      "sudden moves",
+      "sudden movements",
+      "pulls"
+    ],
+    "jerky":[
+      "uneven",
+      "erratic",
+      "dried meat snack"
+    ],
+    "jewel":[
+      "valuable rock",
+      "precious stone",
+      "gem",
+      "crown adornment"
+    ],
+    "joint":[
+      "slammer",
+      "dive",
+      "shared",
+      "meeting of bones"
+    ],
+    "joker":[
+      "poker card",
+      "funny guy",
+      "wisecracker"
+    ],
+    "jokes":[
+      "wisecracks",
+      "gags",
+      "pranks"
+    ],
+    "jolly":[
+      "happy",
+      "cheerful",
+      "boisterous",
+      "in good spirits"
+    ],
+    "jolts":[
+      "shakes up",
+      "bumps",
+      "blows",
+      "abrupt movements",
+      "shocks",
+      "jars"
+    ],
+    "joust":[
+      "knight fight",
+      "competition on horseback",
+      "take part in a tilt",
+      "duel on horseback"
+    ],
+    "judge":[
+      "court figure",
+      "estimate",
+      "magistrate",
+      "trial official"
+    ],
+    "juice":[
+      "power",
+      "breakfast beverage",
+      "brunch beverage",
+      "breakfast drink",
+      "electricity"
+    ],
+    "juicy":[
+      "titillating",
+      "succulent",
+      "like good gossip",
+      "like a melon"
+    ],
+    "jumbo":[
+      "bigger than big",
+      "huge",
+      "oversized",
+      "extra large"
+    ],
+    "jumps":[
+      "abrupt transitions",
+      "leapfrogs",
+      "restarts a dead battery"
+    ],
+    "jumpy":[
+      "on edge",
+      "skittish",
+      "nervous"
+    ],
+    "juror":[
+      "court figure",
+      "panel member",
+      "trial participant",
+      "courtroom peer"
+    ],
+    "karma":[
+      "destiny",
+      "fate",
+      "cosmic payback"
+    ],
+    "kayak":[
+      "whitewater vessel",
+      "olympics craft",
+      "alaskan craft",
+      "recreational boat"
+    ],
+    "kazoo":[
+      "musical toy",
+      "jug band instrument",
+      "buzz producer",
+      "informal instrument",
+      "simple wind instrument",
+      "buzzing instrument"
+    ],
+    "kebab":[
+      "skewered fare",
+      "meal on a skewer",
+      "steak on a stick",
+      "skewered dish",
+      "grilling skewer"
+    ],
+    "khaki":[
+      "shade of brown",
+      "military wear",
+      "pants fabric",
+      "trouser material"
+    ],
+    "kicks":[
+      "thrills",
+      "fun",
+      "loses, as a habit",
+      "excitement, so to speak"
+    ],
+    "kills":[
+      "finishes off",
+      "extinguishes",
+      "murders"
+    ],
+    "kiosk":[
+      "newsstand",
+      "mall stand",
+      "mall booth",
+      "newsstand structure",
+      "merchant's booth",
+      "small sales booth"
+    ],
+    "kitty":[
+      "meow maker",
+      "cat",
+      "small feline"
+    ],
+    "knack":[
+      "flair",
+      "facility",
+      "natural talent",
+      "natural ability"
+    ],
+    "knead":[
+      "massage",
+      "work dough",
+      "play with clay",
+      "manipulate dough",
+      "prepare pizza dough"
+    ],
+    "kneel":[
+      "prepare to propose",
+      "prepare to be knighted",
+      "prepare to pray"
+    ],
+    "knees":[
+      "leg joints",
+      "they may buckle",
+      "baby bouncing spots"
+    ],
+    "knife":[
+      "cut",
+      "blade",
+      "steak cutter",
+      "common silverware"
+    ],
+    "knobs":[
+      "door openers",
+      "controls",
+      "radio features",
+      "rounded handles"
+    ],
+    "knock":[
+      "criticize",
+      "childish joke opener",
+      "strike a door",
+      "hit a door"
+    ],
+    "knots":[
+      "masseur's targets",
+      "clusters",
+      "pretzel shapes",
+      "difficult problems",
+      "nautical measure",
+      "comb stoppers"
+    ],
+    "known":[
+      "understood",
+      "famous",
+      "familiar",
+      "public",
+      "widely recognized",
+      "like an open secret",
+      "recognized"
+    ],
+    "knows":[
+      "isn't just guessing",
+      "has no doubt about",
+      "has memorized",
+      "is sure of"
+    ],
+    "koala":[
+      "furry australian",
+      "eucalyptus lover",
+      "australian marsupial",
+      "australian 'bear'",
+      "arboreal mammal"
+    ],
+    "kudzu":[
+      "spreading plant",
+      "invasive asian vine",
+      "invasive vine"
+    ],
+    "label":[
+      "identify",
+      "classify",
+      "categorize",
+      "record company",
+      "clothing tag"
+    ],
+    "labor":[
+      "hard work",
+      "plug away",
+      "work",
+      "toil",
+      "part of a repair bill",
+      "auto repair cost",
+      "workers"
+    ],
+    "laces":[
+      "shoestrings",
+      "ties",
+      "velcro alternative",
+      "spikes",
+      "sneaker ties",
+      "football feature"
+    ],
+    "laden":[
+      "burdened",
+      "weighed down",
+      "filled",
+      "packed",
+      "encumbered"
+    ],
+    "ladle":[
+      "dish out",
+      "soup server",
+      "soup scoop",
+      "soup utensil",
+      "big dipper"
+    ],
+    "lager":[
+      "pub order",
+      "bar order",
+      "draft choice",
+      "draft pick",
+      "beer selection",
+      "type of beer"
+    ],
+    "lamps":[
+      "lights",
+      "table pieces",
+      "bulb holders",
+      "office items",
+      "reading lights"
+    ],
+    "lance":[
+      "cavalry weapon",
+      "medieval weapon",
+      "jousting weapon",
+      "pierce",
+      "skewer",
+      "puncture",
+      "jouster's weapon"
+    ],
+    "lands":[
+      "brings in",
+      "domain",
+      "touches down",
+      "comes to earth",
+      "countries"
+    ],
+    "lanes":[
+      "highway divisions",
+      "swim meet divisions",
+      "driving areas",
+      "bowling alleys",
+      "rural routes"
+    ],
+    "lapel":[
+      "jacket part",
+      "place for a pin",
+      "boutonniere site",
+      "collar extension"
+    ],
+    "lapse":[
+      "expire",
+      "go by",
+      "slip",
+      "minor mistake",
+      "run out",
+      "end"
+    ],
+    "large":[
+      "enormous",
+      "substantial",
+      "grand",
+      "immense",
+      "huge",
+      "giant",
+      "colossal"
+    ],
+    "larva":[
+      "grub",
+      "insect stage",
+      "bug to be",
+      "pre-pupa"
+    ],
+    "laser":[
+      "cutting tool",
+      "printer type",
+      "sci-fi weapon",
+      "surgical beam",
+      "aim helper"
+    ],
+    "lasso":[
+      "rodeo rope",
+      "cowboy rope",
+      "dogie catcher",
+      "lariat",
+      "roundup rope"
+    ],
+    "lasts":[
+      "holds up",
+      "keeps",
+      "endures",
+      "sticks around",
+      "hangs in there",
+      "perseveres",
+      "is durable"
+    ],
+    "latch":[
+      "door fastener",
+      "gate fastener",
+      "fastener",
+      "basic security device",
+      "simple lock"
+    ],
+    "latex":[
+      "glove material",
+      "paint variety",
+      "paint base",
+      "balloon material",
+      "rubber product"
+    ],
+    "lathe":[
+      "turning tool",
+      "woodworking tool",
+      "wood shaping tool",
+      "shop tool",
+      "rotating machine"
+    ],
+    "laugh":[
+      "giggle",
+      "chuckle",
+      "snicker"
+    ],
+    "lawns":[
+      "grassy areas",
+      "things to mow",
+      "manicured expanses",
+      "landscapers' concerns",
+      "many yards",
+      "yards",
+      "suburban greenery"
+    ],
+    "layer":[
+      "tier",
+      "growth ring",
+      "stratum",
+      "coating"
+    ],
+    "leafy":[
+      "verdant",
+      "like lettuce",
+      "like many veggies"
+    ],
+    "leaks":[
+      "plumber's concerns",
+      "security concerns",
+      "gets out",
+      "doesn't hold water",
+      "security problems"
+    ],
+    "leaky":[
+      "full of holes",
+      "dripping",
+      "unable to hold water",
+      "not seaworthy",
+      "sievelike"
+    ],
+    "learn":[
+      "take in",
+      "pick up",
+      "absorb",
+      "discover",
+      "master",
+      "get smart",
+      "memorize"
+    ],
+    "lease":[
+      "rent",
+      "rental agreement",
+      "charter",
+      "real estate document",
+      "car dealer's offering",
+      "take temporarily",
+      "fixed-term agreement"
+    ],
+    "leash":[
+      "restraint",
+      "collar attachment",
+      "tether",
+      "dog restraint",
+      "pet restraint",
+      "pet store purchase"
+    ],
+    "least":[
+      "minimum",
+      "minimal",
+      "slightest",
+      "bare minimum",
+      "minimal amount",
+      "smallest",
+      "minimum amount"
+    ],
+    "leave":[
+      "split",
+      "take off",
+      "hit the road",
+      "exit",
+      "go away",
+      "time off"
+    ],
+    "ledge":[
+      "overhang",
+      "narrow shelf",
+      "shelf",
+      "flowerpot spot",
+      "pigeon perch",
+      "outcropping"
+    ],
+    "leech":[
+      "sponge",
+      "mooch",
+      "parasite",
+      "bloodsucker",
+      "freeloader",
+      "hanger-on",
+      "moocher"
+    ],
+    "legal":[
+      "on the up and up",
+      "kosher",
+      "above board",
+      "sanctioned",
+      "allowed by law",
+      "permissible",
+      "paper size"
+    ],
+    "lemon":[
+      "citrus fruit",
+      "iced tea garnish",
+      "soft drink flavor",
+      "lousy car",
+      "common cleaning scent",
+      "yellow fruit"
+    ],
+    "lemur":[
+      "madagascar primate",
+      "ring-tailed primate",
+      "mammal of madagascar",
+      "large-eyed tree climber",
+      "arboreal mammal"
+    ],
+    "lends":[
+      "imparts",
+      "advances",
+      "gives temporarily",
+      "gives for a time",
+      "loans"
+    ],
+    "level":[
+      "flat",
+      "carpentry tool",
+      "even",
+      "flatten",
+      "destroy completely",
+      "video game stage"
+    ],
+    "lever":[
+      "prying tool",
+      "slot machine part",
+      "crowbar, essentially"
+    ],
+    "libel":[
+      "attack in print",
+      "lawsuit material",
+      "defamation"
+    ],
+    "light":[
+      "gossamer",
+      "airy",
+      "traffic signal",
+      "low calorie",
+      "fluffy",
+      "not heavy"
+    ],
+    "likes":[
+      "gives a thumbs-up",
+      "fancies",
+      "preferences",
+      "has a crush on",
+      "takes a shine to",
+      "is fond of",
+      "prefers"
+    ],
+    "lilac":[
+      "purple shade",
+      "spring flower",
+      "pale purple",
+      "spring bloomer",
+      "flowering shrub",
+      "pastel shade"
+    ],
+    "limbo":[
+      "bending game",
+      "transition",
+      "transitional state",
+      "state of uncertainty",
+      "neither here nor there"
+    ],
+    "linen":[
+      "neutral shade",
+      "towel material",
+      "tablecloth material",
+      "sheets",
+      "flax fabric"
+    ],
+    "liner":[
+      "cruise ship",
+      "pleasure trip vessel",
+      "commercial ship",
+      "some makeup",
+      "protective plastic covering"
+    ],
+    "lipid":[
+      "fat",
+      "fatty compound",
+      "oily compound",
+      "cholesterol",
+      "biochemical compound"
+    ],
+    "liver":[
+      "organ",
+      "pate ingredient",
+      "tasty organ"
+    ],
+    "lives":[
+      "dwells",
+      "exists",
+      "biography subjects",
+      "tries left, in a video game"
+    ],
+    "llama":[
+      "beast of burden",
+      "pack animal",
+      "wool source",
+      "andean pack animal",
+      "camel cousin"
+    ],
+    "locks":[
+      "security devices",
+      "secures using a key",
+      "canal components",
+      "hair"
+    ],
+    "lodge":[
+      "fraternal group",
+      "beaver's home",
+      "roadhouse",
+      "summer camp building",
+      "rustic cabin"
+    ],
+    "logic":[
+      "sound reasoning",
+      "common sense",
+      "reason",
+      "sound thinking"
+    ],
+    "loner":[
+      "recluse",
+      "solitary sort",
+      "hermit",
+      "antisocial type",
+      "solitary one"
+    ],
+    "loose":[
+      "unattached",
+      "unleashed",
+      "relaxed",
+      "in need of tightening",
+      "not tight"
+    ],
+    "loser":[
+      "jerk",
+      "doofus",
+      "runner up",
+      "not the winner"
+    ],
+    "lower":[
+      "put down",
+      "turn down",
+      "bring down",
+      "decrease",
+      "reduce",
+      "further down"
+    ],
+    "loyal":[
+      "true",
+      "faithful",
+      "trusty",
+      "steadfast",
+      "devoted",
+      "trustworthy"
+    ],
+    "lucky":[
+      "auspicious",
+      "fortunate",
+      "timely"
+    ],
+    "lumpy":[
+      "not smooth",
+      "chunky",
+      "needs more mixing"
+    ],
+    "lunar":[
+      "kind of cycle",
+      "kind of eclipse",
+      "of the moon",
+      "moon related"
+    ],
+    "lunch":[
+      "midday break",
+      "midday meal",
+      "midday ritual",
+      "daily meal"
+    ],
+    "lungs":[
+      "breathers",
+      "breathing organs",
+      "pulmonary organs"
+    ],
+    "lurid":[
+      "gruesome",
+      "savage",
+      "sensational",
+      "shocking"
+    ],
+    "lynch":[
+      "type of mob",
+      "execute illegally",
+      "string up"
+    ],
+    "macaw":[
+      "colorful parrot",
+      "noisy bird",
+      "long-tailed parrot",
+      "noisy parrot"
+    ],
+    "madam":[
+      "polite address",
+      "sir's counterpart",
+      "lady's title",
+      "lady of the house"
+    ],
+    "madly":[
+      "like crazy",
+      "in a wild way",
+      "furiously",
+      "insanely"
+    ],
+    "mafia":[
+      "secret society",
+      "crime syndicate",
+      "organized crime group"
+    ],
+    "maids":[
+      "hotel employees",
+      "household help",
+      "hotel force",
+      "room cleaners",
+      "cleaning force"
+    ],
+    "makes":[
+      "fashions",
+      "earns",
+      "creates",
+      "whips up",
+      "manufactures"
+    ],
+    "males":[
+      "fraternity members",
+      "stag party attendees",
+      "not females"
+    ],
+    "malls":[
+      "shopping centers",
+      "teen hangouts",
+      "store complexes"
+    ],
+    "mange":[
+      "dog bane",
+      "itchy canine ailment",
+      "animal disease"
+    ],
+    "mango":[
+      "tropical fruit",
+      "exotic fruit",
+      "chutney fruit",
+      "juicy tropical fruit",
+      "salsa fruit"
+    ],
+    "mania":[
+      "rage",
+      "craze",
+      "fervor",
+      "fad",
+      "obsession",
+      "frenzy"
+    ],
+    "manic":[
+      "frenzied",
+      "fanatical",
+      "crazed",
+      "hysterical",
+      "hyperactive"
+    ],
+    "manly":[
+      "macho",
+      "virile",
+      "hairy-chested",
+      "butch"
+    ],
+    "manor":[
+      "feudal estate",
+      "big house",
+      "country estate",
+      "lord's home",
+      "stately home"
+    ],
+    "manta":[
+      "tropical ray",
+      "big ray",
+      "devilfish",
+      "tropical fish",
+      "reef denizen"
+    ],
+    "maple":[
+      "sugar source",
+      "furniture wood",
+      "syrup source",
+      "flooring wood",
+      "syrup flavor"
+    ],
+    "marsh":[
+      "bog",
+      "quagmire",
+      "wetland",
+      "swampy ground",
+      "low-lying wetland",
+      "swampland"
+    ],
+    "masks":[
+      "hides",
+      "conceals",
+      "disguises",
+      "halloween disguises"
+    ],
+    "mason":[
+      "construction worker",
+      "bricklayer",
+      "stoneworker"
+    ],
+    "maybe":[
+      "iffy response",
+      "perhaps",
+      "possibly",
+      "noncommittal response",
+      "wishy-washy reply"
+    ],
+    "mayor":[
+      "city leader",
+      "city official",
+      "local elected official"
+    ],
+    "meals":[
+      "breakfast, lunch and dinner",
+      "restaurant offerings",
+      "cafeteria offering"
+    ],
+    "means":[
+      "signifies",
+      "intends",
+      "wealth",
+      "stands for"
+    ],
+    "meant":[
+      "intended",
+      "implied",
+      "had in mind",
+      "signified",
+      "not accidental"
+    ],
+    "meaty":[
+      "substantial",
+      "full of substance",
+      "fleshy",
+      "beefy"
+    ],
+    "medal":[
+      "olympic goal",
+      "olympic award",
+      "olympic prize",
+      "reward for bravery",
+      "badge of honor"
+    ],
+    "medic":[
+      "battlefield doctor",
+      "combat doc",
+      "emergency worker"
+    ],
+    "melon":[
+      "fleshy fruit",
+      "breakfast fruit",
+      "fruity gourd"
+    ],
+    "melts":[
+      "thaws",
+      "defrosts",
+      "cheesy sandwiches",
+      "liquifies"
+    ],
+    "mercy":[
+      "compassion",
+      "clemency",
+      "leniency"
+    ],
+    "merge":[
+      "come together",
+      "consolidate",
+      "bring together",
+      "join forces",
+      "join together",
+      "combine",
+      "unite"
+    ],
+    "merit":[
+      "earn",
+      "is worthy of",
+      "deserve",
+      "virtue"
+    ],
+    "messy":[
+      "difficult",
+      "disheveled",
+      "unkempt",
+      "sloppy",
+      "cluttered",
+      "in disarray"
+    ],
+    "metal":[
+      "music genre",
+      "rock genre",
+      "forged material",
+      "conductive material"
+    ],
+    "might":[
+      "strength",
+      "could possibly",
+      "possibly will",
+      "superior power",
+      "brute force"
+    ],
+    "miles":[
+      "distance units",
+      "odometer units",
+      "map distances",
+      "what frequent fliers collect"
+    ],
+    "milks":[
+      "exploits",
+      "does dairy work",
+      "does a farm chore",
+      "dairy products"
+    ],
+    "milky":[
+      "whitish",
+      "like some complexions",
+      "opalescent",
+      "opaquely white"
+    ],
+    "minds":[
+      "watches",
+      "objects",
+      "guards",
+      "has a problem with"
+    ],
+    "mines":[
+      "digs for diamonds",
+      "antipersonnel explosives",
+      "places to find ore",
+      "excavates"
+    ],
+    "minor":[
+      "insignificant",
+      "slight",
+      "trifling",
+      "unimportant",
+      "underage"
+    ],
+    "mints":[
+      "diner freebies",
+      "makes money",
+      "breath fresheners",
+      "coin factories"
+    ],
+    "mirth":[
+      "cheer",
+      "high spirits",
+      "glee",
+      "gaiety"
+    ],
+    "missy":[
+      "young lady",
+      "young woman",
+      "girl",
+      "young girl"
+    ],
+    "misty":[
+      "teary-eyed",
+      "hard to see",
+      "foggy"
+    ],
+    "model":[
+      "type",
+      "catwalk walker",
+      "poser",
+      "cover girl",
+      "miniature car"
+    ],
+    "moist":[
+      "clammy",
+      "a little wet",
+      "damp",
+      "tearful",
+      "humid"
+    ],
+    "molds":[
+      "shapes and forms",
+      "works with clay",
+      "gelatin shapers",
+      "sculpts",
+      "fungi"
+    ],
+    "moldy":[
+      "rotten",
+      "like old bread",
+      "covered with fungus",
+      "decaying"
+    ],
+    "money":[
+      "dough",
+      "green stuff",
+      "bank contents",
+      "cash"
+    ],
+    "monks":[
+      "cloister inhabitants",
+      "abbey denizens",
+      "hooded men",
+      "order members",
+      "monastery members"
+    ],
+    "month":[
+      "calendar page",
+      "unit of time",
+      "roughly one lunar cycle",
+      "one of twelve"
+    ],
+    "mooch":[
+      "sponge",
+      "bum",
+      "freeload",
+      "be a freeloader",
+      "borrow permanently"
+    ],
+    "moods":[
+      "temperaments",
+      "states of mind",
+      "humors",
+      "frames of mind"
+    ],
+    "moons":[
+      "natural satellites",
+      "months",
+      "planetary orbiters",
+      "exposes the buttocks"
+    ],
+    "moose":[
+      "antlered animal",
+      "alaskan native",
+      "elk relative"
+    ],
+    "moral":[
+      "upright",
+      "point",
+      "fable finish",
+      "virtuous",
+      "good",
+      "end of a fable",
+      "fable conclusion"
+    ],
+    "moron":[
+      "birdbrain",
+      "dumbbell",
+      "fool",
+      "doofus",
+      "lamebrain",
+      "idiot",
+      "dimwit"
+    ],
+    "motel":[
+      "place to stay",
+      "roadside stopover",
+      "roadside lodging",
+      "cheap sleep"
+    ],
+    "motor":[
+      "drive",
+      "power source",
+      "driving force",
+      "engine"
+    ],
+    "mound":[
+      "pile",
+      "small hill",
+      "heap"
+    ],
+    "mourn":[
+      "lament",
+      "grieve",
+      "express sorrow",
+      "weep for"
+    ],
+    "mouse":[
+      "computer clicker",
+      "computer accessory",
+      "computer peripheral",
+      "point and click gadget",
+      "timid one",
+      "small rodent",
+      "common test animal"
+    ],
+    "mouth":[
+      "muzzle",
+      "river's end",
+      "end of a river",
+      "tongue holder"
+    ],
+    "movie":[
+      "picture",
+      "film",
+      "flick",
+      "video",
+      "hollywood release",
+      "feature film"
+    ],
+    "muddy":[
+      "confuse",
+      "unclear",
+      "not clear",
+      "like wet dirt"
+    ],
+    "muggy":[
+      "humid",
+      "hot and humid",
+      "summer forecast",
+      "oppressively humid"
+    ],
+    "mulch":[
+      "ground cover",
+      "soil enricher",
+      "nursery buy",
+      "gardening purchase"
+    ],
+    "mural":[
+      "big picture",
+      "wall painting",
+      "wall covering"
+    ],
+    "musky":[
+      "like some perfume",
+      "like some colognes",
+      "has a certain smell"
+    ],
+    "myths":[
+      "old stories",
+      "legendary tales",
+      "folklore",
+      "tales of the gods"
+    ],
+    "nails":[
+      "aces",
+      "carpentry need",
+      "finger tips",
+      "common wood fasteners"
+    ],
+    "names":[
+      "directory contents",
+      "monikers",
+      "phone book listings",
+      "designations",
+      "titles"
+    ],
+    "needs":[
+      "must-haves",
+      "requirements",
+      "requires",
+      "demands",
+      "essentials",
+      "requisites",
+      "obligations"
+    ],
+    "needy":[
+      "lacking resources",
+      "hard up",
+      "impoverished",
+      "poor",
+      "destitute",
+      "strapped",
+      "clingy"
+    ],
+    "neigh":[
+      "stable sound",
+      "barnyard sound",
+      "horse noise",
+      "equine cry"
+    ],
+    "nerds":[
+      "overly studious types",
+      "outcasts",
+      "dweebs",
+      "geeks",
+      "they're not cool"
+    ],
+    "nerdy":[
+      "not cool",
+      "dweebish",
+      "uncool",
+      "bookish",
+      "geeky"
+    ],
+    "nerve":[
+      "moxie",
+      "courage",
+      "gumption",
+      "audacity",
+      "internal message carrier"
+    ],
+    "nests":[
+      "retreats",
+      "egg holders",
+      "settles in",
+      "birds' homes",
+      "hatchling homes"
+    ],
+    "never":[
+      "emphatic refusal",
+      "at no time",
+      "not even once",
+      "defiant response",
+      "emphatic no"
+    ],
+    "niche":[
+      "specialty",
+      "recess",
+      "cubbyhole",
+      "area of expertise",
+      "alcove"
+    ],
+    "niece":[
+      "family member",
+      "female relative",
+      "newphew's sister",
+      "brother's daughter"
+    ],
+    "night":[
+      "darkness",
+      "dusk to dawn",
+      "when the stars are out",
+      "best time to see the moon"
+    ],
+    "noise":[
+      "ruckus",
+      "racket",
+      "uproar",
+      "clamor",
+      "din",
+      "cacophony",
+      "sound"
+    ],
+    "nomad":[
+      "wanderer",
+      "vagabond",
+      "drifter",
+      "migrant"
+    ],
+    "noose":[
+      "lethal loop",
+      "lasso loop",
+      "wild west loop",
+      "lasso",
+      "snare",
+      "rope loop",
+      "lariat loop",
+      "hangman prop"
+    ],
+    "north":[
+      "up on a map",
+      "cardinal point",
+      "compass point",
+      "toward the arctic"
+    ],
+    "notes":[
+      "classroom jottings",
+      "student scribbles",
+      "short messages",
+      "jots down",
+      "brief letters"
+    ],
+    "nurse":[
+      "hospital employee",
+      "hospital professional",
+      "drink slowly",
+      "sip"
+    ],
+    "occur":[
+      "come to pass",
+      "take place",
+      "transpire",
+      "happen",
+      "arise"
+    ],
+    "ocean":[
+      "poseidon's domain",
+      "deep blue",
+      "most of the earth",
+      "large body of water",
+      "shark domain",
+      "where to surf"
+    ],
+    "oddly":[
+      "in a strange way",
+      "in a weird way",
+      "askew",
+      "in a strange manner",
+      "unusually"
+    ],
+    "odors":[
+      "olfactory input",
+      "aromas",
+      "smells",
+      "scents"
+    ],
+    "olive":[
+      "antipasto ingredient",
+      "martini garnish",
+      "mediterranean export",
+      "tapenade ingredient",
+      "oil producer"
+    ],
+    "onion":[
+      "burger topping",
+      "salad veggie",
+      "edible bulb",
+      "vidalia veggie"
+    ],
+    "orbit":[
+      "go around",
+      "circle",
+      "sphere of influence",
+      "planetary path",
+      "satellite path",
+      "revolve around"
+    ],
+    "order":[
+      "harmony",
+      "court call",
+      "rank",
+      "command",
+      "alphabetize",
+      "military command"
+    ],
+    "organ":[
+      "church instrument",
+      "cathedral instrument",
+      "body part",
+      "biological structure"
+    ],
+    "other":[
+      "alternative",
+      "additional",
+      "different",
+      "none of the above"
+    ],
+    "otter":[
+      "aquatic mammal",
+      "playful swimmer",
+      "weasel relative"
+    ],
+    "ought":[
+      "word of obligation",
+      "should",
+      "moral obligation"
+    ],
+    "ounce":[
+      "bit",
+      "small amount",
+      "fraction of a pound",
+      "measure of liquid",
+      "measure of weight"
+    ],
+    "ovals":[
+      "round shapes",
+      "flattened circles",
+      "racetrack shapes",
+      "egg shapes"
+    ],
+    "ovary":[
+      "egg holder",
+      "egg producer",
+      "egg source",
+      "egg maker",
+      "female reproductive gland"
+    ],
+    "ovens":[
+      "kitchen fixtures",
+      "bakery appliances",
+      "pizza cookers",
+      "baking needs"
+    ],
+    "overt":[
+      "open",
+      "out in the open",
+      "plain",
+      "obvious",
+      "in plain sight",
+      "plain as day"
+    ],
+    "ozone":[
+      "atmospheric layer",
+      "uv ray absorber",
+      "stratospher substance"
+    ],
+    "packs":[
+      "prepares a lunchbox",
+      "gets ready for vacation",
+      "fills a suitcase",
+      "gets ready to go"
+    ],
+    "pages":[
+      "knights in training",
+      "leaves of a book",
+      "sheets of a book",
+      "unit of book length"
+    ],
+    "pains":[
+      "nuisances",
+      "distresses",
+      "aches"
+    ],
+    "paint":[
+      "wall covering",
+      "use watercolors",
+      "add pigment"
+    ],
+    "pairs":[
+      "twosomes",
+      "couples",
+      "matches",
+      "duos"
+    ],
+    "pales":[
+      "loses color",
+      "shows fear",
+      "gets lighter",
+      "loses luster"
+    ],
+    "palms":[
+      "tropical trees",
+      "oasis trees",
+      "coconut sources",
+      "hand parts",
+      "fortune holders"
+    ],
+    "panda":[
+      "bamboo eating critter",
+      "zoo beast",
+      "bearlike beast",
+      "national zoo favorite",
+      "asian mammal"
+    ],
+    "panic":[
+      "lose it",
+      "fall apart",
+      "lose control",
+      "go to pieces"
+    ],
+    "pants":[
+      "trousers",
+      "suit part",
+      "jeans and khakis"
+    ],
+    "paper":[
+      "daily delivery",
+      "mill output",
+      "dissertation",
+      "notebook filler",
+      "origami material"
+    ],
+    "parka":[
+      "winter coat",
+      "winter wear",
+      "arctic jacket",
+      "winter jacket",
+      "arctic coat"
+    ],
+    "parks":[
+      "bench sites",
+      "picnic sites",
+      "urban green spots",
+      "public lands"
+    ],
+    "parse":[
+      "break down",
+      "analyze grammatically",
+      "analyze",
+      "analyze syntax",
+      "exampine closely"
+    ],
+    "parts":[
+      "components",
+      "pieces",
+      "segments"
+    ],
+    "party":[
+      "celebrate",
+      "celebration",
+      "soiree"
+    ],
+    "patch":[
+      "sewing kit item",
+      "small plot of land",
+      "software update"
+    ],
+    "patio":[
+      "barbecue site",
+      "grilling site",
+      "outdoor dining spot",
+      "sunbathing spot",
+      "backyard hangout"
+    ],
+    "pause":[
+      "short stop",
+      "brief halt",
+      "take a moment",
+      "purpose of commas"
+    ],
+    "peaks":[
+      "high points",
+      "mountains",
+      "reaches a maximum",
+      "tops",
+      "busy times"
+    ],
+    "pearl":[
+      "gem from oysters",
+      "bit of wisdom",
+      "oyster creation",
+      "common necklace gem"
+    ],
+    "pears":[
+      "orchard fruit",
+      "compote fruit",
+      "fleshy fruits",
+      "apple cousins"
+    ],
+    "pecan":[
+      "kind of nut",
+      "pie nut",
+      "georgia nut",
+      "southern nut"
+    ],
+    "pedal":[
+      "foot lever",
+      "go biking",
+      "bicycle part",
+      "car control"
+    ],
+    "peril":[
+      "danger",
+      "jeopardy",
+      "risk",
+      "threat"
+    ],
+    "perks":[
+      "benefits",
+      "job extras",
+      "employee benefits"
+    ],
+    "perky":[
+      "cheerful",
+      "chipper",
+      "upbeat",
+      "bright and bouncy"
+    ],
+    "pesky":[
+      "annoying",
+      "bothersome",
+      "irritating",
+      "persistently annoying",
+      "troublesome"
+    ],
+    "pesto":[
+      "pizza topping",
+      "green sauce",
+      "marinara alternative",
+      "pasta topper",
+      "sauce made with basil"
+    ],
+    "pests":[
+      "bothers",
+      "nuisances",
+      "annoyances",
+      "pains in the neck",
+      "annoying ones"
+    ],
+    "petal":[
+      "flower part",
+      "rose feature",
+      "bit of a bloom"
+    ],
+    "petty":[
+      "insignificant",
+      "trifling",
+      "trivial",
+      "inconsequential"
+    ],
+    "phase":[
+      "aspect",
+      "period",
+      "stage",
+      "developmental stage",
+      "part of a lunar cycle",
+      "part of growing up"
+    ],
+    "phone":[
+      "texting device",
+      "cellular device",
+      "call",
+      "mobile gadget",
+      "calling device"
+    ],
+    "piano":[
+      "jazz instrument",
+      "classical instrument",
+      "88-key instrument"
+    ],
+    "piece":[
+      "bit",
+      "portion",
+      "fragment",
+      "section"
+    ],
+    "pilot":[
+      "fly",
+      "aviator",
+      "airline employee",
+      "first episode"
+    ],
+    "pinch":[
+      "small amount",
+      "pilfer",
+      "salt quantity",
+      "squeeze tight",
+      "press tightly between the fingers"
+    ],
+    "pines":[
+      "evergreen trees",
+      "yearns",
+      "needle bearers",
+      "fragrant trees"
+    ],
+    "pipes":[
+      "plumbing concerns",
+      "water carriers",
+      "drain connections"
+    ],
+    "pitch":[
+      "throw",
+      "sound quality",
+      "sales talk",
+      "road-patching material"
+    ],
+    "pixel":[
+      "screen dot",
+      "display unit",
+      "image dot",
+      "unit of resolution",
+      "digital image unit"
+    ],
+    "pizza":[
+      "lunch slice",
+      "pie with toppings",
+      "common delivery food"
+    ],
+    "place":[
+      "location",
+      "position",
+      "set down",
+      "locale",
+      "rank",
+      "address"
+    ],
+    "plaid":[
+      "tartan pattern",
+      "kilt pattern",
+      "flannel pattern",
+      "checkered design"
+    ],
+    "plain":[
+      "clear",
+      "flat terrain",
+      "simple",
+      "unadorned",
+      "no frills"
+    ],
+    "plane":[
+      "woodworking tool",
+      "carpentry tool",
+      "wood shaver",
+      "two dimensional surface",
+      "flying vehicle"
+    ],
+    "plank":[
+      "board",
+      "piece of lumber",
+      "pirate ship feature"
+    ],
+    "plant":[
+      "factory",
+      "nursery purchase",
+      "undercover agent"
+    ],
+    "plate":[
+      "dish",
+      "vehicle tag",
+      "tectonic section",
+      "diner serving"
+    ],
+    "plaza":[
+      "square",
+      "public square",
+      "shopping center",
+      "tollbooth location",
+      "town square",
+      "city square",
+      "fountain locale"
+    ],
+    "plead":[
+      "implore",
+      "beseech",
+      "appeal",
+      "beg",
+      "petition",
+      "make one's case"
+    ],
+    "plugs":[
+      "promotes",
+      "drain blockers",
+      "sink stoppers",
+      "socket inserts"
+    ],
+    "plump":[
+      "chubby",
+      "portly",
+      "well rounded"
+    ],
+    "plums":[
+      "juicy fruits",
+      "jam fruits",
+      "prunes, once",
+      "purple fruits"
+    ],
+    "poems":[
+      "sonnets and such",
+      "rhymed verses",
+      "haikus, for example"
+    ],
+    "poets":[
+      "rhyme writers",
+      "verse authors",
+      "couplet composers"
+    ],
+    "point":[
+      "aim",
+      "show the way",
+      "direct",
+      "what an arrow does"
+    ],
+    "polar":[
+      "frigid",
+      "arctic",
+      "very cold",
+      "of the arctic or antarctic",
+      "opposite",
+      "type of bear"
+    ],
+    "poles":[
+      "fishing rods",
+      "flag holders",
+      "ends of the earth",
+      "tent supports"
+    ],
+    "polka":[
+      "lively dance",
+      "oktoberfest music",
+      "type of dots"
+    ],
+    "ponds":[
+      "duck habitats",
+      "fishing holes",
+      "little lakes",
+      "dams may create them",
+      "frog homes"
+    ],
+    "pools":[
+      "combines resources",
+      "swimming spots",
+      "chlorinated waters",
+      "forms puddles"
+    ],
+    "poppy":[
+      "seed on a bagel",
+      "bread seed source",
+      "opium flower"
+    ],
+    "porch":[
+      "veranda",
+      "stoop",
+      "place for a rocking chair"
+    ],
+    "pores":[
+      "tiny openings",
+      "skin openings",
+      "sponge features",
+      "skin features",
+      "sponge parts"
+    ],
+    "ports":[
+      "cruise stops",
+      "coastal cities",
+      "dessert wines",
+      "ship stops"
+    ],
+    "poser":[
+      "model",
+      "wannabe",
+      "pretender"
+    ],
+    "poses":[
+      "pretends",
+      "does modeling work",
+      "prepares to be photographed",
+      "models",
+      "sits for a portrait"
+    ],
+    "posts":[
+      "puts on a bulletin board",
+      "blog entries",
+      "military bases",
+      "fence supports",
+      "puts up"
+    ],
+    "pours":[
+      "rains heavily",
+      "falls hard",
+      "decants",
+      "serves tea"
+    ],
+    "power":[
+      "authority",
+      "strength",
+      "might",
+      "electricity"
+    ],
+    "prank":[
+      "practical joke",
+      "trick",
+      "piece of mischief"
+    ],
+    "press":[
+      "flatten",
+      "squeeze",
+      "iron",
+      "garlic crushing device"
+    ],
+    "price":[
+      "cost",
+      "bounty",
+      "amount to pay"
+    ],
+    "pride":[
+      "self esteem",
+      "group of lions",
+      "feeling of accomplishment",
+      "feeling of personal worth"
+    ],
+    "prime":[
+      "first rate",
+      "get ready",
+      "best",
+      "highest quality"
+    ],
+    "prior":[
+      "former",
+      "earlier",
+      "previous"
+    ],
+    "prize":[
+      "cherish",
+      "treasure",
+      "hold dear",
+      "cracker jack bonus",
+      "trophy",
+      "award"
+    ],
+    "probe":[
+      "investigate",
+      "investigation",
+      "look into",
+      "space explorer",
+      "explore",
+      "deep-space mission",
+      "delve into"
+    ],
+    "prong":[
+      "fork part",
+      "pitchfork part",
+      "antler feature",
+      "forklift extension",
+      "sharp projection",
+      "tine"
+    ],
+    "proof":[
+      "evidence",
+      "spirits measure",
+      "prosecutor's burden",
+      "logic exercise"
+    ],
+    "proud":[
+      "self-satisfied",
+      "hardly humble",
+      "haughty",
+      "gratified",
+      "vain",
+      "like a peacock",
+      "pleased with oneself",
+      "walking tall"
+    ],
+    "prove":[
+      "establish",
+      "turn out to be",
+      "verify",
+      "leave no doubt",
+      "show to be true",
+      "establish as fact"
+    ],
+    "prowl":[
+      "move stealthily",
+      "search for prey",
+      "go out hunting",
+      "patrol for prey"
+    ],
+    "prude":[
+      "hardly a libertine",
+      "goody two shoes",
+      "stuffy sort",
+      "uptight person",
+      "conservative one"
+    ],
+    "prune":[
+      "cut back",
+      "wrinkly fruit",
+      "dried plum"
+    ],
+    "puffy":[
+      "bloated",
+      "swollen",
+      "like cotton or clouds"
+    ],
+    "pulls":[
+      "withdraws",
+      "attracts",
+      "tugs"
+    ],
+    "pumps":[
+      "some shoes",
+      "gasoline dispensers",
+      "oil extractors",
+      "tire filling machines"
+    ],
+    "punch":[
+      "party drink",
+      "right hook",
+      "fruit drink",
+      "sometimes spiked"
+    ],
+    "pupil":[
+      "eye piece",
+      "student",
+      "class member"
+    ],
+    "puree":[
+      "blender setting",
+      "baby food",
+      "reduce to mush",
+      "tomato product",
+      "thick soup"
+    ],
+    "purge":[
+      "clear",
+      "get rid of",
+      "cleanse of impurities",
+      "clean completely",
+      "stalinesque sweep",
+      "rid of impurities"
+    ],
+    "purse":[
+      "coin holder",
+      "handbag",
+      "prize money",
+      "pocketbook",
+      "winnings",
+      "prize fund"
+    ],
+    "pylon":[
+      "traffic cone",
+      "aviation marker",
+      "race marker",
+      "end zone marker"
+    ],
+    "quack":[
+      "duck sound",
+      "charlatan",
+      "snake oil salesman"
+    ],
+    "quaff":[
+      "hearty drink",
+      "hearty draft",
+      "satisfying drink",
+      "drink heartily"
+    ],
+    "quail":[
+      "small game bird",
+      "plump bird",
+      "bobbing game bird"
+    ],
+    "quake":[
+      "show fear",
+      "tremble in fear",
+      "seismic event",
+      "earth tremor",
+      "seismic shudder"
+    ],
+    "qualm":[
+      "uneasy feeling",
+      "compunction",
+      "misgiving",
+      "pang of conscience",
+      "reservation"
+    ],
+    "quark":[
+      "hypothetical particle",
+      "fundamental particle",
+      "theoretical particle"
+    ],
+    "quart":[
+      "milk purchase",
+      "gallon fraction",
+      "liquid measurement",
+      "two pints"
+    ],
+    "quash":[
+      "put down",
+      "suppress",
+      "subdue",
+      "repress"
+    ],
+    "queen":[
+      "pageant winner",
+      "powerful chess piece",
+      "royal title"
+    ],
+    "quell":[
+      "put down",
+      "suppress",
+      "silence",
+      "put down forcibly"
+    ],
+    "query":[
+      "question",
+      "ask",
+      "seek information from",
+      "structured database question"
+    ],
+    "quick":[
+      "fast",
+      "sharp-witted",
+      "rapid"
+    ],
+    "quiet":[
+      "pacify",
+      "library sign",
+      "silence",
+      "calm"
+    ],
+    "quill":[
+      "calligraphy tool",
+      "quaint pen",
+      "porcupine covering"
+    ],
+    "quilt":[
+      "comforter",
+      "patterned blanket",
+      "thick bedspread",
+      "patchwork covering"
+    ],
+    "quips":[
+      "witty one-liners",
+      "wisecracks",
+      "witticisms",
+      "clever comments"
+    ],
+    "quirk":[
+      "oddity",
+      "eccentricity",
+      "idiosyncrasy"
+    ],
+    "quits":[
+      "cuts out",
+      "calls it a day",
+      "throws in the towel",
+      "admits defeat",
+      "gives up"
+    ],
+    "races":[
+      "track events",
+      "sprints",
+      "darts",
+      "olympic events",
+      "tests of speed"
+    ],
+    "racks":[
+      "magazine holders",
+      "pool equipment",
+      "spice organizers"
+    ],
+    "radio":[
+      "kind of wave",
+      "transmit",
+      "am/fm device",
+      "broadcast medium",
+      "over the air transmission"
+    ],
+    "rafts":[
+      "river crafts",
+      "inflatable boats",
+      "whitewater vessels"
+    ],
+    "rages":[
+      "flies off the handle",
+      "goes ballistic",
+      "fits of anger"
+    ],
+    "rails":[
+      "train tracks",
+      "locomotive tracks",
+      "racetrack fences",
+      "bannisters"
+    ],
+    "rains":[
+      "downpours",
+      "torrents",
+      "drizzles",
+      "showers",
+      "precipitates"
+    ],
+    "rainy":[
+      "april forecast",
+      "weather forecast",
+      "drizzling",
+      "wet weather"
+    ],
+    "raise":[
+      "bring up",
+      "elevate",
+      "salary increase",
+      "poker action"
+    ],
+    "rakes":[
+      "garden tools",
+      "tools with teeth",
+      "lawn tools",
+      "gathers leaves"
+    ],
+    "rally":[
+      "bounce back",
+      "make a comeback",
+      "come from behind",
+      "public gathering"
+    ],
+    "ramps":[
+      "inclines",
+      "highway exits",
+      "freeway exits"
+    ],
+    "ranch":[
+      "home on the range",
+      "salad dressing",
+      "one story home style"
+    ],
+    "range":[
+      "extend",
+      "kitchen appliance",
+      "mountain chain"
+    ],
+    "rapid":[
+      "quick",
+      "speedy",
+      "swift",
+      "fast"
+    ],
+    "raspy":[
+      "hoarse",
+      "rough",
+      "grating"
+    ],
+    "rates":[
+      "merits",
+      "is worthy of",
+      "evaluates",
+      "lending figures",
+      "fixed charges",
+      "costs"
+    ],
+    "ratio":[
+      "mathematical comparison",
+      "proportion",
+      "quantitative relation"
+    ],
+    "ravel":[
+      "confuse",
+      "tangle",
+      "snarl"
+    ],
+    "raven":[
+      "deep black",
+      "black bird",
+      "mysterious bird"
+    ],
+    "razor":[
+      "stubble remover",
+      "blade",
+      "shaving tool"
+    ],
+    "reach":[
+      "connect with",
+      "get to",
+      "come to",
+      "extend",
+      "arrive at"
+    ],
+    "react":[
+      "respond to a stimulus",
+      "do something",
+      "respond",
+      "don't just stand there",
+      "strike back",
+      "flinch"
+    ],
+    "reads":[
+      "understands",
+      "goes over",
+      "scans",
+      "enjoys a book",
+      "peruses",
+      "reviews",
+      "leafs through"
+    ],
+    "ready":[
+      "set",
+      "alert",
+      "good to go",
+      "prepared"
+    ],
+    "realm":[
+      "region",
+      "domain",
+      "space",
+      "kingdom"
+    ],
+    "rebar":[
+      "construction rod",
+      "rod used to strengthen concrete",
+      "concrete strengthener",
+      "steel rod"
+    ],
+    "rebel":[
+      "riot",
+      "rise up",
+      "nonconformist",
+      "insurrectionist"
+    ],
+    "rebut":[
+      "contradict",
+      "show to be false",
+      "say it isn't so",
+      "answer",
+      "disprove",
+      "prove false",
+      "counter",
+      "argue against"
+    ],
+    "recap":[
+      "summary",
+      "wrap up",
+      "synopsis",
+      "postgame summary"
+    ],
+    "recon":[
+      "scouting mission",
+      "info-gathering mission",
+      "military surveillance"
+    ],
+    "refer":[
+      "direct elsewhere",
+      "make mention of",
+      "recommend someone else"
+    ],
+    "reign":[
+      "rule",
+      "run the show",
+      "wield the scepter",
+      "wear the crown",
+      "act as king"
+    ],
+    "relax":[
+      "take it easy",
+      "kick back",
+      "chill",
+      "unwind"
+    ],
+    "relay":[
+      "track event",
+      "pass on information",
+      "race with batons",
+      "team race"
+    ],
+    "relic":[
+      "museum piece",
+      "vestige",
+      "archaeological find",
+      "piece of history",
+      "memento",
+      "keepsake",
+      "museum display"
+    ],
+    "remit":[
+      "cancel",
+      "pay",
+      "invoice word",
+      "send off",
+      "send payment"
+    ],
+    "remix":[
+      "new version of an old song",
+      "sound studio job",
+      "d.j.'s creation"
+    ],
+    "renew":[
+      "freshen",
+      "extend a subscription",
+      "start again"
+    ],
+    "repay":[
+      "get even with",
+      "settle a debt",
+      "give back"
+    ],
+    "repel":[
+      "ward off",
+      "discourage",
+      "turn away",
+      "drive away",
+      "drive back"
+    ],
+    "reply":[
+      "comeback",
+      "answer",
+      "respond"
+    ],
+    "rerun":[
+      "broadcast again",
+      "syndicated show",
+      "second showing"
+    ],
+    "reset":[
+      "put back",
+      "odometer button",
+      "start over",
+      "turn back to zero"
+    ],
+    "resin":[
+      "sticky stuff",
+      "varnish ingredient",
+      "fly catcher",
+      "pine product"
+    ],
+    "rests":[
+      "breaks",
+      "takes a breather",
+      "takes five",
+      "takes it easy",
+      "takes a break",
+      "relaxes"
+    ],
+    "retry":[
+      "second shot",
+      "take another shot",
+      "second attempt",
+      "mulligan"
+    ],
+    "reuse":[
+      "don't waste",
+      "make the most of",
+      "waste reduction strategy",
+      "simplest way to recycle"
+    ],
+    "revel":[
+      "bask",
+      "make merry",
+      "celebrate",
+      "party"
+    ],
+    "ridge":[
+      "fingerprint feature",
+      "chain of hills",
+      "crest",
+      "mountain chain",
+      "high ground"
+    ],
+    "right":[
+      "entitlement",
+      "privelege",
+      "liberty",
+      "freedom"
+    ],
+    "rinse":[
+      "wash out",
+      "car wash cycle",
+      "dishwasher cycle",
+      "remove the soap from",
+      "run water over"
+    ],
+    "riots":[
+      "goes wild",
+      "revolts",
+      "violent demonstrations",
+      "public disorders"
+    ],
+    "rises":[
+      "increases",
+      "gets up",
+      "escalates",
+      "swells",
+      "gets out of bed",
+      "ascends"
+    ],
+    "risks":[
+      "chances",
+      "dangers",
+      "hazards",
+      "gambles"
+    ],
+    "rival":[
+      "competitor",
+      "opponent",
+      "challenger",
+      "contender",
+      "adversary"
+    ],
+    "river":[
+      "inland waterway",
+      "natural boundary",
+      "flowing body of water"
+    ],
+    "rivet":[
+      "fix firmly",
+      "small fastener",
+      "hold spellbound",
+      "metal fastener"
+    ],
+    "roach":[
+      "household pest",
+      "insecticide target",
+      "urban invader"
+    ],
+    "roads":[
+      "courses",
+      "byways",
+      "highways",
+      "paths",
+      "streets"
+    ],
+    "roast":[
+      "cut of beef",
+      "swelter",
+      "one way to cook",
+      "cook in the oven"
+    ],
+    "robin":[
+      "small songbird",
+      "sign of spring",
+      "early bird"
+    ],
+    "robot":[
+      "automaton",
+      "mechanical man",
+      "electronic factory worker",
+      "emotionless person"
+    ],
+    "rocks":[
+      "sways back and forth",
+      "stones",
+      "shakes",
+      "vibrates",
+      "pebbles",
+      "boulders"
+    ],
+    "rocky":[
+      "uncertain",
+      "not smooth",
+      "tumultuous",
+      "up and down"
+    ],
+    "rooms":[
+      "lodges",
+      "quarters",
+      "hotel accommodations",
+      "motel units"
+    ],
+    "roost":[
+      "farm structure",
+      "perch",
+      "resting place",
+      "henhouse perch",
+      "pigeon perch"
+    ],
+    "roots":[
+      "origins",
+      "ancestry",
+      "genealogy",
+      "plant parts",
+      "underground parts"
+    ],
+    "ropes":[
+      "boxing ring borders",
+      "lassos",
+      "lariats",
+      "cords"
+    ],
+    "roses":[
+      "valentine dozen",
+      "bouquet flowers",
+      "thorny bunch",
+      "fragrant gift"
+    ],
+    "rosin":[
+      "pine tree sap",
+      "violin bow coating",
+      "anti-slip agent",
+      "sticky sap"
+    ],
+    "rotor":[
+      "engine part",
+      "helicopter lift generator",
+      "helicopter blade",
+      "spinning machine part"
+    ],
+    "rouge":[
+      "compact item",
+      "makeup type",
+      "blush",
+      "red"
+    ],
+    "rough":[
+      "difficult",
+      "unpolished",
+      "unrefined",
+      "harsh to the touch"
+    ],
+    "round":[
+      "spherical",
+      "ammo unit",
+      "boxing match segment",
+      "like a ball"
+    ],
+    "route":[
+      "way to go",
+      "trail",
+      "course",
+      "way",
+      "path"
+    ],
+    "rover":[
+      "wanderer",
+      "vagabond",
+      "exploring robot"
+    ],
+    "rowdy":[
+      "rambunctious",
+      "boisterous",
+      "disorderly"
+    ],
+    "royal":[
+      "of kings and queens",
+      "palace occupant",
+      "some rulers"
+    ],
+    "rugby":[
+      "sport similar to football",
+      "scrum sport",
+      "team sport"
+    ],
+    "ruins":[
+      "archaeological site",
+      "wrecks",
+      "tourist draw",
+      "wreckage",
+      "destroys"
+    ],
+    "ruler":[
+      "one in charge",
+      "measuring stick",
+      "straight edge"
+    ],
+    "rules":[
+      "contest specifications",
+      "regulations",
+      "laws"
+    ],
+    "rumba":[
+      "ballroom dance",
+      "cuban dance",
+      "latin dance"
+    ],
+    "rumor":[
+      "buzz",
+      "gossip",
+      "unconfirmed story"
+    ],
+    "rural":[
+      "country",
+      "rustic",
+      "pastoral"
+    ],
+    "rusty":[
+      "out of practice",
+      "like much junkyard metal",
+      "oxidized"
+    ],
+    "saber":[
+      "cavalry weapon",
+      "kind of sword",
+      "curved sword",
+      "civil war sword"
+    ],
+    "sacks":[
+      "burlap bags",
+      "plunders",
+      "pillages",
+      "potato holders"
+    ],
+    "safer":[
+      "involving less risk",
+      "more reliable",
+      "more secure",
+      "less risky"
+    ],
+    "sails":[
+      "leaves port",
+      "marina sights",
+      "heads to sea",
+      "wind catchers"
+    ],
+    "saint":[
+      "angel",
+      "canonized one",
+      "model of virtue",
+      "very good person"
+    ],
+    "salad":[
+      "light lunch",
+      "menu option",
+      "early course",
+      "green course",
+      "leafy dish"
+    ],
+    "sales":[
+      "business concern",
+      "discount events",
+      "business statistic",
+      "transactions"
+    ],
+    "salon":[
+      "beauty parlor",
+      "hair stylist's shop",
+      "where perms happen"
+    ],
+    "salsa":[
+      "ballroom dance",
+      "hot stuff",
+      "spicy dip",
+      "chip topping",
+      "latin dance"
+    ],
+    "salts":[
+      "sea dogs",
+      "french fry seasonings",
+      "some minerals"
+    ],
+    "salty":[
+      "coarse",
+      "like the ocean",
+      "like bar snacks",
+      "like pretzels"
+    ],
+    "salve":[
+      "comfort",
+      "soothing application",
+      "burn soother",
+      "relieve",
+      "burn balm"
+    ],
+    "salvo":[
+      "blast",
+      "barrage",
+      "artillery burst"
+    ],
+    "samba":[
+      "ballroom dance",
+      "latin dance",
+      "brazilian dance"
+    ],
+    "sands":[
+      "smooths wood",
+      "hourglass contents",
+      "beach features"
+    ],
+    "sappy":[
+      "foolish",
+      "overly sentimental",
+      "tear-jerking"
+    ],
+    "sassy":[
+      "fresh",
+      "smart-alecky",
+      "impudent",
+      "smart-mouthed",
+      "impertinent",
+      "flippant"
+    ],
+    "satay":[
+      "asian appetizer",
+      "thai appetizer",
+      "skewered meal with peanut sauce"
+    ],
+    "satin":[
+      "glossy fabric",
+      "lustrous fabric",
+      "fine fabric",
+      "luxurious fabric",
+      "gown material",
+      "sleek fabric"
+    ],
+    "satyr":[
+      "goat legged deity",
+      "lascivious man/goat",
+      "mythical being",
+      "mythical flutist"
+    ],
+    "sauce":[
+      "buffalo wing coating",
+      "pizza topping",
+      "spaghetti topping"
+    ],
+    "saucy":[
+      "fresh",
+      "impudent",
+      "smart-mouthed",
+      "forward",
+      "flippant",
+      "impertinent",
+      "pert",
+      "insolent",
+      "brazen",
+      "a bit brazen"
+    ],
+    "savor":[
+      "relish",
+      "taste",
+      "really enjoy",
+      "enjoy slowly"
+    ],
+    "savvy":[
+      "common sense",
+      "shrewdness",
+      "street smarts"
+    ],
+    "scald":[
+      "burn",
+      "boil",
+      "burn with hot water"
+    ],
+    "scale":[
+      "climb",
+      "map feature",
+      "fish covering",
+      "weighing device",
+      "deli device"
+    ],
+    "scalp":[
+      "head covering",
+      "resell illegally",
+      "where hair roots grow",
+      "grim wild west trophy"
+    ],
+    "scams":[
+      "swindles",
+      "hustles",
+      "cons",
+      "frauds"
+    ],
+    "scans":[
+      "surveys",
+      "reads a bar code",
+      "gives the once-over",
+      "reads quickly"
+    ],
+    "scant":[
+      "hard to find",
+      "very little",
+      "meager",
+      "few and far between",
+      "hardly any",
+      "minimal",
+      "barely sufficient"
+    ],
+    "scare":[
+      "frighten",
+      "alarm",
+      "startle",
+      "spook"
+    ],
+    "scarf":[
+      "neck warmer",
+      "muffler",
+      "winter neckwear",
+      "knitted accessory"
+    ],
+    "scars":[
+      "lasting impressions",
+      "lasting marks",
+      "blemishes",
+      "surgery souvenirs",
+      "old skin wounds"
+    ],
+    "scene":[
+      "commotion",
+      "play part",
+      "picture",
+      "part of a movie"
+    ],
+    "scent":[
+      "aroma",
+      "fragrance",
+      "smell",
+      "whiff"
+    ],
+    "scold":[
+      "berate",
+      "reprimand",
+      "chide"
+    ],
+    "scope":[
+      "extent",
+      "range",
+      "rifle attachment",
+      "range of view",
+      "aim improver"
+    ],
+    "score":[
+      "large quantity",
+      "orchestral work",
+      "reach the end zone"
+    ],
+    "scout":[
+      "reconnoiter",
+      "talent finder",
+      "do recon",
+      "check out"
+    ],
+    "scowl":[
+      "grimace",
+      "menacing look",
+      "glower",
+      "angry look",
+      "grumpy expression"
+    ],
+    "scrap":[
+      "throw out",
+      "cancel",
+      "junkyard metal",
+      "junk"
+    ],
+    "screw":[
+      "twist",
+      "carpentry fastener",
+      "alternative to a nail",
+      "bit of hardware"
+    ],
+    "scrub":[
+      "cancel a mission",
+      "prepare for surgery",
+      "scour",
+      "clean",
+      "wash thoroughly"
+    ],
+    "scuff":[
+      "shoe mark",
+      "shoe blemish",
+      "shoe imperfection",
+      "take the shine off"
+    ],
+    "seals":[
+      "makes watertight",
+      "navy elite",
+      "closes tightly",
+      "aquatic mammals"
+    ],
+    "seams":[
+      "clothes lines",
+      "fashion lines",
+      "tailored lines",
+      "stitched lines"
+    ],
+    "seats":[
+      "chairs",
+      "theater reservations",
+      "theater capacity"
+    ],
+    "sedan":[
+      "family car",
+      "kind of car",
+      "roomy car"
+    ],
+    "seeds":[
+      "beginnings",
+      "gardening purchase",
+      "bird feed"
+    ],
+    "seedy":[
+      "run down",
+      "shabby",
+      "disreputable",
+      "squalid",
+      "threadbare",
+      "dilapidated"
+    ],
+    "segue":[
+      "effortless transition",
+      "smooth transition",
+      "transition",
+      "smooth move",
+      "musical transition"
+    ],
+    "seize":[
+      "confiscate",
+      "capture",
+      "appropriate",
+      "take by force",
+      "snatch"
+    ],
+    "sense":[
+      "feeling",
+      "perceive",
+      "pick up on",
+      "good judgment",
+      "brains",
+      "impression"
+    ],
+    "sepia":[
+      "photo finish",
+      "brown shade",
+      "old photo tint",
+      "brown pigment"
+    ],
+    "serif":[
+      "font embellishment",
+      "letter flourish",
+      "font flourish",
+      "font feature",
+      "calligraphy detail"
+    ],
+    "serve":[
+      "dish out",
+      "assist",
+      "wait on",
+      "start a tennis match",
+      "volleyball opener"
+    ],
+    "servo":[
+      "electronic control system",
+      "motor control"
+    ],
+    "setup":[
+      "trap",
+      "scheme",
+      "establish",
+      "assemble",
+      "arrangement"
+    ],
+    "seven":[
+      "evening hour",
+      "less than ten",
+      "vii"
+    ],
+    "sever":[
+      "cut off",
+      "break off",
+      "divide",
+      "split apart",
+      "cleave",
+      "partition",
+      "disconnect"
+    ],
+    "sewer":[
+      "storm drain",
+      "drainage system",
+      "underground conduit"
+    ],
+    "shack":[
+      "crude shelter",
+      "crude dwelling",
+      "hovel",
+      "crude cabin",
+      "humble abode"
+    ],
+    "shade":[
+      "hue",
+      "window covering",
+      "ghost",
+      "color lightly",
+      "beach umbrella offering"
+    ],
+    "shaft":[
+      "elevator tube",
+      "mine passage",
+      "golf club part"
+    ],
+    "shake":[
+      "agitate",
+      "fountain treat",
+      "ice cream treat",
+      "lose a tail",
+      "tremble"
+    ],
+    "shall":[
+      "intend to",
+      "will",
+      "am going to"
+    ],
+    "shame":[
+      "humiliate",
+      "embarrass",
+      "disgrace",
+      "ignominy",
+      "dishonor"
+    ],
+    "shape":[
+      "condition",
+      "outline",
+      "figure",
+      "mold",
+      "physical condition",
+      "circle or square",
+      "form",
+      "contour"
+    ],
+    "shard":[
+      "archaeological find",
+      "fragment",
+      "glass fragment",
+      "pottery fragment"
+    ],
+    "share":[
+      "stock unit",
+      "portion",
+      "allotment",
+      "slice",
+      "helping",
+      "spread around",
+      "be generous"
+    ],
+    "shark":[
+      "ocean predator",
+      "unscrupulous lender",
+      "great white",
+      "toothy swimmer"
+    ],
+    "shave":[
+      "trim",
+      "barbershop service",
+      "eliminate stubble",
+      "remove a mustache"
+    ],
+    "shawl":[
+      "wrap",
+      "shoulder warmer",
+      "shoulder covering",
+      "crocheted item",
+      "sleeveless shoulder wrap",
+      "knitted wrap"
+    ],
+    "shear":[
+      "cut",
+      "clip",
+      "give a buzz",
+      "remove wool from"
+    ],
+    "sheep":[
+      "wool source",
+      "followers",
+      "sleeping aid"
+    ],
+    "sheer":[
+      "unclimbable slope",
+      "diaphanous",
+      "thin fabric"
+    ],
+    "sheet":[
+      "bed cover",
+      "piece of paper",
+      "bedding item",
+      "mattress covering"
+    ],
+    "shelf":[
+      "storage space",
+      "bookcase part",
+      "cupboard feature"
+    ],
+    "shell":[
+      "type of pasta",
+      "beach find",
+      "oyster refuse",
+      "taco holder"
+    ],
+    "shift":[
+      "keyboard key",
+      "work period",
+      "move slightly",
+      "change gears"
+    ],
+    "shine":[
+      "buff",
+      "sparkle",
+      "glow",
+      "twinkle",
+      "give off light"
+    ],
+    "shirt":[
+      "top",
+      "polo or tee",
+      "collared garment"
+    ],
+    "shoal":[
+      "snorkeling site",
+      "sand bar",
+      "sandbank",
+      "navigation hazard",
+      "river hazard",
+      "school of fish"
+    ],
+    "shock":[
+      "render speechless",
+      "electrical jolt",
+      "more than surprise",
+      "jarring surprise"
+    ],
+    "shoes":[
+      "footwear",
+      "sneakers",
+      "running equipment"
+    ],
+    "shone":[
+      "glistened",
+      "gleamed",
+      "beamed",
+      "radiated",
+      "glimmered"
+    ],
+    "shook":[
+      "trembled",
+      "quaked",
+      "offered a paw"
+    ],
+    "shoot":[
+      "fire",
+      "take a photo",
+      "photo session",
+      "bamboo unit",
+      "film a scene"
+    ],
+    "shops":[
+      "goes to the mall",
+      "businesses",
+      "small stores",
+      "looks for deals"
+    ],
+    "shore":[
+      "coast",
+      "beach",
+      "oceanside",
+      "water's edge"
+    ],
+    "short":[
+      "lacking",
+      "concise",
+      "lacking height",
+      "not enough money"
+    ],
+    "shots":[
+      "attempts",
+      "photos",
+      "bar orders",
+      "immunizations"
+    ],
+    "shout":[
+      "holler",
+      "yell",
+      "make oneself heard",
+      "rallying cry"
+    ],
+    "shove":[
+      "push",
+      "give a nudge",
+      "push hard"
+    ],
+    "shrew":[
+      "nag",
+      "ill-tempered woman",
+      "mole relative",
+      "mouselike mammal"
+    ],
+    "shrub":[
+      "landscaper's purchase",
+      "hedge plant",
+      "woody perennial",
+      "bush"
+    ],
+    "shrug":[
+      "sign of apathy",
+      "shoulder gesture",
+      "dismissive gesture"
+    ],
+    "shuck":[
+      "open oysters",
+      "remove corn husks",
+      "remove the outer shell"
+    ],
+    "shush":[
+      "quiet",
+      "silence",
+      "demand silence"
+    ],
+    "sides":[
+      "factions",
+      "competitors",
+      "opposing teams",
+      "triangles have three",
+      "not main dishes"
+    ],
+    "siege":[
+      "prolonged attack",
+      "blockade",
+      "military assault",
+      "military campaign"
+    ],
+    "sieve":[
+      "kitchen gadget",
+      "strainer",
+      "screening device"
+    ],
+    "sight":[
+      "tourist attraction",
+      "something to take in",
+      "tourist magnet",
+      "thing to see"
+    ],
+    "sigil":[
+      "magical symbol",
+      "signet",
+      "seal"
+    ],
+    "signs":[
+      "omens",
+      "indications",
+      "warnings",
+      "autographs",
+      "road markers"
+    ],
+    "silky":[
+      "smooth",
+      "lustrous",
+      "velvety smooth"
+    ],
+    "silly":[
+      "foolish",
+      "nonsensical",
+      "frivolous"
+    ],
+    "since":[
+      "starting from",
+      "subsequently",
+      "dating from",
+      "from"
+    ],
+    "sinew":[
+      "tendon",
+      "muscular strength",
+      "muscle connector",
+      "connective tissue"
+    ],
+    "singe":[
+      "scorch",
+      "blacken",
+      "burn a bit",
+      "burn slightly",
+      "lightly burn"
+    ],
+    "siren":[
+      "ambulance alert",
+      "emergency signal",
+      "mythical shipwrecker"
+    ],
+    "sixty":[
+      "six times ten",
+      "five times twelve",
+      "fifteen times four",
+      "less than a hundred"
+    ],
+    "sizes":[
+      "dimensions",
+      "proportions",
+      "measurements"
+    ],
+    "skate":[
+      "glide",
+      "shark relative",
+      "wheeled footwear",
+      "hockey footwear"
+    ],
+    "skeet":[
+      "trapshooting",
+      "shooting game",
+      "clay pigeon",
+      "target practice game"
+    ],
+    "skiff":[
+      "flat bottomed boat",
+      "small boat",
+      "one person boat"
+    ],
+    "skill":[
+      "craft",
+      "talent",
+      "proficiency",
+      "ability",
+      "aptitude"
+    ],
+    "skirt":[
+      "avoid",
+      "go around",
+      "dress bottom",
+      "short dress"
+    ],
+    "skulk":[
+      "move stealthily",
+      "lie in wait",
+      "lurk in the shadows",
+      "sneak around"
+    ],
+    "skull":[
+      "halloween decoration",
+      "skeleton topper",
+      "brain protector"
+    ],
+    "skunk":[
+      "smelly mammal",
+      "black and white critter"
+    ],
+    "slack":[
+      "hanging loose",
+      "not taut",
+      "lacking energy"
+    ],
+    "slain":[
+      "killed",
+      "dispatched",
+      "assassinated",
+      "struck down"
+    ],
+    "slake":[
+      "quench thirst",
+      "relieve",
+      "satisfy",
+      "allay"
+    ],
+    "slang":[
+      "jargon",
+      "informal speech",
+      "lingo",
+      "vernacular",
+      "informal talk"
+    ],
+    "slant":[
+      "incline",
+      "bias",
+      "slope",
+      "place at an angle"
+    ],
+    "slaps":[
+      "high fives",
+      "reprimands",
+      "palm strikes",
+      "light punishments"
+    ],
+    "slash":[
+      "cut down",
+      "reduce drastically",
+      "sword maneuver"
+    ],
+    "slate":[
+      "roofing material",
+      "schedule",
+      "ticket",
+      "shade of gray",
+      "roster",
+      "candidate list",
+      "pool table material",
+      "agenda"
+    ],
+    "slave":[
+      "work hard",
+      "put in long hours",
+      "toil",
+      "bondservant",
+      "pyramid builder"
+    ],
+    "sleek":[
+      "smooth",
+      "well-groomed",
+      "built for speed",
+      "streamlined",
+      "glossy",
+      "aerodynamically designed",
+      "aerodynamic"
+    ],
+    "sleep":[
+      "slumber",
+      "take a nap",
+      "insomniac's lack",
+      "melatonin goal"
+    ],
+    "sleet":[
+      "icy precipitation",
+      "winter forecast",
+      "frozen rain",
+      "snow precursor"
+    ],
+    "slept":[
+      "snoozed",
+      "took a nap",
+      "nodded off",
+      "slumbered"
+    ],
+    "slice":[
+      "piece of cake",
+      "piece of pie",
+      "pizzeria purchase",
+      "golfer error",
+      "unit of bread"
+    ],
+    "slick":[
+      "glossy",
+      "oily",
+      "slippery"
+    ],
+    "slide":[
+      "playground equipment",
+      "lose traction",
+      "amusement park feature",
+      "presentation piece"
+    ],
+    "slime":[
+      "ooze",
+      "gunk",
+      "goo",
+      "snail trail"
+    ],
+    "slink":[
+      "walk stealthily",
+      "skulk",
+      "creep"
+    ],
+    "sloop":[
+      "sailing vessel",
+      "pleasure boat",
+      "single masted ship"
+    ],
+    "slope":[
+      "incline",
+      "grade",
+      "hillside",
+      "sledding setting"
+    ],
+    "slosh":[
+      "make waves",
+      "walk though a puddle",
+      "start of a spill"
+    ],
+    "sloth":[
+      "indolence",
+      "laziness",
+      "sleepy mammal"
+    ],
+    "slows":[
+      "loses steam",
+      "impedes",
+      "steps on the brake",
+      "reduces speed"
+    ],
+    "slump":[
+      "doldrums",
+      "depression",
+      "dry spell",
+      "losing streak",
+      "unproductive period"
+    ],
+    "slung":[
+      "cast",
+      "hurled",
+      "tossed",
+      "thrown",
+      "catapulted",
+      "tossed over the shoulder"
+    ],
+    "slurp":[
+      "drink noisily",
+      "soup eater's sound",
+      "drink from a bowl",
+      "suck down"
+    ],
+    "smack":[
+      "kiss",
+      "impact sound",
+      "slap"
+    ],
+    "small":[
+      "insignificant",
+      "pint-sized",
+      "wee",
+      "itsy-bitsy",
+      "minute",
+      "tiny",
+      "diminutive",
+      "slight"
+    ],
+    "smart":[
+      "stylish",
+      "quick-witted",
+      "clever",
+      "brainy",
+      "bright",
+      "intelligent"
+    ],
+    "smash":[
+      "hit hard",
+      "wreck",
+      "pulverize",
+      "crush"
+    ],
+    "smear":[
+      "blacken",
+      "bad-mouth",
+      "spread",
+      "smudge",
+      "blotch",
+      "wet ink problem"
+    ],
+    "smell":[
+      "scent",
+      "aroma",
+      "sniff"
+    ],
+    "smile":[
+      "photographer's request",
+      "put on a happy face",
+      "show pleasure",
+      "grin"
+    ],
+    "smirk":[
+      "smug grin",
+      "villainous expression",
+      "smarmy smile",
+      "gloating look"
+    ],
+    "smite":[
+      "hit hard",
+      "strike down",
+      "deal a mighty blow"
+    ],
+    "smith":[
+      "craftsperson",
+      "anvil user",
+      "metalworker",
+      "forger"
+    ],
+    "smock":[
+      "splatter catcher",
+      "coverall",
+      "painter's protection",
+      "lab wear",
+      "protective garment"
+    ],
+    "smoke":[
+      "evidence of fire",
+      "chimney output",
+      "have a cigarette"
+    ],
+    "smush":[
+      "flatten",
+      "compress",
+      "press against"
+    ],
+    "snack":[
+      "quick bite",
+      "between meal bite",
+      "afternoon calories"
+    ],
+    "snail":[
+      "escargot",
+      "slow mover",
+      "slowpoke",
+      "aquarium scavenger"
+    ],
+    "snake":[
+      "treacherous one",
+      "reptile",
+      "slithering one",
+      "venomous critter"
+    ],
+    "snare":[
+      "catch",
+      "capture",
+      "trap",
+      "entangle",
+      "net"
+    ],
+    "snore":[
+      "sleep sound",
+      "night noise",
+      "keep your partner awake"
+    ],
+    "snort":[
+      "sound of contempt",
+      "horse sound",
+      "bit of laughter",
+      "inelegant laugh"
+    ],
+    "snout":[
+      "muzzle",
+      "pig nose",
+      "animal sniffer"
+    ],
+    "snows":[
+      "winter precipitation",
+      "frozen rain",
+      "blizzard drops"
+    ],
+    "soaps":[
+      "daytime tv fare",
+      "bath resources",
+      "shower needs"
+    ],
+    "sober":[
+      "dry",
+      "serious",
+      "clearheaded",
+      "not drunk"
+    ],
+    "socks":[
+      "wallops",
+      "punches",
+      "foot warmers",
+      "worn under shoes"
+    ],
+    "solar":[
+      "from the sun",
+      "renewable energy",
+      "sun-related",
+      "space wind"
+    ],
+    "songs":[
+      "tunes",
+      "top 40 entries",
+      "album pieces",
+      "mp3s, usually"
+    ],
+    "soups":[
+      "first courses",
+      "minestrone and chicken noodle",
+      "liquid dinners",
+      "sandwich pairings"
+    ],
+    "south":[
+      "cardinal direction",
+      "compass point",
+      "below, on a map"
+    ],
+    "spade":[
+      "garden tool",
+      "digging tool",
+      "a black suit"
+    ],
+    "spank":[
+      "paddle",
+      "physically punish",
+      "take over one's knee"
+    ],
+    "spark":[
+      "fire starter",
+      "inspiration",
+      "kindle",
+      "catalyst"
+    ],
+    "spasm":[
+      "jerk",
+      "twitch",
+      "muscle contraction",
+      "sudden convulsion"
+    ],
+    "speed":[
+      "drive too fast",
+      "floor it",
+      "zip",
+      "go fast"
+    ],
+    "spell":[
+      "witch's work",
+      "hex",
+      "curse",
+      "give the letters for a word"
+    ],
+    "spend":[
+      "deplete",
+      "pay out",
+      "feed the economy",
+      "buy something"
+    ],
+    "spice":[
+      "zest",
+      "flavor enhancer",
+      "seasoning"
+    ],
+    "spies":[
+      "spots",
+      "double agents",
+      "spooks",
+      "operatives",
+      "secret agents"
+    ],
+    "spike":[
+      "add liquor to",
+      "volleyball smash",
+      "volleyball putaway",
+      "sharp point"
+    ],
+    "spill":[
+      "knock over",
+      "overturn",
+      "overflow",
+      "leak"
+    ],
+    "spine":[
+      "places for book title",
+      "porcupine quill",
+      "backbone"
+    ],
+    "spins":[
+      "rotates",
+      "whirls",
+      "roulette verbs"
+    ],
+    "spire":[
+      "architectural topper",
+      "cathedral topper",
+      "church part",
+      "skyline feature",
+      "church topper",
+      "skyline sight",
+      "steeple",
+      "pinnacle"
+    ],
+    "spits":[
+      "roasting rods",
+      "emulates a camel",
+      "skewers",
+      "rotisserie parts"
+    ],
+    "split":[
+      "divvy up",
+      "gymnastic feat",
+      "bowling challenge",
+      "divide"
+    ],
+    "spook":[
+      "shade",
+      "startle",
+      "scare",
+      "frighten",
+      "man in black"
+    ],
+    "spool":[
+      "thread holder",
+      "wind up",
+      "ribbon holder",
+      "sewing kit item"
+    ],
+    "spoon":[
+      "soup scooper",
+      "silverware piece",
+      "tea stirrer"
+    ],
+    "sport":[
+      "volleyball or soccer",
+      "wear proudly",
+      "accommodating person",
+      "athletic activity",
+      "team activity"
+    ],
+    "spots":[
+      "catches sight of",
+      "notices",
+      "recognizes",
+      "leopard markings",
+      "dalmatian features"
+    ],
+    "spray":[
+      "use a hose",
+      "atomizer",
+      "drizzle",
+      "sprinkle",
+      "mist"
+    ],
+    "squid":[
+      "calamari",
+      "ink squirter",
+      "cepholopod"
+    ],
+    "stack":[
+      "pile",
+      "accumulation",
+      "pancake order"
+    ],
+    "staff":[
+      "personnel",
+      "work force",
+      "office crew",
+      "employees",
+      "workers",
+      "rod"
+    ],
+    "stage":[
+      "theater section",
+      "phase",
+      "show place",
+      "theater platform",
+      "put on a show",
+      "performer's platform"
+    ],
+    "stain":[
+      "spot",
+      "blemish",
+      "laundry challenge",
+      "soil",
+      "splotch"
+    ],
+    "stair":[
+      "way up",
+      "step",
+      "elevator alternative",
+      "climbing unit"
+    ],
+    "stake":[
+      "garden support",
+      "fence post",
+      "vampire killer",
+      "amount wagered"
+    ],
+    "stale":[
+      "flat",
+      "old",
+      "overused",
+      "no longer fresh"
+    ],
+    "stalk":[
+      "flower holder",
+      "follow closely",
+      "corn holder",
+      "celery unit",
+      "follow too closely"
+    ],
+    "stall":[
+      "delay",
+      "hold off",
+      "dilly-dally",
+      "slot in a stable",
+      "bathroom subdivision"
+    ],
+    "stamp":[
+      "post office purchase",
+      "piece of postage",
+      "imprint",
+      "envelope sticker"
+    ],
+    "stand":[
+      "position",
+      "tolerate",
+      "rise",
+      "get to your feet",
+      "valiant fight"
+    ],
+    "stank":[
+      "performed awfully",
+      "smelled bad",
+      "offended the nose"
+    ],
+    "stare":[
+      "impolite look",
+      "gawk",
+      "long look",
+      "get an eyeful",
+      "fixed gaze"
+    ],
+    "stark":[
+      "utter",
+      "cheerless",
+      "harsh",
+      "downright",
+      "desolate",
+      "barren"
+    ],
+    "stars":[
+      "heavenly bodies",
+      "planetarium display",
+      "astronomer's concerns"
+    ],
+    "start":[
+      "beginning",
+      "begin",
+      "get going",
+      "kick off",
+      "initiate",
+      "get to work"
+    ],
+    "state":[
+      "declare",
+      "affirm",
+      "utter",
+      "put into words"
+    ],
+    "steak":[
+      "beef cut",
+      "texas staple",
+      "t-bone"
+    ],
+    "steal":[
+      "rip off",
+      "pilfer",
+      "swipe",
+      "purloin"
+    ],
+    "steam":[
+      "water vapor",
+      "cooking method",
+      "geyser indicator",
+      "vapor",
+      "pre-combustion engine"
+    ],
+    "steel":[
+      "hard stuff",
+      "sword metal",
+      "iron alloy",
+      "building material"
+    ],
+    "steep":[
+      "precipitous",
+      "brew",
+      "prepare tea",
+      "high incline"
+    ],
+    "steer":[
+      "lead",
+      "guide",
+      "take the wheel",
+      "cattle"
+    ],
+    "stern":[
+      "unyielding",
+      "tough",
+      "unbending",
+      "severe",
+      "uncompromising",
+      "back of a boat",
+      "harsh"
+    ],
+    "stews":[
+      "broods",
+      "sulks",
+      "hearty meals",
+      "crockpot meals",
+      "thick soups"
+    ],
+    "stick":[
+      "thin piece of wood",
+      "piece of dynamite",
+      "unit of butter"
+    ],
+    "stiff":[
+      "unbending",
+      "inflexible",
+      "creaky",
+      "fail to tip"
+    ],
+    "still":[
+      "not moving",
+      "motionless",
+      "moonshine apparatus"
+    ],
+    "sting":[
+      "undercover job",
+      "con job",
+      "bee attack",
+      "sharp pain"
+    ],
+    "stink":[
+      "smell bad",
+      "are lousy",
+      "unpleasant odor"
+    ],
+    "stoke":[
+      "stir up",
+      "incite",
+      "stir a fire"
+    ],
+    "stole":[
+      "ripped off",
+      "swiped",
+      "pilfered",
+      "purloined",
+      "fur wrap"
+    ],
+    "stomp":[
+      "defeat decisively",
+      "walk heavily",
+      "trounce",
+      "trample",
+      "tread heavily"
+    ],
+    "stone":[
+      "boulder",
+      "gem",
+      "paving block",
+      "fireplace material"
+    ],
+    "stood":[
+      "rose",
+      "got up",
+      "got to one's feet",
+      "tolerated"
+    ],
+    "stool":[
+      "backless seat",
+      "bar accessory",
+      "pub seat",
+      "simple seat"
+    ],
+    "stoop":[
+      "condescend",
+      "lower oneself",
+      "small porch",
+      "bend down"
+    ],
+    "store":[
+      "put away",
+      "stockpile",
+      "save up",
+      "shop"
+    ],
+    "stork":[
+      "baby carrier",
+      "long legged wader",
+      "heron's cousin",
+      "long-billed bird"
+    ],
+    "story":[
+      "narrative",
+      "tale",
+      "fabrication",
+      "plot line"
+    ],
+    "stout":[
+      "pub serving",
+      "brave",
+      "resolute",
+      "hearty brew",
+      "beer relative",
+      "solid"
+    ],
+    "stove":[
+      "kitchen appliance",
+      "range",
+      "cooktop"
+    ],
+    "strap":[
+      "band",
+      "watch part",
+      "backpack shoulder piece",
+      "sandal feature",
+      "guitar holder"
+    ],
+    "straw":[
+      "scarecrow filler",
+      "stable bedding",
+      "drinking tube"
+    ],
+    "stray":[
+      "wander",
+      "drift",
+      "digress",
+      "leave the path",
+      "homeless animal"
+    ],
+    "strip":[
+      "take off",
+      "peel",
+      "remove",
+      "piece of bacon",
+      "remove the paint from",
+      "get naked"
+    ],
+    "strum":[
+      "use a pick",
+      "play a guitar",
+      "stroke the strings"
+    ],
+    "stuff":[
+      "pack",
+      "cram",
+      "shove"
+    ],
+    "stump":[
+      "perplex",
+      "baffle",
+      "confound",
+      "tree trunk remainder"
+    ],
+    "stunt":[
+      "publicity ploy",
+      "action scene feature",
+      "daring feat",
+      "daredevil display"
+    ],
+    "sucks":[
+      "uses a straw",
+      "leeches",
+      "is god-awful",
+      "draws on"
+    ],
+    "sugar":[
+      "candy component",
+      "drink sweetener",
+      "cane product"
+    ],
+    "suits":[
+      "looks good on",
+      "card types",
+      "formal wear"
+    ],
+    "super":[
+      "perfect",
+      "first-rate",
+      "extremely"
+    ],
+    "surge":[
+      "push forward",
+      "sudden increase",
+      "power problem",
+      "power glitch",
+      "sudden swelling"
+    ],
+    "sushi":[
+      "seafood serving",
+      "seaweed wrapped food",
+      "raw fish",
+      "type of japanese food"
+    ],
+    "swank":[
+      "stylish",
+      "fancy",
+      "elegant"
+    ],
+    "swarm":[
+      "bunch",
+      "buzzing cloud",
+      "group of bees",
+      "mass of insects"
+    ],
+    "sways":[
+      "persuades",
+      "influences",
+      "convinces",
+      "moves with the music"
+    ],
+    "swear":[
+      "curse",
+      "promise",
+      "vow",
+      "use profanity"
+    ],
+    "sweat":[
+      "worry",
+      "exercise byproduct",
+      "perspire",
+      "worry about"
+    ],
+    "sweep":[
+      "search thoroughly",
+      "win every game",
+      "use a broom",
+      "clean a chimney"
+    ],
+    "sweet":[
+      "food category",
+      "how sugar tastes",
+      "many desserts"
+    ],
+    "swell":[
+      "keen",
+      "peachy",
+      "ocean rise"
+    ],
+    "swept":[
+      "used a broom",
+      "thoroughly searched",
+      "cleaned the floor"
+    ],
+    "swift":[
+      "speedy",
+      "fast",
+      "fleet of foot"
+    ],
+    "swims":[
+      "does laps",
+      "resort activities",
+      "triathlon sport"
+    ],
+    "swine":[
+      "lowlife",
+      "despicable sort",
+      "hogs",
+      "sty dwellers",
+      "pigs"
+    ],
+    "swipe":[
+      "pilfer",
+      "steal",
+      "use a credit card"
+    ],
+    "swoon":[
+      "faint",
+      "pass out",
+      "act smitten"
+    ],
+    "sword":[
+      "fencing weapon",
+      "dueling weapon",
+      "knight's weapon"
+    ],
+    "sworn":[
+      "solemnly promised",
+      "under oath",
+      "avowed"
+    ],
+    "syrup":[
+      "sappy stuff",
+      "corn product",
+      "pancake topping"
+    ],
+    "table":[
+      "put aside for later",
+      "pool hall fixture",
+      "chart",
+      "figure",
+      "dinner setting"
+    ],
+    "taboo":[
+      "forbidden",
+      "prohibited",
+      "not allowed"
+    ],
+    "tacit":[
+      "understood",
+      "implied",
+      "unspoken"
+    ],
+    "tacos":[
+      "folded food",
+      "mexican fast food",
+      "cantina order",
+      "alternative to burritos",
+      "shelled snacks"
+    ],
+    "taffy":[
+      "chewy candy",
+      "stretchy seaside sweet",
+      "saltwater treat"
+    ],
+    "tails":[
+      "coin toss call",
+      "formal wear",
+      "full evening dress",
+      "squirrel features"
+    ],
+    "taint":[
+      "spoil",
+      "sully",
+      "contaminate",
+      "besmirch",
+      "corrupt",
+      "tarnish"
+    ],
+    "taken":[
+      "deceived",
+      "spoken for",
+      "captured",
+      "appropriated",
+      "in use"
+    ],
+    "takes":[
+      "captures",
+      "seizes",
+      "movie shots",
+      "accepts",
+      "grabs"
+    ],
+    "talks":[
+      "chitchats",
+      "lectures",
+      "speaks"
+    ],
+    "talon":[
+      "eagle's claw",
+      "raptor's weapon",
+      "sharp claw"
+    ],
+    "tango":[
+      "ballroom dance",
+      "latin dance",
+      "argentine dance"
+    ],
+    "tangy":[
+      "piquant",
+      "sharp-tasting",
+      "pungent",
+      "sharp on the tongue",
+      "having a bite",
+      "zesty"
+    ],
+    "tardy":[
+      "late",
+      "not on time",
+      "behind schedule",
+      "overdue",
+      "delinquent"
+    ],
+    "tarot":[
+      "fortunetelling card",
+      "divination deck",
+      "predictive deck"
+    ],
+    "tarry":[
+      "hang around",
+      "dawdle",
+      "hang back",
+      "linger",
+      "loiter"
+    ],
+    "tasks":[
+      "pieces of work",
+      "todo lists",
+      "jobs",
+      "chores"
+    ],
+    "taste":[
+      "try",
+      "sample",
+      "take a bite of",
+      "flavor",
+      "refinement"
+    ],
+    "tasty":[
+      "mouth-watering",
+      "delicious",
+      "scrumptious",
+      "yummy"
+    ],
+    "taunt":[
+      "tease",
+      "make fun of",
+      "mock",
+      "ridicule",
+      "heckle"
+    ],
+    "taupe":[
+      "brown shade",
+      "brownish gray",
+      "leather tint"
+    ],
+    "teams":[
+      "league members",
+      "groups of athletes",
+      "contending squads"
+    ],
+    "tears":[
+      "signs of sorrow",
+      "rips",
+      "crying",
+      "rips up",
+      "sign of joy or sadness",
+      "salty drops"
+    ],
+    "tease":[
+      "make fun of",
+      "poke fun at",
+      "razz",
+      "needle",
+      "taunt",
+      "mock"
+    ],
+    "teddy":[
+      "lingerie item",
+      "cuddly bear",
+      "stuffed bear"
+    ],
+    "teeth":[
+      "pearly whites",
+      "molars and incisors",
+      "dental concerns"
+    ],
+    "tempt":[
+      "entice",
+      "lure",
+      "bait",
+      "draw in",
+      "tantalize"
+    ],
+    "tenor":[
+      "saxophone type",
+      "choir voice",
+      "vocal range"
+    ],
+    "tents":[
+      "camp shelters",
+      "backpacking gear",
+      "circus sites",
+      "army shelters"
+    ],
+    "terms":[
+      "contract details",
+      "provisions",
+      "guidelines",
+      "school semesters"
+    ],
+    "testy":[
+      "cross",
+      "on edge",
+      "irritable",
+      "short-tempered",
+      "bad-tempered",
+      "cranky"
+    ],
+    "thank":[
+      "show appreciation",
+      "express gratitude",
+      "acknowledge"
+    ],
+    "thaws":[
+      "warms up",
+      "starts to melt",
+      "defrosts",
+      "melts",
+      "unfreezes"
+    ],
+    "theft":[
+      "property crime",
+      "larceny",
+      "merchandise shrinkage",
+      "common crime"
+    ],
+    "their":[
+      "possessive adjective",
+      "possessive pronoun",
+      "not our"
+    ],
+    "theme":[
+      "main idea",
+      "motif",
+      "topic",
+      "unifying idea",
+      "sitcom intro"
+    ],
+    "there":[
+      "yonder",
+      "that place",
+      "not here"
+    ],
+    "these":[
+      "this and that",
+      "the ones here",
+      "the ones close by",
+      "what we have here"
+    ],
+    "thigh":[
+      "chicken piece",
+      "common stocking height",
+      "leg part"
+    ],
+    "thing":[
+      "artifact",
+      "object",
+      "item"
+    ],
+    "think":[
+      "ponder",
+      "believe",
+      "suppose"
+    ],
+    "thorn":[
+      "rose feature",
+      "prickly item",
+      "rose sticker",
+      "rose guard",
+      "rosebush hazard"
+    ],
+    "those":[
+      "this and that",
+      "the farther ones",
+      "the others"
+    ],
+    "three":[
+      "a few",
+      "more than a couple",
+      "less than five"
+    ],
+    "throw":[
+      "toss",
+      "hurl",
+      "pitch"
+    ],
+    "thumb":[
+      "hitchhiker's digit",
+      "opposable digit",
+      "a finger"
+    ],
+    "thyme":[
+      "soup seasoning",
+      "kitchen herb",
+      "culinary herb",
+      "stew seasoning"
+    ],
+    "tidal":[
+      "type of wave",
+      "ocean motion",
+      "rising and falling",
+      "ebb and flow motion"
+    ],
+    "tiger":[
+      "bengal",
+      "big cat",
+      "large asian feline"
+    ],
+    "tight":[
+      "taut",
+      "not loose",
+      "closed firmly"
+    ],
+    "tiles":[
+      "roofing material",
+      "mah-jongg pieces",
+      "gamepieces",
+      "bath flooring",
+      "backsplash pieces"
+    ],
+    "timer":[
+      "stopwatch",
+      "cooking aid",
+      "track official"
+    ],
+    "tires":[
+      "grows weary",
+      "exhausts",
+      "bicycle wheels"
+    ],
+    "titan":[
+      "mythical giant",
+      "greek deity",
+      "great figure"
+    ],
+    "title":[
+      "championship",
+      "book name",
+      "designation",
+      "inherited social rank"
+    ],
+    "toast":[
+      "wedding tribute",
+      "salute with words",
+      "cook bread"
+    ],
+    "today":[
+      "immediately",
+      "right away",
+      "at present"
+    ],
+    "token":[
+      "game piece",
+      "subway coin",
+      "coin substitute",
+      "small souvenir",
+      "arcade payment"
+    ],
+    "tools":[
+      "equipment",
+      "gadgets",
+      "hammers and screwdrivers"
+    ],
+    "tooth":[
+      "gear part",
+      "kind of fairy",
+      "cavity location",
+      "chewing tool"
+    ],
+    "total":[
+      "add up",
+      "wreck",
+      "sum",
+      "demolish",
+      "wreck beyond repair",
+      "encompassing figure"
+    ],
+    "totem":[
+      "clan emblem",
+      "symbol",
+      "tribal emblem",
+      "alaskan carving"
+    ],
+    "tours":[
+      "guided vacations",
+      "guided trips",
+      "scenic trips",
+      "series of concerts"
+    ],
+    "towel":[
+      "beach item",
+      "spa handout",
+      "locker room item",
+      "drying implement",
+      "absorbent fabric"
+    ],
+    "towns":[
+      "dots on a map",
+      "villages",
+      "small cities"
+    ],
+    "toxic":[
+      "poisonous",
+      "like some waste",
+      "unhealthful"
+    ],
+    "toxin":[
+      "poison",
+      "venom",
+      "antidote target"
+    ],
+    "trace":[
+      "smidgen",
+      "small amount",
+      "follow"
+    ],
+    "trade":[
+      "swap",
+      "line of work",
+      "exchange"
+    ],
+    "trail":[
+      "fall behind",
+      "park feature",
+      "hiking path",
+      "way through the woods",
+      "follow"
+    ],
+    "train":[
+      "get in shape",
+      "prepare for a fight",
+      "commuter vehicle",
+      "subway vehicle"
+    ],
+    "traps":[
+      "catches",
+      "snares",
+      "corners",
+      "ensnares"
+    ],
+    "trash":[
+      "refuse",
+      "rubbish",
+      "garbage"
+    ],
+    "tread":[
+      "shoe bottom",
+      "step",
+      "tire pattern"
+    ],
+    "treat":[
+      "pick up the tab",
+      "care for",
+      "indulgence",
+      "reward"
+    ],
+    "trend":[
+      "fashion",
+      "style",
+      "what's happening",
+      "general direction"
+    ],
+    "triad":[
+      "threesome",
+      "group of three",
+      "three tone chord"
+    ],
+    "trial":[
+      "experiment",
+      "docket listing",
+      "court affair",
+      "lawyers' arena"
+    ],
+    "tribe":[
+      "extended family",
+      "big family",
+      "native american group",
+      "close-knit group"
+    ],
+    "trick":[
+      "fool",
+      "deceive",
+      "bit of magic",
+      "optical illusion"
+    ],
+    "tripe":[
+      "cow stomach",
+      "rubbish",
+      "nonsense"
+    ],
+    "trite":[
+      "commonplace",
+      "overused",
+      "clichéd",
+      "stale",
+      "played out"
+    ],
+    "troll":[
+      "fairy-tale creature",
+      "mythical cave dweller",
+      "creature under a bridge"
+    ],
+    "troop":[
+      "outfit",
+      "scout group",
+      "hike",
+      "army outfit",
+      "military unit",
+      "hiking group"
+    ],
+    "trope":[
+      "figure of speech",
+      "literary device",
+      "figurative use of a word"
+    ],
+    "trout":[
+      "game fish",
+      "tasty fish",
+      "brown and rainbow"
+    ],
+    "trove":[
+      "lode of loot",
+      "cache",
+      "treasure",
+      "hoard",
+      "valuable find",
+      "hidden treasure"
+    ],
+    "truce":[
+      "cease-fire",
+      "cessation of hostilities",
+      "armistice",
+      "treaty"
+    ],
+    "truck":[
+      "highway hauler",
+      "transport",
+      "convoy member",
+      "cargo carrier"
+    ],
+    "truly":[
+      "indeed",
+      "no kidding",
+      "for real",
+      "in all honesty",
+      "in fact"
+    ],
+    "trump":[
+      "strong suit",
+      "kind of card",
+      "bridge call",
+      "ranking suit"
+    ],
+    "trunk":[
+      "large suitcase",
+      "elephant nose",
+      "main part",
+      "not the branches"
+    ],
+    "trust":[
+      "kind of fund",
+      "have faith in",
+      "faith",
+      "have confidence in",
+      "believe in"
+    ],
+    "truth":[
+      "fact",
+      "something verified",
+      "stranger than fiction"
+    ],
+    "tuber":[
+      "plant part",
+      "potato",
+      "root vegetable",
+      "starchy veggie"
+    ],
+    "tubes":[
+      "toothpaste holders",
+      "old tv parts",
+      "squeezable containers",
+      "bike wheel parts"
+    ],
+    "tulip":[
+      "dutch export",
+      "spring bloom",
+      "garden bulb"
+    ],
+    "tumor":[
+      "protuberance",
+      "abnormal growth",
+      "growth",
+      "cancer"
+    ],
+    "tunic":[
+      "simple roman garment",
+      "knee-length garment",
+      "toga alternative"
+    ],
+    "turbo":[
+      "engine type",
+      "engine booster",
+      "powerful engine",
+      "horsepower booster",
+      "kind of engine",
+      "supercharged engine"
+    ],
+    "tutor":[
+      "coach",
+      "private instructor",
+      "instructor for hire",
+      "teach one-on-one"
+    ],
+    "twang":[
+      "manner of speaking",
+      "banjo sound",
+      "southern accent",
+      "country tone"
+    ],
+    "tweak":[
+      "fine-tune",
+      "small change",
+      "adjust slightly",
+      "playful pinch",
+      "minor adjustment"
+    ],
+    "twice":[
+      "over again",
+      "again",
+      "another time",
+      "a second time",
+      "doubly"
+    ],
+    "twill":[
+      "type of cloth",
+      "pants fabric",
+      "fine suit material"
+    ],
+    "twine":[
+      "strong string",
+      "rope",
+      "packing string",
+      "lightweight cord"
+    ],
+    "twins":[
+      "some siblings",
+      "identical or fraternal",
+      "two of a kind"
+    ],
+    "twirl":[
+      "dance move",
+      "spin",
+      "pirouette",
+      "rotate rapidly"
+    ],
+    "twist":[
+      "drink garnish",
+      "wrench",
+      "plot surprise",
+      "coil"
+    ],
+    "types":[
+      "varieties",
+      "sorts",
+      "kinds",
+      "classifications",
+      "uses a keyboard"
+    ],
+    "udder":[
+      "milk dispenser",
+      "cow part",
+      "suckling site"
+    ],
+    "ulcer":[
+      "gastric woe",
+      "sore spot",
+      "tummy trouble",
+      "painful stomach problem"
+    ],
+    "ultra":[
+      "extreme",
+      "extremely",
+      "exceedingly"
+    ],
+    "umbra":[
+      "shade",
+      "shadow",
+      "eclipse feature",
+      "planetary shadow"
+    ],
+    "unbox":[
+      "open a package",
+      "remove from packaging ",
+      "open a gift"
+    ],
+    "uncle":[
+      "family member",
+      "dad's brother",
+      "male relative"
+    ],
+    "under":[
+      "anesthetized",
+      "reporting to",
+      "hypnotized",
+      "beneath",
+      "below",
+      "less than",
+      "below the surface"
+    ],
+    "unfit":[
+      "out of shape",
+      "not suitable",
+      "not qualified",
+      "ill-suited",
+      "flabby"
+    ],
+    "union":[
+      "alliance",
+      "labor party",
+      "combination",
+      "marriage",
+      "merger"
+    ],
+    "unite":[
+      "come together",
+      "consolidate",
+      "join forces",
+      "get together",
+      "join"
+    ],
+    "unity":[
+      "agreement",
+      "harmony",
+      "accord",
+      "oneness",
+      "togetherness"
+    ],
+    "unjam":[
+      "clear",
+      "fix a printer",
+      "remove an obstruction"
+    ],
+    "unlit":[
+      "dark",
+      "pitch black",
+      "not illuminated",
+      "not yet burning"
+    ],
+    "untie":[
+      "free",
+      "let loose",
+      "release",
+      "open",
+      "disentangle"
+    ],
+    "until":[
+      "through",
+      "before",
+      "up to",
+      "no later than"
+    ],
+    "upend":[
+      "flip",
+      "turn over",
+      "overturn",
+      "tip"
+    ],
+    "upper":[
+      "stimulant",
+      "amphetamine",
+      "higher one",
+      "highest"
+    ],
+    "upset":[
+      "not happy",
+      "improbable win",
+      "angry"
+    ],
+    "urban":[
+      "built up",
+      "metropolitan",
+      "city-related",
+      "not rural"
+    ],
+    "usage":[
+      "function",
+      "meter reading",
+      "purpose"
+    ],
+    "usher":[
+      "lead",
+      "theater employee",
+      "show the way",
+      "wedding attendant"
+    ],
+    "usual":[
+      "standard",
+      "expected",
+      "commonplace",
+      "custom",
+      "garden-variety",
+      "typical example"
+    ],
+    "usury":[
+      "exorbitant interest",
+      "loan shark's crime",
+      "illegal lending tactic"
+    ],
+    "utter":[
+      "complete",
+      "put into words",
+      "speak"
+    ],
+    "valet":[
+      "car parker",
+      "parking-lot attendant",
+      "clothes holder"
+    ],
+    "valid":[
+      "legitimate",
+      "not phony",
+      "authentic"
+    ],
+    "valor":[
+      "bravery in battle",
+      "bravery",
+      "guts",
+      "mettle"
+    ],
+    "value":[
+      "prize",
+      "care for",
+      "cherish",
+      "esteem",
+      "regard highly",
+      "worth"
+    ],
+    "valve":[
+      "engine part",
+      "trumpet feature",
+      "pipe attachment",
+      "flow regulator"
+    ],
+    "vapid":[
+      "dull",
+      "lifeless",
+      "uninteresting",
+      "spiritless",
+      "uninspiring"
+    ],
+    "vapor":[
+      "something in the air",
+      "steam",
+      "mist",
+      "humidifier output"
+    ],
+    "vault":[
+      "safe place",
+      "olympics event",
+      "gymnastics move",
+      "gym jump"
+    ],
+    "vaunt":[
+      "crow",
+      "brag",
+      "boast of"
+    ],
+    "vegan":[
+      "herbivore",
+      "stricter than vegetarian",
+      "diet extremist"
+    ],
+    "veils":[
+      "covers",
+      "conceals",
+      "disguises",
+      "bridal accessories"
+    ],
+    "venom":[
+      "malice",
+      "hate",
+      "poison",
+      "rancor"
+    ],
+    "verse":[
+      "song part",
+      "part of a poem",
+      "poetry",
+      "piece of poetry"
+    ],
+    "vests":[
+      "sleeveless garments",
+      "suit pieces",
+      "swat team gear"
+    ],
+    "video":[
+      "broadcast component",
+      "movie",
+      "visual recording"
+    ],
+    "vigil":[
+      "close watch",
+      "sentry's watch",
+      "candlelight ceremony"
+    ],
+    "villa":[
+      "country estate",
+      "country home",
+      "luxurious retreat",
+      "vacation home"
+    ],
+    "viper":[
+      "venomous snake",
+      "poisonous snake",
+      "deadly snake",
+      "treacherous type",
+      "malicious one"
+    ],
+    "viral":[
+      "kind of infection",
+      "spreading fast online",
+      "like a cold"
+    ],
+    "visit":[
+      "stop in to see",
+      "look in on",
+      "travel to see"
+    ],
+    "vital":[
+      "key",
+      "critical",
+      "essential",
+      "absolutely necessary",
+      "full of life"
+    ],
+    "vocal":[
+      "out loud",
+      "relating to the voice",
+      "spoken"
+    ],
+    "voter":[
+      "member of the electorate",
+      "constituent",
+      "election participant"
+    ],
+    "vowel":[
+      "letter type",
+      "a,e,i,o,u",
+      "sometimes y"
+    ],
+    "wacky":[
+      "odd",
+      "screwball",
+      "amusingly eccentric"
+    ],
+    "wafer":[
+      "thin cookie",
+      "symbol of thinness",
+      "semiconductor slice"
+    ],
+    "wager":[
+      "risk",
+      "bet",
+      "lay on the line",
+      "stake",
+      "put money on",
+      "racetrack transaction"
+    ],
+    "wages":[
+      "earnings",
+      "pay",
+      "salaries"
+    ],
+    "wagon":[
+      "family car",
+      "frontier transport",
+      "part of a train"
+    ],
+    "waist":[
+      "tailor's measure",
+      "dieter's concern",
+      "midsection",
+      "middle",
+      "spot for a belt"
+    ],
+    "waits":[
+      "stands in line",
+      "bides one's time",
+      "shows patience"
+    ],
+    "waive":[
+      "give up",
+      "relinquish",
+      "yield",
+      "surrender"
+    ],
+    "walls":[
+      "room dividers",
+      "places for posters",
+      "maze parts"
+    ],
+    "waltz":[
+      "ballroom dance",
+      "chopin work",
+      "dance in 3/4 time"
+    ],
+    "wands":[
+      "mascara applicators",
+      "magic gadgets",
+      "wizard accessories"
+    ],
+    "warms":[
+      "becomes friendly",
+      "heats a bit",
+      "increases in temperature"
+    ],
+    "warns":[
+      "tips off",
+      "alerts",
+      "admonishes",
+      "gives notice",
+      "cautions"
+    ],
+    "warps":[
+      "distorts",
+      "bends out of shape",
+      "twists"
+    ],
+    "waste":[
+      "refuse",
+      "squander",
+      "trash",
+      "garbage",
+      "use inefficiently"
+    ],
+    "watch":[
+      "observe",
+      "keep an eye on",
+      "wristpiece"
+    ],
+    "water":[
+      "firefighting aid",
+      "ocean contents",
+      "two hydrogen, one oxygen"
+    ],
+    "wedge":[
+      "squeeze",
+      "jam in tightly",
+      "triangular shape"
+    ],
+    "weigh":[
+      "consider",
+      "evaluate",
+      "use a scale",
+      "put on a scale"
+    ],
+    "whale":[
+      "largest mammal",
+      "undersea mammal",
+      "high stakes gambler"
+    ],
+    "wharf":[
+      "slip",
+      "berth",
+      "fishing spot",
+      "pier",
+      "dock",
+      "landing place"
+    ],
+    "wheel":[
+      "car part",
+      "tire",
+      "rolling device"
+    ],
+    "where":[
+      "common question starter",
+      "question of place",
+      "which place"
+    ],
+    "which":[
+      "common question starter",
+      "choice word",
+      "question of identity"
+    ],
+    "whine":[
+      "engine sound",
+      "complaint",
+      "moan and groan",
+      "complain"
+    ],
+    "white":[
+      "color of snow",
+      "chess color",
+      "lacking color"
+    ],
+    "widow":[
+      "black spider",
+      "woman who didn't remarry"
+    ],
+    "width":[
+      "lateral measurement",
+      "area component",
+      "shoe stat",
+      "measurement from side to side"
+    ],
+    "wield":[
+      "bring to bear",
+      "brandish",
+      "handle skillfully"
+    ],
+    "wispy":[
+      "gossamer",
+      "not solid",
+      "like thin smoke rings",
+      "like cirrus clouds",
+      "barely discernible"
+    ],
+    "witch":[
+      "black art practitioner",
+      "broom rider",
+      "supernatural crone"
+    ],
+    "wives":[
+      "spouses",
+      "married women"
+    ],
+    "woods":[
+      "forest",
+      "stand of trees",
+      "furniture materials"
+    ],
+    "words":[
+      "things said",
+      "lyrics",
+      "dictionary contents"
+    ],
+    "works":[
+      "is employed",
+      "is operational",
+      "has a job",
+      "is in operating condition"
+    ],
+    "worms":[
+      "some bait",
+      "squirmy bait",
+      "garden critters"
+    ],
+    "would":[
+      "intend to",
+      "is willing to",
+      "was willing to"
+    ],
+    "wound":[
+      "injure",
+      "injury",
+      "do harm to",
+      "hurt",
+      "sore"
+    ],
+    "wraps":[
+      "finishes a film",
+      "cylindrical sandwiches",
+      "spa treatments",
+      "burrito cousins"
+    ],
+    "wreck":[
+      "total",
+      "ruin",
+      "destroy"
+    ],
+    "wrist":[
+      "watch place",
+      "hand attachment",
+      "bracelet holder"
+    ],
+    "write":[
+      "jot down",
+      "correspond",
+      "put down on paper",
+      "author"
+    ],
+    "wrong":[
+      "injustice",
+      "thing to be righted",
+      "mistake"
+    ],
+    "yacht":[
+      "regatta entrant",
+      "pleasure craft",
+      "pricey vessel",
+      "expensive boat"
+    ],
+    "yards":[
+      "football distance",
+      "textile quantities",
+      "lawns"
+    ],
+    "yawns":[
+      "looks bored",
+      "signs of boredom",
+      "acts sleepy",
+      "demonstrates disinterest"
+    ],
+    "years":[
+      "long time",
+      "calendar units",
+      "astronomical periods"
+    ],
+    "youth":[
+      "juvenile",
+      "minor",
+      "child"
+    ],
+    "zones":[
+      "regions",
+      "sectors",
+      "districts"
+    ],
+    "zooms":[
+      "flies",
+      "speeds",
+      "lens types"
+    ]
+  }
+}

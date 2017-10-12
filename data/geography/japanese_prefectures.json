@@ -1,0 +1,99 @@
+{
+  "description": "Japanese regions and prefectures.",
+  "regions":
+  [
+      {
+        "region": "Chūbu",
+        "prefectures": [
+            "Aichi",
+            "Fukui",
+            "Gifu",
+            "Ishikawa",
+            "Nagano",
+            "Niigata",
+            "Shizuoka",
+            "Toyama",
+            "Yamanashi"
+        ]
+      },
+      {
+        "region": "Chūgoku",
+        "prefectures": [
+            "Hiroshima",
+            "Okayama",
+            "Shimane",
+            "Tottori",
+            "Yamaguchi"
+        ]
+
+      },
+      {
+        "region": "Hokkaido",
+        "prefectures": [
+            "Hokkaido"
+        ]
+
+      },
+      {
+        "region": "Kansai",
+        "prefectures": [
+            "Hyōgo",
+            "Kyoto",
+            "Mie",
+            "Nara",
+            "Osaka",
+            "Shiga",
+            "Wakayama"
+        ]
+
+      },
+      {
+        "region": "Kantō",
+        "prefectures": [
+            "Chiba",
+            "Gunma",
+            "Ibaraki",
+            "Kanagawa",
+            "Saitama",
+            "Tochigi",
+            "Tokyo"
+        ]
+
+      },
+      {
+        "region": "Kyushu",
+        "prefectures": [
+            "Fukuoka",
+            "Kagoshima",
+            "Kumamoto",
+            "Miyazaki",
+            "Nagasaki",
+            "Ōita",
+            "Okinawa",
+            "Saga"
+        ]
+
+      },
+      {
+        "region": "Shikoku",
+        "prefectures": [
+            "Ehime",
+            "Kagawa",
+            "Kōchi",
+            "Tokushima"
+        ]
+
+      },
+      {
+        "region": "Tōhoku",
+        "prefectures": [
+            "Akita",
+            "Aomori",
+            "Fukushima",
+            "Iwate",
+            "Miyagi",
+            "Yamagata"
+        ]
+      }
+  ]
+}

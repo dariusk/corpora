@@ -1,0 +1,244 @@
+{
+  "description": "Current (as of 2016) teams in the NBA and where they play",
+  "nba_teams": [
+    {
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Boston Celtics",
+      "city": "Boston",
+      "state": "MA",
+      "stadium": "TD Garden"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Brooklyn Nets",
+      "city": "New York",
+      "state": "NY",
+      "stadium": "Barclays Center"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "New York Knicks",
+      "city": "New York",
+      "state": "NY",
+      "stadium": "Madison Square Garden"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Philadelphia 76ers",
+      "city": "Philadelphia",
+      "state": "PA",
+      "stadium": "Wells Fargo Center"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "name": "Toronto Raptors",
+      "city": "Toronto",
+      "state": "ON",
+      "stadium": "Air Canada Centre"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Central",
+      "name": "Chicago Bulls",
+      "city": "Chicago",
+      "state": "IL",
+      "stadium": "United Center"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Central",
+      "name": "Cleveland Cavaliers",
+      "city": "Cleveland",
+      "state": "OH",
+      "stadium": "Quicken Loans Arena"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Central",
+      "name": "Detroit Pistons",
+      "city": "Auburn Hills",
+      "state": "MI",
+      "stadium": "The Palace of Auburn Hills"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Central",
+      "name": "Indiana Pacers",
+      "city": "Indianapolis",
+      "state": "IN",
+      "stadium": "Bankers Life Fieldhouse"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Central",
+      "name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "state": "WI",
+      "stadium": "BMO Harris Bradley Center"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Southeast",
+      "name": "Atlanta Hawks",
+      "city": "Atlanta",
+      "state": "GA",
+      "stadium": "Philips Arena"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Southeast",
+      "name": "Charlotte Hornets",
+      "city": "Charlotte",
+      "state": "NC",
+      "stadium": "Spectrum Center"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Southeast",
+      "name": "Miami Heat",
+      "city": "Miami",
+      "state": "FL",
+      "stadium": "American Airlines Arena"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Southeast",
+      "name": "Orlando Magic",
+      "city": "Orlando",
+      "state": "FL",
+      "stadium": "Amway Center"
+    },
+    {
+      "conference": "Eastern",
+      "division": "Southeast",
+      "name": "Washington Wizards",
+      "city": "Washington, D.C.",
+      "stadium": "Verizon Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Northwest",
+      "name": "Denver Nuggets",
+      "city": "Denver",
+      "state": "CO",
+      "stadium": "Pepsi Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Northwest",
+      "name": "Minnesota Timberwolves",
+      "city": "Minneapolis",
+      "state": "MN",
+      "stadium": "Target Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Northwest",
+      "name": "Oklahoma City Thunder",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "stadium": "Chesapeake Energy Arena"
+    },
+    {
+      "conference": "Western",
+      "division": "Northwest",
+      "name": "Portland Trail Blazers",
+      "city": "Portland",
+      "state": "OR",
+      "stadium": "Moda Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Northwest",
+      "name": "Utah Jazz",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "stadium": "Vivint Smart Home Arena"
+    },
+    {
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Golden State Warriors",
+      "city": "Oakland",
+      "state": "CA",
+      "stadium": "Oracle Arena"
+    },
+    {
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Los Angeles Clippers",
+      "city": "Los Angeles",
+      "state": "CA",
+      "stadium": "Staples Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "state": "CA",
+      "stadium": "Staples Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Phoenix Suns",
+      "city": "Phoenix",
+      "state": "AZ",
+      "stadium": "Talking Stick Resort Arena"
+    },
+    {
+      "conference": "Western",
+      "division": "Pacific",
+      "name": "Sacramento Kings",
+      "city": "Sacramento",
+      "state": "CA",
+      "stadium": "Golden 1 Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Southwest",
+      "name": "Dallas Mavericks",
+      "city": "Dallas",
+      "state": "TX",
+      "stadium": "American Airlines Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Southwest",
+      "name": "Houston Rockets",
+      "city": "Houston",
+      "state": "TX",
+      "stadium": "Toyota Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Southwest",
+      "name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "state": "TN",
+      "stadium": "FedExForum"
+    },
+    {
+      "conference": "Western",
+      "division": "Southwest",
+      "name": "New Orleans Pelicans",
+      "city": "New Orleans",
+      "state": "LA",
+      "stadium": "Smoothie King Center"
+    },
+    {
+      "conference": "Western",
+      "division": "Southwest",
+      "name": "San Antonio Spurs",
+      "city": "San Antonio",
+      "state": "TX",
+      "stadium": "AT&T Center"
+    }
+  ]
+}

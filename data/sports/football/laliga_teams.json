@@ -1,0 +1,125 @@
+{
+ "description": "Teams in the Spanish Primera División, La Liga(2017-18) with their details ",
+ "laLiga_teams": [
+  {
+   "name": "Alavés",
+   "manager": "Luis Zubeldía",
+   "loc": "Vitoria-Gasteiz",
+   "stadium": "Mendizorrotza"
+  },
+  {
+   "name": "Athletic Bilbao",
+   "manager": "José Ángel Ziganda",
+   "loc": "Bilbao",
+   "stadium": "San Mamés"
+  },
+  {
+   "name": "Atlético Madrid",
+   "manager": "Diego Simeone",
+   "loc": "Madrid",
+   "stadium": "Wanda Metropolitano"
+  },
+  {
+   "name": "Barcelona",
+   "manager": "Ernesto Valverde",
+   "loc": "Barcelona",
+   "stadium": "Camp Nou"
+  },
+  {
+   "name": "Celta Vigo",
+   "manager": "Juan Carlos Unzué",
+   "loc": " Vigo",
+   "stadium": "Balaídos"
+  },
+  {
+   "name": "Deportivo La Coruña",
+   "manager": "Pepe Mel",
+   "loc": "A Coruña",
+   "stadium": "Abanca-Riazor"
+  },
+  {
+   "name": "Eibar",
+   "manager": "José Luis Mendilibar",
+   "loc": "Eibar",
+   "stadium": "Ipurua"
+  },
+  {
+   "name": "Espanyol",
+   "manager": "Quique Sánchez Flores",
+   "loc": "Barcelona",
+   "stadium": "RCDE Stadium"
+  },
+  {
+   "name": "Getafe",
+   "manager": "José Bordalás",
+   "loc": "Getafe",
+   "stadium": "Coliseum Alfonso Pérez"
+  },
+  {
+   "name": "Girona",
+   "manager": "Pablo Machín",
+   "loc": "Girona",
+   "stadium": "Montilivi"
+  },
+  {
+   "name": "Las Palmas",
+   "manager": "Manolo Márquez",
+   "loc": "Las Palmas",
+   "stadium": "Gran Canaria"
+  },
+  {
+   "name": "Leganés",
+   "manager": "Asier Garitano",
+   "loc": "Leganés",
+   "stadium": "Butarque"
+  },
+  {
+   "name": "Levante",
+   "manager": "Juan Muñiz",
+   "loc": "Valencia",
+   "stadium": "Ciutat de València"
+  },
+  {
+   "name": "Málaga",
+   "manager": "Míchel",
+   "loc": "Málaga",
+   "stadium": "La Rosaleda"
+  },
+  {
+   "name": "Real Betis",
+   "manager": "Quique Setién",
+   "loc": "Seville",
+   "stadium": "Benito Villamarín"
+  },
+  {
+   "name": "Real Madrid",
+   "manager": "Zinedine Zidane",
+   "loc": "Madrid",
+   "stadium": "Santiago Bernabéu"
+  },
+  {
+   "name": "Real Sociedad",
+   "manager": "Eusebio Sacristán",
+   "loc": "San Sebastián",
+   "stadium": "Anoeta"
+  },
+  {
+   "name": "Sevilla",
+   "manager": "Eduardo Berizzo",
+   "loc": "Seville",
+   "stadium": "Ramón Sánchez Pizjuán"
+  },
+  {
+   "name": "Valencia",
+   "manager": "Marcelino",
+   "loc": "Valencia",
+   "stadium": "Mestalla"
+  },
+  {
+   "name": "Villarreal",
+   "manager": "Fran Escribá",
+   "loc": "Villarreal",
+   "stadium": "Estadio de la Cerámica"
+  }
+ ]
+}

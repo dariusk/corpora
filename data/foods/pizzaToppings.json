@@ -1,0 +1,30 @@
+{
+  "description": "A list of pizza toppings.",
+  "pizzaToppings": [
+    "anchovies",
+    "artichoke",
+    "bacon",
+    "breakfast bacon",
+    "Canadian bacon",
+    "cheese",
+    "chicken",
+    "chili peppers",
+    "feta",
+    "garlic",
+    "green peppers",
+    "grilled onions",
+    "ground beef",
+    "ham",
+    "hot sauce",
+    "meatballs",
+    "mushrooms",
+    "olives",
+    "onions",
+    "pepperoni",
+    "pineapple",
+    "sausage",
+    "spinach",
+    "sun-dried tomato",
+    "tomatoes"
+  ]
+}
