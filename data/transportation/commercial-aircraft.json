@@ -1,0 +1,242 @@
+{
+	"Description": "A far from exhaustive list of aircraft manufacturers and some of their aircraft types currently in use, with statistics on range, in nautical miles, and the maximum number of seats, which will be referred to as 'seats'. Note, the maximum number of seats would be a single class configuration. Therefore a two or three class configuration could hold significantly fewer seats depending on seat pitch.",
+	"Boeing": [
+		{"737": [
+				{
+					"737-100": {"seats": "124", "range": "1540 nautical miles"}
+				},
+				{
+					"737-200": {"seats": "136", "range": "2600 nautical miles"}
+				},
+				{
+					"737-300": {"seats": "149", "range": "2255 nautical miles"}
+				},
+				{
+					"737-400": {"seats": "188", "range": "2060 nautical miles"}
+				},
+				{
+					"737-500": {"seats": "145", "range": "2375 nautical miles"}
+				},
+				{
+					"737-600": {"seats": "149", "range": "3050 nautical miles"}
+				},
+				{
+					"737-700": {"seats": "149", "range": "3260 nautical miles"}
+				},
+				{
+					"737-800": {"seats": "189", "range": "2940 nautical miles"}
+				},
+				{
+					"737-900": {"seats": "220", "range": "2458 nautical miles"}
+				},
+				{
+					"737 MAX 7": {"seats": "172", "range": "3825 nautical miles"}
+				},
+				{
+					"737 MAX 8": {"seats": "200", "range": "3515 nautical miles"}
+				},
+				{
+					"737 MAX 9": {"seats": "220", "range": "3515 nautical miles"}
+				},
+				{
+					"737 MAX 10": {"seats": "230", "range": "3215 nautical miles"}
+				}
+			]
+			
+		},
+		{"747": [
+				{
+					"747-400ER": {"seats": "660", "range": "7670 nautical miles"}
+				},
+				{
+					"747-8": {"seats": "605", "range": "7730 nautical miles"}
+				}
+			]
+		},
+		{"757": [
+				{
+					"757-200": {"seats": "239", "range": "3915 nautical miles"}
+				},
+				{
+					"757-300": {"seats": "295", "range": "3400 nautical miles"}
+				}
+			]
+		},
+		{"767": [
+				{
+					"767-200": {"seats": "290", "range": "3900 nautical miles"}
+				},
+				{
+					"767-200ER": {"seats": "290", "range": "6590 nautical miles"}
+				},
+				{
+					"767-300": {"seats": "351", "range": "3900 nautical miles"}
+				},
+				{
+					"767-300ER": {"seats": "351", "range": "5980 nautical miles"}
+				},
+				{
+					"767-400ER": {"seats": "375", "range": "5625 nautical miles"}
+				}
+			]
+		},
+		{"777": [
+				{
+					"777-200": {"seats": "440", "range": "5240 nautical miles"}
+				},
+				{
+					"777-200ER": {"seats": "440", "range": "7065 nautical miles"}
+				},
+				{
+					"777-200LR": {"seats": "440", "range": "8555 nautical miles"}
+				},
+				{
+					"777-300": {"seats": "550", "range": "6030 nautical miles"}
+				},
+				{
+					"777-300ER": {"seats": "550", "range": "7370 nautical miles"}
+				}
+			]
+		},
+		{"787": [
+				{
+					"787-8": {"seats": "381", "range": "7355 nautical miles"}
+				},
+				{
+					"787-9": {"seats": "420", "range": "7635 nautical miles"}
+				},
+				{
+					"787-10": {"seats": "440", "range": "6430 nautical miles"}
+				}
+			]
+		}
+	],
+	"Airbus": [
+		{"A320": [	
+			{
+				"A318": {"seats": "136", "range": "3100 nautical miles"}
+			},
+			{
+				"A319": {"seats": "160", "range": "3750 nautical miles"}
+			},
+			{
+				"A320": {"seats": "190", "range": "3300 nautical miles"}
+			},
+			{
+				"A321": {"seats": "230", "range": "3200 nautical miles"}
+			}
+			]
+		},
+		{"A330": [
+			{
+				"A330-200": {"seats": "406", "range": "7250 nautical miles"}
+			},
+			{
+				"A330-300": {"seats": "440", "range": "6350 nautical miles"}
+			}
+			]
+		},
+		{"A340": [
+			{
+				"A340-200": {"seats": "420", "range": "6700 nautical miles"}
+			},
+			{
+				"A340-300": {"seats": "440", "range": "7300 nautical miles"}
+			},
+			{
+				"A340-500": {"seats": "375", "range": "9000 nautical miles"}
+			},
+			{
+				"A340-600": {"seats": "475", "range": "7800 nautical miles"}
+			}
+			]
+		},
+		{"A350": [
+				{
+					"A350-900": {"seats": "440", "range": "8100 nautical miles"}
+				},
+				{
+					"A350-1000": {"seats": "440", "range": "7950 nautical miles"}
+				}
+			]
+		},
+		{"A380-800": {"seats": "868", "range": "8200 nautical miles"}}
+	],
+	"Bombardier": [
+		{"CRJ": [
+				{
+					"CRJ-100": {"seats": "50", "range": "1305 nautical miles"}
+				},
+				{
+					"CRJ-200": {"seats": "50", "range": "1345 nautical miles"}
+				},
+				{
+					"CRJ-700": {"seats": "78", "range": "1378 nautical miles"}
+				},
+				{
+					"CRJ-900": {"seats": "90", "range": "1553 nautical miles"}
+				},
+				{
+					"CRJ-1000": {"seats": "104", "range": "1622 nautical miles"}
+				}
+			]
+		},
+		{"DHC-8": [
+				{
+					"Q200": {"seats": "40", "range": "1125 nautical miles"}
+				},
+				{
+					"Q300": {"seats": "56", "range": "924 nautical miles"}
+				},
+				{
+					"Q400": {"seats": "90", "range": "1100 nautical miles"}
+				}
+			]
+		}
+	],
+	"Embraer": [
+		{"EMB-120": {"seats": "30", "range": "1750 nautical miles"}},
+		{"ERJ": [
+				{
+					"ERJ135": {"seats": "37", "range": "1300 nautical miles"}
+				},
+				{
+					"ERJ140": {"seats": "44", "range": "1250 nautical miles"}
+				},
+				{
+					"ERJ145": {"seats": "50", "range": "1550 nautical miles"}
+				}
+			]
+		},
+		{"Embraer E-Jet": [
+				{
+					"E170": {"seats": "78", "range": "2150 nautical miles"}
+				},
+				{
+					"E175": {"seats": "88", "range": "2200 nautical miles"}
+				},
+				{
+					"E190": {"seats": "114", "range": "2450 nautical miles"}
+				},
+				{
+					"E195": {"seats": "124", "range": "2300 nautical miles"}
+				}
+			]
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
