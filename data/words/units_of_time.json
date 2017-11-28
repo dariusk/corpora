@@ -1,6 +1,6 @@
 {
   "description": "A list of units of time ordered by magnitude, both formal and colloquial.",
-  "comments": ["Some lists are incomplete, feel free to add"]
+  "comments": ["Some lists are incomplete, feel free to add"],
   "formal_time_units": [
     "nanosecond",
     "microsecond",
