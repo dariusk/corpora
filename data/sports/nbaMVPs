@@ -1,0 +1,254 @@
+{
+  "description": "NBA MVP award winners 1956-2017",
+  "souce": "Wikipedia",
+  "winners": {
+    "1956": {
+      "name": "Bob Petit",
+      "team": "St. Louis Hawks"
+    },
+    "1957": {
+      "name": "Bob Cousy",
+      "team": "Boston Celtics"
+    },
+    "1958": {
+      "name": "Bill Russell",
+      "team": "Boston Celtics"
+    },
+    "1959": {
+      "name": "Bob Petit",
+      "team": "St. Louis Hawks"
+    },
+    "1960": {
+      "name": "Wilt Chamberlain",
+      "team": "Philadelphia Warriors"
+    },
+    "1961": {
+      "name": "Bill Russell",
+      "team": "Boston Celtics"
+    },
+    "1962": {
+      "name": "Bill Russell",
+      "team": "Boston Celtics"
+    },
+    "1963": {
+      "name": "Bill Russell",
+      "team": "Boston Celtics"
+    },
+    "1964": {
+      "name": "Oscar Robertson",
+      "team": "Cincinnati Royals"
+    },
+    "1965": {
+      "name": "Bill Russell",
+      "team": "Boston Celtics"
+    },
+    "1966": {
+      "name": "Wilt Chamberlain",
+      "team": "Philadelphia 76ers"
+    },
+    "1967": {
+      "name": "Wilt Chamberlain",
+      "team": "Philadelphia 76ers"
+    },
+    "1968": {
+      "name": "Wilt Chamberlain",
+      "team": "Philadelphia 76ers"
+    },
+    "1969": {
+      "name": "Wes Unseld",
+      "team": "Baltimore Bullets"
+    },
+    "1970": {
+      "name": "Willis Reed",
+      "team": "New York Knicks"
+    },
+    "1971": {
+      "name": "Lew Alcindor",
+      "team": "Milwaukee Bucks"
+    },
+    "1972": {
+      "name": "Kareem Abdul-Jabbar",
+      "team": "Milwaukee Bucks"
+    },
+    "1973": {
+      "name": "Dave Cowens",
+      "team": "Boston Celtics"
+    },
+    "1974": {
+      "name": "Kareem Abdul-Jabbar",
+      "team": "Milwaukee Bucks"
+    },
+    "1975": {
+      "name": "Bob McAdoo",
+      "team": "Buffalo Braves"
+    },
+    "1976": {
+      "name": "Kareem Abdul-Jabbar",
+      "team": "Los Angeles Lakers"
+    },
+    "1977": {
+      "name": "Kareem Abdul-Jabbar",
+      "team": "Los Angeles Lakers"
+    },
+    "1978": {
+      "name": "Bill Walton",
+      "team": "Portland Trail Blazers"
+    },
+    "1979": {
+      "name": "Moses Malone",
+      "team": "Houston Rockets"
+    },
+    "1980": {
+      "name": "Kareem Abdul-Jabbar",
+      "team": "Los Angeles Lakers"
+    },
+    "1981": {
+      "name": "Julius Erving",
+      "team": "Philadelphia 76ers"
+    },
+    "1982": {
+      "name": "Moses Malone",
+      "team": "Houston Rockets"
+    },
+    "1983": {
+      "name": "Moses Malone",
+      "team": "Philadelphia 76ers"
+    },
+    "1984": {
+      "name": "Larry Bird",
+      "team": "Boston Celtics"
+    },
+    "1985": {
+      "name": "Larry Bird",
+      "team": "Boston Celtics"
+    },
+    "1986": {
+      "name": "Larry Bird",
+      "team": "Boston Celtics"
+    },
+    "1987": {
+      "name": "Magic Johnson",
+      "team": "Los Angeles Lakers"
+    },
+    "1988": {
+      "name": "Michael Jordan",
+      "team": "Chicago Bulls"
+    },
+    "1989": {
+      "name": "Magic Johnson",
+      "team": "Los Angeles Lakers"
+    },
+    "1990": {
+      "name": "Magic Johnson",
+      "team": "Los Angeles Lakers"
+    },
+    "1991": {
+      "name": "Michael Jordan",
+      "team": "Chicago Bulls"
+    },
+    "1992": {
+      "name": "Michael Jordan",
+      "team": "Chicago Bulls"
+    },
+    "1993": {
+      "name": "Charles Barkley",
+      "team": "Phoenix Suns"
+    },
+    "1994": {
+      "name": "Hakeem Olajuwon",
+      "team": "Houston Rockets"
+    },
+    "1995": {
+      "name": "David Robinson",
+      "team": "San Antonio Spurs"
+    },
+    "1996": {
+      "name": "Michael Jordan",
+      "team": "Chicago Bulls"
+    },
+    "1997": {
+      "name": "Karl Malone",
+      "team": "Utah Jazz"
+    },
+    "1998": {
+      "name": "Michael Jordan",
+      "team": "Chicago Bulls"
+    },
+    "1999": {
+      "name": "Karl Malone",
+      "team": "Utah Jazz"
+    },
+    "2000": {
+      "name": "Shaquille O'Neal",
+      "team": "Los Angeles Lakers"
+    },
+    "2001": {
+      "name": "Allen Iverson",
+      "team": "Philadelphia 76ers"
+    },
+    "2002": {
+      "name": "Tim Duncan",
+      "team": "San Antonio Spurs"
+    },
+    "2003": {
+      "name": "Tim Duncan",
+      "team": "San Antonio Spurs"
+    },
+    "2004": {
+      "name": "Kevin Garnett",
+      "team": "Minnesota Timberwolves"
+    },
+    "2005": {
+      "name": "Steve Nash",
+      "team": "Phoenix Suns"
+    },
+    "2006": {
+      "name": "Steve Nash",
+      "team": "Phoenix Suns"
+    },
+    "2007": {
+      "name": "Dirk Nowitzki",
+      "team": "Dallas Mavericks"
+    },
+    "2008": {
+      "name": "Kobe Bryant",
+      "team": "Los Angeles Lakers"
+    },
+    "2009": {
+      "name": "LeBron James",
+      "team": "Cleveland Cavaliers"
+    },
+    "2010": {
+      "name": "LeBron James",
+      "team": "Cleveland Cavaliers"
+    },
+    "2011": {
+      "name": "Derrick Rose",
+      "team": "Chicago Bulls"
+    },
+    "2012": {
+      "name": "LeBron James",
+      "team": "Miami Heat"
+    },
+    "2013": {
+      "name": "LeBron James",
+      "team": "Miami Heat"
+    },
+    "2014": {
+      "name": "Kevin Durant",
+      "team": "Oklahoma City Thunder"
+    },
+    "2015": {
+      "name": "Stephen Curry",
+      "team": "Golden State Warriors"
+    },
+    "2016": {
+      "name": "Stephen Curry",
+      "team": "Golden State Warriors"
+    },
+    "2017": {
+      "name": "Russell Westbrook",
+      "team": "Oklahoma City Thunder"
+    }
+  }
+}
