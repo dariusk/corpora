@@ -12,6 +12,21 @@
     }, {
       "bracket" : "fibers",
       "winner" : "yarn"
+    }, {
+      "bracket" : "positive emoji",
+      "winner" : "🔥"
+    }, {
+      "bracket" : "decorative stones",
+      "winner" : "oolitic limestone"
+    }, {
+      "bracket" : "packaging",
+      "winner" : "modified atmosphere"
+    }, {
+      "bracket" : "Common character archetypes",
+      "winner" : "trickster"
+    }, {
+      "bracket" : "flowers",
+      "winner" : "foxglove"
     }
   ]
 }
