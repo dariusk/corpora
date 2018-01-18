@@ -1,0 +1,32 @@
+{
+  "description": "A list of units of time ordered by magnitude, both formal and colloquial.",
+  "comments": ["Some lists are incomplete, feel free to add"],
+  "formal_time_units": [
+    "nanosecond",
+    "microsecond",
+    "millisecond",
+    "second",
+    "minute",
+    "hour",
+    "day",
+    "week",
+    "month",
+    "year",
+    "decade",
+    "century",
+    "millenium"
+  ],
+  "informal_discrete_time_units": [
+    "fortnight",
+    "blue moon",
+    "30 days",
+    "90 days",
+    "quarter"
+  ],
+  "informal_nondiscrete_time_units": [
+    "moment",
+    "once in a while",
+    "later",
+    "a bit"
+  ]
+}
