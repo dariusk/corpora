@@ -1,0 +1,4488 @@
+{
+  "description": "U.S. Metropolitan, Micropolitan and Combined Statistical Areas with 2016 population estimates",
+  "source": "US Census American Community Survey 2016 5-year Data",
+  "areas": {
+    "metropolitan": [
+      {
+        "name": "New York-Newark-Jersey City, NY-NJ-PA",
+        "population": 20031443
+      },
+      {
+        "name": "Los Angeles-Long Beach-Anaheim, CA",
+        "population": 13189366
+      },
+      {
+        "name": "Chicago-Naperville-Elgin, IL-IN-WI",
+        "population": 9528396
+      },
+      {
+        "name": "Dallas-Fort Worth-Arlington, TX",
+        "population": 6957123
+      },
+      {
+        "name": "Houston-The Woodlands-Sugar Land, TX",
+        "population": 6482592
+      },
+      {
+        "name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+        "population": 6047721
+      },
+      {
+        "name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+        "population": 6011752
+      },
+      {
+        "name": "Miami-Fort Lauderdale-West Palm Beach, FL",
+        "population": 5926955
+      },
+      {
+        "name": "Atlanta-Sandy Springs-Roswell, GA",
+        "population": 5612777
+      },
+      {
+        "name": "Boston-Cambridge-Newton, MA-NH",
+        "population": 4728844
+      },
+      {
+        "name": "San Francisco-Oakland-Hayward, CA",
+        "population": 4577530
+      },
+      {
+        "name": "Phoenix-Mesa-Scottsdale, AZ",
+        "population": 4486153
+      },
+      {
+        "name": "Riverside-San Bernardino-Ontario, CA",
+        "population": 4430646
+      },
+      {
+        "name": "Detroit-Warren-Dearborn, MI",
+        "population": 4296731
+      },
+      {
+        "name": "Seattle-Tacoma-Bellevue, WA",
+        "population": 3671095
+      },
+      {
+        "name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+        "population": 3488436
+      },
+      {
+        "name": "San Diego-Carlsbad, CA",
+        "population": 3253356
+      },
+      {
+        "name": "Tampa-St. Petersburg-Clearwater, FL",
+        "population": 2927714
+      },
+      {
+        "name": "St. Louis, MO-IL",
+        "population": 2803449
+      },
+      {
+        "name": "Baltimore-Columbia-Towson, MD",
+        "population": 2780873
+      },
+      {
+        "name": "Denver-Aurora-Lakewood, CO",
+        "population": 2752056
+      },
+      {
+        "name": "Charlotte-Concord-Gastonia, NC-SC",
+        "population": 2381152
+      },
+      {
+        "name": "Pittsburgh, PA",
+        "population": 2354926
+      },
+      {
+        "name": "Portland-Vancouver-Hillsboro, OR-WA",
+        "population": 2351319
+      },
+      {
+        "name": "San Antonio-New Braunfels, TX",
+        "population": 2332345
+      },
+      {
+        "name": "Orlando-Kissimmee-Sanford, FL",
+        "population": 2328508
+      },
+      {
+        "name": "Sacramento--Roseville--Arden-Arcade, CA",
+        "population": 2242542
+      },
+      {
+        "name": "San Juan-Carolina-Caguas, PR",
+        "population": 2230563
+      },
+      {
+        "name": "Cincinnati, OH-KY-IN",
+        "population": 2146410
+      },
+      {
+        "name": "Las Vegas-Henderson-Paradise, NV",
+        "population": 2070153
+      },
+      {
+        "name": "Kansas City, MO-KS",
+        "population": 2070147
+      },
+      {
+        "name": "Cleveland-Elyria, OH",
+        "population": 2061630
+      },
+      {
+        "name": "Columbus, OH",
+        "population": 1995004
+      },
+      {
+        "name": "Indianapolis-Carmel-Anderson, IN",
+        "population": 1968768
+      },
+      {
+        "name": "San Jose-Sunnyvale-Santa Clara, CA",
+        "population": 1943107
+      },
+      {
+        "name": "Austin-Round Rock, TX",
+        "population": 1942615
+      },
+      {
+        "name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+        "population": 1794570
+      },
+      {
+        "name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+        "population": 1714428
+      },
+      {
+        "name": "Providence-Warwick, RI-MA",
+        "population": 1609359
+      },
+      {
+        "name": "Milwaukee-Waukesha-West Allis, WI",
+        "population": 1571730
+      },
+      {
+        "name": "Jacksonville, FL",
+        "population": 1424097
+      },
+      {
+        "name": "Memphis, TN-MS-AR",
+        "population": 1341339
+      },
+      {
+        "name": "Oklahoma City, OK",
+        "population": 1337075
+      },
+      {
+        "name": "Louisville/Jefferson County, KY-IN",
+        "population": 1269550
+      },
+      {
+        "name": "Richmond, VA",
+        "population": 1258158
+      },
+      {
+        "name": "New Orleans-Metairie, LA",
+        "population": 1250247
+      },
+      {
+        "name": "Raleigh, NC",
+        "population": 1243720
+      },
+      {
+        "name": "Hartford-West Hartford-East Hartford, CT",
+        "population": 1211826
+      },
+      {
+        "name": "Salt Lake City, UT",
+        "population": 1154504
+      },
+      {
+        "name": "Birmingham-Hoover, AL",
+        "population": 1141309
+      },
+      {
+        "name": "Buffalo-Cheektowaga-Niagara Falls, NY",
+        "population": 1135503
+      },
+      {
+        "name": "Rochester, NY",
+        "population": 1082226
+      },
+      {
+        "name": "Grand Rapids-Wyoming, MI",
+        "population": 1028173
+      },
+      {
+        "name": "Tucson, AZ",
+        "population": 1003338
+      },
+      {
+        "name": "Urban Honolulu, HI",
+        "population": 986999
+      },
+      {
+        "name": "Tulsa, OK",
+        "population": 970603
+      },
+      {
+        "name": "Fresno, CA",
+        "population": 963160
+      },
+      {
+        "name": "Bridgeport-Stamford-Norwalk, CT",
+        "population": 941618
+      },
+      {
+        "name": "Worcester, MA-CT",
+        "population": 930667
+      },
+      {
+        "name": "Omaha-Council Bluffs, NE-IA",
+        "population": 904834
+      },
+      {
+        "name": "Albuquerque, NM",
+        "population": 904486
+      },
+      {
+        "name": "Albany-Schenectady-Troy, NY",
+        "population": 879291
+      },
+      {
+        "name": "Bakersfield, CA",
+        "population": 871337
+      },
+      {
+        "name": "Greenville-Anderson-Mauldin, SC",
+        "population": 862064
+      },
+      {
+        "name": "New Haven-Milford, CT",
+        "population": 860874
+      },
+      {
+        "name": "Knoxville, TN",
+        "population": 857111
+      },
+      {
+        "name": "Oxnard-Thousand Oaks-Ventura, CA",
+        "population": 843110
+      },
+      {
+        "name": "El Paso, TX",
+        "population": 837073
+      },
+      {
+        "name": "Allentown-Bethlehem-Easton, PA-NJ",
+        "population": 830737
+      },
+      {
+        "name": "McAllen-Edinburg-Mission, TX",
+        "population": 828334
+      },
+      {
+        "name": "Baton Rouge, LA",
+        "population": 824667
+      },
+      {
+        "name": "Dayton, OH",
+        "population": 800950
+      },
+      {
+        "name": "Columbia, SC",
+        "population": 800559
+      },
+      {
+        "name": "North Port-Sarasota-Bradenton, FL",
+        "population": 751422
+      },
+      {
+        "name": "Greensboro-High Point, NC",
+        "population": 746301
+      },
+      {
+        "name": "Charleston-North Charleston, SC",
+        "population": 728271
+      },
+      {
+        "name": "Little Rock-North Little Rock-Conway, AR",
+        "population": 727371
+      },
+      {
+        "name": "Stockton-Lodi, CA",
+        "population": 714860
+      },
+      {
+        "name": "Akron, OH",
+        "population": 703168
+      },
+      {
+        "name": "Colorado Springs, CO",
+        "population": 688643
+      },
+      {
+        "name": "Cape Coral-Fort Myers, FL",
+        "population": 680970
+      },
+      {
+        "name": "Boise City, ID",
+        "population": 663680
+      },
+      {
+        "name": "Syracuse, NY",
+        "population": 660652
+      },
+      {
+        "name": "Winston-Salem, NC",
+        "population": 654589
+      },
+      {
+        "name": "Wichita, KS",
+        "population": 640505
+      },
+      {
+        "name": "Lakeland-Winter Haven, FL",
+        "population": 637691
+      },
+      {
+        "name": "Madison, WI",
+        "population": 634269
+      },
+      {
+        "name": "Ogden-Clearfield, UT",
+        "population": 632793
+      },
+      {
+        "name": "Springfield, MA",
+        "population": 629107
+      },
+      {
+        "name": "Deltona-Daytona Beach-Ormond Beach, FL",
+        "population": 613723
+      },
+      {
+        "name": "Des Moines-West Des Moines, IA",
+        "population": 611755
+      },
+      {
+        "name": "Toledo, OH",
+        "population": 606684
+      },
+      {
+        "name": "Augusta-Richmond County, GA-SC",
+        "population": 584964
+      },
+      {
+        "name": "Jackson, MS",
+        "population": 578095
+      },
+      {
+        "name": "Provo-Orem, UT",
+        "population": 574684
+      },
+      {
+        "name": "Harrisburg-Carlisle, PA",
+        "population": 561447
+      },
+      {
+        "name": "Palm Bay-Melbourne-Titusville, FL",
+        "population": 560683
+      },
+      {
+        "name": "Scranton--Wilkes-Barre--Hazleton, PA",
+        "population": 559898
+      },
+      {
+        "name": "Youngstown-Warren-Boardman, OH-PA",
+        "population": 552521
+      },
+      {
+        "name": "Chattanooga, TN-GA",
+        "population": 544522
+      },
+      {
+        "name": "Spokane-Spokane Valley, WA",
+        "population": 542604
+      },
+      {
+        "name": "Durham-Chapel Hill, NC",
+        "population": 542399
+      },
+      {
+        "name": "Lancaster, PA",
+        "population": 533110
+      },
+      {
+        "name": "Modesto, CA",
+        "population": 530561
+      },
+      {
+        "name": "Portland-South Portland, ME",
+        "population": 523874
+      },
+      {
+        "name": "Fayetteville-Springdale-Rogers, AR-MO",
+        "population": 503642
+      },
+      {
+        "name": "Santa Rosa, CA",
+        "population": 497776
+      },
+      {
+        "name": "Lexington-Fayette, KY",
+        "population": 495193
+      },
+      {
+        "name": "Lafayette, LA",
+        "population": 484043
+      },
+      {
+        "name": "Pensacola-Ferry Pass-Brent, FL",
+        "population": 473477
+      },
+      {
+        "name": "Lansing-East Lansing, MI",
+        "population": 470348
+      },
+      {
+        "name": "Visalia-Porterville, CA",
+        "population": 455769
+      },
+      {
+        "name": "Springfield, MO",
+        "population": 452198
+      },
+      {
+        "name": "Corpus Christi, TX",
+        "population": 447102
+      },
+      {
+        "name": "Port St. Lucie, FL",
+        "population": 446728
+      },
+      {
+        "name": "Shreveport-Bossier City, LA",
+        "population": 445227
+      },
+      {
+        "name": "Reno, NV",
+        "population": 443855
+      },
+      {
+        "name": "Asheville, NC",
+        "population": 441724
+      },
+      {
+        "name": "York-Hanover, PA",
+        "population": 440604
+      },
+      {
+        "name": "Huntsville, AL",
+        "population": 440230
+      },
+      {
+        "name": "Santa Maria-Santa Barbara, CA",
+        "population": 439395
+      },
+      {
+        "name": "Salinas, CA",
+        "population": 430201
+      },
+      {
+        "name": "Vallejo-Fairfield, CA",
+        "population": 429596
+      },
+      {
+        "name": "Killeen-Temple, TX",
+        "population": 426926
+      },
+      {
+        "name": "Fort Wayne, IN",
+        "population": 426755
+      },
+      {
+        "name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC",
+        "population": 419585
+      },
+      {
+        "name": "Brownsville-Harlingen, TX",
+        "population": 418785
+      },
+      {
+        "name": "Mobile, AL",
+        "population": 414291
+      },
+      {
+        "name": "Reading, PA",
+        "population": 414097
+      },
+      {
+        "name": "Flint, MI",
+        "population": 413090
+      },
+      {
+        "name": "Beaumont-Port Arthur, TX",
+        "population": 406506
+      },
+      {
+        "name": "Salem, OR",
+        "population": 404997
+      },
+      {
+        "name": "Manchester-Nashua, NH",
+        "population": 404948
+      },
+      {
+        "name": "Canton-Massillon, OH",
+        "population": 402870
+      },
+      {
+        "name": "Anchorage, AK",
+        "population": 398000
+      },
+      {
+        "name": "Salisbury, MD-DE",
+        "population": 390091
+      },
+      {
+        "name": "Gulfport-Biloxi-Pascagoula, MS",
+        "population": 385448
+      },
+      {
+        "name": "Davenport-Moline-Rock Island, IA-IL",
+        "population": 383304
+      },
+      {
+        "name": "Peoria, IL",
+        "population": 379241
+      },
+      {
+        "name": "Fayetteville, NC",
+        "population": 377694
+      },
+      {
+        "name": "Tallahassee, FL",
+        "population": 376337
+      },
+      {
+        "name": "Montgomery, AL",
+        "population": 373963
+      },
+      {
+        "name": "Savannah, GA",
+        "population": 372569
+      },
+      {
+        "name": "Trenton, NJ",
+        "population": 371101
+      },
+      {
+        "name": "Hickory-Lenoir-Morganton, NC",
+        "population": 363377
+      },
+      {
+        "name": "Huntington-Ashland, WV-KY-OH",
+        "population": 362559
+      },
+      {
+        "name": "Eugene, OR",
+        "population": 360273
+      },
+      {
+        "name": "Ann Arbor, MI",
+        "population": 358082
+      },
+      {
+        "name": "Naples-Immokalee-Marco Island, FL",
+        "population": 348236
+      },
+      {
+        "name": "Rockford, IL",
+        "population": 342552
+      },
+      {
+        "name": "Ocala, FL",
+        "population": 340341
+      },
+      {
+        "name": "Kalamazoo-Portage, MI",
+        "population": 333821
+      },
+      {
+        "name": "Fort Collins, CO",
+        "population": 325228
+      },
+      {
+        "name": "Ponce, PR",
+        "population": 324001
+      },
+      {
+        "name": "Spartanburg, SC",
+        "population": 322157
+      },
+      {
+        "name": "Aguadilla-Isabela, PR",
+        "population": 320810
+      },
+      {
+        "name": "South Bend-Mishawaka, IN-MI",
+        "population": 319491
+      },
+      {
+        "name": "Lincoln, NE",
+        "population": 318820
+      },
+      {
+        "name": "Evansville, IN-KY",
+        "population": 315008
+      },
+      {
+        "name": "Green Bay, WI",
+        "population": 314555
+      },
+      {
+        "name": "Boulder, CO",
+        "population": 313961
+      },
+      {
+        "name": "Roanoke, VA",
+        "population": 312891
+      },
+      {
+        "name": "Columbus, GA-AL",
+        "population": 312459
+      },
+      {
+        "name": "Kingsport-Bristol-Bristol, TN-VA",
+        "population": 307491
+      },
+      {
+        "name": "Lubbock, TX",
+        "population": 306392
+      },
+      {
+        "name": "Utica-Rome, NY",
+        "population": 296416
+      },
+      {
+        "name": "Fort Smith, AR-OK",
+        "population": 280507
+      },
+      {
+        "name": "Duluth, MN-WI",
+        "population": 279540
+      },
+      {
+        "name": "Erie, PA",
+        "population": 279133
+      },
+      {
+        "name": "San Luis Obispo-Paso Robles-Arroyo Grande, CA",
+        "population": 278680
+      },
+      {
+        "name": "Greeley, CO",
+        "population": 278065
+      },
+      {
+        "name": "Clarksville, TN-KY",
+        "population": 277912
+      },
+      {
+        "name": "Kennewick-Richland, WA",
+        "population": 275329
+      },
+      {
+        "name": "Atlantic City-Hammonton, NJ",
+        "population": 274026
+      },
+      {
+        "name": "Gainesville, FL",
+        "population": 273614
+      },
+      {
+        "name": "Wilmington, NC",
+        "population": 272788
+      },
+      {
+        "name": "Norwich-New London, CT",
+        "population": 272033
+      },
+      {
+        "name": "Santa Cruz-Watsonville, CA",
+        "population": 270931
+      },
+      {
+        "name": "Olympia-Tumwater, WA",
+        "population": 266311
+      },
+      {
+        "name": "Laredo, TX",
+        "population": 266006
+      },
+      {
+        "name": "Merced, CA",
+        "population": 265001
+      },
+      {
+        "name": "Cedar Rapids, IA",
+        "population": 264277
+      },
+      {
+        "name": "Waco, TX",
+        "population": 260659
+      },
+      {
+        "name": "Amarillo, TX",
+        "population": 260495
+      },
+      {
+        "name": "Hagerstown-Martinsburg, MD-WV",
+        "population": 259744
+      },
+      {
+        "name": "Lynchburg, VA",
+        "population": 258062
+      },
+      {
+        "name": "Bremerton-Silverdale, WA",
+        "population": 257488
+      },
+      {
+        "name": "Crestview-Fort Walton Beach-Destin, FL",
+        "population": 257326
+      },
+      {
+        "name": "Yakima, WA",
+        "population": 247681
+      },
+      {
+        "name": "Sioux Falls, SD",
+        "population": 247315
+      },
+      {
+        "name": "Binghamton, NY",
+        "population": 247030
+      },
+      {
+        "name": "College Station-Bryan, TX",
+        "population": 243850
+      },
+      {
+        "name": "Tuscaloosa, AL",
+        "population": 237672
+      },
+      {
+        "name": "Champaign-Urbana, IL",
+        "population": 236647
+      },
+      {
+        "name": "Topeka, KS",
+        "population": 233773
+      },
+      {
+        "name": "Appleton, WI",
+        "population": 231452
+      },
+      {
+        "name": "Macon-Bibb County, GA",
+        "population": 230785
+      },
+      {
+        "name": "Fargo, ND-MN",
+        "population": 228254
+      },
+      {
+        "name": "Charlottesville, VA",
+        "population": 226817
+      },
+      {
+        "name": "Chico, CA",
+        "population": 223877
+      },
+      {
+        "name": "Charleston, WV",
+        "population": 222314
+      },
+      {
+        "name": "Tyler, TX",
+        "population": 219745
+      },
+      {
+        "name": "Prescott, AZ",
+        "population": 218586
+      },
+      {
+        "name": "Longview, TX",
+        "population": 216775
+      },
+      {
+        "name": "Burlington-South Burlington, VT",
+        "population": 216080
+      },
+      {
+        "name": "Barnstable Town, MA",
+        "population": 214703
+      },
+      {
+        "name": "Las Cruces, NM",
+        "population": 213825
+      },
+      {
+        "name": "Rochester, MN",
+        "population": 212669
+      },
+      {
+        "name": "Lafayette-West Lafayette, IN",
+        "population": 212113
+      },
+      {
+        "name": "Springfield, IL",
+        "population": 211215
+      },
+      {
+        "name": "Medford, OR",
+        "population": 210916
+      },
+      {
+        "name": "Houma-Thibodaux, LA",
+        "population": 210787
+      },
+      {
+        "name": "Bellingham, WA",
+        "population": 209729
+      },
+      {
+        "name": "Florence, SC",
+        "population": 206264
+      },
+      {
+        "name": "Lake Charles, LA",
+        "population": 203972
+      },
+      {
+        "name": "Lake Havasu City-Kingman, AZ",
+        "population": 203629
+      },
+      {
+        "name": "Yuma, AZ",
+        "population": 203292
+      },
+      {
+        "name": "Hilton Head Island-Bluffton-Beaufort, SC",
+        "population": 202502
+      },
+      {
+        "name": "Elkhart-Goshen, IN",
+        "population": 201640
+      },
+      {
+        "name": "Johnson City, TN",
+        "population": 200696
+      },
+      {
+        "name": "Athens-Clarke County, GA",
+        "population": 200213
+      },
+      {
+        "name": "Daphne-Fairhope-Foley, AL",
+        "population": 199510
+      },
+      {
+        "name": "Saginaw, MI",
+        "population": 195201
+      },
+      {
+        "name": "Racine, WI",
+        "population": 194873
+      },
+      {
+        "name": "Panama City, FL",
+        "population": 194212
+      },
+      {
+        "name": "St. Cloud, MN",
+        "population": 193118
+      },
+      {
+        "name": "Arecibo, PR",
+        "population": 190808
+      },
+      {
+        "name": "Gainesville, GA",
+        "population": 190482
+      },
+      {
+        "name": "Bloomington, IL",
+        "population": 189576
+      },
+      {
+        "name": "Warner Robins, GA",
+        "population": 187504
+      },
+      {
+        "name": "Jacksonville, NC",
+        "population": 185755
+      },
+      {
+        "name": "Blacksburg-Christiansburg-Radford, VA",
+        "population": 181288
+      },
+      {
+        "name": "Kingston, NY",
+        "population": 180505
+      },
+      {
+        "name": "Redding, CA",
+        "population": 179228
+      },
+      {
+        "name": "Monroe, LA",
+        "population": 178858
+      },
+      {
+        "name": "El Centro, CA",
+        "population": 178807
+      },
+      {
+        "name": "Joplin, MO",
+        "population": 176117
+      },
+      {
+        "name": "Greenville, NC",
+        "population": 175150
+      },
+      {
+        "name": "Columbia, MO",
+        "population": 172773
+      },
+      {
+        "name": "Muskegon, MI",
+        "population": 172148
+      },
+      {
+        "name": "Dover, DE",
+        "population": 171474
+      },
+      {
+        "name": "Terre Haute, IN",
+        "population": 171445
+      },
+      {
+        "name": "Bend-Redmond, OR",
+        "population": 170813
+      },
+      {
+        "name": "Waterloo-Cedar Falls, IA",
+        "population": 169857
+      },
+      {
+        "name": "Punta Gorda, FL",
+        "population": 169642
+      },
+      {
+        "name": "Oshkosh-Neenah, WI",
+        "population": 169487
+      },
+      {
+        "name": "Yuba City, CA",
+        "population": 169303
+      },
+      {
+        "name": "Abilene, TX",
+        "population": 168774
+      },
+      {
+        "name": "Sioux City, IA-NE-SD",
+        "population": 168746
+      },
+      {
+        "name": "East Stroudsburg, PA",
+        "population": 167126
+      },
+      {
+        "name": "Billings, MT",
+        "population": 166414
+      },
+      {
+        "name": "Bowling Green, KY",
+        "population": 166401
+      },
+      {
+        "name": "Eau Claire, WI",
+        "population": 165262
+      },
+      {
+        "name": "Bloomington, IN",
+        "population": 164330
+      },
+      {
+        "name": "Iowa City, IA",
+        "population": 164121
+      },
+      {
+        "name": "Kahului-Wailuku-Lahaina, HI",
+        "population": 162547
+      },
+      {
+        "name": "Pueblo, CO",
+        "population": 162158
+      },
+      {
+        "name": "Midland, TX",
+        "population": 161268
+      },
+      {
+        "name": "Janesville-Beloit, WI",
+        "population": 160986
+      },
+      {
+        "name": "Jackson, MI",
+        "population": 159483
+      },
+      {
+        "name": "State College, PA",
+        "population": 159178
+      },
+      {
+        "name": "Burlington, NC",
+        "population": 156372
+      },
+      {
+        "name": "Vineland-Bridgeton, NJ",
+        "population": 155744
+      },
+      {
+        "name": "Niles-Benton Harbor, MI",
+        "population": 155134
+      },
+      {
+        "name": "Albany, GA",
+        "population": 154830
+      },
+      {
+        "name": "Alexandria, LA",
+        "population": 154745
+      },
+      {
+        "name": "Auburn-Opelika, AL",
+        "population": 153947
+      },
+      {
+        "name": "Madera, CA",
+        "population": 153366
+      },
+      {
+        "name": "Odessa, TX",
+        "population": 153177
+      },
+      {
+        "name": "Decatur, AL",
+        "population": 152988
+      },
+      {
+        "name": "Bangor, ME",
+        "population": 152978
+      },
+      {
+        "name": "Chambersburg-Waynesboro, PA",
+        "population": 152707
+      },
+      {
+        "name": "St. George, UT",
+        "population": 151959
+      },
+      {
+        "name": "Wichita Falls, TX",
+        "population": 151265
+      },
+      {
+        "name": "Jefferson City, MO",
+        "population": 150840
+      },
+      {
+        "name": "Elizabethtown-Fort Knox, KY",
+        "population": 150451
+      },
+      {
+        "name": "Hanford-Corcoran, CA",
+        "population": 150261
+      },
+      {
+        "name": "Monroe, MI",
+        "population": 149945
+      },
+      {
+        "name": "Texarkana, TX-AR",
+        "population": 149765
+      },
+      {
+        "name": "Rocky Mount, NC",
+        "population": 149054
+      },
+      {
+        "name": "Grand Junction, CO",
+        "population": 148166
+      },
+      {
+        "name": "Hattiesburg, MS",
+        "population": 148071
+      },
+      {
+        "name": "Dothan, AL",
+        "population": 147843
+      },
+      {
+        "name": "Coeur d'Alene, ID",
+        "population": 147716
+      },
+      {
+        "name": "Santa Fe, NM",
+        "population": 147320
+      },
+      {
+        "name": "Florence-Muscle Shoals, AL",
+        "population": 147018
+      },
+      {
+        "name": "Sebastian-Vero Beach, FL",
+        "population": 145342
+      },
+      {
+        "name": "Wheeling, WV-OH",
+        "population": 144781
+      },
+      {
+        "name": "Valdosta, GA",
+        "population": 143950
+      },
+      {
+        "name": "Dalton, GA",
+        "population": 143011
+      },
+      {
+        "name": "Rapid City, SD",
+        "population": 142585
+      },
+      {
+        "name": "Napa, CA",
+        "population": 140823
+      },
+      {
+        "name": "Homosassa Springs, FL",
+        "population": 140453
+      },
+      {
+        "name": "Idaho Falls, ID",
+        "population": 138677
+      },
+      {
+        "name": "Flagstaff, AZ",
+        "population": 138064
+      },
+      {
+        "name": "Johnstown, PA",
+        "population": 137762
+      },
+      {
+        "name": "Lebanon, PA",
+        "population": 136950
+      },
+      {
+        "name": "Morgantown, WV",
+        "population": 136620
+      },
+      {
+        "name": "La Crosse-Onalaska, WI-MN",
+        "population": 136329
+      },
+      {
+        "name": "Springfield, OH",
+        "population": 136175
+      },
+      {
+        "name": "Wausau, WI",
+        "population": 135367
+      },
+      {
+        "name": "Battle Creek, MI",
+        "population": 134691
+      },
+      {
+        "name": "Winchester, VA-WV",
+        "population": 133125
+      },
+      {
+        "name": "San German, PR",
+        "population": 131978
+      },
+      {
+        "name": "Logan, UT-ID",
+        "population": 131837
+      },
+      {
+        "name": "Lawton, OK",
+        "population": 130645
+      },
+      {
+        "name": "Harrisonburg, VA",
+        "population": 130406
+      },
+      {
+        "name": "Jackson, TN",
+        "population": 130041
+      },
+      {
+        "name": "Pittsfield, MA",
+        "population": 128563
+      },
+      {
+        "name": "Sierra Vista-Douglas, AZ",
+        "population": 128177
+      },
+      {
+        "name": "Glens Falls, NY",
+        "population": 127376
+      },
+      {
+        "name": "St. Joseph, MO-KS",
+        "population": 127261
+      },
+      {
+        "name": "New Bern, NC",
+        "population": 127156
+      },
+      {
+        "name": "Hammond, LA",
+        "population": 127115
+      },
+      {
+        "name": "Jonesboro, AR",
+        "population": 127015
+      },
+      {
+        "name": "Carbondale-Marion, IL",
+        "population": 126524
+      },
+      {
+        "name": "Bismarck, ND",
+        "population": 126392
+      },
+      {
+        "name": "Altoona, PA",
+        "population": 125917
+      },
+      {
+        "name": "Goldsboro, NC",
+        "population": 124447
+      },
+      {
+        "name": "Sherman-Denison, TX",
+        "population": 124231
+      },
+      {
+        "name": "Beckley, WV",
+        "population": 123243
+      },
+      {
+        "name": "Farmington, NM",
+        "population": 122537
+      },
+      {
+        "name": "Mansfield, OH",
+        "population": 121888
+      },
+      {
+        "name": "Weirton-Steubenville, WV-OH",
+        "population": 121104
+      },
+      {
+        "name": "Mount Vernon-Anacortes, WA",
+        "population": 120475
+      },
+      {
+        "name": "Staunton-Waynesboro, VA",
+        "population": 119930
+      },
+      {
+        "name": "Albany, OR",
+        "population": 119862
+      },
+      {
+        "name": "Cleveland, TN",
+        "population": 119557
+      },
+      {
+        "name": "Watertown-Fort Drum, NY",
+        "population": 117966
+      },
+      {
+        "name": "San Angelo, TX",
+        "population": 117895
+      },
+      {
+        "name": "Owensboro, KY",
+        "population": 116932
+      },
+      {
+        "name": "Muncie, IN",
+        "population": 116463
+      },
+      {
+        "name": "Lawrence, KS",
+        "population": 116352
+      },
+      {
+        "name": "Williamsport, PA",
+        "population": 116313
+      },
+      {
+        "name": "Morristown, TN",
+        "population": 116054
+      },
+      {
+        "name": "Anniston-Oxford-Jacksonville, AL",
+        "population": 115883
+      },
+      {
+        "name": "Sheboygan, WI",
+        "population": 115269
+      },
+      {
+        "name": "Brunswick, GA",
+        "population": 114967
+      },
+      {
+        "name": "Wenatchee, WA",
+        "population": 114862
+      },
+      {
+        "name": "The Villages, FL",
+        "population": 113589
+      },
+      {
+        "name": "Missoula, MT",
+        "population": 113101
+      },
+      {
+        "name": "Kankakee, IL",
+        "population": 111493
+      },
+      {
+        "name": "Michigan City-La Porte, IN",
+        "population": 110993
+      },
+      {
+        "name": "California-Lexington Park, MD",
+        "population": 110675
+      },
+      {
+        "name": "Decatur, IL",
+        "population": 108404
+      },
+      {
+        "name": "Sumter, SC",
+        "population": 107682
+      },
+      {
+        "name": "Lewiston-Auburn, ME",
+        "population": 107376
+      },
+      {
+        "name": "Bay City, MI",
+        "population": 106107
+      },
+      {
+        "name": "Lima, OH",
+        "population": 104664
+      },
+      {
+        "name": "Ithaca, NY",
+        "population": 104268
+      },
+      {
+        "name": "Gadsden, AL",
+        "population": 103363
+      },
+      {
+        "name": "Longview, WA",
+        "population": 102854
+      },
+      {
+        "name": "Fond du Lac, WI",
+        "population": 101968
+      },
+      {
+        "name": "Gettysburg, PA",
+        "population": 101759
+      },
+      {
+        "name": "Grand Forks, ND-MN",
+        "population": 101343
+      },
+      {
+        "name": "Cumberland, MD-WV",
+        "population": 100666
+      },
+      {
+        "name": "Fairbanks, AK",
+        "population": 100150
+      },
+      {
+        "name": "Sebring, FL",
+        "population": 98862
+      },
+      {
+        "name": "Mankato-North Mankato, MN",
+        "population": 98750
+      },
+      {
+        "name": "Victoria, TX",
+        "population": 98452
+      },
+      {
+        "name": "Mayaguez, PR",
+        "population": 98272
+      },
+      {
+        "name": "Manhattan, KS",
+        "population": 97946
+      },
+      {
+        "name": "Cape Girardeau, MO-IL",
+        "population": 97422
+      },
+      {
+        "name": "Hot Springs, AR",
+        "population": 97119
+      },
+      {
+        "name": "Cheyenne, WY",
+        "population": 96459
+      },
+      {
+        "name": "Dubuque, IA",
+        "population": 96359
+      },
+      {
+        "name": "Rome, GA",
+        "population": 96199
+      },
+      {
+        "name": "Ocean City, NJ",
+        "population": 95404
+      },
+      {
+        "name": "Ames, IA",
+        "population": 94834
+      },
+      {
+        "name": "Pine Bluff, AR",
+        "population": 94741
+      },
+      {
+        "name": "Parkersburg-Vienna, WV",
+        "population": 92088
+      },
+      {
+        "name": "Elmira, NY",
+        "population": 87742
+      },
+      {
+        "name": "Corvallis, OR",
+        "population": 87455
+      },
+      {
+        "name": "Bloomsburg-Berwick, PA",
+        "population": 85176
+      },
+      {
+        "name": "Grand Island, NE",
+        "population": 84381
+      },
+      {
+        "name": "Grants Pass, OR",
+        "population": 84063
+      },
+      {
+        "name": "Pocatello, ID",
+        "population": 83815
+      },
+      {
+        "name": "Midland, MI",
+        "population": 83559
+      },
+      {
+        "name": "Kokomo, IN",
+        "population": 82728
+      },
+      {
+        "name": "Great Falls, MT",
+        "population": 82049
+      },
+      {
+        "name": "Hinesville, GA",
+        "population": 81192
+      },
+      {
+        "name": "Casper, WY",
+        "population": 80871
+      },
+      {
+        "name": "Columbus, IN",
+        "population": 80203
+      },
+      {
+        "name": "Guayama, PR",
+        "population": 80123
+      },
+      {
+        "name": "Danville, IL",
+        "population": 79613
+      },
+      {
+        "name": "Walla Walla, WA",
+        "population": 63780
+      },
+      {
+        "name": "Enid, OK",
+        "population": 62481
+      },
+      {
+        "name": "Lewiston, ID-WA",
+        "population": 62108
+      },
+      {
+        "name": "Carson City, NV",
+        "population": 54412
+      }
+    ],
+    "micropolitan": [
+      {
+        "name": "Claremont-Lebanon, NH-VT",
+        "population": 217006
+      },
+      {
+        "name": "Hilo, HI",
+        "population": 193680
+      },
+      {
+        "name": "Torrington, CT",
+        "population": 185141
+      },
+      {
+        "name": "Ottawa-Peru, IL",
+        "population": 151503
+      },
+      {
+        "name": "Concord, NH",
+        "population": 147715
+      },
+      {
+        "name": "Traverse City, MI",
+        "population": 147200
+      },
+      {
+        "name": "Pottsville, PA",
+        "population": 145503
+      },
+      {
+        "name": "Tupelo, MS",
+        "population": 139654
+      },
+      {
+        "name": "Eureka-Arcata-Fortuna, CA",
+        "population": 135182
+      },
+      {
+        "name": "Lumberton, NC",
+        "population": 134576
+      },
+      {
+        "name": "Jamestown-Dunkirk-Fredonia, NY",
+        "population": 131748
+      },
+      {
+        "name": "London, KY",
+        "population": 127532
+      },
+      {
+        "name": "Dunn, NC",
+        "population": 126620
+      },
+      {
+        "name": "Augusta-Waterville, ME",
+        "population": 120953
+      },
+      {
+        "name": "Wooster, OH",
+        "population": 115747
+      },
+      {
+        "name": "Holland, MI",
+        "population": 113666
+      },
+      {
+        "name": "Ogdensburg-Massena, NY",
+        "population": 111529
+      },
+      {
+        "name": "Cookeville, TN",
+        "population": 108268
+      },
+      {
+        "name": "Show Low, AZ",
+        "population": 108209
+      },
+      {
+        "name": "Roseburg, OR",
+        "population": 107375
+      },
+      {
+        "name": "Meridian, MS",
+        "population": 105564
+      },
+      {
+        "name": "Salem, OH",
+        "population": 105230
+      },
+      {
+        "name": "Bluefield, WV-VA",
+        "population": 104843
+      },
+      {
+        "name": "Danville, VA",
+        "population": 104752
+      },
+      {
+        "name": "Richmond-Berea, KY",
+        "population": 104217
+      },
+      {
+        "name": "Twin Falls, ID",
+        "population": 103649
+      },
+      {
+        "name": "Whitewater-Elkhorn, WI",
+        "population": 103021
+      },
+      {
+        "name": "Tullahoma-Manchester, TN",
+        "population": 101470
+      },
+      {
+        "name": "Ashtabula, OH",
+        "population": 99175
+      },
+      {
+        "name": "Adrian, MI",
+        "population": 98673
+      },
+      {
+        "name": "Truckee-Grass Valley, CA",
+        "population": 98639
+      },
+      {
+        "name": "Corning, NY",
+        "population": 98151
+      },
+      {
+        "name": "Bozeman, MT",
+        "population": 97958
+      },
+      {
+        "name": "Paducah, KY-IL",
+        "population": 97744
+      },
+      {
+        "name": "Shelby, NC",
+        "population": 97113
+      },
+      {
+        "name": "Greenwood, SC",
+        "population": 94832
+      },
+      {
+        "name": "Kalispell, MT",
+        "population": 94696
+      },
+      {
+        "name": "Sevierville, TN",
+        "population": 94537
+      },
+      {
+        "name": "Albertville, AL",
+        "population": 94534
+      },
+      {
+        "name": "Clarksburg, WV",
+        "population": 94087
+      },
+      {
+        "name": "Sunbury, PA",
+        "population": 93590
+      },
+      {
+        "name": "Pinehurst-Southern Pines, NC",
+        "population": 93070
+      },
+      {
+        "name": "New Philadelphia-Dover, OH",
+        "population": 92579
+      },
+      {
+        "name": "Moses Lake, WA",
+        "population": 92530
+      },
+      {
+        "name": "Brainerd, MN",
+        "population": 91954
+      },
+      {
+        "name": "Talladega-Sylacauga, AL",
+        "population": 91921
+      },
+      {
+        "name": "Orangeburg, SC",
+        "population": 89731
+      },
+      {
+        "name": "New Castle, PA",
+        "population": 88528
+      },
+      {
+        "name": "Beaver Dam, WI",
+        "population": 88404
+      },
+      {
+        "name": "Hermiston-Pendleton, OR",
+        "population": 87789
+      },
+      {
+        "name": "Lufkin, TX",
+        "population": 87657
+      },
+      {
+        "name": "Indiana, PA",
+        "population": 87491
+      },
+      {
+        "name": "Ukiah, CA",
+        "population": 87409
+      },
+      {
+        "name": "Meadville, PA",
+        "population": 87027
+      },
+      {
+        "name": "Zanesville, OH",
+        "population": 85991
+      },
+      {
+        "name": "Branson, MO",
+        "population": 85050
+      },
+      {
+        "name": "Laurel, MS",
+        "population": 84851
+      },
+      {
+        "name": "Russellville, AR",
+        "population": 84823
+      },
+      {
+        "name": "Watertown-Fort Atkinson, WI",
+        "population": 84538
+      },
+      {
+        "name": "Huntsville, TX",
+        "population": 84286
+      },
+      {
+        "name": "Opelousas, LA",
+        "population": 83699
+      },
+      {
+        "name": "Wilson, NC",
+        "population": 81617
+      },
+      {
+        "name": "Plattsburgh, NY",
+        "population": 81505
+      },
+      {
+        "name": "Cullman, AL",
+        "population": 81316
+      },
+      {
+        "name": "DuBois, PA",
+        "population": 81170
+      },
+      {
+        "name": "Manitowoc, WI",
+        "population": 80178
+      },
+      {
+        "name": "Oak Harbor, WA",
+        "population": 80113
+      },
+      {
+        "name": "Stillwater, OK",
+        "population": 79953
+      },
+      {
+        "name": "Athens, TX",
+        "population": 79213
+      },
+      {
+        "name": "Searcy, AR",
+        "population": 78823
+      },
+      {
+        "name": "Auburn, NY",
+        "population": 78783
+      },
+      {
+        "name": "Olean, NY",
+        "population": 78506
+      },
+      {
+        "name": "Warsaw, IN",
+        "population": 78461
+      },
+      {
+        "name": "Helena, MT",
+        "population": 77590
+      },
+      {
+        "name": "Minot, ND",
+        "population": 77439
+      },
+      {
+        "name": "Portsmouth, OH",
+        "population": 77366
+      },
+      {
+        "name": "Chillicothe, OH",
+        "population": 77193
+      },
+      {
+        "name": "Key West, FL",
+        "population": 77150
+      },
+      {
+        "name": "Quincy, IL-MO",
+        "population": 77095
+      },
+      {
+        "name": "Keene, NH",
+        "population": 76320
+      },
+      {
+        "name": "Somerset, PA",
+        "population": 76201
+      },
+      {
+        "name": "Sandusky, OH",
+        "population": 75808
+      },
+      {
+        "name": "Centralia, WA",
+        "population": 75724
+      },
+      {
+        "name": "Findlay, OH",
+        "population": 75672
+      },
+      {
+        "name": "Seneca, SC",
+        "population": 75375
+      },
+      {
+        "name": "Glenwood Springs, CO",
+        "population": 75038
+      },
+      {
+        "name": "Gallup, NM",
+        "population": 74346
+      },
+      {
+        "name": "Wisconsin Rapids-Marshfield, WI",
+        "population": 73621
+      },
+      {
+        "name": "Roanoke Rapids, NC",
+        "population": 73477
+      },
+      {
+        "name": "Statesboro, GA",
+        "population": 73141
+      },
+      {
+        "name": "Port Angeles, WA",
+        "population": 72969
+      },
+      {
+        "name": "Mount Airy, NC",
+        "population": 72767
+      },
+      {
+        "name": "Palatka, FL",
+        "population": 72304
+      },
+      {
+        "name": "Frankfort, KY",
+        "population": 71849
+      },
+      {
+        "name": "Shawnee, OK",
+        "population": 71551
+      },
+      {
+        "name": "Aberdeen, WA",
+        "population": 71233
+      },
+      {
+        "name": "Fort Payne, AL",
+        "population": 70937
+      },
+      {
+        "name": "Greenfield Town, MA",
+        "population": 70916
+      },
+      {
+        "name": "Mount Pleasant, MI",
+        "population": 70574
+      },
+      {
+        "name": "Stevens Point, WI",
+        "population": 70551
+      },
+      {
+        "name": "Kapaa, HI",
+        "population": 70447
+      },
+      {
+        "name": "Muskogee, OK",
+        "population": 69939
+      },
+      {
+        "name": "LaGrange, GA",
+        "population": 69314
+      },
+      {
+        "name": "Hobbs, NM",
+        "population": 68930
+      },
+      {
+        "name": "North Wilkesboro, NC",
+        "population": 68888
+      },
+      {
+        "name": "Owosso, MI",
+        "population": 68800
+      },
+      {
+        "name": "Morehead City, NC",
+        "population": 68537
+      },
+      {
+        "name": "Greeneville, TN",
+        "population": 68502
+      },
+      {
+        "name": "Marion, IN",
+        "population": 68269
+      },
+      {
+        "name": "Lake City, FL",
+        "population": 68198
+      },
+      {
+        "name": "Richmond, IN",
+        "population": 67423
+      },
+      {
+        "name": "Marquette, MI",
+        "population": 67418
+      },
+      {
+        "name": "Forest City, NC",
+        "population": 66701
+      },
+      {
+        "name": "Marshall, TX",
+        "population": 66431
+      },
+      {
+        "name": "Farmington, MO",
+        "population": 66230
+      },
+      {
+        "name": "Klamath Falls, OR",
+        "population": 65946
+      },
+      {
+        "name": "Martinsville, VA",
+        "population": 65760
+      },
+      {
+        "name": "Marion, OH",
+        "population": 65620
+      },
+      {
+        "name": "Roswell, NM",
+        "population": 65610
+      },
+      {
+        "name": "Nacogdoches, TX",
+        "population": 65556
+      },
+      {
+        "name": "Alamogordo, NM",
+        "population": 65333
+      },
+      {
+        "name": "Faribault-Northfield, MN",
+        "population": 65116
+      },
+      {
+        "name": "Athens, OH",
+        "population": 65103
+      },
+      {
+        "name": "Marinette, WI-MI",
+        "population": 64658
+      },
+      {
+        "name": "Ionia, MI",
+        "population": 64126
+      },
+      {
+        "name": "Clearlake, CA",
+        "population": 64076
+      },
+      {
+        "name": "Hutchinson, KS",
+        "population": 63803
+      },
+      {
+        "name": "Somerset, KY",
+        "population": 63772
+      },
+      {
+        "name": "Charleston-Mattoon, IL",
+        "population": 63692
+      },
+      {
+        "name": "Elizabeth City, NC",
+        "population": 63607
+      },
+      {
+        "name": "Baraboo, WI",
+        "population": 63317
+      },
+      {
+        "name": "Red Bluff, CA",
+        "population": 63015
+      },
+      {
+        "name": "Rio Grande City, TX",
+        "population": 63008
+      },
+      {
+        "name": "Coos Bay, OR",
+        "population": 62944
+      },
+      {
+        "name": "Jefferson, GA",
+        "population": 62131
+      },
+      {
+        "name": "Hudson, NY",
+        "population": 61860
+      },
+      {
+        "name": "Sayre, PA",
+        "population": 61808
+      },
+      {
+        "name": "Salina, KS",
+        "population": 61551
+      },
+      {
+        "name": "Marietta, OH",
+        "population": 61154
+      },
+      {
+        "name": "Shelton, WA",
+        "population": 61060
+      },
+      {
+        "name": "Oneonta, NY",
+        "population": 60979
+      },
+      {
+        "name": "Sturgis, MI",
+        "population": 60923
+      },
+      {
+        "name": "Mount Vernon, OH",
+        "population": 60878
+      },
+      {
+        "name": "Georgetown, SC",
+        "population": 60804
+      },
+      {
+        "name": "Fort Madison-Keokuk, IA-IL-MO",
+        "population": 60665
+      },
+      {
+        "name": "Albemarle, NC",
+        "population": 60610
+      },
+      {
+        "name": "Laconia, NH",
+        "population": 60392
+      },
+      {
+        "name": "Rutland, VT",
+        "population": 60133
+      },
+      {
+        "name": "Fremont, OH",
+        "population": 59870
+      },
+      {
+        "name": "Columbus, MS",
+        "population": 59785
+      },
+      {
+        "name": "Sanford, NC",
+        "population": 59540
+      },
+      {
+        "name": "Big Stone Gap, VA",
+        "population": 59356
+      },
+      {
+        "name": "Batavia, NY",
+        "population": 59053
+      },
+      {
+        "name": "Barre, VT",
+        "population": 58963
+      },
+      {
+        "name": "Norwalk, OH",
+        "population": 58704
+      },
+      {
+        "name": "Kinston, NC",
+        "population": 58343
+      },
+      {
+        "name": "Oxford, NC",
+        "population": 58341
+      },
+      {
+        "name": "Crossville, TN",
+        "population": 57895
+      },
+      {
+        "name": "Palestine, TX",
+        "population": 57772
+      },
+      {
+        "name": "Fergus Falls, MN",
+        "population": 57694
+      },
+      {
+        "name": "Dublin, GA",
+        "population": 57496
+      },
+      {
+        "name": "Point Pleasant, WV-OH",
+        "population": 57436
+      },
+      {
+        "name": "Sterling, IL",
+        "population": 57155
+      },
+      {
+        "name": "Vicksburg, MS",
+        "population": 57043
+      },
+      {
+        "name": "Eagle Pass, TX",
+        "population": 56830
+      },
+      {
+        "name": "Fairmont, WV",
+        "population": 56716
+      },
+      {
+        "name": "Carlsbad-Artesia, NM",
+        "population": 56369
+      },
+      {
+        "name": "Gaffney, SC",
+        "population": 56274
+      },
+      {
+        "name": "Calhoun, GA",
+        "population": 56079
+      },
+      {
+        "name": "Tiffin, OH",
+        "population": 55711
+      },
+      {
+        "name": "Picayune, MS",
+        "population": 55167
+      },
+      {
+        "name": "Kearney, NE",
+        "population": 54950
+      },
+      {
+        "name": "Jasper, IN",
+        "population": 54899
+      },
+      {
+        "name": "Waycross, GA",
+        "population": 54701
+      },
+      {
+        "name": "Milledgeville, GA",
+        "population": 54555
+      },
+      {
+        "name": "Gloversville, NY",
+        "population": 54297
+      },
+      {
+        "name": "Warrensburg, MO",
+        "population": 54229
+      },
+      {
+        "name": "Danville, KY",
+        "population": 54074
+      },
+      {
+        "name": "Durango, CO",
+        "population": 53994
+      },
+      {
+        "name": "Sonora, CA",
+        "population": 53864
+      },
+      {
+        "name": "Elko, NV",
+        "population": 53759
+      },
+      {
+        "name": "Oil City, PA",
+        "population": 53460
+      },
+      {
+        "name": "Ashland, OH",
+        "population": 53343
+      },
+      {
+        "name": "Fort Leonard Wood, MO",
+        "population": 53302
+      },
+      {
+        "name": "Glasgow, KY",
+        "population": 53270
+      },
+      {
+        "name": "Ontario, OR-ID",
+        "population": 53247
+      },
+      {
+        "name": "Payson, AZ",
+        "population": 53179
+      },
+      {
+        "name": "Morgan City, LA",
+        "population": 53053
+      },
+      {
+        "name": "Edwards, CO",
+        "population": 52894
+      },
+      {
+        "name": "Boone, NC",
+        "population": 52745
+      },
+      {
+        "name": "McComb, MS",
+        "population": 52631
+      },
+      {
+        "name": "Scottsboro, AL",
+        "population": 52608
+      },
+      {
+        "name": "Athens, TN",
+        "population": 52606
+      },
+      {
+        "name": "Oxford, MS",
+        "population": 52193
+      },
+      {
+        "name": "Greenville, OH",
+        "population": 52185
+      },
+      {
+        "name": "Fort Polk South, LA",
+        "population": 52101
+      },
+      {
+        "name": "St. Marys, GA",
+        "population": 52092
+      },
+      {
+        "name": "Natchez, MS-LA",
+        "population": 52035
+      },
+      {
+        "name": "Rochelle, IL",
+        "population": 52034
+      },
+      {
+        "name": "Fernley, NV",
+        "population": 51897
+      },
+      {
+        "name": "Bartlesville, OK",
+        "population": 51892
+      },
+      {
+        "name": "Galesburg, IL",
+        "population": 51752
+      },
+      {
+        "name": "Platteville, WI",
+        "population": 51723
+      },
+      {
+        "name": "Jacksonville, TX",
+        "population": 51257
+      },
+      {
+        "name": "Winona, MN",
+        "population": 51145
+      },
+      {
+        "name": "Rexburg, ID",
+        "population": 51010
+      },
+      {
+        "name": "Malone, NY",
+        "population": 51007
+      },
+      {
+        "name": "Enterprise, AL",
+        "population": 50991
+      },
+      {
+        "name": "Mason City, IA",
+        "population": 50865
+      },
+      {
+        "name": "Clovis, NM",
+        "population": 50544
+      },
+      {
+        "name": "Kerrville, TX",
+        "population": 50505
+      },
+      {
+        "name": "Amsterdam, NY",
+        "population": 49667
+      },
+      {
+        "name": "Paris, TX",
+        "population": 49626
+      },
+      {
+        "name": "Ozark, AL",
+        "population": 49607
+      },
+      {
+        "name": "Starkville, MS",
+        "population": 49424
+      },
+      {
+        "name": "New Castle, IN",
+        "population": 48953
+      },
+      {
+        "name": "Sidney, OH",
+        "population": 48949
+      },
+      {
+        "name": "Del Rio, TX",
+        "population": 48862
+      },
+      {
+        "name": "Greenville, MS",
+        "population": 48824
+      },
+      {
+        "name": "Cortland, NY",
+        "population": 48713
+      },
+      {
+        "name": "Ardmore, OK",
+        "population": 48530
+      },
+      {
+        "name": "Gillette, WY",
+        "population": 48473
+      },
+      {
+        "name": "Norfolk, NE",
+        "population": 48326
+      },
+      {
+        "name": "Tahlequah, OK",
+        "population": 48267
+      },
+      {
+        "name": "Corsicana, TX",
+        "population": 48177
+      },
+      {
+        "name": "Clinton, IA",
+        "population": 47972
+      },
+      {
+        "name": "Cadillac, MI",
+        "population": 47861
+      },
+      {
+        "name": "Cedar City, UT",
+        "population": 47751
+      },
+      {
+        "name": "Kendallville, IN",
+        "population": 47587
+      },
+      {
+        "name": "Washington, NC",
+        "population": 47513
+      },
+      {
+        "name": "Pullman, WA",
+        "population": 47494
+      },
+      {
+        "name": "Ruston, LA",
+        "population": 47480
+      },
+      {
+        "name": "Gardnerville Ranchos, NV",
+        "population": 47426
+      },
+      {
+        "name": "Burlington, IA-IL",
+        "population": 47080
+      },
+      {
+        "name": "Ca?on City, CO",
+        "population": 46835
+      },
+      {
+        "name": "Plymouth, IN",
+        "population": 46833
+      },
+      {
+        "name": "Newport, OR",
+        "population": 46685
+      },
+      {
+        "name": "Lewistown, PA",
+        "population": 46585
+      },
+      {
+        "name": "Nogales, AZ",
+        "population": 46547
+      },
+      {
+        "name": "Red Wing, MN",
+        "population": 46450
+      },
+      {
+        "name": "Bogalusa, LA",
+        "population": 46367
+      },
+      {
+        "name": "Madisonville, KY",
+        "population": 46359
+      },
+      {
+        "name": "Shelbyville, TN",
+        "population": 46331
+      },
+      {
+        "name": "Freeport, IL",
+        "population": 46283
+      },
+      {
+        "name": "Hillsdale, MI",
+        "population": 46024
+      },
+      {
+        "name": "Moultrie, GA",
+        "population": 46002
+      },
+      {
+        "name": "Wapakoneta, OH",
+        "population": 45871
+      },
+      {
+        "name": "Mount Sterling, KY",
+        "population": 45849
+      },
+      {
+        "name": "Huntingdon, PA",
+        "population": 45844
+      },
+      {
+        "name": "Shawano, WI",
+        "population": 45841
+      },
+      {
+        "name": "Rockingham, NC",
+        "population": 45710
+      },
+      {
+        "name": "Bedford, IN",
+        "population": 45696
+      },
+      {
+        "name": "Bemidji, MN",
+        "population": 45644
+      },
+      {
+        "name": "Ponca City, OK",
+        "population": 45398
+      },
+      {
+        "name": "Bellefontaine, OH",
+        "population": 45388
+      },
+      {
+        "name": "Grand Rapids, MN",
+        "population": 45356
+      },
+      {
+        "name": "Harrison, AR",
+        "population": 45289
+      },
+      {
+        "name": "Blackfoot, ID",
+        "population": 45261
+      },
+      {
+        "name": "Lewisburg, PA",
+        "population": 45178
+      },
+      {
+        "name": "Marion, NC",
+        "population": 45013
+      },
+      {
+        "name": "Thomasville, GA",
+        "population": 44977
+      },
+      {
+        "name": "Bardstown, KY",
+        "population": 44875
+      },
+      {
+        "name": "Rolla, MO",
+        "population": 44833
+      },
+      {
+        "name": "Rock Springs, WY",
+        "population": 44812
+      },
+      {
+        "name": "McAlester, OK",
+        "population": 44643
+      },
+      {
+        "name": "Duncan, OK",
+        "population": 44631
+      },
+      {
+        "name": "Durant, OK",
+        "population": 44529
+      },
+      {
+        "name": "Henderson, NC",
+        "population": 44508
+      },
+      {
+        "name": "Menomonie, WI",
+        "population": 44348
+      },
+      {
+        "name": "Blytheville, AR",
+        "population": 44199
+      },
+      {
+        "name": "Ottumwa, IA",
+        "population": 44010
+      },
+      {
+        "name": "Burley, ID",
+        "population": 43772
+      },
+      {
+        "name": "Paragould, AR",
+        "population": 43745
+      },
+      {
+        "name": "Cornelia, GA",
+        "population": 43724
+      },
+      {
+        "name": "Seymour, IN",
+        "population": 43637
+      },
+      {
+        "name": "Coldwater, MI",
+        "population": 43603
+      },
+      {
+        "name": "Big Rapids, MI",
+        "population": 43259
+      },
+      {
+        "name": "Pahrump, NV",
+        "population": 43198
+      },
+      {
+        "name": "Douglas, GA",
+        "population": 43042
+      },
+      {
+        "name": "Muscatine, IA",
+        "population": 42949
+      },
+      {
+        "name": "Poplar Bluff, MO",
+        "population": 42887
+      },
+      {
+        "name": "Ellensburg, WA",
+        "population": 42785
+      },
+      {
+        "name": "Bradford, PA",
+        "population": 42609
+      },
+      {
+        "name": "Willmar, MN",
+        "population": 42510
+      },
+      {
+        "name": "Auburn, IN",
+        "population": 42489
+      },
+      {
+        "name": "Bucyrus, OH",
+        "population": 42485
+      },
+      {
+        "name": "Aberdeen, SD",
+        "population": 42430
+      },
+      {
+        "name": "Lawrenceburg, TN",
+        "population": 42406
+      },
+      {
+        "name": "Sedalia, MO",
+        "population": 42193
+      },
+      {
+        "name": "Wilmington, OH",
+        "population": 41854
+      },
+      {
+        "name": "Alma, MI",
+        "population": 41676
+      },
+      {
+        "name": "Alice, TX",
+        "population": 41486
+      },
+      {
+        "name": "Selma, AL",
+        "population": 41426
+      },
+      {
+        "name": "Sandpoint, ID",
+        "population": 41389
+      },
+      {
+        "name": "El Campo, TX",
+        "population": 41377
+      },
+      {
+        "name": "Cedartown, GA",
+        "population": 41263
+      },
+      {
+        "name": "Cullowhee, NC",
+        "population": 41227
+      },
+      {
+        "name": "Mountain Home, AR",
+        "population": 40992
+      },
+      {
+        "name": "Port Clinton, OH",
+        "population": 40981
+      },
+      {
+        "name": "Alexander City, AL",
+        "population": 40958
+      },
+      {
+        "name": "Garden City, KS",
+        "population": 40926
+      },
+      {
+        "name": "Celina, OH",
+        "population": 40886
+      },
+      {
+        "name": "Montrose, CO",
+        "population": 40866
+      },
+      {
+        "name": "Greenwood, MS",
+        "population": 40801
+      },
+      {
+        "name": "Marshalltown, IA",
+        "population": 40735
+      },
+      {
+        "name": "Tifton, GA",
+        "population": 40691
+      },
+      {
+        "name": "Riverton, WY",
+        "population": 40683
+      },
+      {
+        "name": "Warren, PA",
+        "population": 40649
+      },
+      {
+        "name": "Stephenville, TX",
+        "population": 40641
+      },
+      {
+        "name": "El Dorado, AR",
+        "population": 40334
+      },
+      {
+        "name": "West Plains, MO",
+        "population": 40265
+      },
+      {
+        "name": "Selinsgrove, PA",
+        "population": 40246
+      },
+      {
+        "name": "McMinnville, TN",
+        "population": 40099
+      },
+      {
+        "name": "Coamo, PR",
+        "population": 40090
+      },
+      {
+        "name": "Jacksonville, IL",
+        "population": 39970
+      },
+      {
+        "name": "Espa?ola, NM",
+        "population": 39924
+      },
+      {
+        "name": "Lock Haven, PA",
+        "population": 39536
+      },
+      {
+        "name": "Cambridge, OH",
+        "population": 39478
+      },
+      {
+        "name": "Okeechobee, FL",
+        "population": 39420
+      },
+      {
+        "name": "Kill Devil Hills, NC",
+        "population": 39315
+      },
+      {
+        "name": "Pittsburg, KS",
+        "population": 39281
+      },
+      {
+        "name": "Natchitoches, LA",
+        "population": 39258
+      },
+      {
+        "name": "Austin, MN",
+        "population": 39248
+      },
+      {
+        "name": "Urbana, OH",
+        "population": 39175
+      },
+      {
+        "name": "Hannibal, MO",
+        "population": 39083
+      },
+      {
+        "name": "Summit Park, UT",
+        "population": 39009
+      },
+      {
+        "name": "Sikeston, MO",
+        "population": 38994
+      },
+      {
+        "name": "Gainesville, TX",
+        "population": 38878
+      },
+      {
+        "name": "Houghton, MI",
+        "population": 38760
+      },
+      {
+        "name": "Scottsbluff, NE",
+        "population": 38666
+      },
+      {
+        "name": "Moscow, ID",
+        "population": 38593
+      },
+      {
+        "name": "Mount Vernon, IL",
+        "population": 38523
+      },
+      {
+        "name": "Centralia, IL",
+        "population": 38503
+      },
+      {
+        "name": "Defiance, OH",
+        "population": 38488
+      },
+      {
+        "name": "Berlin, NH-VT",
+        "population": 38392
+      },
+      {
+        "name": "Clewiston, FL",
+        "population": 38376
+      },
+      {
+        "name": "Sault Ste. Marie, MI",
+        "population": 38330
+      },
+      {
+        "name": "Logansport, IN",
+        "population": 38324
+      },
+      {
+        "name": "Murray, KY",
+        "population": 38302
+      },
+      {
+        "name": "Ada, OK",
+        "population": 38213
+      },
+      {
+        "name": "Crawfordsville, IN",
+        "population": 38108
+      },
+      {
+        "name": "Dyersburg, TN",
+        "population": 37970
+      },
+      {
+        "name": "Vincennes, IN",
+        "population": 37956
+      },
+      {
+        "name": "Brownwood, TX",
+        "population": 37935
+      },
+      {
+        "name": "Atmore, AL",
+        "population": 37875
+      },
+      {
+        "name": "Laramie, WY",
+        "population": 37836
+      },
+      {
+        "name": "Newberry, SC",
+        "population": 37750
+      },
+      {
+        "name": "Big Spring, TX",
+        "population": 37676
+      },
+      {
+        "name": "Easton, MD",
+        "population": 37668
+      },
+      {
+        "name": "Astoria, OR",
+        "population": 37660
+      },
+      {
+        "name": "Safford, AZ",
+        "population": 37529
+      },
+      {
+        "name": "Mayfield, KY",
+        "population": 37379
+      },
+      {
+        "name": "Corinth, MS",
+        "population": 37309
+      },
+      {
+        "name": "Pontiac, IL",
+        "population": 37278
+      },
+      {
+        "name": "Union City, TN-KY",
+        "population": 37223
+      },
+      {
+        "name": "Fort Dodge, IA",
+        "population": 37050
+      },
+      {
+        "name": "North Platte, NE",
+        "population": 37032
+      },
+      {
+        "name": "Batesville, AR",
+        "population": 37030
+      },
+      {
+        "name": "Alexandria, MN",
+        "population": 36862
+      },
+      {
+        "name": "Junction City, KS",
+        "population": 36818
+      },
+      {
+        "name": "Bay City, TX",
+        "population": 36719
+      },
+      {
+        "name": "Newton, IA",
+        "population": 36715
+      },
+      {
+        "name": "Huntington, IN",
+        "population": 36696
+      },
+      {
+        "name": "Fremont, NE",
+        "population": 36679
+      },
+      {
+        "name": "Coshocton, OH",
+        "population": 36665
+      },
+      {
+        "name": "Escanaba, MI",
+        "population": 36570
+      },
+      {
+        "name": "Owatonna, MN",
+        "population": 36541
+      },
+      {
+        "name": "Bennington, VT",
+        "population": 36503
+      },
+      {
+        "name": "DeRidder, LA",
+        "population": 36435
+      },
+      {
+        "name": "Vernal, UT",
+        "population": 36308
+      },
+      {
+        "name": "Vidalia, GA",
+        "population": 36165
+      },
+      {
+        "name": "Americus, GA",
+        "population": 36159
+      },
+      {
+        "name": "Peru, IN",
+        "population": 36093
+      },
+      {
+        "name": "Canton, IL",
+        "population": 36047
+      },
+      {
+        "name": "Arkansas City-Winfield, KS",
+        "population": 35977
+      },
+      {
+        "name": "Hutchinson, MN",
+        "population": 35926
+      },
+      {
+        "name": "Sulphur Springs, TX",
+        "population": 35844
+      },
+      {
+        "name": "Laurinburg, NC",
+        "population": 35711
+      },
+      {
+        "name": "Lebanon, MO",
+        "population": 35505
+      },
+      {
+        "name": "Newport, TN",
+        "population": 35256
+      },
+      {
+        "name": "Logan, WV",
+        "population": 35166
+      },
+      {
+        "name": "Arcadia, FL",
+        "population": 35134
+      },
+      {
+        "name": "Seneca Falls, NY",
+        "population": 35036
+      },
+      {
+        "name": "Plainview, TX",
+        "population": 35007
+      },
+      {
+        "name": "Decatur, IN",
+        "population": 34813
+      },
+      {
+        "name": "Dixon, IL",
+        "population": 34718
+      },
+      {
+        "name": "Brookhaven, MS",
+        "population": 34691
+      },
+      {
+        "name": "Butte-Silver Bow, MT",
+        "population": 34560
+      },
+      {
+        "name": "Brenham, TX",
+        "population": 34544
+      },
+      {
+        "name": "Dodge City, KS",
+        "population": 34492
+      },
+      {
+        "name": "Effingham, IL",
+        "population": 34356
+      },
+      {
+        "name": "Angola, IN",
+        "population": 34279
+      },
+      {
+        "name": "Martin, TN",
+        "population": 34024
+      },
+      {
+        "name": "Valley, AL",
+        "population": 34018
+      },
+      {
+        "name": "Taylorville, IL",
+        "population": 33888
+      },
+      {
+        "name": "Coffeyville, KS",
+        "population": 33765
+      },
+      {
+        "name": "Bonham, TX",
+        "population": 33757
+      },
+      {
+        "name": "Cleveland, MS",
+        "population": 33615
+      },
+      {
+        "name": "Malvern, AR",
+        "population": 33440
+      },
+      {
+        "name": "Brookings, SD",
+        "population": 33435
+      },
+      {
+        "name": "Emporia, KS",
+        "population": 33401
+      },
+      {
+        "name": "Troy, AL",
+        "population": 33277
+      },
+      {
+        "name": "Pella, IA",
+        "population": 33197
+      },
+      {
+        "name": "Brevard, NC",
+        "population": 33062
+      },
+      {
+        "name": "Jackson, WY-ID",
+        "population": 33060
+      },
+      {
+        "name": "Taos, NM",
+        "population": 32961
+      },
+      {
+        "name": "Jackson, OH",
+        "population": 32717
+      },
+      {
+        "name": "Beeville, TX",
+        "population": 32706
+      },
+      {
+        "name": "Columbus, NE",
+        "population": 32703
+      },
+      {
+        "name": "Frankfort, IN",
+        "population": 32692
+      },
+      {
+        "name": "Mount Pleasant, TX",
+        "population": 32592
+      },
+      {
+        "name": "Washington, IN",
+        "population": 32583
+      },
+      {
+        "name": "Juneau, AK",
+        "population": 32524
+      },
+      {
+        "name": "Madison, IN",
+        "population": 32482
+      },
+      {
+        "name": "Dayton, TN",
+        "population": 32461
+      },
+      {
+        "name": "Cambridge, MD",
+        "population": 32451
+      },
+      {
+        "name": "Kingsville, TX",
+        "population": 32435
+      },
+      {
+        "name": "Paris, TN",
+        "population": 32291
+      },
+      {
+        "name": "Wabash, IN",
+        "population": 32177
+      },
+      {
+        "name": "Miami, OK",
+        "population": 32022
+      },
+      {
+        "name": "Susanville, CA",
+        "population": 31945
+      },
+      {
+        "name": "Macomb, IL",
+        "population": 31727
+      },
+      {
+        "name": "Williston, ND",
+        "population": 31643
+      },
+      {
+        "name": "Hastings, NE",
+        "population": 31536
+      },
+      {
+        "name": "Jennings, LA",
+        "population": 31399
+      },
+      {
+        "name": "Lewisburg, TN",
+        "population": 31335
+      },
+      {
+        "name": "Kennett, MO",
+        "population": 31271
+      },
+      {
+        "name": "Central City, KY",
+        "population": 31216
+      },
+      {
+        "name": "St. Marys, PA",
+        "population": 31111
+      },
+      {
+        "name": "Hope, AR",
+        "population": 30876
+      },
+      {
+        "name": "Albert Lea, MN",
+        "population": 30751
+      },
+      {
+        "name": "Iron Mountain, MI-WI",
+        "population": 30363
+      },
+      {
+        "name": "Jesup, GA",
+        "population": 30006
+      },
+      {
+        "name": "Kirksville, MO",
+        "population": 29943
+      },
+      {
+        "name": "Camden, AR",
+        "population": 29938
+      },
+      {
+        "name": "Sheridan, WY",
+        "population": 29924
+      },
+      {
+        "name": "Dickinson, ND",
+        "population": 29837
+      },
+      {
+        "name": "Lincoln, IL",
+        "population": 29820
+      },
+      {
+        "name": "Coco, PR",
+        "population": 29722
+      },
+      {
+        "name": "Elkins, WV",
+        "population": 29287
+      },
+      {
+        "name": "Breckenridge, CO",
+        "population": 29269
+      },
+      {
+        "name": "Weatherford, OK",
+        "population": 29248
+      },
+      {
+        "name": "McPherson, KS",
+        "population": 29164
+      },
+      {
+        "name": "Hays, KS",
+        "population": 29032
+      },
+      {
+        "name": "Alpena, MI",
+        "population": 28929
+      },
+      {
+        "name": "Silver City, NM",
+        "population": 28879
+      },
+      {
+        "name": "Ludington, MI",
+        "population": 28755
+      },
+      {
+        "name": "Washington Court House, OH",
+        "population": 28719
+      },
+      {
+        "name": "Eufaula, AL-GA",
+        "population": 28709
+      },
+      {
+        "name": "Van Wert, OH",
+        "population": 28501
+      },
+      {
+        "name": "Las Vegas, NM",
+        "population": 28350
+      },
+      {
+        "name": "Fort Morgan, CO",
+        "population": 28288
+      },
+      {
+        "name": "Merrill, WI",
+        "population": 28171
+      },
+      {
+        "name": "North Vernon, IN",
+        "population": 28023
+      },
+      {
+        "name": "Mineral Wells, TX",
+        "population": 27922
+      },
+      {
+        "name": "Heber, UT",
+        "population": 27895
+      },
+      {
+        "name": "Watertown, SD",
+        "population": 27886
+      },
+      {
+        "name": "Bennettsville, SC",
+        "population": 27702
+      },
+      {
+        "name": "Hailey, ID",
+        "population": 27687
+      },
+      {
+        "name": "Middlesborough, KY",
+        "population": 27676
+      },
+      {
+        "name": "Crescent City, CA",
+        "population": 27628
+      },
+      {
+        "name": "Indianola, MS",
+        "population": 27424
+      },
+      {
+        "name": "Grants, NM",
+        "population": 27373
+      },
+      {
+        "name": "Wauchula, FL",
+        "population": 27302
+      },
+      {
+        "name": "Bainbridge, GA",
+        "population": 27237
+      },
+      {
+        "name": "Great Bend, KS",
+        "population": 27214
+      },
+      {
+        "name": "Uvalde, TX",
+        "population": 27055
+      },
+      {
+        "name": "Forrest City, AR",
+        "population": 27023
+      },
+      {
+        "name": "Bastrop, LA",
+        "population": 26739
+      },
+      {
+        "name": "Boone, IA",
+        "population": 26411
+      },
+      {
+        "name": "Thomaston, GA",
+        "population": 26394
+      },
+      {
+        "name": "Greensburg, IN",
+        "population": 26340
+      },
+      {
+        "name": "Mountain Home, ID",
+        "population": 26103
+      },
+      {
+        "name": "Lexington, NE",
+        "population": 25901
+      },
+      {
+        "name": "Mexico, MO",
+        "population": 25868
+      },
+      {
+        "name": "Altus, OK",
+        "population": 25864
+      },
+      {
+        "name": "La Grande, OR",
+        "population": 25758
+      },
+      {
+        "name": "Fredericksburg, TX",
+        "population": 25732
+      },
+      {
+        "name": "Marshall, MN",
+        "population": 25670
+      },
+      {
+        "name": "Ottawa, KS",
+        "population": 25663
+      },
+      {
+        "name": "The Dalles, OR",
+        "population": 25657
+      },
+      {
+        "name": "Toccoa, GA",
+        "population": 25584
+      },
+      {
+        "name": "New Ulm, MN",
+        "population": 25327
+      },
+      {
+        "name": "Campbellsville, KY",
+        "population": 25315
+      },
+      {
+        "name": "Moberly, MO",
+        "population": 25081
+      },
+      {
+        "name": "Summerville, GA",
+        "population": 25046
+      },
+      {
+        "name": "Spearfish, SD",
+        "population": 24859
+      },
+      {
+        "name": "Clarksdale, MS",
+        "population": 24804
+      },
+      {
+        "name": "Deming, NM",
+        "population": 24627
+      },
+      {
+        "name": "Magnolia, AR",
+        "population": 24168
+      },
+      {
+        "name": "Fallon, NV",
+        "population": 24148
+      },
+      {
+        "name": "Steamboat Springs, CO",
+        "population": 23980
+      },
+      {
+        "name": "Connersville, IN",
+        "population": 23608
+      },
+      {
+        "name": "Levelland, TX",
+        "population": 23377
+      },
+      {
+        "name": "Elk City, OK",
+        "population": 23290
+      },
+      {
+        "name": "Marshall, MO",
+        "population": 23214
+      },
+      {
+        "name": "Mitchell, SD",
+        "population": 23214
+      },
+      {
+        "name": "Liberal, KS",
+        "population": 23185
+      },
+      {
+        "name": "Cordele, GA",
+        "population": 23061
+      },
+      {
+        "name": "Pampa, TX",
+        "population": 23028
+      },
+      {
+        "name": "Maryville, MO",
+        "population": 23026
+      },
+      {
+        "name": "Hood River, OR",
+        "population": 22842
+      },
+      {
+        "name": "Wahpeton, ND-MN",
+        "population": 22808
+      },
+      {
+        "name": "Santa Isabel, PR",
+        "population": 22732
+      },
+      {
+        "name": "Arkadelphia, AR",
+        "population": 22684
+      },
+      {
+        "name": "Yankton, SD",
+        "population": 22649
+      },
+      {
+        "name": "Brookings, OR",
+        "population": 22364
+      },
+      {
+        "name": "Oskaloosa, IA",
+        "population": 22324
+      },
+      {
+        "name": "Dumas, TX",
+        "population": 22186
+      },
+      {
+        "name": "Raymondville, TX",
+        "population": 21944
+      },
+      {
+        "name": "Pierre, SD",
+        "population": 21938
+      },
+      {
+        "name": "Sterling, CO",
+        "population": 21862
+      },
+      {
+        "name": "Port Lavaca, TX",
+        "population": 21805
+      },
+      {
+        "name": "Borger, TX",
+        "population": 21782
+      },
+      {
+        "name": "Beatrice, NE",
+        "population": 21778
+      },
+      {
+        "name": "Worthington, MN",
+        "population": 21729
+      },
+      {
+        "name": "Grenada, MS",
+        "population": 21518
+      },
+      {
+        "name": "Guymon, OK",
+        "population": 21499
+      },
+      {
+        "name": "Prineville, OR",
+        "population": 21334
+      },
+      {
+        "name": "Woodward, OK",
+        "population": 21111
+      },
+      {
+        "name": "Jamestown, ND",
+        "population": 21108
+      },
+      {
+        "name": "Evanston, WY",
+        "population": 20893
+      },
+      {
+        "name": "Parsons, KS",
+        "population": 20833
+      },
+      {
+        "name": "Price, UT",
+        "population": 20733
+      },
+      {
+        "name": "Carroll, IA",
+        "population": 20555
+      },
+      {
+        "name": "Storm Lake, IA",
+        "population": 20445
+      },
+      {
+        "name": "Fairmont, MN",
+        "population": 20193
+      },
+      {
+        "name": "West Point, MS",
+        "population": 20147
+      },
+      {
+        "name": "Helena-West Helena, AR",
+        "population": 19929
+      },
+      {
+        "name": "Ruidoso, NM",
+        "population": 19726
+      },
+      {
+        "name": "Portales, NM",
+        "population": 19618
+      },
+      {
+        "name": "Othello, WA",
+        "population": 19100
+      },
+      {
+        "name": "Hereford, TX",
+        "population": 19039
+      },
+      {
+        "name": "Adjuntas, PR",
+        "population": 18760
+      },
+      {
+        "name": "Huron, SD",
+        "population": 18155
+      },
+      {
+        "name": "Brownsville, TN",
+        "population": 18129
+      },
+      {
+        "name": "Los Alamos, NM",
+        "population": 17895
+      },
+      {
+        "name": "Fairfield, IA",
+        "population": 17662
+      },
+      {
+        "name": "Fitzgerald, GA",
+        "population": 17405
+      },
+      {
+        "name": "Snyder, TX",
+        "population": 17314
+      },
+      {
+        "name": "Maysville, KY",
+        "population": 17229
+      },
+      {
+        "name": "Andrews, TX",
+        "population": 17215
+      },
+      {
+        "name": "Vineyard Haven, MA",
+        "population": 17137
+      },
+      {
+        "name": "Winnemucca, NV",
+        "population": 17091
+      },
+      {
+        "name": "Spirit Lake, IA",
+        "population": 17046
+      },
+      {
+        "name": "Atchison, KS",
+        "population": 16557
+      },
+      {
+        "name": "Spencer, IA",
+        "population": 16478
+      },
+      {
+        "name": "Jayuya, PR",
+        "population": 15605
+      },
+      {
+        "name": "Sweetwater, TX",
+        "population": 15017
+      },
+      {
+        "name": "Pecos, TX",
+        "population": 14438
+      },
+      {
+        "name": "Zapata, TX",
+        "population": 14335
+      },
+      {
+        "name": "Vermillion, SD",
+        "population": 14029
+      },
+      {
+        "name": "Ketchikan, AK",
+        "population": 13715
+      },
+      {
+        "name": "Lamesa, TX",
+        "population": 13317
+      },
+      {
+        "name": "Vernon, TX",
+        "population": 13061
+      },
+      {
+        "name": "Craig, CO",
+        "population": 13034
+      }
+    ],
+    "combined": [
+      {
+        "name": "New York-Newark, NY-NJ-CT-PA",
+        "population": 23568545
+      },
+      {
+        "name": "Los Angeles-Long Beach, CA",
+        "population": 18463122
+      },
+      {
+        "name": "Chicago-Naperville, IL-IN-WI",
+        "population": 9902385
+      },
+      {
+        "name": "Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",
+        "population": 9518995
+      },
+      {
+        "name": "San Jose-San Francisco-Oakland, CA",
+        "population": 8574623
+      },
+      {
+        "name": "Boston-Worcester-Providence, MA-RI-NH-CT",
+        "population": 8096628
+      },
+      {
+        "name": "Dallas-Fort Worth, TX-OK",
+        "population": 7389674
+      },
+      {
+        "name": "Philadelphia-Reading-Camden, PA-NJ-DE-MD",
+        "population": 7158466
+      },
+      {
+        "name": "Houston-The Woodlands, TX",
+        "population": 6679518
+      },
+      {
+        "name": "Miami-Fort Lauderdale-Port St. Lucie, FL",
+        "population": 6558445
+      },
+      {
+        "name": "Atlanta--Athens-Clarke County--Sandy Springs, GA",
+        "population": 6258653
+      },
+      {
+        "name": "Detroit-Warren-Ann Arbor, MI",
+        "population": 5316521
+      },
+      {
+        "name": "Seattle-Tacoma, WA",
+        "population": 4532266
+      },
+      {
+        "name": "Minneapolis-St. Paul, MN-WI",
+        "population": 3829046
+      },
+      {
+        "name": "Cleveland-Akron-Canton, OH",
+        "population": 3493934
+      },
+      {
+        "name": "Denver-Aurora, CO",
+        "population": 3344082
+      },
+      {
+        "name": "Portland-Vancouver-Salem, OR-WA",
+        "population": 3066487
+      },
+      {
+        "name": "Orlando-Deltona-Daytona Beach, FL",
+        "population": 3055820
+      },
+      {
+        "name": "St. Louis-St. Charles-Farmington, MO-IL",
+        "population": 2908182
+      },
+      {
+        "name": "Pittsburgh-New Castle-Weirton, PA-OH-WV",
+        "population": 2652049
+      },
+      {
+        "name": "Charlotte-Concord, NC-SC",
+        "population": 2538875
+      },
+      {
+        "name": "San Juan-Carolina, PR",
+        "population": 2531216
+      },
+      {
+        "name": "Sacramento-Roseville, CA",
+        "population": 2510484
+      },
+      {
+        "name": "Salt Lake City-Provo-Orem, UT",
+        "population": 2428885
+      },
+      {
+        "name": "Kansas City-Overland Park-Kansas City, MO-KS",
+        "population": 2410209
+      },
+      {
+        "name": "Columbus-Marion-Zanesville, OH",
+        "population": 2398271
+      },
+      {
+        "name": "Indianapolis-Carmel-Muncie, IN",
+        "population": 2350495
+      },
+      {
+        "name": "Las Vegas-Henderson, NV-AZ",
+        "population": 2316980
+      },
+      {
+        "name": "Cincinnati-Wilmington-Maysville, OH-KY-IN",
+        "population": 2205493
+      },
+      {
+        "name": "Raleigh-Durham-Chapel Hill, NC",
+        "population": 2075128
+      },
+      {
+        "name": "Milwaukee-Racine-Waukesha, WI",
+        "population": 2042566
+      },
+      {
+        "name": "Nashville-Davidson--Murfreesboro, TN",
+        "population": 1914642
+      },
+      {
+        "name": "Virginia Beach-Norfolk, VA-NC",
+        "population": 1817350
+      },
+      {
+        "name": "Greensboro--Winston-Salem--High Point, NC",
+        "population": 1630029
+      },
+      {
+        "name": "Jacksonville-St. Marys-Palatka, FL-GA",
+        "population": 1548493
+      },
+      {
+        "name": "Louisville/Jefferson County--Elizabethtown--Madison, KY-IN",
+        "population": 1497358
+      },
+      {
+        "name": "Hartford-West Hartford, CT",
+        "population": 1483859
+      },
+      {
+        "name": "New Orleans-Metairie-Hammond, LA-MS",
+        "population": 1478896
+      },
+      {
+        "name": "Grand Rapids-Wyoming-Muskegon, MI",
+        "population": 1421372
+      },
+      {
+        "name": "Greenville-Spartanburg-Anderson, SC",
+        "population": 1410702
+      },
+      {
+        "name": "Oklahoma City-Shawnee, OK",
+        "population": 1408626
+      },
+      {
+        "name": "Memphis-Forrest City, TN-MS-AR",
+        "population": 1368362
+      },
+      {
+        "name": "Birmingham-Hoover-Talladega, AL",
+        "population": 1355504
+      },
+      {
+        "name": "Harrisburg-York-Lebanon, PA",
+        "population": 1240760
+      },
+      {
+        "name": "Buffalo-Cheektowaga, NY",
+        "population": 1214009
+      },
+      {
+        "name": "Rochester-Batavia-Seneca Falls, NY",
+        "population": 1176315
+      },
+      {
+        "name": "Albany-Schenectady, NY",
+        "population": 1172491
+      },
+      {
+        "name": "Albuquerque-Santa Fe-Las Vegas, NM",
+        "population": 1165348
+      },
+      {
+        "name": "Tulsa-Muskogee-Bartlesville, OK",
+        "population": 1140701
+      },
+      {
+        "name": "Fresno-Madera, CA",
+        "population": 1116526
+      },
+      {
+        "name": "Knoxville-Morristown-Sevierville, TN",
+        "population": 1102958
+      },
+      {
+        "name": "Dayton-Springfield-Sidney, OH",
+        "population": 1077434
+      },
+      {
+        "name": "El Paso-Las Cruces, TX-NM",
+        "population": 1050898
+      },
+      {
+        "name": "Tucson-Nogales, AZ",
+        "population": 1049885
+      },
+      {
+        "name": "Cape Coral-Fort Myers-Naples, FL",
+        "population": 1029206
+      },
+      {
+        "name": "North Port-Sarasota, FL",
+        "population": 956198
+      },
+      {
+        "name": "Chattanooga-Cleveland-Dalton, TN-GA-AL",
+        "population": 944765
+      },
+      {
+        "name": "Omaha-Council Bluffs-Fremont, NE-IA",
+        "population": 941513
+      },
+      {
+        "name": "Columbia-Orangeburg-Newberry, SC",
+        "population": 928040
+      },
+      {
+        "name": "Little Rock-North Little Rock, AR",
+        "population": 900935
+      },
+      {
+        "name": "McAllen-Edinburg, TX",
+        "population": 891342
+      },
+      {
+        "name": "Madison-Janesville-Beloit, WI",
+        "population": 858572
+      },
+      {
+        "name": "Modesto-Merced, CA",
+        "population": 795562
+      },
+      {
+        "name": "Des Moines-Ames-West Des Moines, IA",
+        "population": 769715
+      },
+      {
+        "name": "Huntsville-Decatur-Albertville, AL",
+        "population": 758689
+      },
+      {
+        "name": "Boise City-Mountain Home-Ontario, ID-OR",
+        "population": 743030
+      },
+      {
+        "name": "Syracuse-Auburn, NY",
+        "population": 739435
+      },
+      {
+        "name": "South Bend-Elkhart-Mishawaka, IN-MI",
+        "population": 723098
+      },
+      {
+        "name": "Lexington-Fayette--Richmond--Frankfort, KY",
+        "population": 717108
+      },
+      {
+        "name": "Springfield-Greenfield Town, MA",
+        "population": 700023
+      },
+      {
+        "name": "Charleston-Huntington-Ashland, WV-OH-KY",
+        "population": 697405
+      },
+      {
+        "name": "Spokane-Spokane Valley-Coeur d'Alene, WA-ID",
+        "population": 690320
+      },
+      {
+        "name": "Wichita-Arkansas City-Winfield, KS",
+        "population": 676482
+      },
+      {
+        "name": "Jackson-Vicksburg-Brookhaven, MS",
+        "population": 669829
+      },
+      {
+        "name": "Youngstown-Warren, OH-PA",
+        "population": 657751
+      },
+      {
+        "name": "Toledo-Port Clinton, OH",
+        "population": 647665
+      },
+      {
+        "name": "Portland-Lewiston-South Portland, ME",
+        "population": 631250
+      },
+      {
+        "name": "Fort Wayne-Huntington-Auburn, IN",
+        "population": 622619
+      },
+      {
+        "name": "Lafayette-Opelousas-Morgan City, LA",
+        "population": 620795
+      },
+      {
+        "name": "Mobile-Daphne-Fairhope, AL",
+        "population": 613801
+      },
+      {
+        "name": "Visalia-Porterville-Hanford, CA",
+        "population": 606030
+      },
+      {
+        "name": "Reno-Carson City-Fernley, NV",
+        "population": 597590
+      },
+      {
+        "name": "Fayetteville-Lumberton-Laurinburg, NC",
+        "population": 547981
+      },
+      {
+        "name": "Lansing-East Lansing-Owosso, MI",
+        "population": 539148
+      },
+      {
+        "name": "Springfield-Branson, MO",
+        "population": 537248
+      },
+      {
+        "name": "Kalamazoo-Battle Creek-Portage, MI",
+        "population": 529435
+      },
+      {
+        "name": "Savannah-Hinesville-Statesboro, GA",
+        "population": 526902
+      },
+      {
+        "name": "Corpus Christi-Kingsville-Alice, TX",
+        "population": 521023
+      },
+      {
+        "name": "Pensacola-Ferry Pass, FL-AL",
+        "population": 511352
+      },
+      {
+        "name": "Johnson City-Kingsport-Bristol, TN-VA",
+        "population": 508187
+      },
+      {
+        "name": "Columbus-Auburn-Opelika, GA-AL",
+        "population": 500424
+      },
+      {
+        "name": "Myrtle Beach-Conway, SC-NC",
+        "population": 480389
+      },
+      {
+        "name": "Asheville-Brevard, NC",
+        "population": 474786
+      },
+      {
+        "name": "Davenport-Moline, IA-IL",
+        "population": 474225
+      },
+      {
+        "name": "Rockford-Freeport-Rochelle, IL",
+        "population": 440869
+      },
+      {
+        "name": "Brownsville-Harlingen-Raymondville, TX",
+        "population": 440729
+      },
+      {
+        "name": "Cedar Rapids-Iowa City, IA",
+        "population": 428398
+      },
+      {
+        "name": "Macon-Bibb County--Warner Robins, GA",
+        "population": 418289
+      },
+      {
+        "name": "Peoria-Canton, IL",
+        "population": 415288
+      },
+      {
+        "name": "Hickory-Lenoir, NC",
+        "population": 408390
+      },
+      {
+        "name": "Ponce-Coamo-Santa Isabel, PR",
+        "population": 405583
+      },
+      {
+        "name": "Tallahassee-Bainbridge, FL-GA",
+        "population": 403574
+      },
+      {
+        "name": "Appleton-Oshkosh-Neenah, WI",
+        "population": 400939
+      },
+      {
+        "name": "Saginaw-Midland-Bay City, MI",
+        "population": 384867
+      },
+      {
+        "name": "Erie-Meadville, PA",
+        "population": 366160
+      },
+      {
+        "name": "Green Bay-Shawano, WI",
+        "population": 360396
+      },
+      {
+        "name": "Gainesville-Lake City, FL",
+        "population": 341812
+      },
+      {
+        "name": "Lincoln-Beatrice, NE",
+        "population": 340598
+      },
+      {
+        "name": "Lubbock-Levelland, TX",
+        "population": 329769
+      },
+      {
+        "name": "Springfield-Jacksonville-Lincoln, IL",
+        "population": 314893
+      },
+      {
+        "name": "Midland-Odessa, TX",
+        "population": 314445
+      },
+      {
+        "name": "Wausau-Stevens Point-Wisconsin Rapids, WI",
+        "population": 307710
+      },
+      {
+        "name": "Rocky Mount-Wilson-Roanoke Rapids, NC",
+        "population": 304148
+      },
+      {
+        "name": "Medford-Grants Pass, OR",
+        "population": 294979
+      },
+      {
+        "name": "Longview-Marshall, TX",
+        "population": 283206
+      },
+      {
+        "name": "Amarillo-Borger, TX",
+        "population": 282277
+      },
+      {
+        "name": "Tyler-Jacksonville, TX",
+        "population": 271002
+      },
+      {
+        "name": "Bloomsburg-Berwick-Sunbury, PA",
+        "population": 264190
+      },
+      {
+        "name": "Monroe-Ruston-Bastrop, LA",
+        "population": 253077
+      },
+      {
+        "name": "Rochester-Austin, MN",
+        "population": 251917
+      },
+      {
+        "name": "Fargo-Wahpeton, ND-MN",
+        "population": 251062
+      },
+      {
+        "name": "Harrisonburg-Staunton-Waynesboro, VA",
+        "population": 250336
+      },
+      {
+        "name": "Dothan-Enterprise-Ozark, AL",
+        "population": 248441
+      },
+      {
+        "name": "Lafayette-West Lafayette-Frankfort, IN",
+        "population": 244805
+      },
+      {
+        "name": "Redding-Red Bluff, CA",
+        "population": 242243
+      },
+      {
+        "name": "State College-DuBois, PA",
+        "population": 240348
+      },
+      {
+        "name": "Lake Charles-Jennings, LA",
+        "population": 235371
+      },
+      {
+        "name": "Idaho Falls-Rexburg-Blackfoot, ID",
+        "population": 234948
+      },
+      {
+        "name": "Mayaguez-San German, PR",
+        "population": 230250
+      },
+      {
+        "name": "Bloomington-Pontiac, IL",
+        "population": 226854
+      },
+      {
+        "name": "Columbia-Moberly-Mexico, MO",
+        "population": 223722
+      },
+      {
+        "name": "Greenville-Washington, NC",
+        "population": 222663
+      },
+      {
+        "name": "Lima-Van Wert-Celina, OH",
+        "population": 219922
+      },
+      {
+        "name": "Bowling Green-Glasgow, KY",
+        "population": 219671
+      },
+      {
+        "name": "Mansfield-Ashland-Bucyrus, OH",
+        "population": 217716
+      },
+      {
+        "name": "Johnstown-Somerset, PA",
+        "population": 213963
+      },
+      {
+        "name": "Bloomington-Bedford, IN",
+        "population": 210026
+      },
+      {
+        "name": "Eau Claire-Menomonie, WI",
+        "population": 209610
+      },
+      {
+        "name": "Pueblo-Ca?on City, CO",
+        "population": 208993
+      },
+      {
+        "name": "Joplin-Miami, MO-OK",
+        "population": 208139
+      },
+      {
+        "name": "New Bern-Morehead City, NC",
+        "population": 195693
+      },
+      {
+        "name": "Morgantown-Fairmont, WV",
+        "population": 193336
+      },
+      {
+        "name": "Bend-Redmond-Prineville, OR",
+        "population": 192147
+      },
+      {
+        "name": "Elmira-Corning, NY",
+        "population": 185893
+      },
+      {
+        "name": "Sioux City-Vermillion, IA-SD-NE",
+        "population": 182775
+      },
+      {
+        "name": "Jonesboro-Paragould, AR",
+        "population": 170760
+      },
+      {
+        "name": "Rapid City-Spearfish, SD",
+        "population": 167444
+      },
+      {
+        "name": "Williamsport-Lock Haven, PA",
+        "population": 155849
+      },
+      {
+        "name": "Parkersburg-Marietta-Vienna, WV-OH",
+        "population": 153242
+      },
+      {
+        "name": "Ithaca-Cortland, NY",
+        "population": 152981
+      },
+      {
+        "name": "Jackson-Brownsville, TN",
+        "population": 148170
+      },
+      {
+        "name": "Cape Girardeau-Sikeston, MO-IL",
+        "population": 136416
+      },
+      {
+        "name": "Paducah-Mayfield, KY-IL",
+        "population": 135123
+      },
+      {
+        "name": "Manhattan-Junction City, KS",
+        "population": 134764
+      },
+      {
+        "name": "Findlay-Tiffin, OH",
+        "population": 131383
+      },
+      {
+        "name": "Hot Springs-Malvern, AR",
+        "population": 130559
+      },
+      {
+        "name": "Edwards-Glenwood Springs, CO",
+        "population": 127932
+      },
+      {
+        "name": "Mankato-New Ulm-North Mankato, MN",
+        "population": 124077
+      },
+      {
+        "name": "Rome-Summerville, GA",
+        "population": 121245
+      },
+      {
+        "name": "Victoria-Port Lavaca, TX",
+        "population": 120257
+      },
+      {
+        "name": "Kokomo-Peru, IN",
+        "population": 118821
+      },
+      {
+        "name": "Quincy-Hannibal, IL-MO",
+        "population": 116178
+      },
+      {
+        "name": "Mount Pleasant-Alma, MI",
+        "population": 112250
+      },
+      {
+        "name": "Moses Lake-Othello, WA",
+        "population": 111630
+      },
+      {
+        "name": "Dixon-Sterling, IL",
+        "population": 91873
+      },
+      {
+        "name": "Richmond-Connersville, IN",
+        "population": 91031
+      },
+      {
+        "name": "DeRidder-Fort Polk South, LA",
+        "population": 88536
+      },
+      {
+        "name": "Pullman-Moscow, WA-ID",
+        "population": 86087
+      },
+      {
+        "name": "Columbus-West Point, MS",
+        "population": 79932
+      },
+      {
+        "name": "Martin-Union City, TN-KY",
+        "population": 71247
+      },
+      {
+        "name": "Clovis-Portales, NM",
+        "population": 70162
+      },
+      {
+        "name": "Cleveland-Indianola, MS",
+        "population": 61039
+      },
+      {
+        "name": "Oskaloosa-Pella, IA",
+        "population": 55521
+      },
+      {
+        "name": "Steamboat Springs-Craig, CO",
+        "population": 37014
+      }
+    ]
+  }
+}
