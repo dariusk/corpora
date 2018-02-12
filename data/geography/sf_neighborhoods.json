@@ -1,0 +1,455 @@
+{
+  "description": "San Francisco neighborhoods and their locations",
+  "neighborhoods": [
+    {
+      "name": "Alamo Square",
+      "lat": 37.7774994,
+      "lng": -122.433252
+    },
+    {
+      "name": "Anza Vista",
+      "lat": 37.7808685,
+      "lng": -122.4431851
+    },
+    {
+      "name": "Ashbury",
+      "lat": 37.7692204,
+      "lng": -122.4481393
+    },
+    {
+      "name": "Balboa Hollow",
+      "lat": 37.7771598,
+      "lng": -122.4650762
+    },
+    {
+      "name": "Balboa Terrace",
+      "lat": 37.7313335,
+      "lng": -122.4686612
+    },
+    {
+      "name": "Bayview",
+      "lat": 37.730416,
+      "lng": -122.384424
+    },
+    {
+      "name": "Bernal",
+      "lat": 37.7411622,
+      "lng": -122.4178378
+    },
+    {
+      "name": "Buena Vista",
+      "lat": 37.7655998,
+      "lng": -122.442166
+    },
+    {
+      "name": "Castro",
+      "lat": 37.7609082,
+      "lng": -122.4350043
+    },
+    {
+      "name": "China Basin",
+      "lat": 37.778852,
+      "lng": -122.392764
+    },
+    {
+      "name": "Chinatown",
+      "lat": 37.7941378,
+      "lng": -122.4077914
+    },
+    {
+      "name": "Civic Center",
+      "lat": 37.7815533,
+      "lng": -122.4156427
+    },
+    {
+      "name": "Cole Valley",
+      "lat": 37.7650406,
+      "lng": -122.4502301
+    },
+    {
+      "name": "College Hill",
+      "lat": 37.7372128,
+      "lng": -122.4228224
+    },
+    {
+      "name": "Cow Hollow",
+      "lat": 37.798033,
+      "lng": -122.4396463
+    },
+    {
+      "name": "Diamond Heights",
+      "lat": 37.7423723,
+      "lng": -122.4424773
+    },
+    {
+      "name": "Dolores Heights",
+      "lat": 37.7573107,
+      "lng": -122.4331655
+    },
+    {
+      "name": "Downtown",
+      "lat": 37.7815533,
+      "lng": -122.4156427
+    },
+    {
+      "name": "Duboce",
+      "lat": 37.7676788,
+      "lng": -122.4318604
+    },
+    {
+      "name": "Duboce Triangle",
+      "lat": 37.7676788,
+      "lng": -122.4318604
+    },
+    {
+      "name": "Embarcadero",
+      "lat": 37.7992627,
+      "lng": -122.3976732
+    },
+    {
+      "name": "Eureka Valley",
+      "lat": 37.7609082,
+      "lng": -122.4350043
+    },
+    {
+      "name": "Excelsior",
+      "lat": 37.7244152,
+      "lng": -122.4272295
+    },
+    {
+      "name": "Fillmore District",
+      "lat": 37.786997,
+      "lng": -122.4368151
+    },
+    {
+      "name": "Financial District",
+      "lat": 37.7945742,
+      "lng": -122.3999445
+    },
+    {
+      "name": "Fishermans Wharf",
+      "lat": 37.8079996,
+      "lng": -122.4177434
+    },
+    {
+      "name": "Forest Hill",
+      "lat": 37.7473152,
+      "lng": -122.4651232
+    },
+    {
+      "name": "Forest Knolls",
+      "lat": 37.7585879,
+      "lng": -122.4594622
+    },
+    {
+      "name": "Fort Mason",
+      "lat": 37.8074131,
+      "lng": -122.4304447
+    },
+    {
+      "name": "Glen",
+      "lat": 37.7377715,
+      "lng": -122.4321041
+    },
+    {
+      "name": "Glen Park",
+      "lat": 37.7377715,
+      "lng": -122.4321041
+    },
+    {
+      "name": "Golden Gate Heights",
+      "lat": 37.7527187,
+      "lng": -122.4707839
+    },
+    {
+      "name": "Haight",
+      "lat": 37.7692204,
+      "lng": -122.4481393
+    },
+    {
+      "name": "Hayes Valley",
+      "lat": 37.7759073,
+      "lng": -122.4245247
+    },
+    {
+      "name": "Hunters Point",
+      "lat": 37.730416,
+      "lng": -122.384424
+    },
+    {
+      "name": "Ingleside",
+      "lat": 37.7198213,
+      "lng": -122.4538009
+    },
+    {
+      "name": "Ingleside Terrace",
+      "lat": 37.7198213,
+      "lng": -122.4538009
+    },
+    {
+      "name": "Inner Richmond",
+      "lat": 37.7798704,
+      "lng": -122.4647458
+    },
+    {
+      "name": "Inner Sunset",
+      "lat": 37.7607369,
+      "lng": -122.4679536
+    },
+    {
+      "name": "Japantown",
+      "lat": 37.7854135,
+      "lng": -122.429383
+    },
+    {
+      "name": "Lake Shore",
+      "lat": 37.7233167,
+      "lng": -122.4886792
+    },
+    {
+      "name": "Lake Street",
+      "lat": 37.7856849,
+      "lng": -122.4700763
+    },
+    {
+      "name": "Lakeside",
+      "lat": 37.7264914,
+      "lng": -122.4734472
+    },
+    {
+      "name": "Laurel Heights",
+      "lat": 37.7841497,
+      "lng": -122.4538009
+    },
+    {
+      "name": "Lone Mountain",
+      "lat": 37.7770049,
+      "lng": -122.4538009
+    },
+    {
+      "name": "Marina",
+      "lat": 37.8036667,
+      "lng": -122.4368151
+    },
+    {
+      "name": "Merced Heights",
+      "lat": 37.7193504,
+      "lng": -122.4716529
+    },
+    {
+      "name": "Merced Manor",
+      "lat": 37.733048,
+      "lng": -122.4785669
+    },
+    {
+      "name": "Mid Market",
+      "lat": 37.7804684,
+      "lng": -122.412455
+    },
+    {
+      "name": "Midtown Terrace",
+      "lat": 37.7508014,
+      "lng": -122.4538009
+    },
+    {
+      "name": "Mission",
+      "lat": 37.7598648,
+      "lng": -122.4147977
+    },
+    {
+      "name": "Mission Bay",
+      "lat": 37.7730963,
+      "lng": -122.3929225
+    },
+    {
+      "name": "Monterey Heights",
+      "lat": 37.7323209,
+      "lng": -122.4615851
+    },
+    {
+      "name": "Mount Davidson",
+      "lat": 37.739132,
+      "lng": -122.4540461
+    },
+    {
+      "name": "Mount Davidson Manor",
+      "lat": 37.7283105,
+      "lng": -122.4630004
+    },
+    {
+      "name": "NOPA",
+      "lat": 37.7757272,
+      "lng": -122.4424773
+    },
+    {
+      "name": "Nob Hill",
+      "lat": 37.793014,
+      "lng": -122.416113
+    },
+    {
+      "name": "Noe",
+      "lat": 37.7502378,
+      "lng": -122.4337029
+    },
+    {
+      "name": "North Beach",
+      "lat": 37.8060532,
+      "lng": -122.4103311
+    },
+    {
+      "name": "Oceanview",
+      "lat": 37.7141828,
+      "lng": -122.4566316
+    },
+    {
+      "name": "Pac Heights",
+      "lat": 37.7925153,
+      "lng": -122.4382307
+    },
+    {
+      "name": "Panhandle",
+      "lat": 37.7728515,
+      "lng": -122.4460161
+    },
+    {
+      "name": "Parkmerced",
+      "lat": 37.7182928,
+      "lng": -122.481024
+    },
+    {
+      "name": "Parkside",
+      "lat": 37.733048,
+      "lng": -122.4785669
+    },
+    {
+      "name": "Portola",
+      "lat": 37.7297408,
+      "lng": -122.4099154
+    },
+    {
+      "name": "Portola Place",
+      "lat": 37.7279525,
+      "lng": -122.3976456
+    },
+    {
+      "name": "Potrero",
+      "lat": 37.7604929,
+      "lng": -122.400869
+    },
+    {
+      "name": "Presidio",
+      "lat": 37.7988737,
+      "lng": -122.4661937
+    },
+    {
+      "name": "Presidio Heights",
+      "lat": 37.7889125,
+      "lng": -122.4538009
+    },
+    {
+      "name": "Presidio Terrace",
+      "lat": 37.7882626,
+      "lng": -122.460805
+    },
+    {
+      "name": "Richmond",
+      "lat": 37.7796734,
+      "lng": -122.482907
+    },
+    {
+      "name": "Rincon Hill",
+      "lat": 37.7872962,
+      "lng": -122.3919209
+    },
+    {
+      "name": "Russian Hill",
+      "lat": 37.8010963,
+      "lng": -122.4195558
+    },
+    {
+      "name": "SOMA",
+      "lat": 37.7785189,
+      "lng": -122.4056395
+    },
+    {
+      "name": "Saint Francis Wood",
+      "lat": 37.7377845,
+      "lng": -122.4651232
+    },
+    {
+      "name": "Seacliff",
+      "lat": 37.785941,
+      "lng": -122.4907
+    },
+    {
+      "name": "Silver Terrace",
+      "lat": 37.7332209,
+      "lng": -122.3985871
+    },
+    {
+      "name": "Somisspo",
+      "lat": 37.76899,
+      "lng": -122.4058284
+    },
+    {
+      "name": "South Beach",
+      "lat": 37.7835826,
+      "lng": -122.3899066
+    },
+    {
+      "name": "Sunnydale",
+      "lat": 37.7107269,
+      "lng": -122.4192308
+    },
+    {
+      "name": "Sunnyside",
+      "lat": 37.7299104,
+      "lng": -122.4442888
+    },
+    {
+      "name": "Telegraph Hill Neighborhood",
+      "lat": 37.8013407,
+      "lng": -122.4056674
+    },
+    {
+      "name": "Tenderloin",
+      "lat": 37.7846598,
+      "lng": -122.4145058
+    },
+    {
+      "name": "Twin Peaks",
+      "lat": 37.7544066,
+      "lng": -122.4476845
+    },
+    {
+      "name": "Upper Market",
+      "lat": 37.7543235,
+      "lng": -122.443555
+    },
+    {
+      "name": "Visitacion",
+      "lat": 37.7171754,
+      "lng": -122.4042514
+    },
+    {
+      "name": "West Portal",
+      "lat": 37.7416783,
+      "lng": -122.4679536
+    },
+    {
+      "name": "Western Addition",
+      "lat": 37.7822112,
+      "lng": -122.4341781
+    },
+    {
+      "name": "Westwood Highlands",
+      "lat": 37.7332501,
+      "lng": -122.4566316
+    },
+    {
+      "name": "Westwood Park",
+      "lat": 37.7261005,
+      "lng": -122.4566316
+    }
+  ]
+}
