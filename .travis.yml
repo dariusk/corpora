@@ -11,5 +11,9 @@ install:
 script:
   # JSON Lint:
   - grunt
+
+  # Skip this file, it has valid duplicates:
+  - rm data/words/verbs_with_conjugations.json
+
   # Check for duplicate values:
   - jsonchecker data --values --quiet
