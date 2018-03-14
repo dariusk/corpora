@@ -1266,7 +1266,9 @@
     "make your way directly to",
     "heap #noun.s# upon",
     "multiply",
-    "serve as the #role# of"
+    "serve as the #role# of",
+    "return to",
+    "#action# and #verb"
   ],
   "role": [
     "vicar",
