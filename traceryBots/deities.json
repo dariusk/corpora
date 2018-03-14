@@ -368,7 +368,10 @@
     "cartridge",
     "cassette",
     "catfish",
-    "caught",
+    "tardigrade",
+    "proboscis monkey",
+    "blobfish",
+    "catch",
     "celebrity",
     "cemetery",
     "certainty",
@@ -1244,6 +1247,7 @@
   ],
   "command": [
     "commands you to",
+    "compels you to",
     "bids you to",
     "orders you to",
     "requests that you",
@@ -1281,11 +1285,18 @@
     "sacrifice your #noun# to",
     "make your way directly to",
     "heap #noun.s# upon",
-    "multiply",
-    "serve as the #role# of",
+    "spread the good news about",
+    "warn the world about",
+    "live the rest of your life as the #role# of",
+    "devote your life to",
+    "become #role# of",
+    "make a pilgramage to the #role# of",
+    "obey the #role# of",
+    "kiss the #role# of",
     "return to",
     "verbalise",
     "realise",
+    "imagine you are",
     "#action# and #verb#"
   ],
   "role": [
@@ -1304,13 +1315,12 @@
   "object": [
     "#specifier# #noun#",
     "#specifier# #objAdverb# #noun#",
-    "you and #specifier# #noun#"
+    "yourself and #specifier# #noun#"
   ],
   "specifier": [
     "the",
     "your",
     "every",
-    "some",
     "one of the",
     "your #relation#'s",
     "#specifier# #noun#'s"
@@ -1350,6 +1360,7 @@
     "secret crush",
     "neighbour",
     "shrine",
-    "totem"
+    "totem",
+    "sacred place"
   ]
 }
