@@ -1268,7 +1268,9 @@
     "multiply",
     "serve as the #role# of",
     "return to",
-    "#action# and #verb"
+    "verbalise",
+    "realise",
+    "#action# and #verb#"
   ],
   "role": [
     "vicar",
@@ -1284,18 +1286,25 @@
     "paragon"
   ],
   "object": [
-    "your #noun#",
-    "the #noun#",
-    "your #noun#'s #noun#",
-    "the nearest #noun#",
-    "your #relation#'s #noun#",
-    "every #objAdverb# #noun#",
-    "yourself and your #noun#"
+    "#specifier# #noun#",
+    "#specifier# #objAdverb# #noun#",
+    "you and #specifier# #noun#"
+  ],
+  "specifier": [
+    "the",
+    "your",
+    "every",
+    "some",
+    "one of the",
+    "your #relation#'s",
+    "#specifier# #noun#'s"
   ],
   "objAdverb": [
     "red",
     "black",
     "empty",
+    "wildest",
+    "secret",
     "oversized",
     "awkward",
     "overt",
@@ -1311,7 +1320,9 @@
     "faded",
     "orange",
     "brown",
-    "other"
+    "other",
+    "nearest",
+    "every"
   ],
   "relation": [
     "mother",
