@@ -1,0 +1,4617 @@
+{
+    "description": "Activity category codes used by the US Bureau of Labor Statistics in its American Time Use Survey.  Categories either come with a set of example activities, or are standalone 'miscellaneous' categories denoted 'not elsewhere classified'.",
+    "source": "https://www.bls.gov/tus/lexicons.htm",
+    "categories": [
+        {
+            "category": "Sleeping",
+            "code": "010101",
+            "examples": [
+                "getting some shut-eye",
+                "dozing off",
+                "getting up",
+                "napping",
+                "falling asleep",
+                "sleeping",
+                "waking up",
+                "dreaming",
+                "cat napping",
+                "dozing"
+            ]
+        },
+        {
+            "category": "Sleeplessness",
+            "code": "010102",
+            "examples": [
+                "tossing and turning",
+                "lying awake",
+                "counting sheep",
+                "insomnia"
+            ]
+        },
+        {
+            "category": "Sleeping, not elsewhere classified",
+            "code": "010199"
+        },
+        {
+            "category": "Washing, dressing and grooming oneself",
+            "code": "010201",
+            "examples": [
+                "washing feet",
+                "combing hair",
+                "washing face",
+                "doing nails",
+                "brushing/flossing teeth",
+                "cutting own hair",
+                "perming own hair",
+                "getting dressed/undressed",
+                "filing nails",
+                "washing hands",
+                "putting on pajamas",
+                "putting on shoes",
+                "cleaning contact lenses",
+                "brushing lint off clothing",
+                "putting on makeup",
+                "gargling mouthwash",
+                "changing clothes",
+                "shaving",
+                "running bath",
+                "putting on nail polish",
+                "laying clothes out",
+                "cleaning ears",
+                "doing own hair",
+                "removing curlers",
+                "shaving legs",
+                "brushing hair",
+                "putting on hand cream",
+                "putting in contact lenses",
+                "using the bathroom",
+                "washing hair",
+                "putting on night cream",
+                "blow-drying hair",
+                "grooming",
+                "bathing/showering"
+            ]
+        },
+        {
+            "category": "Grooming, not elsewhere classified",
+            "code": "010299",
+            "examples": [
+                "getting a haircut from spouse/friend (unpaid)",
+                "mom braided my hair",
+                "friend rubbed suntan lotion on me"
+            ]
+        },
+        {
+            "category": "Health-related self care",
+            "code": "010301",
+            "examples": [
+                "taking insulin",
+                "exercising or therapy for medical reasons",
+                "applying ointment",
+                "resting because of injury",
+                "putting ice on injury",
+                "bandaging ankle",
+                "giving oneself a shot",
+                "changing oxygen",
+                "giving oneself an injection",
+                "resting because of illness",
+                "doing childbirth exercises",
+                "dressing a wound",
+                "testing blood sugar level",
+                "taking cough drops",
+                "taking medicine",
+                "doing stress management exercises",
+                "meditating (not religious)",
+                "taking vitamins",
+                "gargling for sore throat"
+            ]
+        },
+        {
+            "category": "Self care, not elsewhere classified",
+            "code": "010399",
+            "examples": [
+                "feeling sick"
+            ]
+        },
+        {
+            "category": "Personal/Private activities",
+            "code": "010401",
+            "examples": [
+                "personal activity, unspecified",
+                "making out",
+                "private activity, unspecified",
+                "necking",
+                "cuddling partner in bed",
+                "having sex",
+                "spouse gave me a massage"
+            ]
+        },
+        {
+            "category": "Personal activities, not elsewhere classified",
+            "code": "010499"
+        },
+        {
+            "category": "Personal emergencies",
+            "code": "010501",
+            "examples": [
+                "being involved in a personal accident",
+                "being involved in an accident requiring emergency care",
+                "waiting for ambulance",
+                "stanching blood flow",
+                "losing consciousness"
+            ]
+        },
+        {
+            "category": "Personal care emergencies, not elsewhere classified",
+            "code": "010599"
+        },
+        {
+            "category": "Personal Care, not elsewhere classified",
+            "code": "019999"
+        },
+        {
+            "category": "Interior cleaning",
+            "code": "020101",
+            "examples": [
+                "recycling/sorting newspapers for recycling",
+                "cleaning windows/washing walls",
+                "emptying trash cans/taking out the trash",
+                "cleaning floors/mopping floors",
+                "picking up the house/cleaning the house",
+                "cleaning cupboards",
+                "polishing furniture/dusting",
+                "picking up clothes",
+                "straightening up the house",
+                "washing floor",
+                "cleaning carpets/shampooing carpet",
+                "cleaning bathtub/cleaning toilet",
+                "tidying up",
+                "cleaning out closet",
+                "vacuuming/sweeping floors/sweeping",
+                "emptying ashtray",
+                "cleaning out drawers",
+                "picking up toys",
+                "cleaning bathrooms/cleaning bedroom",
+                "scrubbing",
+                "making the bed/changing sheets"
+            ]
+        },
+        {
+            "category": "Laundry",
+            "code": "020102",
+            "examples": [
+                "bringing in washing/laundry",
+                "putting towels in bathroom",
+                "washing curtains",
+                "sorting laundry/folding clean laundry",
+                "hand washing clothing",
+                "removing lint from dryer",
+                "hanging clothes on clothesline",
+                "putting clean laundry away",
+                "putting out clean towels",
+                "taking clothes off the line",
+                "adding fabric softener",
+                "doing laundry/checking wash",
+                "folding clothes/hanging clothes",
+                "ironing",
+                "putting laundry in washer/dryer",
+                "taking clothes out of washer",
+                "treating stains/spot treating clothes"
+            ]
+        },
+        {
+            "category": "Sewing, repairing, & maintaining textiles",
+            "code": "020103",
+            "examples": [
+                "sewing a new dress/clothing",
+                "sewing curtains/other hh items",
+                "cleaning shoes/sneakers",
+                "sewing on buttons/hemming garmets",
+                "knitting/crocheting blankets",
+                "knitting/crocheting sweaters, clothing",
+                "repairing/caring for clothes/hats/shoes/curtains",
+                "altering clothing/sewing hem",
+                "polishing shoes",
+                "crocheting/crocheting quilt"
+            ]
+        },
+        {
+            "category": "Storing interior hh items, inc. food",
+            "code": "020104",
+            "examples": [
+                "storing food/storing the groceries",
+                "boxing things up for storage",
+                "putting away the groceries/putting shopping away",
+                "moving stuff to attic/basement",
+                "putting away decorations/Christmas decorations/holiday items"
+            ]
+        },
+        {
+            "category": "Housework, not elsewhere classified",
+            "code": "020199"
+        },
+        {
+            "category": "Food and drink preparation",
+            "code": "020201",
+            "examples": [
+                "smoking fish",
+                "making a gingerbread house",
+                "putting icing on cake",
+                "making jam/bottling fruit",
+                "mixing/heating up baby formula",
+                "chopping/slicing vegetables",
+                "thawing frozen food",
+                "dehydrating food/drying food",
+                "packing food/lunches/picnics",
+                "canning food/preserving food",
+                "baking/cooking/broiling/boiling",
+                "getting a drink/pouring water in glass",
+                "baking Christmas cookies",
+                "preparing food for company/guests",
+                "mixing drinks",
+                "butchering/carving/salting meat",
+                "heating food up/cooking meals",
+                "boiling water",
+                "making coffee/tea",
+                "preparing salad",
+                "defrosting",
+                "peeling potatoes",
+                "breast-pumping",
+                "preparing food for other hh members",
+                "baking a cake/baking biscuits",
+                "cooking dinner",
+                "brewing beer or wine",
+                "putting roast in oven",
+                "making baby food"
+            ]
+        },
+        {
+            "category": "Food presentation",
+            "code": "020202",
+            "examples": [
+                "polishing silver",
+                "putting out condiments",
+                "serving a meal/serving hors d'oeuvres",
+                "passing out drinks",
+                "setting the table",
+                "filling salt/pepper/sugar",
+                "garnishing food"
+            ]
+        },
+        {
+            "category": "Kitchen and food clean-up",
+            "code": "020203",
+            "examples": [
+                "cleaning microwave oven",
+                "loading the dishwasher/emptying dishwasher",
+                "mopping the kitchen floor",
+                "washing/drying dishes",
+                "rinsing dishes/washing pots and pans",
+                "cleaning high chair",
+                "cleaning refrigerator",
+                "throwing away leftovers",
+                "cleaning kitchen cupboard",
+                "cleaning up after a meal/clearing the table",
+                "putting leftovers away",
+                "cleaning freezer/defrosting freezer",
+                "cleaning up the kitchen only",
+                "cleaning up plates and food",
+                "wiping table",
+                "putting dishes away",
+                "cleaning oven/stove/barbecue grill"
+            ]
+        },
+        {
+            "category": "Food & drink prep, presentation, & clean-up, not elsewhere classified",
+            "code": "020299"
+        },
+        {
+            "category": "Interior arrangement, decoration, & repairs",
+            "code": "020301",
+            "examples": [
+                "replacing fuses",
+                "hanging curtains/wallpaper",
+                "hanging blinds/shades",
+                "fumigating house",
+                "measuring windows for curtains",
+                "putting up Christmas lights (inside)",
+                "setting up a manger (inside)",
+                "fixing leaks",
+                "hanging Christmas stockings",
+                "taking down towel bars",
+                "installing carpet",
+                "setting mousetraps",
+                "decorating the Christmas tree",
+                "refitting kitchen/bathroom",
+                "changing light bulbs",
+                "carving jack-o-lanterns",
+                "moving/rearranging furniture",
+                "putting up shelves",
+                "stripping wallpaper",
+                "hanging pictures",
+                "laying linoleum/tile/wood floors",
+                "putting up Christmas decorations (inside)",
+                "decorating",
+                "plastering",
+                "setting up menorah candles (inside)",
+                "making plumbing improvements",
+                "remodeling interior of house",
+                "painting",
+                "stripping paint"
+            ]
+        },
+        {
+            "category": "Building and repairing furniture",
+            "code": "020302",
+            "examples": [
+                "changing cabinet hardware",
+                "repairs to furniture",
+                "painting furniture",
+                "refinishing furniture",
+                "stripping furniture",
+                "reupholstering furniture",
+                "refinishing wood furniture",
+                "assembling furniture",
+                "making furniture",
+                "making cabinets",
+                "staining wood furniture",
+                "sanding wood furniture"
+            ]
+        },
+        {
+            "category": "Heating and cooling",
+            "code": "020303",
+            "examples": [
+                "changing furnace filter",
+                "setting the fire",
+                "bringing in wood/kindling",
+                "chopping wood",
+                "installing fireplace",
+                "collecting wood",
+                "stacking firewood",
+                "lighting fireplace",
+                "filling heater with fuel",
+                "shoveling coal",
+                "installing window AC unit",
+                "installing wood burning stove",
+                "opening/closing windows"
+            ]
+        },
+        {
+            "category": "Interior maintenance, repair, & decoration, not elsewhere classified",
+            "code": "020399"
+        },
+        {
+            "category": "Exterior cleaning",
+            "code": "020401",
+            "examples": [
+                "putting away bicycles",
+                "picking up trash that blew into yard",
+                "removing ice from walkways",
+                "sweeping garage",
+                "washing outside windows",
+                "cleaning chimney",
+                "shoveling snow",
+                "sweeping steps",
+                "cleaning gutters",
+                "sweeping sidewalk",
+                "putting away outside toys",
+                "sweeping deck/patio/porch",
+                "cleaning shed",
+                "cleaning garage",
+                "putting away yard equipment"
+            ]
+        },
+        {
+            "category": "Exterior repair, improvements, & decoration",
+            "code": "020402",
+            "examples": [
+                "painting house exterior",
+                "building a deck",
+                "painting or staining fence",
+                "building a shed",
+                "putting new roof on house",
+                "fixing the roof",
+                "hanging flags",
+                "staining house exterior",
+                "replacing screens",
+                "fixing weatherboards",
+                "installing a gate or fence",
+                "setting up garden furniture",
+                "decorating outside for parties",
+                "paving or blacktopping",
+                "building a garage/carport",
+                "making structural additions",
+                "painting/staining porch/deck",
+                "putting new roof on garage",
+                "adding another room to house",
+                "repairing wind chimes",
+                "decorating outside for holidays",
+                "putting up Christmas decorations (outside)",
+                "hanging up wind chimes",
+                "hanging outdoor lights",
+                "screening in a porch",
+                "fixing broken windows",
+                "working on boat lift",
+                "building a fence",
+                "fixing mailbox",
+                "putting up outdoor holiday decorations",
+                "putting up Christmas lights (outside)",
+                "repairing boat dock",
+                "fixing bird feeder",
+                "hanging address numbers"
+            ]
+        },
+        {
+            "category": "Exterior maintenance, repair & decoration, not elsewhere classified",
+            "code": "020499"
+        },
+        {
+            "category": "Lawn, garden, and houseplant care",
+            "code": "020501",
+            "examples": [
+                "mowing the lawn",
+                "fertilizing garden",
+                "gardening",
+                "hunting mushrooms",
+                "mulching",
+                "planting fruit tree",
+                "watering lawn/garden",
+                "planting beans",
+                "pruning tree",
+                "weeding flower garden",
+                "fertilizing the lawn",
+                "cleaning the yard",
+                "gathering nuts",
+                "picking up branches, twigs",
+                "seeding",
+                "pruning shrubs/flowers",
+                "sowing flower or vegetable seeds",
+                "planting",
+                "weeding vegetable garden",
+                "turning sprinkler on or off",
+                "collecting eggs, honey",
+                "spraying rose bushes",
+                "watering outdoor plants",
+                "adding chemicals to lawn",
+                "applying pesticides",
+                "blowing leaves",
+                "edging",
+                "putting snail killer around vegetables",
+                "weeding",
+                "watering houseplants",
+                "tying up tomatoes",
+                "disposing/recycling lawn clippings",
+                "cutting the grass",
+                "trimming branches/hedges",
+                "spreading mulch",
+                "picking fruit and vegetables",
+                "planting tomatoes",
+                "laying paving stones",
+                "spraying for bugs",
+                "raking leaves",
+                "putting pesticides on lawn",
+                "doing yard work",
+                "spraying fruit trees",
+                "planting fruit and vegetables",
+                "digging in the vegetable garden"
+            ]
+        },
+        {
+            "category": "Ponds, pools, and hot tubs",
+            "code": "020502",
+            "examples": [
+                "putting in a pond, pool, hot tub",
+                "chlorinating the pool",
+                "winterizing pool",
+                "draining pool",
+                "cleaning the pond, pool, hot tub",
+                "testing ph in water",
+                "adding chemicals to hot tub",
+                "turning on/off the hot tub",
+                "filling the pool",
+                "adding chemicals to pool",
+                "repairing pond, pool, hot tub"
+            ]
+        },
+        {
+            "category": "Lawn and garden, not elsewhere classified",
+            "code": "020599"
+        },
+        {
+            "category": "Care for animals and pets (not veterinary care)",
+            "code": "020601",
+            "examples": [
+                "watching kittens/puppies being born",
+                "burying animals",
+                "feeding a stray",
+                "petting animals",
+                "changing dog's water",
+                "caring for household pets",
+                "feeding fish",
+                "feeding/watering pets",
+                "feeding squirrels",
+                "visiting an animal shelter to select pet",
+                "feeding a raccoon",
+                "clipping cat's claws",
+                "putting together rabbit pen",
+                "feeding horses",
+                "brushing dog",
+                "filling the bird feeder",
+                "bathing dog",
+                "feeding cat",
+                "caring for an orphaned animal",
+                "feeding birds",
+                "grooming pets",
+                "feeding rabbit",
+                "grooming horse",
+                "feeding ducks",
+                "cleaning the litter box",
+                "feeding guinea pig",
+                "nursing a sick animal",
+                "letting the dog out",
+                "cleaning up after pets",
+                "clipping dog's nails",
+                "adopting a pet",
+                "tending a wounded bird",
+                "feeding the dog",
+                "providing medical care to pets"
+            ]
+        },
+        {
+            "category": "Walking / exercising / playing with animals",
+            "code": "020602",
+            "examples": [
+                "exercising pets",
+                "playing with animals",
+                "taking pets for a walk",
+                "playing with the dog",
+                "walking the dog"
+            ]
+        },
+        {
+            "category": "Pet and animal care, not elsewhere classified",
+            "code": "020699"
+        },
+        {
+            "category": "Vehicle repair and maintenance (by self)",
+            "code": "020701",
+            "examples": [
+                "checking fluids",
+                "cleaning camper/RV",
+                "tuning up vehicles",
+                "checking tire pressure",
+                "rebuilding engine",
+                "putting on registration stickers",
+                "cleaning boat",
+                "cleaning/vacuuming vehicles",
+                "changing oil",
+                "charging battery",
+                "changing spark plugs",
+                "putting new chain on bicycle",
+                "putting protective cover on vehicle",
+                "adding oil",
+                "replacing brakes",
+                "fixing motorcycle",
+                "checking to make sure car was locked",
+                "doing a valve job",
+                "assembling bicycle",
+                "installing car CD player",
+                "changing wheel on motorcycle",
+                "doing a ring job",
+                "overhauling engine",
+                "filling brake fluid",
+                "fixing bike",
+                "replacing vehicle taillights",
+                "filling radiator",
+                "washing/waxing cars or other vehicles",
+                "restoring car",
+                "putting air in tires",
+                "changing/rotating tires",
+                "adding equipment to vehicles",
+                "covering boat",
+                "scraping ice/snow off vehicle",
+                "installing a trailer hitch",
+                "putting on license plates/tags",
+                "putting car/vehicle in garage",
+                "replacing vehicle headlights",
+                "hooking up trailer to car/truck",
+                "installing car stereo/speakers",
+                "checking tires",
+                "winterizing boat",
+                "checking battery"
+            ]
+        },
+        {
+            "category": "Vehicles, not elsewhere classified",
+            "code": "020799"
+        },
+        {
+            "category": "Appliance, tool, and toy set-up, repair, & maintenance (by self)",
+            "code": "020801",
+            "examples": [
+                "installing a printer",
+                "changing batteries in appliances",
+                "repairing sporting equipment",
+                "installing a modem",
+                "maintaining tools and equipment",
+                "setting up or fixing computer",
+                "connecting washing machine/dryer",
+                "repairing toys",
+                "restringing tennis racket",
+                "charging batteries",
+                "hooking up satellite dish",
+                "cleaning tools and equipment",
+                "installing a scanner",
+                "setting/winding clocks",
+                "installing a fax machine",
+                "waxing skis",
+                "fixing household camera",
+                "repairing tools & equipment",
+                "installing appliances",
+                "hooking up stereo, VCR",
+                "setting up doll house",
+                "repairing appliances",
+                "sharpening knives/other tools",
+                "installing heating or A/C equipment",
+                "loading software on computer",
+                "cleaning/oiling lawnmowers",
+                "setting up toy train track"
+            ]
+        },
+        {
+            "category": "Appliances and tools, not elsewhere classified",
+            "code": "020899"
+        },
+        {
+            "category": "Financial management",
+            "code": "020901",
+            "examples": [
+                "checking/trading/buying/selling stocks",
+                "looking at bills",
+                "balancing the checkbook/checking receipts against bank statements",
+                "giving money to hh child or hh adult",
+                "filing receipts",
+                "paying the rent/mortgage/bills",
+                "checking bank account balance",
+                "filling out tax forms",
+                "using computer to pay bills",
+                "making a budget/using computer to keep budget",
+                "donating money",
+                "researching investments",
+                "writing checks",
+                "borrowing/lending money (not banking)"
+            ]
+        },
+        {
+            "category": "Household & personal organization and planning",
+            "code": "020902",
+            "examples": [
+                "unwrapping/opening packages",
+                "organizing/planning hh parties or hh events",
+                "planning household meals/menu",
+                "packing/unpacking bags or suitcase (for self)",
+                "Loading/unloading the car",
+                "looking at store purchases",
+                "getting organized for work (for self)",
+                "unloading groceries/shopping items",
+                "opening presents/gifts (alone)",
+                "organizing file cabinet",
+                "wrapping presents",
+                "dropping off/picking up household items",
+                "carrying in groceries",
+                "sorting books/sorting household items",
+                "making reservations",
+                "making dinner reservations",
+                "borrowing/lending household items",
+                "packing boxes for household move or trip",
+                "making photocopies (for self or hh)",
+                "assigning chores",
+                "unpacking/packing car for trip",
+                "making shopping lists",
+                "filling a Christmas stocking/Easter basket",
+                "organizing school stuff (for self)",
+                "unpacking/packing recreational vehicle for trip",
+                "labeling videos",
+                "organizing boxes in garage",
+                "sorting/doing/filling out paperwork",
+                "looking for misplaced items",
+                "putting pictures in albums",
+                "planning vacation/household trip"
+            ]
+        },
+        {
+            "category": "HH & personal mail & messages (except e-mail)",
+            "code": "020903",
+            "examples": [
+                "checking to see if mail came/getting mail in",
+                "mailing letters, payments",
+                "sending reg./cert. packages/mail/express mail",
+                "looking at/checking/sorting mail",
+                "signing for certified mail",
+                "collecting mail/reading mail",
+                "bringing in newspaper/mail",
+                "mailing/picking up letters or packages",
+                "writing Valentines/Christmas cards",
+                "addressing holiday cards",
+                "checking phone messages",
+                "writing letters/cards (personal or hh)",
+                "throwing away junk mail"
+            ]
+        },
+        {
+            "category": "HH & personal e-mail and messages",
+            "code": "020904",
+            "examples": [
+                "instant messaging (personal)",
+                "reading/sending e-mail (unspecified)",
+                "checking e-mail (personal or hh)",
+                "cleaning out e-mail inbox (personal or hh)",
+                "reading/sending e-mail (personal or hh)"
+            ]
+        },
+        {
+            "category": "Home security",
+            "code": "020905",
+            "examples": [
+                "locking up the house/locking up home",
+                "maintaining alarms/security systems",
+                "closing the blinds/curtains",
+                "installing/maintaining smoke detectors",
+                "breaking into a locked house",
+                "bolting doors/windows",
+                "checking/changing locks",
+                "breaking into home if locked out",
+                "locking doors, windows/turning out the lights",
+                "setting security alarm/installing alarms",
+                "closing house up"
+            ]
+        },
+        {
+            "category": "Household management, not elsewhere classified",
+            "code": "020999"
+        },
+        {
+            "category": "Household activities, not elsewhere classified",
+            "code": "029999",
+            "examples": [
+                "putting out a kitchen fire",
+                "household accident",
+                "household emergency"
+            ]
+        },
+        {
+            "category": "Physical care for hh children",
+            "code": "030101",
+            "examples": [
+                "breastfeeding/nursing hh baby",
+                "giving hh child a bottle",
+                "helping hh child get dressed/brush teeth/bathe",
+                "drawing a bath for a hh child",
+                "Helping hh child feed him/herself",
+                "giving hh child a bath",
+                "getting hh child ready to go somewhere",
+                "laying out clothes for hh child",
+                "tucking in hh child",
+                "waking hh child",
+                "soothing hh child/baby",
+                "changing hh child's diapers",
+                "carrying hh child/baby",
+                "getting hh child up",
+                "preparing a shower for a hh child",
+                "getting hh child ready for school",
+                "cutting hh child's hair",
+                "putting hh child to bed",
+                "feeding hh child",
+                "rocking/cuddling/holding hh child",
+                "dressing/bathing hh child",
+                "helping hh child use the bathroom",
+                "getting hh child ready for bed"
+            ]
+        },
+        {
+            "category": "Reading to/with hh children",
+            "code": "030102",
+            "examples": [
+                "teaching hh child to read",
+                "helping hh child read",
+                "listening to a hh child read",
+                "reading to or with hh child"
+            ]
+        },
+        {
+            "category": "Playing with hh children, not sports",
+            "code": "030103",
+            "examples": [
+                "playing games w/hh child only",
+                "playing with hh child",
+                "tickling hh child",
+                "dancing with hh child",
+                "giving hh child a piggyback ride",
+                "horsing around with hh child",
+                "entertaining hh child"
+            ]
+        },
+        {
+            "category": "Arts and crafts with hh children",
+            "code": "030104",
+            "examples": [
+                "organizing coin collection with hh child",
+                "helping hh child make arts and crafts",
+                "building model planes with hh child",
+                "making holiday decorations w/hh child"
+            ]
+        },
+        {
+            "category": "Playing sports with hh children",
+            "code": "030105",
+            "examples": [
+                "riding bikes with hh child",
+                "strolling with a hh child",
+                "teaching hh child how to play a sport",
+                "walking with a hh child",
+                "playing basketball with hh child",
+                "teaching hh child to ride a bike"
+            ]
+        },
+        {
+            "category": "Talking with/listening to hh children",
+            "code": "030106",
+            "examples": [
+                "singing with hh child",
+                "singing to hh child",
+                "telling hh child to get ready for bed",
+                "listening to hh child sing/recite",
+                "fussing at/scolding/lecturing hh child",
+                "talking with hh child",
+                "telling hh child to brush teeth",
+                "hearing about hh child's day"
+            ]
+        },
+        {
+            "category": "Organization & planning for hh children",
+            "code": "030108",
+            "examples": [
+                "packing/unpacking hh child's bag",
+                "planning parties/activities/events for hh child",
+                "organizing activities for hh child",
+                "making costume for hh child",
+                "organizing closet for hh child",
+                "planning play dates for hh child",
+                "signing hh child up for activities",
+                "helping with parties for hh child"
+            ]
+        },
+        {
+            "category": "Looking after hh children (as a primary activity)",
+            "code": "030109",
+            "examples": [
+                "checking on hh child",
+                "supervising hh child swimming",
+                "sitting with hh child",
+                "accompanying hh child visiting Santa Claus",
+                "watching but not interacting with hh child",
+                "accompanying hh child trick-or-treating",
+                "supervising/monitoring/keeping tabs on hh child"
+            ]
+        },
+        {
+            "category": "Attending hh children's events",
+            "code": "030110",
+            "examples": [
+                "watching hh child's sporting event or school play",
+                "watching hh child's baseball practice",
+                "watching hh child's karate lesson",
+                "attending hh child's recital",
+                "watching hh child's dance class"
+            ]
+        },
+        {
+            "category": "Waiting for/with hh children",
+            "code": "030111",
+            "examples": [
+                "waiting to pick up hh child",
+                "waiting for school bus with hh child",
+                "waiting for hh child to get ready",
+                "waiting for hh child to finish his/her activity"
+            ]
+        },
+        {
+            "category": "Picking up/dropping off hh children",
+            "code": "030112",
+            "examples": [
+                "picking up hh child from day care/school/church",
+                "putting hh child on bus",
+                "dropping off hh child at babysitter's",
+                "dropping off hh child at friend's house",
+                "dropping off hh child at soccer practice"
+            ]
+        },
+        {
+            "category": "Caring for & helping hh children, not elsewhere classified",
+            "code": "030199",
+            "examples": [
+                "adopting a child"
+            ]
+        },
+        {
+            "category": "Homework (hh children)",
+            "code": "030201",
+            "examples": [
+                "helping hh child with a school project",
+                "picking up hh child's books/assignments",
+                "signing hh child's homework log",
+                "helping hh child with homework",
+                "checking hh child's homework for completion",
+                "quizzing hh child before a test",
+                "reviewing hh child's homework"
+            ]
+        },
+        {
+            "category": "Meetings and school conferences (hh children)",
+            "code": "030202",
+            "examples": [
+                "attending hh child's back-to-school night",
+                "meeting with guidance counselor of hh child",
+                "attending a PTA meeting",
+                "meeting with hh child's tutor",
+                "talking with teachers of hh child",
+                "talking to/with hh child's tutor",
+                "meeting w/school speech pathologist of hh child",
+                "meeting with principal of hh child",
+                "attending hh child's parent-teacher conference",
+                "meeting w/school psychologist of hh child",
+                "observing hh child's class",
+                "attending hh child's school open house"
+            ]
+        },
+        {
+            "category": "Home schooling of hh children",
+            "code": "030203",
+            "examples": [
+                "home schooling a hh child"
+            ]
+        },
+        {
+            "category": "Waiting associated with hh children's education",
+            "code": "030204",
+            "examples": [
+                "waiting to meet with hh child's teacher"
+            ]
+        },
+        {
+            "category": "Activities related to hh child's education, not elsewhere classified",
+            "code": "030299",
+            "examples": [
+                "helping hh child research colleges",
+                "helping hh child practice piano"
+            ]
+        },
+        {
+            "category": "Providing medical care to hh children",
+            "code": "030301",
+            "examples": [
+                "giving hh child medicine",
+                "putting medicine on hh child's cuts",
+                "sitting with sick hh child",
+                "helping hh child w/physical therapy",
+                "giving hh child's insulin shot",
+                "putting medicine on hh child's burn",
+                "bandaging hh child's cuts/burns",
+                "bandaging hh child's scrapes",
+                "taking hh child's temperature"
+            ]
+        },
+        {
+            "category": "Obtaining medical care for hh children",
+            "code": "030302",
+            "examples": [
+                "talking with hh child's nurse",
+                "talking with hh child's doctor",
+                "accompanying hh child to medical appt"
+            ]
+        },
+        {
+            "category": "Waiting associated with hh children's health",
+            "code": "030303",
+            "examples": [
+                "waiting with hh child at hospital",
+                "waiting with hh child at physician's office",
+                "waiting while doctor examines hh child"
+            ]
+        },
+        {
+            "category": "Activities related to hh child's health, not elsewhere classified",
+            "code": "030399",
+            "examples": [
+                "visiting hh child in hospital"
+            ]
+        },
+        {
+            "category": "Physical care for hh adults",
+            "code": "030401",
+            "examples": [
+                "bathing hh adult",
+                "dressing hh adult",
+                "putting hh adult to bed",
+                "feeding hh adult",
+                "helping hh adult dress",
+                "getting hh adult ready to go somewhere",
+                "cutting hh adult's hair",
+                "providing physical aid to hh adult",
+                "waking hh adult"
+            ]
+        },
+        {
+            "category": "Looking after hh adult (as a primary activity)",
+            "code": "030402",
+            "examples": [
+                "supervising hh adult",
+                "checking on hh adult",
+                "monitoring hh adult"
+            ]
+        },
+        {
+            "category": "Providing medical care to hh adult",
+            "code": "030403",
+            "examples": [
+                "bandaging hh adult",
+                "giving hh adult medicine"
+            ]
+        },
+        {
+            "category": "Obtaining medical and care services for hh adult",
+            "code": "030404",
+            "examples": [
+                "accompanying hh adult to medical appt.",
+                "talking to hh adult's doctors/nurses",
+                "talking to/with adult daycare provider",
+                "meeting with adult care provider"
+            ]
+        },
+        {
+            "category": "Waiting associated with caring for household adults",
+            "code": "030405",
+            "examples": [
+                "waiting with hh adult at physician's office",
+                "waiting while doctor examines hh adult",
+                "waiting to meet a hh adult's care provider",
+                "waiting with hh adult at hospital"
+            ]
+        },
+        {
+            "category": "Caring for household adults, not elsewhere classified",
+            "code": "030499"
+        },
+        {
+            "category": "Helping hh adults",
+            "code": "030501",
+            "examples": [
+                "helping hh adult w/taxes/bills",
+                "helping hh adult w/computer",
+                "shopping for hh adult (not self)"
+            ]
+        },
+        {
+            "category": "Organization & planning for hh adults",
+            "code": "030502",
+            "examples": [
+                "organizing parties for hh adult",
+                "planning activities for hh adult",
+                "making things for hh adult",
+                "planning events for hh adult",
+                "packing hh adult's bags",
+                "planning parties for hh adult"
+            ]
+        },
+        {
+            "category": "Picking up/dropping off hh adult",
+            "code": "030503",
+            "examples": [
+                "dropping hh adult off at senior center",
+                "helping hh adult get into car",
+                "picking up hh adult from hh adult's event"
+            ]
+        },
+        {
+            "category": "Waiting associated with helping hh adults",
+            "code": "030504",
+            "examples": [
+                "waiting to pick up hh adult"
+            ]
+        },
+        {
+            "category": "Helping household adults, not elsewhere classified",
+            "code": "030599",
+            "examples": [
+                "waiting for hh adult to get ready"
+            ]
+        },
+        {
+            "category": "Caring for & helping hh members, not elsewhere classified",
+            "code": "039999"
+        },
+        {
+            "category": "Physical care for nonhh children",
+            "code": "040101",
+            "examples": [
+                "putting nonhh child to bed",
+                "cutting nonhh child's hair",
+                "soothing nonhh child/baby",
+                "cuddling/rocking/holding nonhh child",
+                "feeding nonhh child",
+                "helping nonhh child get dressed/brush teeth/bathe",
+                "laying out clothes for nonhh child",
+                "tucking in nonhh child",
+                "getting nonhh child ready to go somewhere",
+                "helping nonhh child feed him/herself",
+                "changing nonhh child's diapers",
+                "carrying nonhh child/baby",
+                "helping nonhh child use the bathroom",
+                "waking nonhh child",
+                "giving nonhh child a bottle",
+                "dressing/bathing nonhh child",
+                "preparing a shower for nonhh child",
+                "drawing a bath for nonhh child"
+            ]
+        },
+        {
+            "category": "Reading to/with nonhh children",
+            "code": "040102",
+            "examples": [
+                "teaching nonhh child to read",
+                "reading to or with nonhh children",
+                "listening to a nonhh child read",
+                "helping nonhh child read"
+            ]
+        },
+        {
+            "category": "Playing with nonhh children, not sports",
+            "code": "040103",
+            "examples": [
+                "horsing around w/nonhh child",
+                "tickling nonhh child",
+                "entertaining nonhh child",
+                "giving nonhh child a piggyback ride",
+                "dancing with nonhh child",
+                "playing games w/nonhh child only",
+                "playing with nonhh child"
+            ]
+        },
+        {
+            "category": "Arts and crafts with nonhh children",
+            "code": "040104",
+            "examples": [
+                "organizing coin collection with nonhh child",
+                "making holiday decorations w/nonhh child",
+                "helping nonhh child make arts and crafts",
+                "building model planes with nonhh child"
+            ]
+        },
+        {
+            "category": "Playing sports with nonhh children",
+            "code": "040105",
+            "examples": [
+                "strolling with a nonhh child",
+                "teaching nonhh child how to play a sport",
+                "riding bikes with nonhh child",
+                "teaching nonhh child to ride a bike",
+                "playing basketball with nonhh child",
+                "walking with a nonhh child"
+            ]
+        },
+        {
+            "category": "Talking with/listening to nonhh children",
+            "code": "040106",
+            "examples": [
+                "listening to a nonhh child sing",
+                "telling nonhh child to brush teeth",
+                "fussing at/scolding/lecturing nonhh child",
+                "singing to nonhh child",
+                "singing with nonhh child",
+                "telling nonhh child to get ready for bed",
+                "talking with nonhh child",
+                "hearing about nonhh child's day"
+            ]
+        },
+        {
+            "category": "Organization & planning for nonhh children",
+            "code": "040108",
+            "examples": [
+                "making costumes for nonhh child",
+                "planning play dates for nonhh child",
+                "organizing activities for nonhh child",
+                "planning party/activities for nonhh child",
+                "signing nonhh child up for activities",
+                "helping w/party for nonhh child",
+                "packing/unpacking nonhh child's bag"
+            ]
+        },
+        {
+            "category": "Looking after nonhh children (as primary activity)",
+            "code": "040109",
+            "examples": [
+                "watching but not interacting w/nonhh child",
+                "accompanying nonhh child visiting Santa Claus",
+                "accompanying nonhh child trick-or-treating",
+                "supervising nonhh child swimming",
+                "checking on nonhh child",
+                "supervising/monitoring/keeping tabs on nonhh child"
+            ]
+        },
+        {
+            "category": "Attending nonhh children's events",
+            "code": "040110",
+            "examples": [
+                "attending nonhh child's recital",
+                "watching nonhh child's sporting event or school play",
+                "watching nonhh child's karate clas",
+                "watching nonhh child's dance class",
+                "watching nonhh child's baseball practice"
+            ]
+        },
+        {
+            "category": "Waiting for/with nonhh children",
+            "code": "040111",
+            "examples": [
+                "waiting for nonhh child to finish his/her activity",
+                "waiting for nonhh child to get ready",
+                "waiting for school bus with nonhh child",
+                "waiting to pick up nonhh child"
+            ]
+        },
+        {
+            "category": "Dropping off/picking up nonhh children",
+            "code": "040112",
+            "examples": [
+                "dropping off nonhh child at soccer practice",
+                "picking up nonhh child from day care/school",
+                "dropping off nonhh child at babysitter's",
+                "dropping off nonhh child at friend's house",
+                "putting nonhh child on bus"
+            ]
+        },
+        {
+            "category": "Caring for and helping nonhh children, not elsewhere classified",
+            "code": "040199",
+            "examples": [
+                "handing out Halloween candy"
+            ]
+        },
+        {
+            "category": "Homework (nonhh children)",
+            "code": "040201",
+            "examples": [
+                "reviewing nonhh child's homework",
+                "helping a nonhh child w/homework",
+                "helping nonhh child with sch. project",
+                "quizzing nonhh child before a test",
+                "signing nonhh child's homework log",
+                "checking nonhh child's homework",
+                "picking up nonhh child's books/assignments"
+            ]
+        },
+        {
+            "category": "Meetings and school conferences (nonhh children)",
+            "code": "040202",
+            "examples": [
+                "meeting with guidance counselor of nonhh child",
+                "meeting w/school speech pathologist of nonhh child",
+                "talking with teachers of nonhh child",
+                "observing nonhh child's class",
+                "meeting with nonhh child's tutor",
+                "attending non-hh child's parent-teacher conference",
+                "attending PTA meeting",
+                "attending nonhh child's school open house",
+                "meeting w/school psychologist of nonhh child",
+                "talking to/with nonhh child's tutor",
+                "attending non-hh child's back-to-school night",
+                "meeting with principal of nonhh child"
+            ]
+        },
+        {
+            "category": "Home schooling of nonhh children",
+            "code": "040203",
+            "examples": [
+                "home schooling a nonhh child"
+            ]
+        },
+        {
+            "category": "Waiting associated with nonhh children's education",
+            "code": "040204",
+            "examples": [
+                "waiting to meet with nonhh child's teacher"
+            ]
+        },
+        {
+            "category": "Activities related to nonhh child's educ., not elsewhere classified",
+            "code": "040299"
+        },
+        {
+            "category": "Providing medical care to nonhh children",
+            "code": "040301",
+            "examples": [
+                "sitting with sick nonhh child",
+                "helping nonhh child w/phys. therapy",
+                "giving nonhh child's insulin shot",
+                "taking a nonhh child's temperature",
+                "giving  nonhh child medicine",
+                "putting medicine on nonhh child's burn",
+                "bandaging nonhh child's scrapes/cuts",
+                "bandaging nonhh child's cuts/burns",
+                "putting medicine on nonhh child's cuts"
+            ]
+        },
+        {
+            "category": "Obtaining medical care for nonhh children",
+            "code": "040302",
+            "examples": [
+                "talking with nonhh child's nurse",
+                "accompanying nonhh child to medical appt",
+                "talking with nonhh child's doctor"
+            ]
+        },
+        {
+            "category": "Waiting associated with nonhh children's health",
+            "code": "040303",
+            "examples": [
+                "waiting with nonhh child at physician's office",
+                "waiting while doctor examines nonhh child",
+                "waiting with nonhh child at hospital"
+            ]
+        },
+        {
+            "category": "Activities related to nonhh child's health, not elsewhere classified",
+            "code": "040399",
+            "examples": [
+                "visiting a nonhh child in the hospital"
+            ]
+        },
+        {
+            "category": "Physical care for nonhh adults",
+            "code": "040401",
+            "examples": [
+                "providing physical aid to nonhh adult",
+                "cutting nonhh adult's hair",
+                "helping nonhh adult dress",
+                "feeding nonhh adult",
+                "putting nonhh adult to bed",
+                "getting nonhh adult ready to go somewhere",
+                "waking nonhh adult",
+                "dressing nonhh adult",
+                "bathing nonhh adult"
+            ]
+        },
+        {
+            "category": "Looking after nonhh adult (as a primary activity)",
+            "code": "040402",
+            "examples": [
+                "checking on nonhh adult",
+                "supervising nonhh adult",
+                "monitoring nonhh adult"
+            ]
+        },
+        {
+            "category": "Providing medical care to nonhh adult",
+            "code": "040403",
+            "examples": [
+                "giving nonhh adult medicine",
+                "bandaging nonhh adult"
+            ]
+        },
+        {
+            "category": "Obtaining medical and care services for nonhh adult",
+            "code": "040404",
+            "examples": [
+                "accompanying nonhh adult to medical appt.",
+                "talking to nonhh adult's doctors/nurses",
+                "meeting w/nonhh adult care provider",
+                "talking to/with nonhh adult care provider"
+            ]
+        },
+        {
+            "category": "Waiting associated with caring for nonhh adults",
+            "code": "040405",
+            "examples": [
+                "waiting while doctor examines nonhh adult",
+                "waiting with nonhh adult at physician's office",
+                "waiting to meet a nonhh adult care provider",
+                "waiting with nonhh adult at hospital"
+            ]
+        },
+        {
+            "category": "Caring for nonhh adults, not elsewhere classified",
+            "code": "040499"
+        },
+        {
+            "category": "Housework, cooking, & shopping assistance for nonhh adults",
+            "code": "040501",
+            "examples": [
+                "doing housework for nonhh adult",
+                "cooking/preparing food for nonhh adult",
+                "doing laundry for nonhh adult (not self)",
+                "shopping for nonhh adult (not self)"
+            ]
+        },
+        {
+            "category": "House & lawn maintenance & repair assistance for nonhh adults",
+            "code": "040502",
+            "examples": [
+                "disposing of trash for nonhh adult",
+                "painting house for nonhh adult",
+                "mowing the lawn for nonhh adult",
+                "mending fence for nonhh adult",
+                "fixing plumbing leak for nonhh adult"
+            ]
+        },
+        {
+            "category": "Animal & pet care assistance for nonhh adults",
+            "code": "040503",
+            "examples": [
+                "bathing dog for nonhh adult",
+                "walking dog for nonhh adult",
+                "feeding pets for nonhh adult"
+            ]
+        },
+        {
+            "category": "Vehicle & appliance maintenance/repair assistance for nonhh adults",
+            "code": "040504",
+            "examples": [
+                "fixing computer for nonhh adult",
+                "fixing car for nonhh adult",
+                "changing tires for nonhh adult",
+                "fixing appliances for nonhh adult",
+                "maintaining sports equipment for nonhh adults",
+                "adjusting brakes for nonhh adult"
+            ]
+        },
+        {
+            "category": "Financial management assistance for nonhh adults",
+            "code": "040505",
+            "examples": [
+                "helping nonhh adult w/taxes/bills",
+                "helping nonhh adult w/computer applications"
+            ]
+        },
+        {
+            "category": "Household management & paperwork assistance for nonhh adults",
+            "code": "040506",
+            "examples": [
+                "running errands for nonhh adult (not self)",
+                "planning events for nonhh adult",
+                "organizing party for nonhh adult",
+                "doing paperwork for nonhh adult",
+                "planning activities for nonhh adult",
+                "planning party for nonhh adult",
+                "making things for nonhh adult",
+                "packing nonhh adult's bags"
+            ]
+        },
+        {
+            "category": "Picking up/dropping off nonhh adult",
+            "code": "040507",
+            "examples": [
+                "picking up nonhh adult from adult's event",
+                "dropping nonhh adult off at senior center",
+                "helping nonhh adult get into car"
+            ]
+        },
+        {
+            "category": "Waiting associated with helping nonhh adults",
+            "code": "040508",
+            "examples": [
+                "waiting to pick up nonhh adult",
+                "waiting for nonhh adult to get ready"
+            ]
+        },
+        {
+            "category": "Helping nonhh adults, not elsewhere classified",
+            "code": "040599"
+        },
+        {
+            "category": "Caring for & helping nonhh members, not elsewhere classified",
+            "code": "049999"
+        },
+        {
+            "category": "Work, main job",
+            "code": "050101",
+            "examples": [
+                "teaching confirmation class (main job)",
+                "phone calls to/from coworkers (main job)",
+                "phone calls to/from clients (main job)",
+                "attending conferences/convention (main job)",
+                "enrollment in training/classes (main job)",
+                "designing/updating a website (main job)",
+                "surfing the Internet (main job)",
+                "phone calls to/from supervisors (main job)",
+                "attending class (main job)",
+                "reading/sending e-mail (main job)",
+                "attending sales training (main job)",
+                "at work (main job)",
+                "attending typing training (main job)",
+                "phone calls to/from customers (main job)",
+                "reviewing notes, briefs, or papers (main job)",
+                "making reserv. on the Internet (main job)",
+                "preparing lesson plans/grading papers (main job)",
+                "telephone calls (main job)",
+                "writing memos/papers/letters (main job)",
+                "organizing/preparing materials (main job)",
+                "registering for training (main job)",
+                "reading the Bible/Torah/scriptures (main job)",
+                "calling leads for stories/information (main job)",
+                "on-the-job training (main job)",
+                "teaching/leading Bible study (main job)",
+                "doing research/homework (main job)",
+                "marking assignments (main job)",
+                "computer use (main job)",
+                "working extra hours (main job)",
+                "registering for class (main job)",
+                "reading and writing (main job)",
+                "leading a blessing (main job)",
+                "talking to other conference attendees (main job)",
+                "checking voicemail messages (main job)",
+                "putting in overtime at work (main job)",
+                "leading religious youth group (main job)",
+                "teaching bat/bar mitzvah class (main job)",
+                "teaching religious class (main job)",
+                "checking e-mail (main job)",
+                "hearing confession (main job)",
+                "talking to instructor (class for main job)",
+                "reading a book/other material (main job)"
+            ]
+        },
+        {
+            "category": "Work, other job(s)",
+            "code": "050102",
+            "examples": [
+                "registering for class (other job)",
+                "enrollment in training/classes (other job)",
+                "teaching confirmation class (other job)",
+                "designing/updating a website (other job)",
+                "moonlighting",
+                "checking e-mail (other job)",
+                "attending conferences/convention (other job)",
+                "writing memos/papers/letters (other job)",
+                "computer use (other job)",
+                "hearing confession (other job)",
+                "checking voicemail messages (other job)",
+                "leading a blessing (other job)",
+                "surfing the Internet (other job)",
+                "doing research/homework (other job)",
+                "phone calls to/from coworkers (other job)",
+                "teaching/leading Bible study (other job)",
+                "phone calls to/from clients (other job)",
+                "making reserv. on the Internet (other job)",
+                "reading/sending e-mail (other job)",
+                "preparing lesson plans/grading papers (other job)",
+                "attending class (other job)",
+                "telephone calls (other job)",
+                "talking to instructor (class for other job)",
+                "on-the-job training (other job)",
+                "organizing/preparing materials (other job)",
+                "attending sales training (other job)",
+                "teaching bat/bar mitzvah class (other job)",
+                "leading religious youth group (other job)",
+                "reading the Bible/Torah/scriptures (other job)",
+                "attending typing training (other job)",
+                "phone calls to/from supervisors (other job)",
+                "calling leads for stories/information (other job)",
+                "reading a book/other material (other job)",
+                "teaching religious class (other job)",
+                "at work (other job)",
+                "phone calls to/from customers (other job)",
+                "reading and writing (other job)",
+                "extra hours at other job",
+                "registering for training (other job)",
+                "marking assignments (other job)",
+                "reviewing notes, briefs, or papers (other job)",
+                "talking to other conference attendees (other job)"
+            ]
+        },
+        {
+            "category": "Security procedures related to work",
+            "code": "050103",
+            "examples": [
+                "opening bags for security search (work)",
+                "passing through metal detector (work)",
+                "being searched at security checkpoint (work)"
+            ]
+        },
+        {
+            "category": "Waiting associated with working",
+            "code": "050104"
+        },
+        {
+            "category": "Working, not elsewhere classified",
+            "code": "050199"
+        },
+        {
+            "category": "Socializing, relaxing, and leisure as part of job",
+            "code": "050201",
+            "examples": [
+                "attending social event w/coworkers (part of job)",
+                "talking w/co-workers at social event (part of job)",
+                "talking w/clients at social event (part of job)",
+                "attending social event w/bosses (part of job)"
+            ]
+        },
+        {
+            "category": "Eating and drinking as part of job",
+            "code": "050202",
+            "examples": [
+                "eating/drinking w/bosses (part of job)",
+                "having lunch/dinner w/clients (part of job)",
+                "eating/drinking w/coworkers (part of job)",
+                "eating/drinking w/clients (part of job)",
+                "eating/drinking w/customers (part of job)"
+            ]
+        },
+        {
+            "category": "Sports and exercise as part of job",
+            "code": "050203",
+            "examples": [
+                "playing golf w/clients (part of job)",
+                "working out w/clients (part of job)",
+                "attending sporting event w/boss (part of job)"
+            ]
+        },
+        {
+            "category": "Security procedures as part of job",
+            "code": "050204",
+            "examples": [
+                "opening bags for security search (part of job)",
+                "being searched at security checkpoint (part of job)",
+                "passing through metal detector (part of job)"
+            ]
+        },
+        {
+            "category": "Waiting associated with work-related activities",
+            "code": "050205"
+        },
+        {
+            "category": "Work-related activities, not elsewhere classified",
+            "code": "050299"
+        },
+        {
+            "category": "Income-generating hobbies, crafts, and food",
+            "code": "050301",
+            "examples": [
+                "making furniture for sale",
+                "making pottery for sale",
+                "making dinners for sale",
+                "making tapestries/quilts for sale",
+                "drawing, painting, or sketching for sale",
+                "preparing food or drink for sale",
+                "doing woodworking for sale",
+                "making baskets for sale"
+            ]
+        },
+        {
+            "category": "Income-generating performances",
+            "code": "050302",
+            "examples": [
+                "playing in a band for pay",
+                "singing for pay",
+                "dancing for pay",
+                "acting in a play for pay"
+            ]
+        },
+        {
+            "category": "Income-generating services",
+            "code": "050303",
+            "examples": [
+                "typing paper for pay",
+                "mowing lawns for pay",
+                "shoveling snow for pay",
+                "babysitting for pay",
+                "doing household chores for pay",
+                "home improvements for pay"
+            ]
+        },
+        {
+            "category": "Income-generating rental property activities",
+            "code": "050304",
+            "examples": [
+                "making repairs to rental property",
+                "maintaining/renovating rental property"
+            ]
+        },
+        {
+            "category": "Waiting associated with other income-generating activities",
+            "code": "050305"
+        },
+        {
+            "category": "Other income-generating activities, not elsewhere classified",
+            "code": "050399",
+            "examples": [
+                "organizing items for yard sale",
+                "selling items at flea market",
+                "collecting aluminum cans to sell for self",
+                "selling own used textbooks for pay",
+                "listing/selling items on e-bay",
+                "sorting items for garage sale",
+                "selling items at auction, yard sale",
+                "selling items at a garage sale",
+                "redeeming winning lottery ticket",
+                "listing/selling items online"
+            ]
+        },
+        {
+            "category": "Job search activities",
+            "code": "050401",
+            "examples": [
+                "auditioning for acting role (non-volunteer)",
+                "picking up job application",
+                "researching details about a job",
+                "submitting applications",
+                "asking former employers to provide references",
+                "sending out resumes",
+                "meeting with headhunter/temp agency",
+                "sending resumes to employers",
+                "placing/answering ads",
+                "checking vacancies",
+                "filling out job application",
+                "researching an employer",
+                "writing/updating resume",
+                "contacting employer",
+                "asking about job openings",
+                "auditioning for band/symphony (non-volunteer)",
+                "reading ads in paper/on Internet",
+                "making phone calls to prospective. employer"
+            ]
+        },
+        {
+            "category": "Job interviewing",
+            "code": "050403",
+            "examples": [
+                "scheduling/canceling interview (for self)",
+                "preparing for interview",
+                "interviewing by phone or in person"
+            ]
+        },
+        {
+            "category": "Waiting associated with job search or interview",
+            "code": "050404",
+            "examples": [
+                "waiting to go in for an interview"
+            ]
+        },
+        {
+            "category": "Security procedures rel. to job search/interviewing",
+            "code": "050405",
+            "examples": [
+                "passing through metal detector (job search)",
+                "opening bags for security search (job search)",
+                "being searched at security checkpoint (job search)"
+            ]
+        },
+        {
+            "category": "Job search and Interviewing, not elsewhere classified",
+            "code": "050499"
+        },
+        {
+            "category": "Work and work-related activities, not elsewhere classified",
+            "code": "059999"
+        },
+        {
+            "category": "Taking class for degree, certification, or licensure",
+            "code": "060101",
+            "examples": [
+                "taking exams (degree, certificate, or license)",
+                "taking a field trip (degree, certificate, or license)",
+                "taking on-line course (degree, certificate, or license)",
+                "attending a seminar (degree, certificate, or license)",
+                "auditing a course (degree, certificate, or license)",
+                "listening to a lecture (degree, certificate, or license)",
+                "talking to classmates (degree, certificate, or license)",
+                "talking to teacher (degree, certificate, or license)",
+                "attending practicum/internships (degree, certificate, or license)",
+                "attending class (degree, certificate, or license)"
+            ]
+        },
+        {
+            "category": "Taking class for personal interest",
+            "code": "060102",
+            "examples": [
+                "taking academic class (personal int.)",
+                "taking a pottery class (personal int.)",
+                "taking self-defense (personal int.)",
+                "taking a retirement planning seminar",
+                "taking a massage class (personal int.)",
+                "taking a wine appreciation class (personal int.)",
+                "taking a cooking class (personal int.)",
+                "dance class (personal int.)",
+                "attending Lamaze class",
+                "taking an art, craft, hobby, recreational course (personal int.)",
+                "taking a sewing class (personal int.)",
+                "taking on-line course (personal interest)",
+                "prenatal/child care classes (personal int.)",
+                "taking photography class (personal int.)",
+                "taking personal development classes (personal int.)",
+                "taking CPR, first aid (personal int.)",
+                "talking to classmates (class for personal int.)",
+                "taking driving lessons",
+                "taking music/voice lessons (personal int.)",
+                "taking parenting class",
+                "talking to teacher (class for personal int.)",
+                "taking a financial planning class (personal int.)",
+                "taking a car maintenance/repair class (personal int.)",
+                "taking driver's education"
+            ]
+        },
+        {
+            "category": "Waiting associated with taking classes",
+            "code": "060103",
+            "examples": [
+                "waiting for the teacher"
+            ]
+        },
+        {
+            "category": "Security procedures rel. to taking classes",
+            "code": "060104",
+            "examples": [
+                "being searched at security checkpoint (taking classes)",
+                "opening bags for security search (taking classes)",
+                "passing through metal detector (taking classes)"
+            ]
+        },
+        {
+            "category": "Taking class, not elsewhere classified",
+            "code": "060199",
+            "examples": [
+                "taking SAT prep course",
+                "taking GMAT prep course",
+                "taking GRE prep course",
+                "taking a CPA prep course",
+                "attending study hall",
+                "having detention",
+                "attending class, reason unknown",
+                "having a free period",
+                "taking LSAT prep course"
+            ]
+        },
+        {
+            "category": "Extracurricular club activities",
+            "code": "060201",
+            "examples": [
+                "attending American Field Service activities, inc mtgs",
+                "attending science club activities",
+                "attending Key Club activities, including meetings",
+                "attending math club activities",
+                "participating in chess club activities, inc. meetings",
+                "attending pep club activities",
+                "attending National Honor Society activities",
+                "practicing for debate club competition",
+                "attending language club activities",
+                "participating in academic club activities, inc meetings"
+            ]
+        },
+        {
+            "category": "Extracurricular music & performance activities",
+            "code": "060202",
+            "examples": [
+                "attending choir practice as extracurricular school activity",
+                "attending play practice",
+                "attending band practice"
+            ]
+        },
+        {
+            "category": "Extracurricular student government activities",
+            "code": "060203",
+            "examples": [
+                "preparing for student govt elections",
+                "attending student government meetings"
+            ]
+        },
+        {
+            "category": "Waiting associated with extracurricular activities",
+            "code": "060204",
+            "examples": [
+                "waiting for band practice to start",
+                "waiting for an after-school meeting to start"
+            ]
+        },
+        {
+            "category": "Education-related extracurricular activities, not elsewhere classified",
+            "code": "060299"
+        },
+        {
+            "category": "Research/homework for class for degree, certification, or licensure",
+            "code": "060301",
+            "examples": [
+                "writing paper/essay (degree, certificate, or licensure)",
+                "attending study group (degree, certificate, or licensure)",
+                "studying (degree, certificate, or licensure)",
+                "reading/sending e-mail (degree, certificate, or licensure)",
+                "organizing notes (degree, certificate, or licensure)",
+                "reading (degree, certificate, or licensure)",
+                "reading the Bible/scriptures (degree, certificate, or licensure)",
+                "listening to language cd (degree, certificate, or licensure)"
+            ]
+        },
+        {
+            "category": "Research/homework for class for pers. interest",
+            "code": "060302",
+            "examples": [
+                "reading/sending e-mail (class for personal int.)",
+                "writing paper/essay (class for personal int.)",
+                "studying (class for personal int.)",
+                "reading (class for personal int.)",
+                "attending study group (class for personal int.)",
+                "organizing notes (class for personal int.)",
+                "listening to language cd (class for personal int.)"
+            ]
+        },
+        {
+            "category": "Waiting associated with research/homework",
+            "code": "060303",
+            "examples": [
+                "waiting for study group"
+            ]
+        },
+        {
+            "category": "Research/homework not elsewhere classified",
+            "code": "060399",
+            "examples": [
+                "studying for the GMAT",
+                "studying for the SAT",
+                "studying for the LSAT",
+                "preparing for the GRE",
+                "studying English (personal interest)",
+                "studying for the GRE",
+                "preparing for the LSAT",
+                "preparing for SAT",
+                "studying for the CPA exam"
+            ]
+        },
+        {
+            "category": "Administrative activities: class for degree, certification, or licensure",
+            "code": "060401",
+            "examples": [
+                "registering for class (degree, certificate, or licensure)",
+                "getting parking pass for class  (degree, certificate, or licensure)",
+                "paying tuition/fees for class (degree)",
+                "getting ID for class (degree, certificate, or licensure)",
+                "enrolling in class (degree, certificate, or licensure)",
+                "looking at course descriptions/listings (degree, certificate, or licensure)"
+            ]
+        },
+        {
+            "category": "Administrative activities: class for personal interest",
+            "code": "060402",
+            "examples": [
+                "getting ID for class (personal interest)",
+                "paying fees for class (personal interest)",
+                "getting parking pass for class (personal interest)",
+                "paying tuition for class (personal interest)",
+                "enrolling in class (personal interest)",
+                "registering for class (personal interest)"
+            ]
+        },
+        {
+            "category": "Waiting associated w/admin. activities (education)",
+            "code": "060403",
+            "examples": [
+                "waiting in line to pay tuition/fees",
+                "waiting in line to register/get ID",
+                "waiting to enroll in class"
+            ]
+        },
+        {
+            "category": "Administrative for education, not elsewhere classified",
+            "code": "060499",
+            "examples": [
+                "registering for test prep class",
+                "registering for GMAT",
+                "registering for CPA exam",
+                "registering for GRE",
+                "registering for MCAT",
+                "registering for LSAT",
+                "registering for SAT"
+            ]
+        },
+        {
+            "category": "Education, not elsewhere classified",
+            "code": "069999",
+            "examples": [
+                "taking the MCAT",
+                "taking the LSAT",
+                "taking the SAT",
+                "taking the CPA exam",
+                "taking the GMAT",
+                "attending own graduation ceremony",
+                "taking the GRE"
+            ]
+        },
+        {
+            "category": "Grocery shopping",
+            "code": "070101",
+            "examples": [
+                "ordering groceries online",
+                "buying/ordering/paying for groceries",
+                "talking to the produce manager"
+            ]
+        },
+        {
+            "category": "Purchasing gas",
+            "code": "070102",
+            "examples": [
+                "buying gas/paying for gasoline",
+                "pumping gas",
+                "talking to gas station attendant"
+            ]
+        },
+        {
+            "category": "Purchasing food (not groceries)",
+            "code": "070103",
+            "examples": [
+                "picking up take-out food",
+                "buying fast food",
+                "paying the pizza delivery person",
+                "paying for meal at restaurant",
+                "paying check for a meal/drink/snack",
+                "paying for fast food at drive-through",
+                "talking to fast food cashier/talking to the waiter",
+                "placing order at a deli/fast food place"
+            ]
+        },
+        {
+            "category": "Shopping, except groceries, food and gas",
+            "code": "070104",
+            "examples": [
+                "test-driving a vehicle",
+                "buying appliances",
+                "buying everyday consumer goods",
+                "shopping at warehouse stores (Wal-Mart, Costco, Super-K, etc.)",
+                "buying/paying for a new or used car",
+                "returning videotapes to store/renting a movie",
+                "returning consumer goods",
+                "buying gardening supplies",
+                "looking through catalogs",
+                "paying for a rental car/truck/van",
+                "buying a pet",
+                "looking at products",
+                "ordering concert tickets/ordering football tickets",
+                "shopping at mall",
+                "buying/ordering clothes",
+                "looking at products in catalogs",
+                "shopping for a new or used car",
+                "ordering products",
+                "renting a tuxedo",
+                "picking up prescriptions/film",
+                "dropping off products for repairs",
+                "paying for purchases",
+                "renting products",
+                "checking out of hotel/motel/B&B",
+                "renting a rug shampooer",
+                "shopping at e-bay/flea markets/auctions",
+                "visiting a book fair",
+                "buying movie tickets",
+                "window shopping",
+                "buying books/CDs/other items",
+                "renting lawn equipment",
+                "checking into hotel/motel/B&B",
+                "paying for movie tickets",
+                "browsing/shopping but not yet buying",
+                "buying postage stamps",
+                "renting a car/truck/van",
+                "browsing/shopping at fundraisers",
+                "buying airline tickets online",
+                "shopping at yard sales",
+                "talking to the salesclerk"
+            ]
+        },
+        {
+            "category": "Waiting associated with shopping",
+            "code": "070105",
+            "examples": [
+                "waiting in line to pay for goods/buy gas",
+                "waiting in line to purchase groceries"
+            ]
+        },
+        {
+            "category": "Shopping, not elsewhere classified",
+            "code": "070199"
+        },
+        {
+            "category": "Comparison shopping",
+            "code": "070201",
+            "examples": [
+                "browsing through circulars",
+                "researching items/prices/availability",
+                "comparison shopping on the Internet",
+                "comparing prices at different stores",
+                "reading product reviews"
+            ]
+        },
+        {
+            "category": "Researching purchases, not elsewhere classified",
+            "code": "070299"
+        },
+        {
+            "category": "Security procedures rel. to consumer purchases",
+            "code": "070301",
+            "examples": [
+                "opening bags for security search  (consumer purchases)",
+                "being searched at security checkpoint (consumer purchases)",
+                "passing through metal detector  (consumer purchases)"
+            ]
+        },
+        {
+            "category": "Security procedures rel. to consumer purchases, not elsewhere classified",
+            "code": "070399"
+        },
+        {
+            "category": "Consumer purchases, not elsewhere classified",
+            "code": "079999"
+        },
+        {
+            "category": "Using paid childcare services",
+            "code": "080101",
+            "examples": [
+                "paying for daycare",
+                "checking out daycare facility",
+                "hiring a nanny or babysitter",
+                "paying for lessons, instructions",
+                "paying for tutorial services",
+                "hiring a tutor",
+                "talking to/with the daycare provider",
+                "talking to/with the camp counselor",
+                "meeting with daycare providers",
+                "paying for after school care program",
+                "talking to/with babysitter",
+                "paying for summer camp"
+            ]
+        },
+        {
+            "category": "Waiting associated w/purchasing childcare svcs",
+            "code": "080102",
+            "examples": [
+                "waiting to meet a childcare provider"
+            ]
+        },
+        {
+            "category": "Using paid childcare services, not elsewhere classified",
+            "code": "080199"
+        },
+        {
+            "category": "Banking",
+            "code": "080201",
+            "examples": [
+                "using the ATM",
+                "talking to/with a loan officer",
+                "doing banking",
+                "applying for a loan or mortgage",
+                "applying for a loan online",
+                "finding out information about loans",
+                "talking to/with a teller",
+                "making a withdrawal, deposit, transfer",
+                "meeting with loan officer",
+                "talking to/with the bank manager",
+                "filling in loan applications"
+            ]
+        },
+        {
+            "category": "Using other financial services",
+            "code": "080202",
+            "examples": [
+                "meeting with claims adjuster",
+                "talking to/with claims adjusters",
+                "completing a credit card application",
+                "talking to/with an accountant",
+                "meeting with stockbroker",
+                "talking to/with insurance agents",
+                "meeting with an accountant",
+                "talking to/with stock broker",
+                "applying for a credit card online",
+                "meeting w/insurance agent"
+            ]
+        },
+        {
+            "category": "Waiting associated w/banking/financial services",
+            "code": "080203",
+            "examples": [
+                "waiting in line at the bank"
+            ]
+        },
+        {
+            "category": "Using financial services and banking, not elsewhere classified",
+            "code": "080299"
+        },
+        {
+            "category": "Using legal services",
+            "code": "080301",
+            "examples": [
+                "meeting with arbitrator/mediator",
+                "talking to/with a mediator",
+                "meeting with a lawyer/paralegal",
+                "talking to/with a lawyer",
+                "paying a lawyer",
+                "talking to/with a paralegal/arbitrator"
+            ]
+        },
+        {
+            "category": "Waiting associated with legal services",
+            "code": "080302",
+            "examples": [
+                "waiting to meet a lawyer"
+            ]
+        },
+        {
+            "category": "Using legal services, not elsewhere classified",
+            "code": "080399"
+        },
+        {
+            "category": "Using health and care services outside the home",
+            "code": "080401",
+            "examples": [
+                "purchasing elder care services",
+                "receiving physical therapy",
+                "having outpatient treatment",
+                "having acupuncture",
+                "attending group therapy",
+                "checking out adult care facility",
+                "having dental work done",
+                "having blood drawn",
+                "having inpatient treatment",
+                "talking to/with a doctor",
+                "talking to/with a psychologist",
+                "purchasing hospice/respite care",
+                "having a physical",
+                "talking to/with a pharmacist",
+                "talking to/with a nurse",
+                "having lab work done",
+                "making a co-payment",
+                "seeing a psychologist",
+                "having an eye exam",
+                "talking to/with a healthcare practitioner",
+                "paying for long-term care",
+                "having wisdom teeth removed",
+                "having a doctor's appointment",
+                "talking to/with a physical therapist",
+                "paying for adult care services",
+                "paying the doctor",
+                "seeing a chiropractor",
+                "having lab tests done",
+                "purchasing adult daycare",
+                "paying for healthcare services"
+            ]
+        },
+        {
+            "category": "Using in-home health and care services",
+            "code": "080402",
+            "examples": [
+                "hiring someone to look after hh adult",
+                "receiving in-home healthcare"
+            ]
+        },
+        {
+            "category": "Waiting associated with medical services",
+            "code": "080403",
+            "examples": [
+                "waiting for lab test results",
+                "waiting at the physician's office",
+                "waiting for surgery"
+            ]
+        },
+        {
+            "category": "Using medical services, not elsewhere classified",
+            "code": "080499"
+        },
+        {
+            "category": "Using personal care services",
+            "code": "080501",
+            "examples": [
+                "getting a haircut",
+                "having a facial",
+                "talking to/with the manicurist",
+                "having a pedicure",
+                "having nails done",
+                "getting hair done",
+                "paying for a haircut",
+                "getting a tan at the tanning salon",
+                "talking to/with the hair stylist",
+                "having a massage"
+            ]
+        },
+        {
+            "category": "Waiting associated w/personal care services",
+            "code": "080502",
+            "examples": [
+                "waiting for the barber"
+            ]
+        },
+        {
+            "category": "Using personal care services, not elsewhere classified",
+            "code": "080599"
+        },
+        {
+            "category": "Activities rel. to purchasing/selling real estate",
+            "code": "080601",
+            "examples": [
+                "signing a lease",
+                "meeting a real estate agent",
+                "renting storage space",
+                "purchasing house, apartment, land",
+                "putting up \"for sale\" signs for house",
+                "writing a contract on an apartment",
+                "reading real estate ads",
+                "looking at property",
+                "attending open house (real estate)",
+                "renting house, apartment, land",
+                "talking to/with a real estate agent",
+                "reviewing house information",
+                "talking to/with a home seller",
+                "talking to/with a home buyer",
+                "talking to home inspector",
+                "writing a contract on a house/property",
+                "closing on house/condominium",
+                "signing a housing contract"
+            ]
+        },
+        {
+            "category": "Waiting associated w/purchasing/selling real estate",
+            "code": "080602",
+            "examples": [
+                "waiting for a real estate agent"
+            ]
+        },
+        {
+            "category": "Using real estate services, not elsewhere classified",
+            "code": "080699"
+        },
+        {
+            "category": "Using veterinary services",
+            "code": "080701",
+            "examples": [
+                "paying for pet health insurance",
+                "paying for veterinary services",
+                "talking to/with vet assistant/vet tech.",
+                "talking to/with vet",
+                "purchasing medicine for a pet"
+            ]
+        },
+        {
+            "category": "Waiting associated with veterinary services",
+            "code": "080702",
+            "examples": [
+                "waiting for the vet"
+            ]
+        },
+        {
+            "category": "Using veterinary services, not elsewhere classified",
+            "code": "080799"
+        },
+        {
+            "category": "Security procedures rel. to professional/personal svcs.",
+            "code": "080801",
+            "examples": [
+                "opening bags for security search (professional svcs)",
+                "passing through metal detector (professional svcs)",
+                "being searched at security checkpoint (professional svcs)"
+            ]
+        },
+        {
+            "category": "Security procedures rel. to professional/personal svcs not elsewhere classified",
+            "code": "080899"
+        },
+        {
+            "category": "Professional and personal services, not elsewhere classified",
+            "code": "089999",
+            "examples": [
+                "sitting for photos at a portrait studio",
+                "meeting with a wedding planner",
+                "having a family portrait made"
+            ]
+        },
+        {
+            "category": "Using interior cleaning services",
+            "code": "090101",
+            "examples": [
+                "hiring carpet cleaners",
+                "hiring a butler",
+                "paying a cleaning service",
+                "talking to/meeting with the maid/maid service",
+                "hiring a cleaning service or maid"
+            ]
+        },
+        {
+            "category": "Using meal preparation services",
+            "code": "090102",
+            "examples": [
+                "paying the caterer",
+                "talking to/meeting with caterer",
+                "tipping the wait staff or bartender",
+                "meeting a caterer",
+                "hiring a caterer",
+                "talking to/meeting with reception planner",
+                "hiring a personal chef",
+                "hiring wait staff/bartender for a party",
+                "paying the wait staff"
+            ]
+        },
+        {
+            "category": "Using clothing repair and cleaning services",
+            "code": "090103",
+            "examples": [
+                "having a dress hemmed",
+                "paying the tailor",
+                "having a garment altered",
+                "picking up clothing at the dry cleaners",
+                "dropping off clothes at the dry cleaners",
+                "paying the drycleaner",
+                "having shirts laundered",
+                "having a suit tailored"
+            ]
+        },
+        {
+            "category": "Waiting associated with using household services",
+            "code": "090104",
+            "examples": [
+                "watching paid cook prepare a meal",
+                "waiting for the cleaning service",
+                "waiting for meal preparation services"
+            ]
+        },
+        {
+            "category": "Using household services, not elsewhere classified",
+            "code": "090199"
+        },
+        {
+            "category": "Using home maint/repair/d\u00e9cor/construction svcs",
+            "code": "090201",
+            "examples": [
+                "hiring/meeting with an architect",
+                "hiring a prof. home remodeling svc.",
+                "talking to/with electrician or plumber",
+                "hiring a contractor",
+                "meeting with a contractor",
+                "talking to/meeting with movers",
+                "hiring someone to repair house siding",
+                "hiring driveway pavers",
+                "paying to have your roof repaired",
+                "hiring someone to build an addition",
+                "talking to/with computer technician",
+                "hiring/meeting w/interior designer",
+                "talking to/with the interior designer",
+                "paying a contractor",
+                "hiring appliance repairer",
+                "hiring someone to clean house siding",
+                "paying a plumber or electrician",
+                "hiring movers",
+                "hiring/meeting w/interior decorator",
+                "hiring window washers",
+                "hiring deck cleaners/refinishers",
+                "talking to/with the contractor",
+                "paying a decorator",
+                "hiring someone to fix your computer",
+                "hiring an electrician or plumber"
+            ]
+        },
+        {
+            "category": "Waiting associated w/ home main/repair/d\u00e9cor/constr",
+            "code": "090202",
+            "examples": [
+                "waiting for architect",
+                "watching repair person",
+                "waiting while repairs are made",
+                "waiting for cleaners to finish",
+                "watching movers"
+            ]
+        },
+        {
+            "category": "Using home maint/repair/d\u00e9cor/constr services, not elsewhere classified",
+            "code": "090299"
+        },
+        {
+            "category": "Using pet services",
+            "code": "090301",
+            "examples": [
+                "talking to/with animal trainer",
+                "paying the pet sitter/walker",
+                "talking to/with the groomer",
+                "paying the pet groomer",
+                "hiring a pet trainer",
+                "talking to/with the pet sitter",
+                "meeting with pet trainer",
+                "attending animal obedience classes",
+                "talking to/with animal caretaker",
+                "meeting with kennel caretakers",
+                "hiring a pet sitter/walker",
+                "paying the animal trainer"
+            ]
+        },
+        {
+            "category": "Waiting associated with pet services",
+            "code": "090302",
+            "examples": [
+                "watching pet trainer",
+                "waiting for pet services",
+                "watching pet groomer"
+            ]
+        },
+        {
+            "category": "Using pet services, not elsewhere classified",
+            "code": "090399"
+        },
+        {
+            "category": "Using lawn and garden services",
+            "code": "090401",
+            "examples": [
+                "meeting with landscaper",
+                "hiring someone to rake leaves",
+                "talking to/with the landscaper",
+                "talking to/with a plant-sitter",
+                "hiring someone to cut grass",
+                "hiring a landscaper",
+                "hiring someone to water houseplants",
+                "talking to person who cuts your grass",
+                "hiring someone to shovel snow",
+                "paying the landscaper",
+                "hiring someone to water lawn/flowers"
+            ]
+        },
+        {
+            "category": "Waiting associated with using lawn & garden services",
+            "code": "090402",
+            "examples": [
+                "waiting for landscaper",
+                "watching landscaper"
+            ]
+        },
+        {
+            "category": "Using lawn and garden services, not elsewhere classified",
+            "code": "090499"
+        },
+        {
+            "category": "Using vehicle maintenance or repair services",
+            "code": "090501",
+            "examples": [
+                "paying a mechanic",
+                "paying for repair work done on car",
+                "paying for a car wash",
+                "talking to/with auto body repair person",
+                "talking to/with mechanic",
+                "paying for a tune-up/oil change",
+                "talking to/with service person"
+            ]
+        },
+        {
+            "category": "Waiting associated with vehicle main. or repair svcs",
+            "code": "090502",
+            "examples": [
+                "watching car being washed",
+                "waiting while car is repaired",
+                "waiting while car is washed"
+            ]
+        },
+        {
+            "category": "Using vehicle maint. & repair svcs, not elsewhere classified",
+            "code": "090599"
+        },
+        {
+            "category": "Using household services, not elsewhere classified",
+            "code": "099999",
+            "examples": [
+                "using butchering services",
+                "talking to telephone repairperson"
+            ]
+        },
+        {
+            "category": "Using police and fire services",
+            "code": "100101",
+            "examples": [
+                "being questioned by police",
+                "meeting with detective",
+                "talking to police officer",
+                "helping the police with something",
+                "being stopped for traffic violation",
+                "obtaining police or fire services"
+            ]
+        },
+        {
+            "category": "Using social services",
+            "code": "100102",
+            "examples": [
+                "applying for relief services",
+                "meeting social worker",
+                "applying for social services",
+                "collecting unemployment benefits",
+                "filling out forms to receive compensation",
+                "applying for unemployment benefits",
+                "talking to a social services worker",
+                "filling out forms to receive benefits",
+                "applying for welfare, food stamps,  etc",
+                "collecting social security/workers comp"
+            ]
+        },
+        {
+            "category": "Obtaining licenses & paying fines, fees, taxes",
+            "code": "100103",
+            "examples": [
+                "paying property taxes at gov't. office",
+                "obtaining boat licensing",
+                "paying overdue library book fines",
+                "taking a driving exam",
+                "getting fishing/crabbing license",
+                "paying for a pet or sporting license",
+                "talking to a motor vehicle admin. clerk",
+                "getting a pet or sporting license",
+                "getting car inspected",
+                "paying for a marriage license",
+                "paying parking/speeding ticket",
+                "taking a pilot's exam",
+                "getting a marriage license",
+                "obtaining parking permits",
+                "getting driver's license or tags",
+                "getting a passport"
+            ]
+        },
+        {
+            "category": "Using government services, not elsewhere classified",
+            "code": "100199"
+        },
+        {
+            "category": "Civic obligations & participation",
+            "code": "100201",
+            "examples": [
+                "acting as a witness in court",
+                "doing court-ordered community service",
+                "attending zoning hearings",
+                "meeting w/congressperson",
+                "serving on jury duty",
+                "talking to immigration/naturalization agent",
+                "talking to a political representative",
+                "talking to a parole officer or judge",
+                "participating in government surveys",
+                "attending a Congressional session",
+                "attending a town hall meeting",
+                "meeting w/State/local govt rep.",
+                "participating in naturalization ceremony",
+                "making a court appearance",
+                "voting",
+                "meeting with a parole officer",
+                "interviewing with INS, IRS, etc."
+            ]
+        },
+        {
+            "category": "Civic obligations & participation, not elsewhere classified",
+            "code": "100299"
+        },
+        {
+            "category": "Waiting associated with using government services",
+            "code": "100304"
+        },
+        {
+            "category": "Waiting associated with civic obligations & participation",
+            "code": "100305"
+        },
+        {
+            "category": "Waiting assoc. w/govt svcs or civic obligations, not elsewhere classified",
+            "code": "100399"
+        },
+        {
+            "category": "Security procedures rel. to govt svcs/civic obligations",
+            "code": "100401",
+            "examples": [
+                "being searched at security checkpoint (govt svcs)",
+                "passing through metal detector (govt svcs)",
+                "opening bags for security search (govt svcs)"
+            ]
+        },
+        {
+            "category": "Security procedures rel. to govt svcs/civic obligations, not elsewhere classified",
+            "code": "100499"
+        },
+        {
+            "category": "Government services, not elsewhere classified",
+            "code": "109999"
+        },
+        {
+            "category": "Eating and drinking",
+            "code": "110101",
+            "examples": [
+                "taking a lunch break"
+            ]
+        },
+        {
+            "category": "Eating and drinking, not elsewhere classified",
+            "code": "110199"
+        },
+        {
+            "category": "Waiting associated w/eating & drinking",
+            "code": "110201",
+            "examples": [
+                "waiting for the pizza delivery person",
+                "waiting for food to be delivered",
+                "waiting for the check",
+                "waiting for a table",
+                "waiting to place an order"
+            ]
+        },
+        {
+            "category": "Waiting associated with eating & drinking, not elsewhere classified",
+            "code": "110299"
+        },
+        {
+            "category": "Eating and drinking, not elsewhere classified",
+            "code": "119999"
+        },
+        {
+            "category": "Socializing and communicating with others",
+            "code": "120101",
+            "examples": [
+                "talking with acquaintances",
+                "opening wedding presents (with others)",
+                "giving gifts to friends",
+                "spending time with friends",
+                "hugging/kissing neighbors",
+                "hugging/kissing acquaintances/others",
+                "entertaining family",
+                "accompanying family while they run errands",
+                "hanging out with family",
+                "visiting adult in nursing home",
+                "spending time with family",
+                "hugging/kissing friends",
+                "giving presents to adults",
+                "accompanying friends while they run errands",
+                "greeting neighbors/acquaintances",
+                "hugging or kissing family",
+                "opening gifts (with others)",
+                "visiting household/nonhh adult in hospital",
+                "greeting family",
+                "entertaining friends",
+                "talking to/with other parents",
+                "visiting with family",
+                "visiting with friends",
+                "talking with family",
+                "opening Christmas gifts (with others)",
+                "greeting other parents",
+                "accompanying family/friends to look at  family/friend's new house",
+                "greeting friends",
+                "arguing with family",
+                "hanging out with friends",
+                "arguing with friends",
+                "talking with friends",
+                "opening birthday presents (with others)",
+                "talking with neighbors"
+            ]
+        },
+        {
+            "category": "Socializing and communicating, not elsewhere classified",
+            "code": "120199"
+        },
+        {
+            "category": "Attending or hosting parties/receptions/ceremonies",
+            "code": "120201",
+            "examples": [
+                "attending birthday parties",
+                "attending parties",
+                "attending holiday open house",
+                "attending bachelor/ette party",
+                "attending receptions",
+                "attending housewarming",
+                "attending graduation ceremonies (for adults)",
+                "attending a charity social event"
+            ]
+        },
+        {
+            "category": "Attending meetings for personal interest (not volunteering)",
+            "code": "120202",
+            "examples": [
+                "attending professional meetings (not work)",
+                "attending a homeowner's association meeting",
+                "attending a senior citizens meeting",
+                "attending fraternity/sorority meetings",
+                "attending a Weight Watchers meeting",
+                "attending a church circle meeting",
+                "attending a fraternal lodge meeting",
+                "attending an Al-anon meeting",
+                "attending a Boy Scout/Girl Scout meeting (for self)",
+                "attending AA meetings",
+                "attending club meetings (not school)",
+                "attending book club meetings"
+            ]
+        },
+        {
+            "category": "Attending/hosting social events, not elsewhere classified",
+            "code": "120299"
+        },
+        {
+            "category": "Relaxing, thinking",
+            "code": "120301",
+            "examples": [
+                "grieving",
+                "lying around/sitting around",
+                "sunbathing",
+                "doing nothing/goofing off/wasting time",
+                "watching wife garden/watching husband cook dinner",
+                "worrying/crying",
+                "breaks at work, unspecified activity",
+                "resting/relaxing/lounging",
+                "watching husband assemble lawnmower",
+                "sitting in the hot tub/Jacuzzi/whirlpool/sauna",
+                "hanging around/hanging out (alone)",
+                "reflecting/daydreaming/fantasizing/wondering"
+            ]
+        },
+        {
+            "category": "Tobacco and drug use",
+            "code": "120302",
+            "examples": [
+                "having a cigarette/rolling a cigarette",
+                "smoking marijuana/pot/weed",
+                "smoking a cigarette/cigar/pipe",
+                "chewing tobacco/using recreational drugs"
+            ]
+        },
+        {
+            "category": "Television and movies (not religious)",
+            "code": "120303",
+            "examples": [
+                "watching TV or a DVD/video/instructional video",
+                "watching videos on YouTube",
+                "watching TV/DVDs on computer (personal interest)",
+                "setting TiVo/DVR",
+                "borrowing movies from or returning movies to the library",
+                "watching home movies/home videos",
+                "setting the VCR or DVD player"
+            ]
+        },
+        {
+            "category": "Television (religious)",
+            "code": "120304",
+            "examples": [
+                "watching religious broadcasting"
+            ]
+        },
+        {
+            "category": "Listening to the radio",
+            "code": "120305",
+            "examples": [
+                "listening to music on the radio",
+                "listening to podcast",
+                "listening to public radio/a radio talk show",
+                "listening to Pandora",
+                "listening to the top ten on the radio"
+            ]
+        },
+        {
+            "category": "Listening to/playing music (not radio)",
+            "code": "120306",
+            "examples": [
+                "playing musical instrument (leisure)",
+                "composing music",
+                "tuning musical instruments",
+                "listening to recorded music/records/CDs/DVDs/tapes",
+                "listening to someone play the piano",
+                "singing/singing karaoke/Christmas caroling"
+            ]
+        },
+        {
+            "category": "Playing games",
+            "code": "120307",
+            "examples": [
+                "spinning dreidels",
+                "working jigsaw puzzles/crossword puzzles",
+                "hitting a pinata",
+                "hiding matzo (Passover)/hiding Easter eggs",
+                "playing computer games/playing games over the Internet",
+                "playing board games/Scrabble/cards"
+            ]
+        },
+        {
+            "category": "Computer use for leisure (exc. Games)",
+            "code": "120308",
+            "examples": [
+                "checking MySpace (personal interest)",
+                "writing computer software (personal interest)",
+                "computer use, leisure (personal interest)",
+                "computer use, unspecified",
+                "Using Twitter or tweeting (personal interest)",
+                "designing/updating website (personal interest)",
+                "checking Facebook/Instagram (personal interest)",
+                "computer programming (personal interest)",
+                "surfing the internet/web (personal interest)",
+                "burning CDs (personal interest)",
+                "browsing on the internet (personal interest)",
+                "participating in a chat room (personal interest)",
+                "downloading files, music, pictures (personal interest)"
+            ]
+        },
+        {
+            "category": "Arts and crafts as a hobby",
+            "code": "120309",
+            "examples": [
+                "making pottery/sculpting/wood working",
+                "scrapbooking, making a scrapbook",
+                "dyeing Easter eggs",
+                "making holiday/other decorations",
+                "making Halloween costumes (for self)",
+                "taking pictures/snapshots/photographs",
+                "making Christmas decorations",
+                "artistic painting",
+                "sketching/drawing",
+                "videotaping/photography/model making/jewelry making"
+            ]
+        },
+        {
+            "category": "Collecting as a hobby",
+            "code": "120310",
+            "examples": [
+                "collecting/organizing stamps or coin collection"
+            ]
+        },
+        {
+            "category": "Hobbies, except arts & crafts and collecting",
+            "code": "120311",
+            "examples": [
+                "bird watching",
+                "researching family tree"
+            ]
+        },
+        {
+            "category": "Reading for personal interest",
+            "code": "120312",
+            "examples": [
+                "checking out library books",
+                "borrowing books from the library",
+                "listening to books on tape (personal interest)",
+                "returning library books/browsing at the library",
+                "being read to (personal interest)",
+                "reading a book on a Kindle or other electronic book reader (personal interest)",
+                "doing research (personal interest)",
+                "reading, unspecified",
+                "reading a magazine/book/newspaper (personal interest)",
+                "flipping/leafing through magazine (personal interest)"
+            ]
+        },
+        {
+            "category": "Writing for personal interest",
+            "code": "120313",
+            "examples": [
+                "writing in diary/journal (personal interest)",
+                "editing (personal interest)",
+                "blogging (personal interest)",
+                "writing lyrics",
+                "writing stories (personal interest)"
+            ]
+        },
+        {
+            "category": "Relaxing and leisure, not elsewhere classified",
+            "code": "120399",
+            "examples": [
+                "looking at photos on computer or camera",
+                "looking at pictures in photo album"
+            ]
+        },
+        {
+            "category": "Attending performing arts",
+            "code": "120401",
+            "examples": [
+                "attending jazz bar",
+                "attending a concert",
+                "attending musicals",
+                "attending dance troupe performances",
+                "attending comedy club",
+                "attending plays",
+                "attending the ballet",
+                "attending opera",
+                "attending the theater"
+            ]
+        },
+        {
+            "category": "Attending museums",
+            "code": "120402",
+            "examples": [
+                "attending an art gallery",
+                "attending an arboretum",
+                "attending exhibitions",
+                "visiting the zoo",
+                "attending a botanical garden"
+            ]
+        },
+        {
+            "category": "Attending movies/film",
+            "code": "120403",
+            "examples": [
+                "attending the movies"
+            ]
+        },
+        {
+            "category": "Attending gambling establishments",
+            "code": "120404",
+            "examples": [
+                "attending a casino",
+                "gambling",
+                "playing craps",
+                "betting on the horses",
+                "playing keno"
+            ]
+        },
+        {
+            "category": "Security procedures rel. to arts & entertainment",
+            "code": "120405",
+            "examples": [
+                "being searched at security checkpoint (art/entertainment)",
+                "opening bags for security search  (art/entertainment)",
+                "passing through metal detector  (art/entertainment)"
+            ]
+        },
+        {
+            "category": "Arts and entertainment, not elsewhere classified",
+            "code": "120499",
+            "examples": [
+                "attending a carnival",
+                "setting off fireworks",
+                "attending a flower show",
+                "attending an amusement park",
+                "attending a festival",
+                "visiting historic sites",
+                "attending the circus",
+                "attending an auto show",
+                "attending the county fair",
+                "watching a parade/fireworks",
+                "attending a book signing",
+                "attending an art/history/music lecture",
+                "attending a poetry reading",
+                "taking a guided nature walk",
+                "sightseeing"
+            ]
+        },
+        {
+            "category": "Waiting assoc. w/socializing & communicating",
+            "code": "120501"
+        },
+        {
+            "category": "Waiting assoc. w/attending/hosting social events",
+            "code": "120502"
+        },
+        {
+            "category": "Waiting associated with relaxing/leisure",
+            "code": "120503"
+        },
+        {
+            "category": "Waiting associated with arts & entertainment",
+            "code": "120504"
+        },
+        {
+            "category": "Waiting associated with socializing, not elsewhere classified",
+            "code": "120599"
+        },
+        {
+            "category": "Socializing, relaxing, and leisure, not elsewhere classified",
+            "code": "129999"
+        },
+        {
+            "category": "Doing aerobics",
+            "code": "130101",
+            "examples": [
+                "doing low-impact aerobics",
+                "Zumba",
+                "talking to aerobics instructor",
+                "doing high-impact aerobics",
+                "doing step aerobics"
+            ]
+        },
+        {
+            "category": "Playing baseball",
+            "code": "130102",
+            "examples": [
+                "talking to baseball coach"
+            ]
+        },
+        {
+            "category": "Playing basketball",
+            "code": "130103",
+            "examples": [
+                "talking to basketball referee"
+            ]
+        },
+        {
+            "category": "Biking",
+            "code": "130104",
+            "examples": [
+                "registering for a bike race",
+                "biking/mountain biking",
+                "spinning",
+                "riding a stationary bike"
+            ]
+        },
+        {
+            "category": "Playing billiards",
+            "code": "130105",
+            "examples": [
+                "playing snooker",
+                "shooting pool"
+            ]
+        },
+        {
+            "category": "Boating",
+            "code": "130106",
+            "examples": [
+                "crewing",
+                "sailing",
+                "canoeing",
+                "yachting",
+                "kayaking",
+                "rafting"
+            ]
+        },
+        {
+            "category": "Bowling",
+            "code": "130107",
+            "examples": [
+                "playing ten pins",
+                "playing duck pins"
+            ]
+        },
+        {
+            "category": "Climbing, spelunking, caving",
+            "code": "130108",
+            "examples": [
+                "rock climbing",
+                "mountain climbing"
+            ]
+        },
+        {
+            "category": "Dancing",
+            "code": "130109"
+        },
+        {
+            "category": "Participating in equestrian sports",
+            "code": "130110",
+            "examples": [
+                "horseback riding",
+                "playing polo",
+                "steeple chase"
+            ]
+        },
+        {
+            "category": "Fencing",
+            "code": "130111"
+        },
+        {
+            "category": "Fishing",
+            "code": "130112",
+            "examples": [
+                "clam-digging",
+                "ice fishing",
+                "talking to the boat captain",
+                "deep-sea fishing",
+                "fly fishing",
+                "crabbing"
+            ]
+        },
+        {
+            "category": "Playing football",
+            "code": "130113",
+            "examples": [
+                "playing touch football",
+                "talking to the football referee",
+                "playing flag football"
+            ]
+        },
+        {
+            "category": "Golfing",
+            "code": "130114",
+            "examples": [
+                "hitting balls at the driving range",
+                "practicing putting",
+                "playing the front 9",
+                "talking to the caddy",
+                "playing the back 9"
+            ]
+        },
+        {
+            "category": "Doing gymnastics",
+            "code": "130115",
+            "examples": [
+                "using the balance beam",
+                "using uneven bars",
+                "using parallel bars",
+                "talking to the gymnastics coach",
+                "tumbling",
+                "using the pommel horse"
+            ]
+        },
+        {
+            "category": "Hiking",
+            "code": "130116"
+        },
+        {
+            "category": "Playing hockey",
+            "code": "130117",
+            "examples": [
+                "playing field hockey",
+                "playing ice hockey",
+                "talking to the hockey coach"
+            ]
+        },
+        {
+            "category": "Hunting",
+            "code": "130118",
+            "examples": [
+                "hunting deer/elk",
+                "talking to the hunting guide",
+                "hunting ducks",
+                "hunting game"
+            ]
+        },
+        {
+            "category": "Participating in martial arts",
+            "code": "130119",
+            "examples": [
+                "doing kickboxing",
+                "doing tae kwon do",
+                "doing karate",
+                "talking to martial arts instructor"
+            ]
+        },
+        {
+            "category": "Playing racquet sports",
+            "code": "130120",
+            "examples": [
+                "talking to the tennis coach",
+                "playing racquetball",
+                "playing lacrosse",
+                "playing squash",
+                "playing badminton",
+                "playing handball",
+                "playing tennis"
+            ]
+        },
+        {
+            "category": "Participating in rodeo competitions",
+            "code": "130121",
+            "examples": [
+                "calf roping",
+                "barrel riding"
+            ]
+        },
+        {
+            "category": "Rollerblading",
+            "code": "130122",
+            "examples": [
+                "inline skating",
+                "roller-skating",
+                "skateboarding"
+            ]
+        },
+        {
+            "category": "Playing rugby",
+            "code": "130123"
+        },
+        {
+            "category": "Running",
+            "code": "130124",
+            "examples": [
+                "running on a treadmill",
+                "running a marathon",
+                "running cross country",
+                "running a race/organized run",
+                "jogging",
+                "talking to race officials"
+            ]
+        },
+        {
+            "category": "Skiing, ice skating, snowboarding",
+            "code": "130125",
+            "examples": [
+                "sledding",
+                "snow tubing"
+            ]
+        },
+        {
+            "category": "Playing soccer",
+            "code": "130126"
+        },
+        {
+            "category": "Softball",
+            "code": "130127",
+            "examples": [
+                "playing wiffle ball"
+            ]
+        },
+        {
+            "category": "Using cardiovascular equipment",
+            "code": "130128",
+            "examples": [
+                "using the Stairmaster",
+                "using the rowing machine",
+                "using the elliptical"
+            ]
+        },
+        {
+            "category": "Vehicle touring/racing",
+            "code": "130129",
+            "examples": [
+                "4-wheeling",
+                "riding in or driving a dune buggy",
+                "doing motocross",
+                "snowmobiling",
+                "riding in a go-cart",
+                "stock car racing",
+                "drag racing"
+            ]
+        },
+        {
+            "category": "Playing volleyball",
+            "code": "130130",
+            "examples": [
+                "playing Wally ball"
+            ]
+        },
+        {
+            "category": "Walking",
+            "code": "130131",
+            "examples": [
+                "speed walking",
+                "power walking",
+                "walking on a treadmill"
+            ]
+        },
+        {
+            "category": "Participating in water sports",
+            "code": "130132",
+            "examples": [
+                "boogie-boarding",
+                "playing water polo",
+                "water aerobics",
+                "waterskiing",
+                "river tubing",
+                "surfing",
+                "body surfing",
+                "diving",
+                "scuba diving",
+                "talking to the swimming coach",
+                "snorkeling",
+                "swimming"
+            ]
+        },
+        {
+            "category": "Weightlifting/strength training",
+            "code": "130133",
+            "examples": [
+                "bodybuilding",
+                "lifting weights"
+            ]
+        },
+        {
+            "category": "Working out, unspecified",
+            "code": "130134",
+            "examples": [
+                "doing cardio (unspecified)",
+                "stretching",
+                "doing calisthenics"
+            ]
+        },
+        {
+            "category": "Wrestling",
+            "code": "130135",
+            "examples": [
+                "Greco-Roman wrestling",
+                "talking to the wrestling referee",
+                "freestyle wrestling"
+            ]
+        },
+        {
+            "category": "Doing yoga",
+            "code": "130136",
+            "examples": [
+                "Pilates",
+                "talking to the yoga instructor"
+            ]
+        },
+        {
+            "category": "Playing sports not elsewhere classified",
+            "code": "130199",
+            "examples": [
+                "tai chi",
+                "curling",
+                "hang-gliding",
+                "skydiving",
+                "javelin",
+                "ping-pong",
+                "pole vaulting",
+                "skeet-shooting",
+                "discus",
+                "footbag",
+                "boxing",
+                "throwing a Frisbee",
+                "collecting firewood for camp",
+                "croquet",
+                "windsurfing",
+                "setting up camping tent",
+                "ballooning",
+                "cricket",
+                "parkour",
+                "digging a latrine",
+                "playing ultimate frisbee",
+                "playing in the snow",
+                "target practice",
+                "horseshoes",
+                "table tennis",
+                "cheerleading",
+                "paintball",
+                "starting a campfire",
+                "kite flying",
+                "archery",
+                "bungee jumping",
+                "shooting league",
+                "playing Frisbee golf",
+                "baton twirling",
+                "throwing darts"
+            ]
+        },
+        {
+            "category": "Watching aerobics",
+            "code": "130201"
+        },
+        {
+            "category": "Watching baseball",
+            "code": "130202"
+        },
+        {
+            "category": "Watching basketball",
+            "code": "130203"
+        },
+        {
+            "category": "Watching biking",
+            "code": "130204",
+            "examples": [
+                "watching a bicycle race"
+            ]
+        },
+        {
+            "category": "Watching billiards",
+            "code": "130205",
+            "examples": [
+                "watching pool players",
+                "watching snooker players"
+            ]
+        },
+        {
+            "category": "Watching boating",
+            "code": "130206",
+            "examples": [
+                "watching yachting",
+                "watching rafting",
+                "watching canoeing",
+                "watching crewing",
+                "watching sailing",
+                "watching kayaking"
+            ]
+        },
+        {
+            "category": "Watching bowling",
+            "code": "130207",
+            "examples": [
+                "watching ten pins",
+                "watching duck pins"
+            ]
+        },
+        {
+            "category": "Watching climbing, spelunking, caving",
+            "code": "130208"
+        },
+        {
+            "category": "Watching dancing",
+            "code": "130209"
+        },
+        {
+            "category": "Watching equestrian sports",
+            "code": "130210",
+            "examples": [
+                "watching polo game",
+                "watching a steeple chase",
+                "watching horseback riding"
+            ]
+        },
+        {
+            "category": "Watching fencing",
+            "code": "130211"
+        },
+        {
+            "category": "Watching fishing",
+            "code": "130212",
+            "examples": [
+                "watching clam-digging",
+                "watching deep-sea fishing",
+                "watching crabbing",
+                "watching fly fishing"
+            ]
+        },
+        {
+            "category": "Watching football",
+            "code": "130213",
+            "examples": [
+                "watching tag football",
+                "watching touch football"
+            ]
+        },
+        {
+            "category": "Watching golfing",
+            "code": "130214",
+            "examples": [
+                "watching a golf tournament"
+            ]
+        },
+        {
+            "category": "Watching gymnastics",
+            "code": "130215",
+            "examples": [
+                "watching tumbling",
+                "watching balance beam completion",
+                "watching parallel bar competition"
+            ]
+        },
+        {
+            "category": "Watching hockey",
+            "code": "130216",
+            "examples": [
+                "watching ice hockey",
+                "watching field hockey"
+            ]
+        },
+        {
+            "category": "Watching martial arts",
+            "code": "130217",
+            "examples": [
+                "watching karate",
+                "watching kickboxing"
+            ]
+        },
+        {
+            "category": "Watching racquet sports",
+            "code": "130218",
+            "examples": [
+                "watching squash",
+                "watching tennis",
+                "watching lacrosse",
+                "watching handball",
+                "watching racquetball",
+                "watching badminton"
+            ]
+        },
+        {
+            "category": "Watching rodeo competitions",
+            "code": "130219"
+        },
+        {
+            "category": "Watching rollerblading",
+            "code": "130220",
+            "examples": [
+                "watching roller-skating",
+                "watching skateboarding"
+            ]
+        },
+        {
+            "category": "Watching rugby",
+            "code": "130221"
+        },
+        {
+            "category": "Watching running",
+            "code": "130222",
+            "examples": [
+                "watching a running race",
+                "watching cross country running",
+                "watching an organized run",
+                "watching a marathon"
+            ]
+        },
+        {
+            "category": "Watching skiing, ice skating, snowboarding",
+            "code": "130223",
+            "examples": [
+                "watching snow tubing"
+            ]
+        },
+        {
+            "category": "Watching soccer",
+            "code": "130224"
+        },
+        {
+            "category": "Watching softball",
+            "code": "130225",
+            "examples": [
+                "watching wiffle ball"
+            ]
+        },
+        {
+            "category": "Watching vehicle touring/racing",
+            "code": "130226",
+            "examples": [
+                "watching 4-wheeling",
+                "watching a drag race",
+                "watching a stock car race",
+                "watching snowmobiling",
+                "watching a motocross race"
+            ]
+        },
+        {
+            "category": "Watching volleyball",
+            "code": "130227",
+            "examples": [
+                "watching Wally ball"
+            ]
+        },
+        {
+            "category": "Watching walking",
+            "code": "130228",
+            "examples": [
+                "watching a walking sporting event"
+            ]
+        },
+        {
+            "category": "Watching water sports",
+            "code": "130229",
+            "examples": [
+                "watching a water polo match",
+                "watching a swim/dive meet",
+                "watching water aerobics"
+            ]
+        },
+        {
+            "category": "Watching weightlifting/strength training",
+            "code": "130230",
+            "examples": [
+                "watching weightlifting competition"
+            ]
+        },
+        {
+            "category": "Watching people working out, unspecified",
+            "code": "130231"
+        },
+        {
+            "category": "Watching wrestling",
+            "code": "130232"
+        },
+        {
+            "category": "Attending sporting events, not elsewhere classified",
+            "code": "130299",
+            "examples": [
+                "watching skeet-shooting",
+                "watching hang-gliding",
+                "watching cheerleading",
+                "watching croquet game",
+                "watching archery",
+                "watching ping-pong",
+                "watching pole vaulting",
+                "watching discus",
+                "watching windsurfing",
+                "watching ballooning",
+                "watching baton twirling",
+                "watching skydiving",
+                "watching dart playing",
+                "watching javelin",
+                "watching boxing",
+                "watching bungee jumping"
+            ]
+        },
+        {
+            "category": "Waiting related to playing sports or exercising",
+            "code": "130301"
+        },
+        {
+            "category": "Waiting related to attending sporting events",
+            "code": "130302"
+        },
+        {
+            "category": "Waiting associated with sports, exercise, & recreation, not elsewhere classified",
+            "code": "130399"
+        },
+        {
+            "category": "Security related to playing sports or exercising",
+            "code": "130401",
+            "examples": [
+                "passing through metal detector (playing sports)",
+                "being searched at security checkpoint (playing sports)",
+                "opening bags for security search (playing sports)"
+            ]
+        },
+        {
+            "category": "Security related to attending sporting events",
+            "code": "130402",
+            "examples": [
+                "passing through metal detector (attending sports)",
+                "opening bags for security search (attending sports)",
+                "being searched at security checkpoint (attending sports)"
+            ]
+        },
+        {
+            "category": "Security related to sports, exercise, & recreation, not elsewhere classified",
+            "code": "130499"
+        },
+        {
+            "category": "Sports, exercise, & recreation, not elsewhere classified",
+            "code": "139999"
+        },
+        {
+            "category": "Attending religious services",
+            "code": "140101",
+            "examples": [
+                "attending a blessing",
+                "leading blessings",
+                "attending church revival",
+                "attending funerals/attending wakes, memorial services",
+                "attending confirmation service",
+                "attending church services/synagogue/temple/mosque",
+                "attending a bar mitzvah/bat mitzvah/briss",
+                "attending/hearing confession",
+                "attending/participating in weddings",
+                "attending a baptism/christening"
+            ]
+        },
+        {
+            "category": "Participation in religious practices",
+            "code": "140102",
+            "examples": [
+                "preparing the sacrament/communion",
+                "lighting advent wreath",
+                "attending a religious retreat",
+                "lighting menorah candles (Hanukkah)",
+                "participating in church musical performance",
+                "ushering for religious services",
+                "cleaning up after religious ceremonies",
+                "visiting graves/putting flowers on graves",
+                "preparing food for a Seder",
+                "singing in the church choir",
+                "meditating for religious purposes",
+                "praying with hh child",
+                "saying prayers for a Seder",
+                "reading the Bible/Koran/Torah/Talmud/scriptures",
+                "listening to Bible audio",
+                "praying with others",
+                "leading church choir, musical groups",
+                "opening advent calendar day",
+                "praying alone",
+                "playing the church organ",
+                "rehearsing/decorating for religious ceremonies",
+                "attending church choir practice",
+                "attending Passover Seder",
+                "attending a wedding rehearsal",
+                "praying with nonhh child",
+                "conducting religious rites in the home",
+                "studying the Bible/Koran/sciptures"
+            ]
+        },
+        {
+            "category": "Waiting associated w/religious & spiritual activities",
+            "code": "140103",
+            "examples": [
+                "Waiting associated w/ religious & spiritual activities"
+            ]
+        },
+        {
+            "category": "Security procedures rel. to religious & spiritual activities",
+            "code": "140104",
+            "examples": [
+                "being searched at security checkpoint (religious activities)",
+                "opening bags for security search  (religious activities)",
+                "passing through metal detector (religious activities)"
+            ]
+        },
+        {
+            "category": "Religious education activities",
+            "code": "140105",
+            "examples": [
+                "attending confirmation class/attending Sunday school",
+                "teaching bat/bar mitvah class",
+                "preparing materials for Bible study",
+                "reading (other: confirmation class)",
+                "reading/studying scriptures for Sunday school",
+                "distributing religious literature",
+                "memorizing verses for confirmation class",
+                "attending pre-Cana class",
+                "leading religious youth group",
+                "teaching/leading Bible study",
+                "attending Bible study",
+                "teaching Sunday school"
+            ]
+        },
+        {
+            "category": "Religious and spiritual activities, not elsewhere classified",
+            "code": "149999"
+        },
+        {
+            "category": "Computer use",
+            "code": "150101",
+            "examples": [
+                "loading computer software (volunteer)",
+                "computer use, unspecified (volunteer)",
+                "setting up computer (volunteer)",
+                "designing website for volunteer org.",
+                "checking e-mail (volunteer)",
+                "surfing the internet (volunteer)",
+                "writing/sending e-mail (volunteer)"
+            ]
+        },
+        {
+            "category": "Organizing and preparing",
+            "code": "150102",
+            "examples": [
+                "completing paperwork (volunteer)",
+                "preparing/organizing schedules (volunteer)",
+                "addressing envelopes (volunteer)",
+                "filing (volunteer)",
+                "reviewing applications (volunteer)",
+                "re-shelving library books (volunteer)",
+                "preparing for a meeting (volunteer)",
+                "organizing volunteer materials",
+                "stuffing envelopes (volunteer)"
+            ]
+        },
+        {
+            "category": "Reading",
+            "code": "150103",
+            "examples": [
+                "reviewing notes, briefs, papers (volunteer)",
+                "reading the Bible (volunteer)",
+                "reading books, journals, newspapers (volunteer)",
+                "reading scriptures (volunteer)"
+            ]
+        },
+        {
+            "category": "Telephone calls (except hotline counseling)",
+            "code": "150104",
+            "examples": [
+                "making phone calls (volunteer)",
+                "answering phones (volunteer)"
+            ]
+        },
+        {
+            "category": "Writing",
+            "code": "150105",
+            "examples": [
+                "editing newsletters (volunteer)",
+                "writing letters/memos (volunteer)"
+            ]
+        },
+        {
+            "category": "Fundraising",
+            "code": "150106",
+            "examples": [
+                "donating money (volunteer)",
+                "running a race to raise money (volunteer)",
+                "collecting monetary donations (volunteer)",
+                "helping with a yard sale (volunteer)",
+                "ringing a bell for the Salvation Army (volunteer)",
+                "planning a benefit (volunteer)",
+                "selling items at a yard sale (volunteer)",
+                "setting up a silent auction (volunteer)",
+                "selling Girl Scout cookies (volunteer)",
+                "selling raffle tickets (volunteer)",
+                "selling items at a bazaar (volunteer)",
+                "soliciting pledges (volunteer)",
+                "raising money for charitable causes (volunteer)",
+                "selling tickets (volunteer)",
+                "raising money for political candidates (volunteer)",
+                "selling nonfood items at a concession stand (volunteer)"
+            ]
+        },
+        {
+            "category": "Administrative & support activities, not elsewhere classified",
+            "code": "150199",
+            "examples": [
+                "collecting signatures for a petition (volunteer)",
+                "counted church offering (volunteer)"
+            ]
+        },
+        {
+            "category": "Food preparation, presentation, clean-up",
+            "code": "150201",
+            "examples": [
+                "preparing food for a fundraiser (volunteer)",
+                "serving food at a homeless shelter (volunteer)",
+                "donating food to a food bank (volunteer)",
+                "baking cookies for the PTA bake sale (volunteer)",
+                "working in a soup kitchen (volunteer)",
+                "distributing groceries at food bank (volunteer)",
+                "delivering/serving meals to shut-ins (volunteer)",
+                "serving food to racers (volunteer)",
+                "selling food or unknown items at a concession stand (volunteer)"
+            ]
+        },
+        {
+            "category": "Collecting & delivering clothing & other goods",
+            "code": "150202",
+            "examples": [
+                "collecting toys (volunteer)",
+                "donating books (volunteer)",
+                "collecting used electronics (volunteer)",
+                "collecting school supplies (volunteer)",
+                "sorting clothing (volunteer)",
+                "loading items into vehicle (volunteer)",
+                "unloading items from vehicle (volunteer)",
+                "distributing blankets at a homeless shelter (volunteer)",
+                "sorting books (volunteer)",
+                "collecting clothing for disaster relief (volunteer)",
+                "assembling gift baskets (volunteer)",
+                "donating clothing (volunteer)",
+                "donating tooys (voluteer)"
+            ]
+        },
+        {
+            "category": "Providing care",
+            "code": "150203",
+            "examples": [
+                "playing with children (volunteer)",
+                "visiting with others (volunteer)",
+                "spending time with hospice patients (volunteer)",
+                "walking dogs at animal shelter (volunteer)",
+                "chaperoning (volunteer)",
+                "acting as an interpreter (volunteer)",
+                "supervising children (volunteer)",
+                "reading to the blind (volunteer)",
+                "visiting shut-ins or the elderly (volunteer)"
+            ]
+        },
+        {
+            "category": "Teaching, leading, counseling, mentoring",
+            "code": "150204",
+            "examples": [
+                "leading a tour (volunteer)",
+                "assisting in a classroom (volunteer)",
+                "leading a musical group (volunteer)",
+                "counseling at a halfway house (volunteer)",
+                "leading Boy Scout meeting (volunteer)",
+                "leading religious youth group (volunteer)",
+                "teaching bat/bar mitzvah class (volunteer)",
+                "leading story time at library (volunteer)",
+                "teaching religious class (volunteer)",
+                "leading a blessing (volunteer)",
+                "being a Big Brother/Big Sister (volunteer)",
+                "teaching confirmation class (volunteer)",
+                "teaching parenting classes (volunteer)",
+                "teaching Sunday school (volunteer)",
+                "teaching a class (volunteer)",
+                "teaching a cooking class (volunteer)",
+                "leading a choir (volunteer)",
+                "teaching/leading religious class (volunteer)",
+                "coaching teams (volunteer)",
+                "tutoring (volunteer)",
+                "doing vocational training (volunteer)",
+                "working a hotline for victim support svcs. (volunteer)",
+                "providing a demo (volunteer)",
+                "teaching/leading Bible study (volunteer)"
+            ]
+        },
+        {
+            "category": "Social service & care activities, not elsewhere classified",
+            "code": "150299",
+            "examples": [
+                "sewing items to donate (volunteer)",
+                "making quilts for soldiers (volunteer)",
+                "knitting (volunteer)",
+                "making crafts (volunteer)"
+            ]
+        },
+        {
+            "category": "Building houses, wildlife sites, & other structures",
+            "code": "150301",
+            "examples": [
+                "building playgrounds (volunteer)",
+                "building a wildlife refuge area (volunteer)",
+                "building houses for Habitat for Humanity (volunteer)"
+            ]
+        },
+        {
+            "category": "Indoor & outdoor maintenance, repair, & clean-up",
+            "code": "150302",
+            "examples": [
+                "painting (volunteer)",
+                "planting trees (volunteer)",
+                "clearing brush (volunteer)",
+                "cleaning parks/streets (volunteer)",
+                "maintaining hiking trails (volunteer)",
+                "watering trees (volunteer)",
+                "weeding (volunteer)",
+                "doing environmental clean-up (volunteer)",
+                "repairing cars (volunteer)",
+                "gardening (volunteer)",
+                "cleaning up yards, buildings (volunteer)",
+                "mowing the lawn (volunteer)",
+                "renovating a house (volunteer)",
+                "landscaping (volunteer)",
+                "repairing tools or equipment (volunteer)",
+                "picking up trash (volunteer)",
+                "planting flowers (volunteer)"
+            ]
+        },
+        {
+            "category": "Indoor & outdoor maintenance, building & clean-up activities, not elsewhere classified",
+            "code": "150399"
+        },
+        {
+            "category": "Performing",
+            "code": "150401",
+            "examples": [
+                "auctioneering a benefit auction (volunteer)",
+                "practicing for a performance (volunteer)",
+                "dancing in a performance (volunteer)",
+                "performing music (volunteer)",
+                "acting in a performance (volunteer)",
+                "emceeing a charity function (volunteer)"
+            ]
+        },
+        {
+            "category": "Serving at volunteer events & cultural activities",
+            "code": "150402",
+            "examples": [
+                "ushering for a benefit performance (volunteer)",
+                "running a carnival/festival booth (volunteer)",
+                "supporting racers (volunteer)",
+                "constructing a float for a parade (volunteer)",
+                "working a booth at a fair (volunteer)",
+                "setting up for an event (volunteer)",
+                "manning an information booth (volunteer)",
+                "setting up lighting (volunteer)",
+                "distributing race packets (volunteer)",
+                "designing a set for a performance (volunteer)",
+                "designing a float for a parade (volunteer)",
+                "directing a child's school play (volunteer)",
+                "setting up music equipment (volunteer)",
+                "distributing event T-shirts (volunteer)",
+                "driving a float in a parade (volunteer)",
+                "ushering at a theatre performance (volunteer)",
+                "setting up for a walk-a-thon (volunteer)",
+                "manning a booth (volunteer)",
+                "being a docent/museum guide (volunteer)",
+                "serving at a marathon (volunteer)",
+                "testing sound system (volunteer)",
+                "cleaning up after an event (volunteer)"
+            ]
+        },
+        {
+            "category": "Participating in performance & cultural activities, not elsewhere classified",
+            "code": "150499"
+        },
+        {
+            "category": "Attending meetings, conferences, & training",
+            "code": "150501",
+            "examples": [
+                "serving on a board (volunteer)",
+                "chairing a committee (volunteer)",
+                "attending training (volunteer)",
+                "serving on a finance committee (volunteer)",
+                "attending meetings (volunteer)",
+                "attending seminars (volunteer)",
+                "attending conferences (volunteer)"
+            ]
+        },
+        {
+            "category": "Attending meetings, conferences, & training, not elsewhere classified",
+            "code": "150599"
+        },
+        {
+            "category": "Public health activities",
+            "code": "150601",
+            "examples": [
+                "donating blood (volunteer)",
+                "providing medical care (volunteer)"
+            ]
+        },
+        {
+            "category": "Public safety activities",
+            "code": "150602",
+            "examples": [
+                "being on duty as firefighter (volunteer)",
+                "patrolling for neighborhood crime watch (volunteer)"
+            ]
+        },
+        {
+            "category": "Public health & safety activities, not elsewhere classified",
+            "code": "150699"
+        },
+        {
+            "category": "Waiting associated with volunteer activities",
+            "code": "150701"
+        },
+        {
+            "category": "Waiting associated with volunteer activities, not elsewhere classified",
+            "code": "150799"
+        },
+        {
+            "category": "Security procedures related to volunteer activities",
+            "code": "150801",
+            "examples": [
+                "passing through metal detector (volunteer)",
+                "opening bags for security search (volunteer)",
+                "being searched at security checkpoint (volunteer)"
+            ]
+        },
+        {
+            "category": "Security procedures related to volunteer activities, not elsewhere classified",
+            "code": "150899"
+        },
+        {
+            "category": "Volunteer activities, not elsewhere classified",
+            "code": "159999",
+            "examples": [
+                "inventorying bird or other wildlife populations (volunteer)",
+                "monitoring water quality (volunteer)",
+                "shopping (volunteer)",
+                "greeting people at church (volunteer)",
+                "picketing (volunteer)",
+                "running a race (volunteer)",
+                "handing out political flyers (volunteer)",
+                "handing out flyers (volunteer)",
+                "taping religious services (volunteer)",
+                "ushering at church (volunteer)"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from family members",
+            "code": "160101",
+            "examples": [
+                "talking on phone to relatives",
+                "Skyping with my sister"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from friends, neighbors, or acquaintances",
+            "code": "160102",
+            "examples": [
+                "talking on phone to girlfriend",
+                "talking on phone to fiancee",
+                "talking on phone to friends/neighbors/acquaintances",
+                "texting with a friend",
+                "talking on phone to boyfriend"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from education services providers",
+            "code": "160103",
+            "examples": [
+                "talking on phone to a professor",
+                "talking on phone to a school nurse",
+                "talking on phone to a school cafeteria worker",
+                "talking on phone to a principal",
+                "talking on phone to a teacher",
+                "talking on phone to an instructor"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from salespeople",
+            "code": "160104",
+            "examples": [
+                "talking on phone to a customer service representative",
+                "talking on phone to a cashier",
+                "talking on phone to a telemarketer",
+                "talking on phone to a salesperson",
+                "talking on phone to a sales clerk",
+                "talking on phone to a store manager",
+                "talking on phone to a store counter person",
+                "talking to credit card company"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from professional or personal care svcs providers",
+            "code": "160105",
+            "examples": [
+                "talking on phone to a barber/hairstylist/manicurist",
+                "talking on phone to a lawyer/mediator/paralegal",
+                "talking on phone to a pharmacist",
+                "talking on phone to a doctor/nurse/veterinarian",
+                "talking on phone to a banker/insurance agent/loan officer",
+                "talking on phone to an accountant",
+                "talking on phone to a real estate agent",
+                "talking on phone to a massage therapist"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from household services providers",
+            "code": "160106",
+            "examples": [
+                "talking on phone to an architect",
+                "talking on phone to a mechanic/auto body repair person",
+                "talking on phone to a cleaning service/caterer",
+                "talking on phone to a plumber/electrician/contractor",
+                "talking on phone to a pet sitter/pet walker",
+                "talking on phone to a landscaper/gardener",
+                "talking on phone to electric company representative",
+                "talking on phone to a decorator",
+                "talking on phone to gas company representative"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from paid child or adult care providers",
+            "code": "160107",
+            "examples": [
+                "talking on phone to a babysitter",
+                "talking on phone to day care provider",
+                "talking on phone to a tutor"
+            ]
+        },
+        {
+            "category": "Telephone calls to/from government officials",
+            "code": "160108",
+            "examples": [
+                "talking on phone to police or firefighters",
+                "talking on phone to a court employee",
+                "talking on phone to a U.S. postal employee",
+                "talking on phone to a politician",
+                "talking on phone to a congressperson",
+                "talking on phone to a public librarian",
+                "talking on phone to a county council member"
+            ]
+        },
+        {
+            "category": "Telephone calls (to or from), not elsewhere classified",
+            "code": "160199",
+            "examples": [
+                "talking on phone to ex-husband",
+                "talking on phone, no more info provided"
+            ]
+        },
+        {
+            "category": "Waiting associated with telephone calls",
+            "code": "160201",
+            "examples": [
+                "waiting to use a pay phone",
+                "waiting for a phone call"
+            ]
+        },
+        {
+            "category": "Waiting associated with telephone calls, not elsewhere classified",
+            "code": "160299"
+        },
+        {
+            "category": "Telephone calls, not elsewhere classified",
+            "code": "169999"
+        },
+        {
+            "category": "Travel related to personal care",
+            "code": "180101"
+        },
+        {
+            "category": "Travel related to personal care, not elsewhere classified",
+            "code": "180199"
+        },
+        {
+            "category": "Travel related to housework",
+            "code": "180201"
+        },
+        {
+            "category": "Travel related to food & drink prep., clean-up, & presentation",
+            "code": "180202"
+        },
+        {
+            "category": "Travel related to interior maintenance, repair, & decoration",
+            "code": "180203"
+        },
+        {
+            "category": "Travel related to exterior maintenance, repair, & decoration",
+            "code": "180204"
+        },
+        {
+            "category": "Travel related to lawn, garden, and houseplant care",
+            "code": "180205"
+        },
+        {
+            "category": "Travel related to care for animals and pets (not vet care)",
+            "code": "180206"
+        },
+        {
+            "category": "Travel related to vehicle care & maintenance (by self)",
+            "code": "180207"
+        },
+        {
+            "category": "Travel related to appliance, tool, and toy set-up, repair, & maintenance (by self)",
+            "code": "180208"
+        },
+        {
+            "category": "Travel related to household management",
+            "code": "180209"
+        },
+        {
+            "category": "Travel related to household activities, not elsewhere classified",
+            "code": "180299"
+        },
+        {
+            "category": "Travel related to caring for & helping hh children",
+            "code": "180301"
+        },
+        {
+            "category": "Travel related to hh children's education",
+            "code": "180302"
+        },
+        {
+            "category": "Travel related to hh children's health",
+            "code": "180303"
+        },
+        {
+            "category": "Travel related to caring for hh adults",
+            "code": "180304"
+        },
+        {
+            "category": "Travel related to helping hh adults",
+            "code": "180305"
+        },
+        {
+            "category": "Travel rel. to caring for & helping hh members, not elsewhere classified",
+            "code": "180399"
+        },
+        {
+            "category": "Travel related to caring for and helping nonhh children",
+            "code": "180401"
+        },
+        {
+            "category": "Travel related to nonhh children's education",
+            "code": "180402"
+        },
+        {
+            "category": "Travel related to nonhh children's health",
+            "code": "180403"
+        },
+        {
+            "category": "Travel related to caring for nonhh adults",
+            "code": "180404"
+        },
+        {
+            "category": "Travel related to helping nonhh adults",
+            "code": "180405"
+        },
+        {
+            "category": "Travel rel. to caring for & helping nonhh members, not elsewhere classified",
+            "code": "180499"
+        },
+        {
+            "category": "Travel related to working",
+            "code": "180501"
+        },
+        {
+            "category": "Travel related to work-related activities",
+            "code": "180502"
+        },
+        {
+            "category": "Travel related to income-generating activities",
+            "code": "180503"
+        },
+        {
+            "category": "Travel related to job search & interviewing",
+            "code": "180504"
+        },
+        {
+            "category": "Travel related to work, not elsewhere classified",
+            "code": "180599"
+        },
+        {
+            "category": "Travel related to taking class",
+            "code": "180601"
+        },
+        {
+            "category": "Travel related to extracurricular activities (ex. Sports)",
+            "code": "180602"
+        },
+        {
+            "category": "Travel related to research/homework",
+            "code": "180603"
+        },
+        {
+            "category": "Travel related to registration/administrative activities",
+            "code": "180604"
+        },
+        {
+            "category": "Travel related to education, not elsewhere classified",
+            "code": "180699"
+        },
+        {
+            "category": "Travel related to grocery shopping",
+            "code": "180701"
+        },
+        {
+            "category": "Travel related to purchasing gas",
+            "code": "180702"
+        },
+        {
+            "category": "Travel related to purchasing food (not groceries)",
+            "code": "180703"
+        },
+        {
+            "category": "Travel related to shopping, ex groceries, food, and gas",
+            "code": "180704"
+        },
+        {
+            "category": "Travel related to consumer purchases, not elsewhere classified",
+            "code": "180799"
+        },
+        {
+            "category": "Travel related to using childcare services",
+            "code": "180801"
+        },
+        {
+            "category": "Travel related to using financial services and banking",
+            "code": "180802"
+        },
+        {
+            "category": "Travel related to using legal services",
+            "code": "180803"
+        },
+        {
+            "category": "Travel related to using medical services",
+            "code": "180804"
+        },
+        {
+            "category": "Travel related to using personal care services",
+            "code": "180805"
+        },
+        {
+            "category": "Travel related to using real estate services",
+            "code": "180806"
+        },
+        {
+            "category": "Travel related to using veterinary services",
+            "code": "180807"
+        },
+        {
+            "category": "Travel rel. to using prof. & personal care services, not elsewhere classified",
+            "code": "180899"
+        },
+        {
+            "category": "Travel related to using household services",
+            "code": "180901"
+        },
+        {
+            "category": "Travel related to using home main./repair/d\u00e9cor./construction svcs",
+            "code": "180902"
+        },
+        {
+            "category": "Travel related to using pet services (not vet)",
+            "code": "180903"
+        },
+        {
+            "category": "Travel related to using lawn and garden services",
+            "code": "180904"
+        },
+        {
+            "category": "Travel related to using vehicle maintenance & repair services",
+            "code": "180905"
+        },
+        {
+            "category": "Travel related to using household services, not elsewhere classified",
+            "code": "180999"
+        },
+        {
+            "category": "Travel related to using government services",
+            "code": "181001"
+        },
+        {
+            "category": "Travel related to civic obligations & participation",
+            "code": "181002"
+        },
+        {
+            "category": "Travel rel. to govt svcs & civic obligations, not elsewhere classified",
+            "code": "181099"
+        },
+        {
+            "category": "Travel related to eating and drinking",
+            "code": "181101"
+        },
+        {
+            "category": "Travel related to eating and drinking, not elsewhere classified",
+            "code": "181199"
+        },
+        {
+            "category": "Travel related to socializing and communicating",
+            "code": "181201"
+        },
+        {
+            "category": "Travel related to attending or hosting social events",
+            "code": "181202"
+        },
+        {
+            "category": "Travel related to relaxing and leisure",
+            "code": "181203"
+        },
+        {
+            "category": "Travel related to arts and entertainment",
+            "code": "181204"
+        },
+        {
+            "category": "Travel as a form of entertainment",
+            "code": "181205",
+            "examples": [
+                "driving, no purpose (pleasure driving)",
+                "sightseeing on a tour bus",
+                "driving around looking at Christmas lights"
+            ]
+        },
+        {
+            "category": "Travel rel. to socializing, relaxing, & leisure, not elsewhere classified",
+            "code": "181299"
+        },
+        {
+            "category": "Travel related to participating in sports/exercise/recreation",
+            "code": "181301"
+        },
+        {
+            "category": "Travel related to attending sporting/recreational events",
+            "code": "181302"
+        },
+        {
+            "category": "Travel related to sports, exercise, & recreation, not elsewhere classified",
+            "code": "181399"
+        },
+        {
+            "category": "Travel related to religious/spiritual practices",
+            "code": "181401"
+        },
+        {
+            "category": "Travel rel. to religious/spiritual activities, not elsewhere classified",
+            "code": "181499"
+        },
+        {
+            "category": "Travel related to volunteering",
+            "code": "181501"
+        },
+        {
+            "category": "Travel related to volunteer activities, not elsewhere classified",
+            "code": "181599"
+        },
+        {
+            "category": "Travel related to phone calls",
+            "code": "181601"
+        },
+        {
+            "category": "Travel rel. to phone calls, not elsewhere classified",
+            "code": "181699"
+        },
+        {
+            "category": "Security procedures related to traveling",
+            "code": "181801",
+            "examples": [
+                "passing through metal detector",
+                "being searched at security checkpoint (traveling)",
+                "waiting in line at security checkpoint",
+                "opening bags for security search (traveling)"
+            ]
+        },
+        {
+            "category": "Security procedures related to traveling, not elsewhere classified",
+            "code": "181899"
+        },
+        {
+            "category": "Traveling, not elsewhere classified",
+            "code": "189999",
+            "examples": [
+                "hailing help after accident/emergency",
+                "changing a flat tire",
+                "waiting to check bags for flight",
+                "exchanging insurance info after accident",
+                "walking to get help after travel accident",
+                "travel accident",
+                "taking shuttle to gate (in airport)",
+                "picking up baggage (traveling)",
+                "riding in a tow truck after accident",
+                "car accident",
+                "driving, no purpose (DP changed mind)",
+                "travel emergency",
+                "checking in for flight",
+                "boarding flight",
+                "checking bags (traveling)"
+            ]
+        },
+        {
+            "category": "Insufficient detail in verbatim",
+            "code": "500101"
+        },
+        {
+            "category": "Missing travel or destination",
+            "code": "500103"
+        },
+        {
+            "category": "Respondent refused to provide information/\"none of your business\"",
+            "code": "500105"
+        },
+        {
+            "category": "Gap/can't remember",
+            "code": "500106"
+        },
+        {
+            "category": "Unable to code activity at 1st tier",
+            "code": "500107"
+        }
+    ]
+}
