@@ -27,6 +27,9 @@
     }, {
       "bracket" : "flowers",
       "winner" : "foxglove"
+    }, {
+      "bracket" : "fruits",
+      "winner" : "peach"
     }
   ]
 }
