@@ -8,6 +8,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Aries.svg",
             "unicode_symbol": "♈",
             "gloss": "The Ram",
+            "color": "Red",
+            "quality": "",
             "element": "Fire",
             "ruling_body_classic": "Mars",
             "ruling_body_modern": "Mars"
@@ -18,6 +20,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Taurus.svg",
             "unicode_symbol": "♉",
             "gloss": "The Bull",
+            "color": "Red",
+            "quality": "",
             "element": "Earth",
             "ruling_body_classic": "Venus",
             "ruling_body_modern": "Earth"
@@ -28,6 +32,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Gemini.svg",
             "unicode_symbol": "♊",
             "gloss": "The Twins",
+            "color": "Red",
+            "quality": "",
             "element": "Air",
             "ruling_body_classic": "Mercury",
             "ruling_body_modern": "Mercury"
@@ -38,6 +44,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Cancer.svg",
             "unicode_symbol": "♋",
             "gloss": "The Crab",
+            "color": "Red",
+            "quality": "",
             "element": "Water",
             "ruling_body_classic": "Moon",
             "ruling_body_modern": "Moon"
@@ -48,6 +56,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Leo.svg",
             "unicode_symbol": "♌",
             "gloss": "The Lion",
+            "color": "Red",
+            "quality": "",
             "element": "Fire",
             "ruling_body_classic": "Sun",
             "ruling_body_modern": "Sun"
@@ -58,6 +68,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Virgo.svg",
             "unicode_symbol": "♍",
             "gloss": "The Maiden",
+            "color": "Red",
+            "quality": "",
             "element": "Earth",
             "ruling_body_classic": "Mercury",
             "ruling_body_modern": "Ceres"
@@ -68,6 +80,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Libra.svg",
             "unicode_symbol": "♎",
             "gloss": "The Scales",
+            "color": "Red",
+            "quality": "",
             "element": "Air",
             "ruling_body_classic": "Venus",
             "ruling_body_modern": "Venus"
@@ -78,6 +92,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Scorpio.svg",
             "unicode_symbol": "♏",
             "gloss": "The Scorpion",
+            "color": "Red",
+            "quality": "",
             "element": "Water",
             "ruling_body_classic": "Mars",
             "ruling_body_modern": "Pluto"
@@ -88,6 +104,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Sagittarius.svg",
             "unicode_symbol": "♐",
             "gloss": "The Archer",
+            "color": "Red",
+            "quality": "",
             "element": "Fire",
             "ruling_body_classic": "Jupiter",
             "ruling_body_modern": "Jupiter"
@@ -98,6 +116,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Capricorn.svg",
             "unicode_symbol": "♑",
             "gloss": "The Mountain Sea-goat",
+            "color": "Red",
+            "quality": "",
             "element": "Earth",
             "ruling_body_classic": "Saturn",
             "ruling_body_modern": "Saturn"
@@ -108,6 +128,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Aquarius.svg",
             "unicode_symbol": "♒",
             "gloss": "The Water-bearer",
+            "color": "Red",
+            "quality": "",
             "element": "Air",
             "ruling_body_classic": "Saturn",
             "ruling_body_modern": "Uranus"
@@ -118,6 +140,8 @@
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Pisces.svg",
             "unicode_symbol": "♓",
             "gloss": "The Fish",
+            "color": "Red",
+            "quality": "",
             "element": "Water",
             "ruling_body_classic": "Jupiter",
             "ruling_body_modern": "Neptune"
