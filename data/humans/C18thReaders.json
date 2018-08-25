@@ -2,17 +2,6 @@
   "description": "Customers of the 18th-century publishing house, the Société typographique de Neuchâtel. From the STN Online Database",
   "data": [
     {
-      "name": "person_name",
-      "status": "status",
-      "sex": "sex",
-      "designation": "designation",
-      "title": "title",
-      "born": "birth_date",
-      "died": "death_date",
-      "profession": "translated_profession",
-      "sector": "economic_sector"
-    },
-    {
       "name": "Wydler, Guillaume",
       "sex": "M",
       "profession": "Archbishop",

@@ -2,12 +2,6 @@
   "description": "Books published by the 18th-century publishing house, the Société typographique de Neuchâtel. From the STN Online Database",
   "data": [
     {
-      "title": "translated_title",
-      "author": "author_name",
-      "illegal": "illegality",
-      "genre": "keyword"
-    },
-    {
       "title": "Наказ Екатерины II Комиссии о составлении проекта нового Уложения [commonly known as the 'Nakaz']",
       "author": "Catherine II, Empress of Russia",
       "illegal": "36 (5) Darnton",

@@ -2,15 +2,6 @@
   "description": "Locations of customers of the 18th-century publishing house, the Société typographique de Neuchâtel. From the STN Online Database",
   "data": [
     {
-      "name": "name",
-      "lower": "C18_lower_territory",
-      "sovereign": "C18_sovereign_territory",
-      "c21admin": "C21_admin",
-      "c21country": "C21_country",
-      "zone": "geographic_zone",
-      "distance": "distance_from_neuchatel"
-    },
-    {
       "name": "GENTHOD",
       "lower": "Geneva",
       "sovereign": "Swiss confederation",

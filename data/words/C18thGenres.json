@@ -2,10 +2,6 @@
   "description": "Genres of books published by the 18th-century publishing house, the Société typographique de Neuchâtel. From the STN Online Database",
   "data": [
     {
-      "genre": "keyword",
-      "definition": "definition"
-    },
-    {
       "genre": "Abbey of Saint-Claude",
       "definition": "Works concerning this abbey, one of the last in France to possess serfs. A sub-category of the keywords: ‘Religion’ + ‘Christianity’ + ‘Catholicism’ + ‘Religious houses’ + ‘France’."
     },
