@@ -28,7 +28,6 @@
     {
       "name": "Dubois",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -59,7 +58,6 @@
     {
       "name": "Mentlen [von]",
       "sex": "M",
-      "designation": "delete",
       "profession": "Business Agent"
     },
     {
@@ -80,7 +78,6 @@
     {
       "name": "Fuzon, Joseph",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Papermaker"
     },
     {
@@ -96,7 +93,6 @@
     {
       "name": "Mastin",
       "sex": "F",
-      "designation": "Vve",
       "title": "Mme",
       "profession": "Bookseller"
     },
@@ -143,7 +139,6 @@
     {
       "name": "Merkus, H.",
       "sex": "F",
-      "designation": "Vve H.",
       "profession": "Bookseller"
     },
     {
@@ -154,7 +149,6 @@
     {
       "name": "Muilman",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -205,7 +199,6 @@
     {
       "name": "Brottes",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -217,13 +210,11 @@
     {
       "name": "Burdet, François-Marie",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Printer"
     },
     {
       "name": "Burdet, François-Marie",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -249,7 +240,6 @@
     {
       "name": "Johannot",
       "sex": "M",
-      "designation": "fils",
       "profession": "Papermaker"
     },
     {
@@ -287,7 +277,6 @@
     {
       "name": "Klett",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
@@ -318,7 +307,6 @@
     {
       "name": "Habert, Antoine",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -335,7 +323,6 @@
     {
       "name": "Figeat",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Merchant"
     },
     {
@@ -372,7 +359,6 @@
     {
       "name": "Bouchet",
       "sex": "F",
-      "designation": "Vve Louis",
       "profession": "Business Agent"
     },
     {
@@ -398,13 +384,11 @@
     {
       "name": "Joly",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Merchant"
     },
     {
       "name": "Joly",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -420,7 +404,6 @@
     {
       "name": "Richard",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -559,7 +542,6 @@
     {
       "name": "Gigaud",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -749,7 +731,6 @@
     {
       "name": "Preiswerck",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -780,7 +761,6 @@
     {
       "name": "Ronus",
       "sex": "M",
-      "designation": "fils ainé",
       "profession": "Merchant"
     },
     {
@@ -811,13 +791,11 @@
     {
       "name": "Streckrisen, Melchior",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Business Agent"
     },
     {
       "name": "Streckrisen",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -893,7 +871,6 @@
     {
       "name": "Habert",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Bookseller"
     },
     {
@@ -959,13 +936,11 @@
     {
       "name": "Michel",
       "sex": "M",
-      "designation": "père",
       "profession": "Merchant"
     },
     {
       "name": "Michel",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -1248,13 +1223,11 @@
     {
       "name": "Voss",
       "sex": "M",
-      "designation": "fils",
       "profession": "Printer"
     },
     {
       "name": "Voss",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -1403,7 +1376,6 @@
     {
       "name": "Funk, Fred.",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Director of Postal Services"
     },
     {
@@ -1591,7 +1563,6 @@
     {
       "name": "Rosselet",
       "sex": "M",
-      "designation": "le jeune",
       "title": "Dr",
       "profession": "Doctor of Law"
     },
@@ -1733,13 +1704,11 @@
     {
       "name": "Walthard, Louis",
       "sex": "M",
-      "designation": "fils",
       "profession": "Publisher"
     },
     {
       "name": "Walthard, Louis",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -1786,7 +1755,6 @@
     {
       "name": "Amet",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -1877,7 +1845,6 @@
     {
       "name": "Emonin",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Merchant"
     },
     {
@@ -1929,7 +1896,6 @@
     {
       "name": "Lepangnez",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Bookseller"
     },
     {
@@ -2602,7 +2568,6 @@
     {
       "name": "Manoury, J.",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -2734,13 +2699,11 @@
     {
       "name": "Pettolaz",
       "sex": "M",
-      "designation": "père",
       "profession": "Cheesemakers"
     },
     {
       "name": "Pettolaz",
       "sex": "M",
-      "designation": "fils",
       "profession": "Cheesemakers"
     },
     {
@@ -2908,7 +2871,6 @@
     {
       "name": "Robert",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -2951,19 +2913,16 @@
     {
       "name": "Guillon",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Business Agent"
     },
     {
       "name": "Guillon",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Hawker of books"
     },
     {
       "name": "Guillon",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Smuggler"
     },
     {
@@ -3061,7 +3020,6 @@
     {
       "name": "Kuner",
       "sex": "M",
-      "designation": "fils",
       "profession": "Papermaker"
     },
     {
@@ -3174,7 +3132,6 @@
     {
       "name": "Colier",
       "sex": "M",
-      "designation": "le neveu",
       "profession": "Merchant"
     },
     {
@@ -3191,7 +3148,6 @@
     {
       "name": "Manson",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Bookseller"
     },
     {
@@ -3473,13 +3429,11 @@
     {
       "name": "Nubla",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
       "name": "Nubla",
       "sex": "M",
-      "designation": "fils",
       "profession": "Candlemaker"
     },
     {
@@ -3490,13 +3444,11 @@
     {
       "name": "Rameau",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Business Agent"
     },
     {
       "name": "Rameau",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -3507,7 +3459,6 @@
     {
       "name": "Caprony, J.J.",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Papermaker"
     },
     {
@@ -3538,7 +3489,6 @@
     {
       "name": "Blussé",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -3879,13 +3829,11 @@
     {
       "name": "Schüttenhelm, Charles-Philippe",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Drugseller"
     },
     {
       "name": "Schüttenhelm, Charles-Philippe",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Dyes"
     },
     {
@@ -3944,7 +3892,6 @@
     {
       "name": "Camelique",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Engraver"
     },
     {
@@ -4154,7 +4101,6 @@
     {
       "name": "Ferrier",
       "sex": "M",
-      "designation": "fils",
       "profession": "Stocking-maker"
     },
     {
@@ -4357,13 +4303,11 @@
     {
       "name": "Bonnet, Jean-Jacques",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Business Agent"
     },
     {
       "name": "Bonnet, Jean-Jacques",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Copyists"
     },
     {
@@ -4399,7 +4343,6 @@
     {
       "name": "Bonnet",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -4440,7 +4383,6 @@
     {
       "name": "Bovay, André",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -4498,7 +4440,6 @@
     {
       "name": "Chappuis",
       "sex": "M",
-      "designation": "fils",
       "profession": "Papermaker"
     },
     {
@@ -4566,7 +4507,6 @@
     {
       "name": "Cramer, Gabriel",
       "sex": "M",
-      "designation": "l'aîné",
       "born": 1723,
       "died": 1793,
       "profession": "Publisher"
@@ -4574,7 +4514,6 @@
     {
       "name": "Cramer, Gabriel",
       "sex": "M",
-      "designation": "l'aîné",
       "born": 1723,
       "died": 1793,
       "profession": "Bookseller"
@@ -4597,7 +4536,6 @@
     {
       "name": "Duvillard",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -4623,7 +4561,6 @@
     {
       "name": "Flournoy",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -4654,25 +4591,21 @@
     {
       "name": "Gallay",
       "sex": "M",
-      "designation": "fils",
       "profession": "Printer"
     },
     {
       "name": "Gallay",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
       "name": "Garnier",
       "sex": "M",
-      "designation": "père",
       "profession": "Merchant"
     },
     {
       "name": "Garnier",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -4895,13 +4828,11 @@
     {
       "name": "Pasteur",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
       "name": "Pellet",
       "sex": "M",
-      "designation": "fils",
       "born": 1740,
       "died": 1825,
       "profession": "Printer"
@@ -4909,7 +4840,6 @@
     {
       "name": "Pellet",
       "sex": "M",
-      "designation": "fils",
       "born": 1740,
       "died": 1825,
       "profession": "Bookseller"
@@ -5231,14 +5161,12 @@
     {
       "name": "Giroud",
       "sex": "F",
-      "designation": "Vve",
       "title": "Mme",
       "profession": "Printer"
     },
     {
       "name": "Giroud",
       "sex": "F",
-      "designation": "Vve",
       "title": "Mme",
       "profession": "Bookseller"
     },
@@ -5255,7 +5183,6 @@
     {
       "name": "Dolle",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Merchant"
     },
     {
@@ -5291,7 +5218,6 @@
     {
       "name": "Boué",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -5302,7 +5228,6 @@
     {
       "name": "Fauche, Pierre-François",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -5318,7 +5243,6 @@
     {
       "name": "Demoullaine, G.D.",
       "sex": "M",
-      "designation": "fils",
       "profession": "Banker"
     },
     {
@@ -5364,7 +5288,6 @@
     {
       "name": "Gosse, Pierre",
       "sex": "M",
-      "designation": "junior",
       "profession": "Bookseller"
     },
     {
@@ -5460,7 +5383,6 @@
     {
       "name": "Joyant",
       "sex": "M",
-      "designation": "fils",
       "profession": "Doctor"
     },
     {
@@ -5511,7 +5433,6 @@
     {
       "name": "Boand, Jean",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -5858,7 +5779,6 @@
     {
       "name": "Mourer, Jean",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Bookseller"
     },
     {
@@ -6027,7 +5947,6 @@
     {
       "name": "During, Pierre",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Papermaker"
     },
     {
@@ -6053,7 +5972,6 @@
     {
       "name": "Weidmann",
       "sex": "M",
-      "designation": "les héritiers de",
       "profession": "Bookseller"
     },
     {
@@ -6165,13 +6083,11 @@
     {
       "name": "Gosselin",
       "sex": "M",
-      "designation": "père",
       "profession": "Merchant"
     },
     {
       "name": "Gosselin",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -6192,19 +6108,16 @@
     {
       "name": "Laforest, Louis",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Business Agent"
     },
     {
       "name": "Bertrand",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
       "name": "Bertrand",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -6235,7 +6148,6 @@
     {
       "name": "Delauney",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -6321,7 +6233,6 @@
     {
       "name": "Courvoisier, David",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -6369,7 +6280,6 @@
     {
       "name": "Houriet, A.",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Merchant"
     },
     {
@@ -6477,13 +6387,11 @@
     {
       "name": "Malherbe",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
       "name": "Malherbe",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Merchant"
     },
     {
@@ -6519,7 +6427,6 @@
     {
       "name": "Balthasar, Melchior",
       "sex": "M",
-      "designation": "les héritiers de",
       "profession": "Merchant"
     },
     {
@@ -6651,7 +6558,6 @@
     {
       "name": "Hugard",
       "sex": "M",
-      "designation": "fils",
       "profession": "Lawyer"
     },
     {
@@ -6682,7 +6588,6 @@
     {
       "name": "Messuy",
       "sex": "M",
-      "designation": "fils",
       "profession": "Printer"
     },
     {
@@ -6733,7 +6638,6 @@
     {
       "name": "Arnal",
       "sex": "M",
-      "designation": "frère",
       "profession": "Merchant"
     },
     {
@@ -6744,7 +6648,6 @@
     {
       "name": "Baritel",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
@@ -6821,7 +6724,6 @@
     {
       "name": "Brunet",
       "sex": "M",
-      "designation": "Cadet",
       "profession": "Papermaker"
     },
     {
@@ -6842,13 +6744,11 @@
     {
       "name": "Bruyset, Jean-Marie ",
       "sex": "M",
-      "designation": "père",
       "profession": "Bookseller"
     },
     {
       "name": "Bruyset",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -6874,7 +6774,6 @@
     {
       "name": "Castaud",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -6925,7 +6824,6 @@
     {
       "name": "Claudet",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -6976,7 +6874,6 @@
     {
       "name": "Duplain, Pierre J.",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -7114,7 +7011,6 @@
     {
       "name": "Laserre, Jean-Antoine [de]",
       "sex": "M",
-      "designation": "le P.",
       "born": 1722,
       "died": 1782,
       "profession": "Man of Letters"
@@ -7157,13 +7053,11 @@
     {
       "name": "Merlino",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Banker"
     },
     {
       "name": "Merlino",
       "sex": "M",
-      "designation": "fils",
       "profession": "Banker"
     },
     {
@@ -7174,7 +7068,6 @@
     {
       "name": "Mongez ",
       "sex": "M",
-      "designation": "père",
       "profession": "Merchant"
     },
     {
@@ -7280,13 +7173,11 @@
     {
       "name": "Regnault",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Bookseller's Clerk"
     },
     {
       "name": "Regnault",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Bookseller"
     },
     {
@@ -7297,13 +7188,11 @@
     {
       "name": "Reguilliat",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
       "name": "Reguilliat",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -7331,7 +7220,6 @@
     {
       "name": "Rosselet, Henry",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -7424,7 +7312,6 @@
     {
       "name": "Martin",
       "sex": "M",
-      "designation": "le Père",
       "profession": "Reader to the Minims"
     },
     {
@@ -7886,7 +7773,6 @@
     {
       "name": "Dumas",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -7907,13 +7793,11 @@
     {
       "name": "Gougel",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Translator"
     },
     {
       "name": "Gougel",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Councillor [Local government]"
     },
     {
@@ -7929,13 +7813,11 @@
     {
       "name": "Barnoin",
       "sex": "M",
-      "designation": "père",
       "profession": "Merchant"
     },
     {
       "name": "Barnoin",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -7961,13 +7843,11 @@
     {
       "name": "Vialars",
       "sex": "M",
-      "designation": "père",
       "profession": "Merchant"
     },
     {
       "name": "Vialars",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -8067,13 +7947,11 @@
     {
       "name": "Monod",
       "sex": "M",
-      "designation": "le cadet",
       "profession": "Captain"
     },
     {
       "name": "Monod",
       "sex": "M",
-      "designation": "le cadet",
       "profession": "Director of the Postal Service"
     },
     {
@@ -8181,7 +8059,6 @@
     {
       "name": "Bourgeois",
       "sex": "M",
-      "designation": "fils",
       "profession": "Councillor [ambiguous term: lawyer, politician or advisor]"
     },
     {
@@ -8298,19 +8175,16 @@
     {
       "name": "Demangeot",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Director of Carriage Works"
     },
     {
       "name": "Duvez, C.C.",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Merchant"
     },
     {
       "name": "Gillet, Henry",
       "sex": "F",
-      "designation": "Mme",
       "profession": "Bookseller"
     },
     {
@@ -8361,7 +8235,6 @@
     {
       "name": "Soyer, H.",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Business Agent"
     },
     {
@@ -8412,7 +8285,6 @@
     {
       "name": "Vallet",
       "sex": "M",
-      "designation": "fils aîné",
       "profession": "Bookseller"
     },
     {
@@ -8487,13 +8359,11 @@
     {
       "name": "Roland",
       "sex": "M",
-      "designation": "fils",
       "profession": "Printer"
     },
     {
       "name": "Roland",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -8660,7 +8530,6 @@
     {
       "name": "Droz",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Printer"
     },
     {
@@ -8671,7 +8540,6 @@
     {
       "name": "Durand, Victor",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Travelling Agent for the STN"
     },
     {
@@ -8687,7 +8555,6 @@
     {
       "name": "Fauche, Jonas-Samuel",
       "sex": "M",
-      "designation": "fils l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -8890,13 +8757,11 @@
     {
       "name": "Meuron, Jean-Antoine",
       "sex": "M",
-      "designation": "fils aîné",
       "profession": "Drapers / Clothmakers"
     },
     {
       "name": "Meuron, Jean-Antoine",
       "sex": "M",
-      "designation": "fils aîné",
       "profession": "Attorney "
     },
     {
@@ -9182,7 +9047,6 @@
     {
       "name": "Saint-Pierre, Honoré",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -9233,13 +9097,11 @@
     {
       "name": "Gaude",
       "sex": "M",
-      "designation": "père",
       "profession": "Bookseller"
     },
     {
       "name": "Gaude",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -9355,13 +9217,11 @@
     {
       "name": "Gallay",
       "sex": "M",
-      "designation": "fils",
       "profession": "Printer"
     },
     {
       "name": "Gallay",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -9538,13 +9398,11 @@
     {
       "name": "Couret de Villeneuve",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Printer"
     },
     {
       "name": "Couret de Villeneuve",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Bookseller"
     },
     {
@@ -9575,7 +9433,6 @@
     {
       "name": "Gibolet, Charles-Victor",
       "sex": "M",
-      "designation": "le doyen",
       "born": 1741,
       "died": 1824,
       "profession": "Pastor"
@@ -9698,13 +9555,11 @@
     {
       "name": "Barri, Jean-Baptiste Joseph ",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
       "name": "Barrois",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -9743,7 +9598,6 @@
     {
       "name": "Batilliot",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Banker"
     },
     {
@@ -9759,14 +9613,12 @@
     {
       "name": "Beaurain",
       "sex": "M",
-      "designation": "fils",
       "title": "le chevalier de",
       "profession": "Geographer"
     },
     {
       "name": "Beaurain",
       "sex": "M",
-      "designation": "fils",
       "title": "le chevalier de",
       "profession": "Jurisconsult"
     },
@@ -9827,7 +9679,6 @@
     {
       "name": "Bouffé",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Banker"
     },
     {
@@ -9986,7 +9837,6 @@
     {
       "name": "Desaint",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
@@ -10017,7 +9867,6 @@
     {
       "name": "Duchesne",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
@@ -10072,13 +9921,11 @@
     {
       "name": "Fournier",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Print-Founder"
     },
     {
       "name": "Fournier",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Print-Founder"
     },
     {
@@ -10336,13 +10183,11 @@
     {
       "name": "Laurence",
       "sex": "M",
-      "designation": "fils",
       "profession": "Banker"
     },
     {
       "name": "Laurence",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -10375,7 +10220,6 @@
     {
       "name": "Lequay Morin",
       "sex": "F",
-      "designation": "Vve",
       "title": "Mme",
       "profession": "Bookseller"
     },
@@ -10553,7 +10397,6 @@
     {
       "name": "Mongez, Antoine",
       "sex": "M",
-      "designation": "l'aîné (dit)",
       "born": 1747,
       "died": 1835,
       "profession": "Archaeologist"
@@ -10561,7 +10404,6 @@
     {
       "name": "Mongez, Antoine",
       "sex": "M",
-      "designation": "l'aîné (dit)",
       "born": 1747,
       "died": 1835,
       "profession": "Author"
@@ -10569,7 +10411,6 @@
     {
       "name": "Mongez, Antoine",
       "sex": "M",
-      "designation": "l'aîné (dit)",
       "born": 1747,
       "died": 1835,
       "profession": "Canon"
@@ -10577,7 +10418,6 @@
     {
       "name": "Mongez, Jean-André",
       "sex": "M",
-      "designation": "le jeune",
       "born": 1751,
       "died": 1788,
       "profession": "Physician"
@@ -10585,7 +10425,6 @@
     {
       "name": "Mongez, Jean-André",
       "sex": "M",
-      "designation": "le jeune",
       "born": 1751,
       "died": 1788,
       "profession": "Editor"
@@ -10804,7 +10643,6 @@
     {
       "name": "Rey",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Director of the Office of Information"
     },
     {
@@ -11023,19 +10861,16 @@
     {
       "name": "Tassin",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Banker"
     },
     {
       "name": "Tassin",
       "sex": "M",
-      "designation": "fils",
       "profession": "Banker"
     },
     {
       "name": "Teissier",
       "sex": "M",
-      "designation": "fils aîné",
       "profession": "Merchant"
     },
     {
@@ -11081,7 +10916,6 @@
     {
       "name": "Vallat-Lachapelle",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
@@ -11206,7 +11040,6 @@
     {
       "name": "Proth, Jean-Baptiste",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Royal Steward"
     },
     {
@@ -11273,7 +11106,6 @@
     {
       "name": "Demesmay",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -11289,25 +11121,21 @@
     {
       "name": "Grandjacquet",
       "sex": "M",
-      "designation": "puisné, père",
       "profession": "Copyists"
     },
     {
       "name": "Grandjacquet",
       "sex": "M",
-      "designation": "fils",
       "profession": "Copyists"
     },
     {
       "name": "Grandjacquet",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Abbé"
     },
     {
       "name": "Grandjacquet",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Doctor in Theology"
     },
     {
@@ -11353,7 +11181,6 @@
     {
       "name": "Mondet",
       "sex": "M",
-      "designation": "fils",
       "profession": "Candlemaker"
     },
     {
@@ -11369,7 +11196,6 @@
     {
       "name": "Perron",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -11609,13 +11435,11 @@
     {
       "name": "Boisserand",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Business Agent"
     },
     {
       "name": "Boisserand",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -11785,7 +11609,6 @@
     {
       "name": "Moens",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -11826,19 +11649,16 @@
     {
       "name": "Lachesnezhende",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Business Agent"
     },
     {
       "name": "Le Boucher",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Business Agent"
     },
     {
       "name": "Le Boucher",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Bookseller"
     },
     {
@@ -11949,7 +11769,6 @@
     {
       "name": "Christin",
       "sex": "M",
-      "designation": "fils",
       "profession": "Lawyer"
     },
     {
@@ -11961,7 +11780,6 @@
     {
       "name": "Ferrand",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -12022,7 +11840,6 @@
     {
       "name": "Hovins, L.H.",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -12144,13 +11961,11 @@
     {
       "name": "Harlé",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Merchant"
     },
     {
       "name": "Neret",
       "sex": "M",
-      "designation": "fils",
       "profession": "Tax-Collector"
     },
     {
@@ -12267,7 +12082,6 @@
     {
       "name": "Bouvier",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Merchant"
     },
     {
@@ -12278,13 +12092,11 @@
     {
       "name": "Viennot",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Candlemaker"
     },
     {
       "name": "Viennot",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Candlemaker"
     },
     {
@@ -12417,7 +12229,6 @@
     {
       "name": "Pfister, Johann-Jacob",
       "sex": "M",
-      "designation": "Fils",
       "profession": "Business Agent"
     },
     {
@@ -12636,7 +12447,6 @@
     {
       "name": "Vogelsang",
       "sex": "F",
-      "designation": "Vve",
       "title": "Mme",
       "profession": "Director of the Postal Service"
     },
@@ -12797,7 +12607,6 @@
     {
       "name": "Le Roux",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -12850,7 +12659,6 @@
     {
       "name": "Turckheim, Jean [de]",
       "sex": "M",
-      "designation": "fils aîné",
       "profession": "Merchant"
     },
     {
@@ -12954,13 +12762,11 @@
     {
       "name": "Aubry, Benoit",
       "sex": "M",
-      "designation": "dom",
       "profession": "Author"
     },
     {
       "name": "Aubry, Benoit",
       "sex": "M",
-      "designation": "dom",
       "profession": "Benedictine Monk"
     },
     {
@@ -13006,7 +12812,6 @@
     {
       "name": "Laporte",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Bookseller"
     },
     {
@@ -13043,7 +12848,6 @@
     {
       "name": "Billault",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -13228,7 +13032,6 @@
     {
       "name": "Regnault",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Bookseller"
     },
     {
@@ -13295,7 +13098,6 @@
     {
       "name": "Henry",
       "sex": "M",
-      "designation": "fils",
       "profession": "Printer"
     },
     {
@@ -13311,7 +13113,6 @@
     {
       "name": "Toussaint",
       "sex": "M",
-      "designation": "frère",
       "profession": "Bookseller"
     },
     {
@@ -13415,13 +13216,11 @@
     {
       "name": "Garbo",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
       "name": "Garbo",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -13523,7 +13322,6 @@
     {
       "name": "Rosselet, Henry",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Business Agent"
     },
     {
@@ -13555,7 +13353,6 @@
     {
       "name": "Willeumier",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -13628,7 +13425,6 @@
     {
       "name": "Lanoue [de]",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Business Agent"
     },
     {
@@ -13683,13 +13479,11 @@
     {
       "name": "Businat",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
       "name": "Businat",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -13710,7 +13504,6 @@
     {
       "name": "Collomb",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -13880,13 +13673,11 @@
     {
       "name": "Karthaus",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Business Agent"
     },
     {
       "name": "Karthaus",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -13902,7 +13693,6 @@
     {
       "name": "Bertrand",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -13941,13 +13731,11 @@
     {
       "name": "Christin",
       "sex": "M",
-      "designation": "père",
       "profession": "Business Agent"
     },
     {
       "name": "Christin",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -13963,7 +13751,6 @@
     {
       "name": "Decoppet",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -13974,13 +13761,11 @@
     {
       "name": "Du Puget",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
       "name": "Du Puget",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookbinder"
     },
     {
@@ -14037,7 +13822,6 @@
     {
       "name": "Hennezel, Béat-Antoine-François [de]",
       "sex": "M",
-      "designation": "cadet",
       "born": 1733,
       "died": 1810,
       "profession": "Painter"
@@ -14045,7 +13829,6 @@
     {
       "name": "Hennezel, Béat-Antoine-François [de]",
       "sex": "M",
-      "designation": "cadet",
       "born": 1733,
       "died": 1810,
       "profession": "Traveller"
@@ -14053,7 +13836,6 @@
     {
       "name": "Hutter",
       "sex": "M",
-      "designation": "fils",
       "profession": "Bookseller"
     },
     {
@@ -14074,7 +13856,6 @@
     {
       "name": "Offray",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Compositors"
     },
     {
@@ -14085,7 +13866,6 @@
     {
       "name": "Paccotton",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -14200,7 +13980,6 @@
     {
       "name": "Fussli, H.",
       "sex": "M",
-      "designation": "feu",
       "profession": "Bookseller"
     },
     {
@@ -14399,7 +14178,6 @@
       "name": "Téron, Jaques-Benjamin",
       "status": "Commoner",
       "sex": "M",
-      "designation": "l'aîné",
       "born": 1742,
       "died": 1820,
       "profession": "Author"
@@ -14408,7 +14186,6 @@
       "name": "Téron, Jaques-Benjamin",
       "status": "Commoner",
       "sex": "M",
-      "designation": "l'aîné",
       "born": 1742,
       "died": 1820,
       "profession": "Bookseller"
@@ -14417,7 +14194,6 @@
       "name": "Téron, Jaques-Benjamin",
       "status": "Commoner",
       "sex": "M",
-      "designation": "l'aîné",
       "born": 1742,
       "died": 1820,
       "profession": "Mathematician"
@@ -14469,7 +14245,6 @@
     {
       "name": "Basset-Chamont",
       "sex": "F",
-      "designation": "Vve",
       "title": "Mme",
       "profession": "Bookseller"
     },
@@ -14477,7 +14252,6 @@
       "name": "Gresset",
       "status": "Commoner",
       "sex": "M",
-      "designation": "fils",
       "profession": "Business Agent"
     },
     {
@@ -14546,19 +14320,16 @@
     {
       "name": "Charmet",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Printer"
     },
     {
       "name": "Charmet",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Bookseller"
     },
     {
       "name": "Charmet",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Papermaker"
     },
     {
@@ -14756,7 +14527,6 @@
     {
       "name": "Monnoyer",
       "sex": "M",
-      "designation": "fils",
       "profession": "Printer"
     },
     {
@@ -14772,7 +14542,6 @@
     {
       "name": "Nyon",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -14784,13 +14553,11 @@
       "name": "Pellier",
       "status": "Commoner",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Papermaker"
     },
     {
       "name": "Perra",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Candle Merchant"
     },
     {
@@ -14813,7 +14580,6 @@
       "name": "Petitpierre, Jonas",
       "status": "Commoner",
       "sex": "M",
-      "designation": "l'ainé",
       "profession": "Pastor"
     },
     {
@@ -15069,7 +14835,6 @@
     {
       "name": "Warnod",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Tinsmith"
     },
     {
@@ -15385,7 +15150,6 @@
     {
       "name": "Arriez",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -15429,14 +15193,12 @@
     {
       "name": "Didier",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Merchant"
     },
     {
       "name": "Didier",
       "status": "Commoner",
       "sex": "M",
-      "designation": "fils",
       "profession": "Merchant"
     },
     {
@@ -15504,7 +15266,6 @@
       "name": "Herolos",
       "status": "Commoner",
       "sex": "F",
-      "designation": "Vve Christian",
       "profession": "Bookseller"
     },
     {
@@ -15557,7 +15318,6 @@
       "name": "Muret",
       "status": "Commoner",
       "sex": "M",
-      "designation": "père",
       "profession": "Merchant"
     },
     {
@@ -15595,7 +15355,6 @@
       "name": "Ricoboni, Marie-Jeanne",
       "status": "Commoner",
       "sex": "F",
-      "designation": "Mme",
       "born": "25th October 1713",
       "died": "7th October 1792",
       "profession": "Man of Letters"
@@ -15610,7 +15369,6 @@
       "name": "Renaud",
       "status": "Commoner",
       "sex": "F",
-      "designation": "Mme",
       "profession": "Tanner"
     },
     {
@@ -15700,7 +15458,6 @@
     {
       "name": "Cottin, Jean",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Banker"
     },
     {
@@ -15808,7 +15565,6 @@
     {
       "name": "Robiquet",
       "sex": "M",
-      "designation": "l'aîné",
       "profession": "Bookseller"
     },
     {
@@ -16028,7 +15784,6 @@
     {
       "name": "Amédroz",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Officer"
     },
     {
@@ -16173,7 +15928,6 @@
       "name": "Lallevie",
       "status": "Commoner",
       "sex": "M",
-      "designation": "le jeune",
       "profession": "Merchant"
     },
     {
@@ -16256,7 +16010,6 @@
     {
       "name": "Parquez",
       "sex": "F",
-      "designation": "Vve",
       "profession": "Merchant"
     },
     {
@@ -16309,7 +16062,6 @@
     {
       "name": "Sinner",
       "sex": "M",
-      "designation": "seigneur",
       "profession": "Bailiff"
     },
     {
@@ -16592,7 +16344,6 @@
       "name": "Durand",
       "status": "Commoner",
       "sex": "M",
-      "designation": "neveu",
       "profession": "Bookseller"
     },
     {
@@ -16755,14 +16506,12 @@
       "name": "Gay",
       "status": "Commoner",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Printer"
     },
     {
       "name": "Gay",
       "status": "Commoner",
       "sex": "M",
-      "designation": "cadet",
       "profession": "Bookseller"
     },
     {
@@ -16924,7 +16673,6 @@
       "name": "Jacquenod",
       "status": "Commoner",
       "sex": "M",
-      "designation": "père",
       "profession": "Bookseller"
     },
     {
@@ -16936,7 +16684,6 @@
     {
       "name": "Avelot",
       "sex": "F",
-      "designation": "Mlle",
       "profession": "Merchant Perfumier"
     },
     {
