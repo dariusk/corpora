@@ -98,10 +98,6 @@
       "sector": "Retail, commerce and manufacturing"
     },
     {
-      "profession": "Innkeeper",
-      "sector": "Post, transport and hospitality"
-    },
-    {
       "profession": "Reading Rooms",
       "sector": "Letters"
     },
@@ -394,10 +390,6 @@
       "sector": "Print-related trades"
     },
     {
-      "profession": "Candlemaker",
-      "sector": "Retail, commerce and manufacturing"
-    },
-    {
       "profession": "Silk Manufacturer",
       "sector": "Retail, commerce and manufacturing"
     },
@@ -524,10 +516,6 @@
     {
       "profession": "Lieutenant Colonel",
       "sector": "Military"
-    },
-    {
-      "profession": "Man of Letters",
-      "sector": "Letters"
     },
     {
       "profession": "Mayor",
@@ -958,10 +946,6 @@
       "sector": "Retail, commerce and manufacturing"
     },
     {
-      "profession": "Bookbinder",
-      "sector": "Print-related trades"
-    },
-    {
       "profession": "Clerk",
       "sector": "Clerk"
     },
@@ -984,10 +968,6 @@
     {
       "profession": "Currier",
       "sector": "Retail, commerce and manufacturing"
-    },
-    {
-      "profession": "Lord",
-      "sector": "Agriculture"
     },
     {
       "profession": "Secretary to the Quatre-Ministraux",
@@ -1016,10 +996,6 @@
     {
       "profession": "Director of the Book Trade",
       "sector": "Officials and office holders"
-    },
-    {
-      "profession": "Wine Merchant",
-      "sector": "Retail, commerce and manufacturing"
     },
     {
       "profession": "Sub-Delegate",
@@ -1110,10 +1086,6 @@
       "sector": "Officials and office holders"
     },
     {
-      "profession": "Jeweller",
-      "sector": "Retail, commerce and manufacturing"
-    },
-    {
       "profession": "Voltaire's Secretary",
       "sector": "Clerk"
     },
@@ -1160,10 +1132,6 @@
     {
       "profession": "Secretary to the Municipality",
       "sector": "Officials and office holders"
-    },
-    {
-      "profession": "Doctor of Law",
-      "sector": "Professions"
     },
     {
       "profession": "Merchant Waxworker",
@@ -1378,10 +1346,6 @@
       "sector": "Letters"
     },
     {
-      "profession": "Director of Coaches",
-      "sector": "Post, transport and hospitality"
-    },
-    {
       "profession": "Director of the Office of [Foreign] Gazettes",
       "sector": "Officials and office holders"
     },
@@ -1410,10 +1374,6 @@
       "sector": "Retail, commerce and manufacturing"
     },
     {
-      "profession": "Merchant",
-      "sector": "Retail, commerce and manufacturing"
-    },
-    {
       "profession": "Dean",
       "sector": "Undetermined"
     },
@@ -1424,10 +1384,6 @@
     {
       "profession": "Attorney to the College of Paris",
       "sector": "Professions"
-    },
-    {
-      "profession": "Confectioner",
-      "sector": "Retail, commerce and manufacturing"
     },
     {
       "profession": "Aulic Councillor to the Elector of Mainz",
@@ -1482,16 +1438,8 @@
       "sector": "Professions"
     },
     {
-      "profession": "Commercial agent",
-      "sector": "Retail, commerce and manufacturing"
-    },
-    {
       "profession": "Minister [ambiguous term: statesman, clergyman or business agent]",
       "sector": "Undetermined"
-    },
-    {
-      "profession": "Minister of State",
-      "sector": "Officials and office holders"
     },
     {
       "profession": "Minister of Religion",
