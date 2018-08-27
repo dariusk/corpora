@@ -1,0 +1,54 @@
+# emacs mode -*-makefile-*-
+
+# Database downloaded from the FBTEE project, University of Western Sydney.
+
+# FBTEE: The French Book Trade in Enlightenment Europe
+# http://fbtee.uws.edu.au/
+
+# EULA for database available here:
+# http://fbtee.uws.edu.au/main/eula/
+
+# TL;DR:
+# Don't use these data for commercial purposes without asking the University of Western Sydney.
+
+# Additional credit to Robert Darnton for the excellent book,
+# "The Forbidden Best-Sellers of Pre-Revolutionary France"
+# http://books.wwnorton.com/books/The-Forbidden-Best-Sellers-of-Pre-Revolutionary-France/
+
+# Ian Holmes, 8/25/2018
+
+MYSQL = mysql -B -u root fbtee -e
+CORPORIFY = node -e 'var n=0,re=/^[0-9]+$$/,byKey={},seenFirst={};function convert(x,t){return (t=="genres"||t=="professions")?[x]:(t=="illegal"?!!x:(re.test(x)?parseInt(x):x))}a={description:process.argv[1]};var cols=process.argv.slice(2),lastCol=cols[cols.length-1];require("readline").createInterface({input:process.stdin}).on("line",function(line){if(n++){var r={},f=line.split("\t"),k=f.slice(0,f.length>1?(f.length-1):1).join("\t");if(byKey[k]||!seenFirst[f[0]]){seenFirst[f[0]]=true;if(f.length>1){if(byKey[k]){var l=byKey[k][lastCol],lNew=f[f.length-1];if(!l.includes(lNew)){byKey[k][lastCol].push(lNew)}}else{f.forEach(function(field,n){if(field&&field!=="NULL"){r[cols[n]]=convert(field,cols[n])}});byKey[k]=r}}else{byKey[k]=convert(f[0],cols[0])}}}}).on("close",function(){a.data=Object.keys(byKey).map(function(k){return byKey[k]});console.log(JSON.stringify(a,null,2))})'
+
+STN = the 18th-century publishing house, the Société typographique de Neuchâtel. The STN Online Database is provided by the FBTEE project at University of Western Sydney, under the terms of their license: http://fbtee.uws.edu.au/
+
+TARGETS = data/geography/C18thBookMarket.json data/humans/C18thAuthors.json data/humans/C18thBooksellers.json data/humans/C18thReaders.json data/humans/C18thReaderProfessions.json data/words/C18thBooks.json data/words/C18thGenres.json
+
+all: $(TARGETS)
+
+clean:
+	rm $(TARGETS)
+
+scrub:
+	rm data/*/C18th*
+
+data/geography/C18thBookMarket.json:
+	  $(MYSQL) 'select name, C18_lower_territory, C18_sovereign_territory, C21_admin, C21_country, geographic_zone, distance_from_neuchatel from places;' | $(CORPORIFY) 'Locations of customers of $(STN)' name lower sovereign c21admin c21country zone distance >$@
+
+data/humans/C18thAuthors.json:
+	  $(MYSQL) 'select distinct author_name from authors;' | $(CORPORIFY) 'Individual customers of $(STN)' name >$@
+
+data/humans/C18thBooksellers.json:
+	  $(MYSQL) 'select distinct client_name from clients where partnership is true;' | $(CORPORIFY) 'Bookseller clients of $(STN)' client >$@
+
+data/humans/C18thReaderProfessions.json:
+	  $(MYSQL) 'select translated_profession,economic_sector from professions;' | $(CORPORIFY) 'Professions of the customers of $(STN)' profession sector >$@
+
+data/humans/C18thReaders.json:
+	  $(MYSQL) 'select people.person_name, people.status, people.sex, people.title, people.birth_date, people.death_date, professions.translated_profession from people_professions inner join people on people_professions.person_code = people.person_code inner join professions on people_professions.profession_code = professions.profession_code;' | $(CORPORIFY) 'Customers of $(STN)' name status sex title born died professions >$@
+
+data/words/C18thBooks.json:
+	  $(MYSQL) 'select books.translated_title, authors.author_name, super_books.illegality, keywords.keyword from books_authors inner join books on books_authors.book_code = books.book_code inner join authors on books_authors.author_code = authors.author_code inner join super_books on books.super_book_code = super_books.super_book_code inner join super_books_keywords on super_books_keywords.super_book_code = super_books.super_book_code inner join keywords on super_books_keywords.keyword_code = keywords.keyword_code where books.translated_title is not null;' | $(CORPORIFY) 'Books published by $(STN)' title author illegal genres >$@
+
+data/words/C18thGenres.json:
+	  $(MYSQL) 'select keyword, definition from keywords;' | grep -v NULL | $(CORPORIFY) 'Genres of books published by $(STN)' genre definition >$@
