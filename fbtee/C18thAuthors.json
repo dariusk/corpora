@@ -1,6 +1,6 @@
 {
-  "description": "Individual customers of the 18th-century publishing house, the Société typographique de Neuchâtel. The STN Online Database is provided by the FBTEE project at University of Western Sydney, under the terms of their license: http://fbtee.uws.edu.au/",
-  "data": [
+  "description": "Authors published by the 18th-century publishing house, the Société typographique de Neuchâtel",
+  "values": [
     "[Bible]",
     "Chambre de charité de la ville de Neuchâtel",
     "Neuchâtel (principauté)",

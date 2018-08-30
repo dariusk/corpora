@@ -1,0 +1,1869 @@
+{
+  "description": "Bookseller clients of the 18th-century publishing house, the Société typographique de Neuchâtel",
+  "values": [
+    {
+      "name": "Lieutaud & Cie",
+      "place": "AIX"
+    },
+    {
+      "name": "Epp, Hartmann & Cie",
+      "place": "ALTDORF"
+    },
+    {
+      "name": "Mentlen von & Megnet",
+      "place": "ALTDORF"
+    },
+    {
+      "name": "Malmenayde & Fuzon",
+      "place": "AMBERT"
+    },
+    {
+      "name": "Mastin, Mme Vve",
+      "place": "AMIENS"
+    },
+    {
+      "name": "Hope & Cie",
+      "place": "AMSTERDAM"
+    },
+    {
+      "name": "Muilman & Fils",
+      "place": "AMSTERDAM"
+    },
+    {
+      "name": "Panchaud, Houlez & Schouw",
+      "place": "AMSTERDAM"
+    },
+    {
+      "name": "Rey, les héritiers de M.M.",
+      "place": "AMSTERDAM"
+    },
+    {
+      "name": "Gosselin & Dubost",
+      "place": "ANDELEYS, Les"
+    },
+    {
+      "name": "Johannot, Matthieu & Fils",
+      "place": "ANNONAY"
+    },
+    {
+      "name": "Klett, Vve & Franck",
+      "place": "AUGSBOURG"
+    },
+    {
+      "name": "Perron & Cie",
+      "place": "AUXONNE"
+    },
+    {
+      "name": "Bouchet, Vve Louis & Cie",
+      "place": "AVIGNON"
+    },
+    {
+      "name": "Joly, Vve & Fils",
+      "place": "AVIGNON"
+    },
+    {
+      "name": "Richard fils & Cie",
+      "place": "AVIGNON"
+    },
+    {
+      "name": "Faesch, Stikelberguer & Christ",
+      "place": "BALE"
+    },
+    {
+      "name": "Leopardt & Imhoff",
+      "place": "BALE"
+    },
+    {
+      "name": "Mechel, Frères",
+      "place": "BALE"
+    },
+    {
+      "name": "Preiswerck & Iselin",
+      "place": "BALE"
+    },
+    {
+      "name": "Preiswerck, Jean & fils",
+      "place": "BALE"
+    },
+    {
+      "name": "Stikelberguer & Christ",
+      "place": "BALE"
+    },
+    {
+      "name": "Stampfer & Heusler",
+      "place": "BALE"
+    },
+    {
+      "name": "Streckrisen, Melchior, l'ainé & fils",
+      "place": "BALE"
+    },
+    {
+      "name": "Michel père & fils",
+      "place": "BEAUVAIS"
+    },
+    {
+      "name": "Robert & Gauthier",
+      "place": "BELFORT"
+    },
+    {
+      "name": "Jauch & Jenner & Cie",
+      "place": "BELLINZONE"
+    },
+    {
+      "name": "Bertrand, J.P., Guiot & Cie",
+      "place": "BERNE"
+    },
+    {
+      "name": "Henchoz, Jacques-François & Sylvett",
+      "place": "BERNE"
+    },
+    {
+      "name": "Marcuard, Jean-Rodolphe & Cie",
+      "place": "BERNE"
+    },
+    {
+      "name": "Seizer, François & Cie",
+      "place": "BERNE"
+    },
+    {
+      "name": "Weber, Immanuel & Co.",
+      "place": "BERNE"
+    },
+    {
+      "name": "Amet & fils",
+      "place": "BESANCON"
+    },
+    {
+      "name": "Ferreux & Caseau",
+      "place": "BESANCON"
+    },
+    {
+      "name": "Pellier & Pochet",
+      "place": "BESANCON"
+    },
+    {
+      "name": "Renaud, Ducreux & Cie",
+      "place": "BESANCON"
+    },
+    {
+      "name": "Chappuis Frères",
+      "place": "BORDEAUX"
+    },
+    {
+      "name": "Suchard, Frères",
+      "place": "BOUDRY"
+    },
+    {
+      "name": "Robert & Co.",
+      "place": "BOURG-en-BRESSE"
+    },
+    {
+      "name": "Robert et Gauthier",
+      "place": "BOURG-en-BRESSE"
+    },
+    {
+      "name": "Beury de, frères",
+      "place": "BOURGES"
+    },
+    {
+      "name": "Molinari, Salece & Jorni",
+      "place": "BRESLAU"
+    },
+    {
+      "name": "Delahaye & Co",
+      "place": "BRUXELLES"
+    },
+    {
+      "name": "Romberg, Fred. & fils.",
+      "place": "OSTENDE"
+    },
+    {
+      "name": "Villebon de & Co.",
+      "place": "BRUXELLES"
+    },
+    {
+      "name": "Van Hoorick & Co",
+      "place": "BRUXELLES"
+    },
+    {
+      "name": "Bertrand, Claude & Bellier",
+      "place": "CADIX"
+    },
+    {
+      "name": "Caris, Paul & Bertrand",
+      "place": "CADIX"
+    },
+    {
+      "name": "Durand, Pierre, Christin & Co.",
+      "place": "CADIX"
+    },
+    {
+      "name": "Pettolaz père & fils",
+      "place": "CHARMEY"
+    },
+    {
+      "name": "Billon frères",
+      "place": "CHAUX-de-FONDS, La"
+    },
+    {
+      "name": "Meuron, Silliman & Cie",
+      "place": "CHAUX-de-FONDS, La"
+    },
+    {
+      "name": "Meuron, Pierre & Cie",
+      "place": "CHAUX-de-FONDS, La"
+    },
+    {
+      "name": "Robert & Ducommun",
+      "place": "CHAUX-de-FONDS, La"
+    },
+    {
+      "name": "Robert, Jean-Pierre & Fils",
+      "place": "CHAUX-de-FONDS, La"
+    },
+    {
+      "name": "Massner, Daniel & Ambros",
+      "place": "COIRE"
+    },
+    {
+      "name": "Pfeffel & Bellefontaine",
+      "place": "COLMAR"
+    },
+    {
+      "name": "Manini, Lorenzo & Cie",
+      "place": "CREMONE"
+    },
+    {
+      "name": "Dessauische Buchhandlung der Gelehrten",
+      "place": "DESSAU"
+    },
+    {
+      "name": "Editeurs des ouvrages périodiques privilégiés",
+      "place": "DEUTZ"
+    },
+    {
+      "name": "Nubla, Jacques & fils",
+      "place": "DIJON"
+    },
+    {
+      "name": "Blussé, Abraham & fils",
+      "place": "DORT"
+    },
+    {
+      "name": "Peter",
+      "place": "DRESDE"
+    },
+    {
+      "name": "Gottofrey & Aubonnay",
+      "place": "ECHALENS"
+    },
+    {
+      "name": "Balfour & Cie",
+      "place": "EDIMBOURG"
+    },
+    {
+      "name": "Pagani, Giuseppi e Figlio",
+      "place": "FLORENCE"
+    },
+    {
+      "name": "Stecchi, Filippo e del Vivo",
+      "place": "FLORENCE"
+    },
+    {
+      "name": "Augstell & Schefer",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "Bethmann frères",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "van Duren frères",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "Eichenberg, J.L. (les héritiers de)",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "Hollweg & Laue",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "Laue & Cie",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "Schüttenhelm & Gümbel",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "Chappaley & Delpech",
+      "place": "FRIBOURG"
+    },
+    {
+      "name": "Ducret frères",
+      "place": "FRIBOURG"
+    },
+    {
+      "name": "Petronini, Guidi & Cie",
+      "place": "FRIBOURG"
+    },
+    {
+      "name": "Ferrier & Fils",
+      "place": "GANGES"
+    },
+    {
+      "name": "Bertrand, Ricard & Bramerel",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Brandt, Charles-François & Cie",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Du Seigneur, Heath & Cie",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Podesta, Domenico e Giov. fratelli",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Prat, François",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Weber, Gouhard, Cie",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Argand, Daniel & Rainaldis",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Barde, Manget & Cie",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Boin & d'Ivernois",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Boin, d'Ivernois & Bassompierre",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Bonnet, Jean-Jacques, cadet & Cie",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Bonnet, Jean-Jacques, Bourdillon & Ferrier",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Bonnet, Gaspard & fils",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Bourdillon, François & Jaques, frères",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Chappuis, Jean-Jaques & fils",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Chappuis & Didier",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Chirol, Barthelemy",
+      "address": "Grand Rue",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Clavière, Gros & Cie",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Duvillard fils & Nouffer",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Duvillard & Scherrer",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Flournoy fils & Rainaldis",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Garnier père & fils",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Gosse, Henri-Albert & Cie",
+      "address": "rue de la cité",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Morin & Frégier",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Pasteur, Pierre & flis",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Perlet, Charles-Frédéric & Pigeon",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Philibert, Claude & Chirol, Barthélemy",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Société Typographique de Genève",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Terroux, Etienne & fils",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Tournes frères",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Verdan, François & Cie",
+      "place": "GRENG"
+    },
+    {
+      "name": "Dolle cadet & Cie",
+      "place": "GRENOBLE"
+    },
+    {
+      "name": "Boué, Pierre & fils",
+      "place": "HAMBOURG"
+    },
+    {
+      "name": "Fauche, Pierre-François fils & Cie",
+      "place": "HAMBOURG"
+    },
+    {
+      "name": "Leers & Cie",
+      "place": "HAMBOURG"
+    },
+    {
+      "name": "Tassin, Demoullaine, G.D., fils",
+      "address": "rue neuve des petits champs",
+      "place": "PARIS"
+    },
+    {
+      "name": "Feray, Jean-Baptiste & Cie",
+      "place": "HAVRE, Le"
+    },
+    {
+      "name": "Gosse, Pierre, junior & Daniel Pinet",
+      "place": "HAYE, La"
+    },
+    {
+      "name": "École typographique des Orphelins",
+      "place": "HOMBOURG"
+    },
+    {
+      "name": "Schneider, Lotzbede & Cie",
+      "place": "KEHL"
+    },
+    {
+      "name": "Société Littéraire et Typographique de Kehl",
+      "place": "KEHL"
+    },
+    {
+      "name": "Saturgus, Friedrich von & Wolf",
+      "place": "KÖNIGSBERG"
+    },
+    {
+      "name": "Rigal, Joseph & Pierre",
+      "place": "LANDERON"
+    },
+    {
+      "name": "Duveluz, Albert & Michel",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Grasset, François & Cie",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Pott, Jules-Henri & Cie",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Société Typographique de Lausanne",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Dubosc, François & Gontard",
+      "place": "LEIPZIG"
+    },
+    {
+      "name": "Weidmann, les héritiers de, & Reich",
+      "place": "LEIPZIG"
+    },
+    {
+      "name": "Luzac, Elias & van Dame",
+      "place": "LEYDE"
+    },
+    {
+      "name": "Murray frères",
+      "place": "LEYDE"
+    },
+    {
+      "name": "Tutot, J.J. & C.J. Renoz",
+      "place": "LIÈGE"
+    },
+    {
+      "name": "Gosselin, père & fils",
+      "place": "LILLE"
+    },
+    {
+      "name": "Henry, J.B. & Cie",
+      "place": "LILLE"
+    },
+    {
+      "name": "Bertrand, Vve & fils",
+      "place": "LISBONNE"
+    },
+    {
+      "name": "Rey, Georges & Cie",
+      "place": "LISBONNE"
+    },
+    {
+      "name": "Reycend, Jean-Baptiste & Cie",
+      "place": "LISBONNE"
+    },
+    {
+      "name": "Gentil, Samuel & Orr",
+      "place": "LIVOURNE"
+    },
+    {
+      "name": "Masi, Thomas & Cie",
+      "place": "LIVOURNE"
+    },
+    {
+      "name": "Courvoisier, Houret & Ducrot",
+      "place": "LOCLE, Le"
+    },
+    {
+      "name": "Gevril, Moïse",
+      "place": "LOCLE, Le"
+    },
+    {
+      "name": "Agassiz & Rougemont",
+      "place": "LONDRES"
+    },
+    {
+      "name": "Balthasar, Melchior (les héritiers de)",
+      "place": "LUCERNE"
+    },
+    {
+      "name": "Agnelli & Cie",
+      "place": "LUGANO"
+    },
+    {
+      "name": "Hugard, C.P. et fils",
+      "place": "LUNÉVILLE"
+    },
+    {
+      "name": "Arnal, frères & Cie",
+      "place": "LYON"
+    },
+    {
+      "name": "Bourgoin & Paris",
+      "place": "LYON"
+    },
+    {
+      "name": "Brunet cadet & Cie",
+      "address": "rue Lanterne",
+      "place": "LYON"
+    },
+    {
+      "name": "Bruyset frères",
+      "place": "LYON"
+    },
+    {
+      "name": "Carmaignac & Perrin",
+      "place": "LYON"
+    },
+    {
+      "name": "Chalon frères",
+      "place": "LYON"
+    },
+    {
+      "name": "Charbonnet & Mouchard",
+      "address": "grande rue Mercière",
+      "place": "LYON"
+    },
+    {
+      "name": "Chiffre frères",
+      "place": "LYON"
+    },
+    {
+      "name": "Claudet frères & fils",
+      "address": "rue Bat d'Argent",
+      "place": "LYON"
+    },
+    {
+      "name": "Clerjon & Cramaille",
+      "place": "LYON"
+    },
+    {
+      "name": "Duplain, Joseph & Cie",
+      "place": "LYON"
+    },
+    {
+      "name": "Favre, Henri & Chazottier",
+      "place": "LYON"
+    },
+    {
+      "name": "Harvent d' & Cie",
+      "address": "rue du bât d'Argent",
+      "place": "LYON"
+    },
+    {
+      "name": "Idt & Chataignier",
+      "address": "rue du bât d'Argent",
+      "place": "LYON"
+    },
+    {
+      "name": "Jars & Viviani",
+      "place": "LYON"
+    },
+    {
+      "name": "Lière & Cie",
+      "address": "au Petit change",
+      "place": "LYON"
+    },
+    {
+      "name": "Melquion & Berthes",
+      "place": "LYON"
+    },
+    {
+      "name": "Perisse frères",
+      "place": "LYON"
+    },
+    {
+      "name": "Pernolet, Joseph & Cie",
+      "address": "rue de Flandre",
+      "place": "LYON"
+    },
+    {
+      "name": "Pesse, Jospeh & Favre, Henry",
+      "place": "LYON"
+    },
+    {
+      "name": "Pontallier & Girard",
+      "place": "LYON"
+    },
+    {
+      "name": "Prodon & Cie",
+      "place": "LYON"
+    },
+    {
+      "name": "Reguilliat, Vve & fils",
+      "place": "LYON"
+    },
+    {
+      "name": "Revol & Cie",
+      "place": "LYON"
+    },
+    {
+      "name": "Salasc, de, Audembron & Jossinet",
+      "place": "LYON"
+    },
+    {
+      "name": "Schaub, Liere & Cie",
+      "place": "LYON"
+    },
+    {
+      "name": "Schodelli, André & Cie",
+      "address": "rue de la Peyrollerie",
+      "place": "LYON"
+    },
+    {
+      "name": "Camps, J. & Cie",
+      "place": "MADRID"
+    },
+    {
+      "name": "Dufour, J.E. & Ph. Roux",
+      "place": "MAESTRICHT"
+    },
+    {
+      "name": "Roux, Jean-Paul & Cie",
+      "place": "MAESTRICHT"
+    },
+    {
+      "name": "Chambre de commerce pour la librairie",
+      "place": "MANNHEIM"
+    },
+    {
+      "name": "Librairie, nouvelle, de la Cour et de l'Académie",
+      "place": "MANNHEIM"
+    },
+    {
+      "name": "Blanchard, Neveu & fils",
+      "place": "MARSEILLE"
+    },
+    {
+      "name": "Deveer, Bugnot & Cie",
+      "place": "MARSEILLE"
+    },
+    {
+      "name": "Gerin frères",
+      "place": "MARSEILLE"
+    },
+    {
+      "name": "Winkopp, P.A. & Cie",
+      "place": "MAYENCE"
+    },
+    {
+      "name": "Barnoin, père & fils",
+      "place": "MONTÉLIMAR"
+    },
+    {
+      "name": "Rigaud, Pons & Cie",
+      "place": "MONTPELLIER"
+    },
+    {
+      "name": "Vialars, père et fils & Thouron",
+      "place": "MONTPELLIER"
+    },
+    {
+      "name": "Schmid, Daniel & Cie",
+      "place": "MORAT"
+    },
+    {
+      "name": "Clement & Cie",
+      "place": "MORET"
+    },
+    {
+      "name": "Blanchenay frères",
+      "place": "MORGES"
+    },
+    {
+      "name": "Sterky & Cie",
+      "place": "MORGES"
+    },
+    {
+      "name": "Société Typographique de Moudon",
+      "place": "MOUDON"
+    },
+    {
+      "name": "Koechlin, Jean & Thierry, Nicolas",
+      "place": "MULHOUSE"
+    },
+    {
+      "name": "Antoine, Louis & Cie",
+      "place": "NANCY"
+    },
+    {
+      "name": "Doudet, Rives & Lafitous",
+      "place": "NANTES"
+    },
+    {
+      "name": "Coltellini, Luigi & Cie",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Falconnet, François & Cie",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Merande & Cie",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Nuova societa letteraria e tipografica",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Roland, Gabriel & fils",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Societa letteraria",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Terres, fratelli",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Amiet, Jean-Pierre & Cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Borel, Erhard & frères Roulet",
+      "place": "SERRIERES"
+    },
+    {
+      "name": "Châtenay & Roy",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Fauche & Witel",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Fauche, Jonas-Samuel, Ch.S. Favre & Cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Fauche, Samuel, père & fils",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Favre, Charles & Cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Jeanrenaud, Jean-Pierre & Cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Lardy, L. & J.A. Meuron",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Luze, de, frères & Chaillet",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Luze, de, de Montmollin & Cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Meuron & Bovet",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Meuron, Félix-Henry & fils aîné",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Ostervald, Fréd. Samuel, Bosset de Luze, S. Fauche",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Pettavel, Abram & Cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Pourtales, Jacques-Louis & Cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Société Typographique de Neuwied & Munz",
+      "place": "MÜNZ"
+    },
+    {
+      "name": "Deandreis, Jacques & Cie",
+      "place": "NICE"
+    },
+    {
+      "name": "Saint-Pierre & fils & Sauvaigne",
+      "place": "NICE"
+    },
+    {
+      "name": "Jaquillard & Fr. Pagan",
+      "place": "NIDAU"
+    },
+    {
+      "name": "Gaude père & fils",
+      "place": "NIMES"
+    },
+    {
+      "name": "Weigel & Schneider",
+      "place": "NUREMBERG"
+    },
+    {
+      "name": "Natthey & Cie",
+      "place": "NYON"
+    },
+    {
+      "name": "Nicole & Galliard",
+      "place": "NYON"
+    },
+    {
+      "name": "Veret & Piachaud",
+      "place": "NYON"
+    },
+    {
+      "name": "Chassaing, V. & G. Paupaille",
+      "place": "ORLÉANS"
+    },
+    {
+      "name": "Aubouin & Bauer",
+      "place": "OUCHY"
+    },
+    {
+      "name": "Olive & Boulanger, Gabriel",
+      "place": "OUCHY"
+    },
+    {
+      "name": "Panchaud & Neveu",
+      "place": "OUCHY"
+    },
+    {
+      "name": "Secretan, Louis & De La Serve",
+      "place": "OUCHY"
+    },
+    {
+      "name": "Onesti, Gaetano e Lorenzo",
+      "place": "PADOUE"
+    },
+    {
+      "name": "Bidault & Cie",
+      "address": "rue des Marmousets",
+      "place": "PARIS"
+    },
+    {
+      "name": "Boullanger & Cie",
+      "address": "place des Victoires",
+      "place": "PARIS"
+    },
+    {
+      "name": "Dangirard frères",
+      "address": "rue neuve St. Augustin",
+      "place": "PARIS"
+    },
+    {
+      "name": "Durvey",
+      "place": "PARIS"
+    },
+    {
+      "name": "Fallet",
+      "place": "PARIS"
+    },
+    {
+      "name": "Girardet, Haller & Cie",
+      "place": "PARIS"
+    },
+    {
+      "name": "La Blancherie, Pahin Champlain de",
+      "place": "PARIS"
+    },
+    {
+      "name": "Lamarche, de & Fortin",
+      "place": "PARIS"
+    },
+    {
+      "name": "Lejay",
+      "address": "rue St. Jacques",
+      "place": "PARIS"
+    },
+    {
+      "name": "Martin",
+      "place": "PARIS"
+    },
+    {
+      "name": "Perrier & Verrier",
+      "address": "Hôtel de Soubise",
+      "place": "PARIS"
+    },
+    {
+      "name": "Poncelin",
+      "place": "PARIS"
+    },
+    {
+      "name": "Rougemont, Hottinger & Cie",
+      "place": "PARIS"
+    },
+    {
+      "name": "Saillant & Nyon",
+      "address": "rue St. Jean de Beauvais",
+      "place": "PARIS"
+    },
+    {
+      "name": "Second",
+      "place": "PARIS"
+    },
+    {
+      "name": "Tassin, Vve & fils",
+      "place": "PARIS"
+    },
+    {
+      "name": "Faure frères & Cie",
+      "place": "PARME"
+    },
+    {
+      "name": "Weingand, J.M. & Köpf",
+      "place": "PEST"
+    },
+    {
+      "name": "Robert frères",
+      "place": "PLANCHETTES, Les"
+    },
+    {
+      "name": "Gresset & fils",
+      "place": "PONTARLIER"
+    },
+    {
+      "name": "Perron & fils",
+      "place": "PONTARLIER"
+    },
+    {
+      "name": "Godinot, Vanin & Cie",
+      "place": "REIMS"
+    },
+    {
+      "name": "Bouchard & Gravier",
+      "place": "ROME"
+    },
+    {
+      "name": "Societa letteraria e tipografica",
+      "place": "ROME"
+    },
+    {
+      "name": "Moens, Hendrich & fils",
+      "place": "ROTTERDAM"
+    },
+    {
+      "name": "Société Typographique de Saarbruck",
+      "place": "SAARBRUCK"
+    },
+    {
+      "name": "Paumier, J.B. et Le Monnier",
+      "place": "SAINT-AUBIN de CRETOT"
+    },
+    {
+      "name": "Postes",
+      "place": "SAINT-GALL"
+    },
+    {
+      "name": "Carzin, A. Larente",
+      "place": "SAINT-MAIXANT"
+    },
+    {
+      "name": "Baltz & Cie",
+      "place": "SAINT-PETERSBOURG"
+    },
+    {
+      "name": "Livio frères & Cie",
+      "place": "SAINT-PETERSBOURG"
+    },
+    {
+      "name": "Potet & Blumer",
+      "place": "SAINT-PETERSBOURG"
+    },
+    {
+      "name": "Rusconi, Joseph et Pierre & Stoehr, Simon",
+      "place": "SAINT-PETERSBOURG"
+    },
+    {
+      "name": "Thornton, Cayley & fils",
+      "place": "SAINT-PETERSBOURG"
+    },
+    {
+      "name": "Wijs, Frédéric de & Cie",
+      "place": "SAINT-PETERSBOURG"
+    },
+    {
+      "name": "Descarrières, Harlé & Cie",
+      "place": "SAINT-QUENTIN"
+    },
+    {
+      "name": "Mena, Lanfrey & Cie",
+      "place": "SAINT-QUIRIN"
+    },
+    {
+      "name": "Meuron frères",
+      "place": "SAINT-SULPICE"
+    },
+    {
+      "name": "Meuron & D'Ivernois",
+      "place": "SAINT-SULPICE"
+    },
+    {
+      "name": "Meuron & Philippin",
+      "place": "SAINT-SULPICE"
+    },
+    {
+      "name": "Meuron frères, Philippin & Favre",
+      "place": "SAINT-SULPICE"
+    },
+    {
+      "name": "Philippin fils et Favre & Cie",
+      "place": "SAINT-SULPICE"
+    },
+    {
+      "name": "Viennot, aîné et cadet",
+      "place": "SALINS"
+    },
+    {
+      "name": "Mallet, Pierre & frères",
+      "place": "SARREGUEMINES"
+    },
+    {
+      "name": "Amann & Frey",
+      "place": "SCHAFFHOUSE"
+    },
+    {
+      "name": "Gazettes, expédition des",
+      "place": "SCHAFFHOUSE"
+    },
+    {
+      "name": "Ott & Peyer",
+      "place": "SCHAFFHOUSE"
+    },
+    {
+      "name": "Peyer & de Mandach",
+      "place": "SCHAFFHOUSE"
+    },
+    {
+      "name": "Postes Impériales",
+      "place": "SCHAFFHOUSE"
+    },
+    {
+      "name": "Fällma frères",
+      "place": "SENNHEIM"
+    },
+    {
+      "name": "Pazzini, Vincenzo Carli e Figli",
+      "place": "SIENNE"
+    },
+    {
+      "name": "Delevaux, Coudrey & Cie",
+      "place": "SOLEURE"
+    },
+    {
+      "name": "Fouchs, Balthasar & Cie",
+      "place": "SOLEURE"
+    },
+    {
+      "name": "Grimm, Balthasar & Cie",
+      "place": "SOLEURE"
+    },
+    {
+      "name": "Scherer, Barthlémi & Cie",
+      "place": "SOLEURE"
+    },
+    {
+      "name": "Wagner, François & Cie",
+      "place": "SOLEURE"
+    },
+    {
+      "name": "Jubié & Pochin la Bruyère",
+      "place": "SÔNE, La"
+    },
+    {
+      "name": "Fougt, Elsa & Cie",
+      "place": "STOCKHOLM"
+    },
+    {
+      "name": "Schön & Cie",
+      "place": "STOCKHOLM"
+    },
+    {
+      "name": "Bauer & Cie",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Franck frères",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Gay frères",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Kolb, Ferd. & Cie",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Librairie académique",
+      "address": "rue des Serrierers",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Saum frères",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Turckheim, Jean de, fils aîné",
+      "address": "rue Brulée",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Riberolles, Barthelemy & G. frères",
+      "place": "THIERS en Auvergne"
+    },
+    {
+      "name": "Bergès & Cie",
+      "place": "TOULOUSE"
+    },
+    {
+      "name": "Sacarau & Moulas",
+      "place": "TOULOUSE"
+    },
+    {
+      "name": "Sens & Cie",
+      "place": "TOULOUSE"
+    },
+    {
+      "name": "Boissier, J.N. & Cie",
+      "place": "TURIN"
+    },
+    {
+      "name": "Brouzet, Boissier & Cie",
+      "place": "TURIN"
+    },
+    {
+      "name": "Giraud, Laurent et Giovine",
+      "place": "TURIN"
+    },
+    {
+      "name": "Pullin & Verney",
+      "place": "TURIN"
+    },
+    {
+      "name": "Reycends frères",
+      "place": "TURIN"
+    },
+    {
+      "name": "Mallet, Toussaint & frère",
+      "place": "VALENCIENNES"
+    },
+    {
+      "name": "Alessandri, Innocente & Cie",
+      "place": "VENISE"
+    },
+    {
+      "name": "Curti, Giov. Ant. & Cie",
+      "place": "VENISE"
+    },
+    {
+      "name": "Garbo & fils",
+      "place": "VENISE"
+    },
+    {
+      "name": "Jeanjaquet, Borel & Rosselet",
+      "place": "VERRIÈRES"
+    },
+    {
+      "name": "Perret, Guillaume & Michaut, François",
+      "place": "VERRIÈRES"
+    },
+    {
+      "name": "Chénebié & Lörtscher",
+      "place": "VEVEY"
+    },
+    {
+      "name": "Collomb, Frederich & fils",
+      "place": "VEVEY"
+    },
+    {
+      "name": "Cabinet impérial royal de littérature",
+      "place": "VIENNE"
+    },
+    {
+      "name": "Fries & Cie",
+      "place": "VIENNE"
+    },
+    {
+      "name": "Ochs, Pierre (& Ochs, Greymuller & Comp)",
+      "place": "VIENNE"
+    },
+    {
+      "name": "Gautier & fils",
+      "place": "VILLETTE, La"
+    },
+    {
+      "name": "Steiner, Jean-Henri & Cie",
+      "place": "WINTERTHOUR"
+    },
+    {
+      "name": "Christin père & fils",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Decoppet & fils",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Dentan",
+      "address": "chez de Felice",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Haldimand, Louis & Cie",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Mandrot & Cie",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Paccotton & fils",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Petitpierre frères",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Societé Littéraire et Typographique de Yverdon",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Orell, Gessner, Füssli & Cie",
+      "place": "ZURICH"
+    },
+    {
+      "name": "Hartmann, Jean-Rodolphe",
+      "place": "BERNE"
+    },
+    {
+      "name": "Société Typographique de Berne",
+      "place": "BERNE"
+    },
+    {
+      "name": "Nouffer/Nouffer & Bassompierre/Nouffer de Rodon",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Téron, Jacques-Benjamin l'aîné/Téron, Jean-Louis",
+      "place": "GRANDSON"
+    },
+    {
+      "name": "Dompierre, de",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Brühl, Hans Monitz, comte de",
+      "place": "LONDRES"
+    },
+    {
+      "name": "Bary, Jean de",
+      "place": "BALE"
+    },
+    {
+      "name": "Basset-Chamot, Vve Mme",
+      "place": "MORGES"
+    },
+    {
+      "name": "Béchaux, Jaques",
+      "place": "PORRENTRUY"
+    },
+    {
+      "name": "Begue, Henri",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Béguillet, Edme",
+      "place": "DIJON"
+    },
+    {
+      "name": "Belin",
+      "address": "rue St. Jacques, près St. Yves",
+      "place": "PARIS"
+    },
+    {
+      "name": "Boujar",
+      "address": "chez Faivre",
+      "place": "PONTARLIER"
+    },
+    {
+      "name": "Brak, de",
+      "place": "VÉRONE"
+    },
+    {
+      "name": "Brandt, Ab.",
+      "place": "CHAUX-de-FONDS, La"
+    },
+    {
+      "name": "Curmer-Neilson",
+      "address": "rue du Roule",
+      "place": "PARIS"
+    },
+    {
+      "name": "Didier, J.E. & Comp.",
+      "address": "au Cabinet de littérature a la Taconnerie",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Duby, E. Samuel",
+      "place": "BERNE"
+    },
+    {
+      "name": "Ducret",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Dumitand, L.C.",
+      "place": "CALAIS"
+    },
+    {
+      "name": "Düzler",
+      "place": "LUCERNE"
+    },
+    {
+      "name": "Fantet",
+      "place": "PONTARLIER"
+    },
+    {
+      "name": "Fornachon & Guyenet",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Gallois, Jean-Jacques",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Genève",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Guillebert frères",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Guy, Charles de",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Heinzerly, Samuel",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Jeanneret, Jean-Frederich",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Lacombe, François",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Lavater, Johann Caspar",
+      "place": "ZURICH"
+    },
+    {
+      "name": "Le Bègue de Presle, Achille Guillaume",
+      "address": "rue St. Jacques",
+      "place": "PARIS"
+    },
+    {
+      "name": "Loterie de Coire",
+      "place": "COIRE"
+    },
+    {
+      "name": "Luze, de, Ostervald, Jean Jacques",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Matthieu, Henri-François",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Mayor, D",
+      "place": "CUDREFIN"
+    },
+    {
+      "name": "Menoud, Jean-Frederich",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Merveilleux, Samuel de",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Mirabeau, Victor Riquetti, marquis de",
+      "place": "PARIS"
+    },
+    {
+      "name": "Monnier, Pierre André",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Monnoyer fils",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Montandon, Isaac",
+      "place": "LOCLE, Le"
+    },
+    {
+      "name": "Néville, de",
+      "place": "PARIS"
+    },
+    {
+      "name": "Nyon l'aîné",
+      "place": "PARIS"
+    },
+    {
+      "name": "Olivier, Charles",
+      "place": "YVERDON"
+    },
+    {
+      "name": "Patin, F",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Pellier l'aîné",
+      "place": "BESANCON"
+    },
+    {
+      "name": "Perra l'aîné",
+      "address": "sur le Quai de Retz",
+      "place": "LYON"
+    },
+    {
+      "name": "Petitpierre, Jonas",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Pierre, Jean-Fréderic de",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Planazu, Vve de",
+      "place": "PARIS"
+    },
+    {
+      "name": "Prince & Dupasquier",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Purry, Mellish & de Visme",
+      "place": "LISBONNE"
+    },
+    {
+      "name": "Pury, Samuel de",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Ramus & Vaucher",
+      "place": "CHAUX-de-FONDS, La"
+    },
+    {
+      "name": "Senn, Bidermann & Comp",
+      "place": "BRUXELLES"
+    },
+    {
+      "name": "Società tipografica",
+      "place": "MODÈNE"
+    },
+    {
+      "name": "Vandenyver frères & Comp",
+      "place": "PARIS"
+    },
+    {
+      "name": "Warnod, cadet",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Cambiagi, Gaetano",
+      "place": "FLORENCE"
+    },
+    {
+      "name": "Césarée, l'archevêque de",
+      "place": "LUCERNE"
+    },
+    {
+      "name": "Cetti, Carlo",
+      "place": "MILAN"
+    },
+    {
+      "name": "Frederic II, roi de Prusse",
+      "place": "POTSDAM"
+    },
+    {
+      "name": "Chapuis & Comp",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Deville & Rosset",
+      "place": "LYON"
+    },
+    {
+      "name": "Le Seure frères",
+      "place": "NANCY"
+    },
+    {
+      "name": "Monnier",
+      "place": "BESANCON"
+    },
+    {
+      "name": "Preye & Jordin",
+      "place": "FRANCFORT sur le MAIN"
+    },
+    {
+      "name": "Prince & Petitpierre",
+      "place": "MOTHE, La"
+    },
+    {
+      "name": "Rigaud & Paris",
+      "place": "DUN-SUR-MEUSE"
+    },
+    {
+      "name": "Roussel",
+      "place": "VERSOIX"
+    },
+    {
+      "name": "Sandoz-Rollin & Cie",
+      "place": "PARIS"
+    },
+    {
+      "name": "Diedey & Sterchi",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Descherny & Cie",
+      "place": "LYON"
+    },
+    {
+      "name": "Joanin, Schom & Comp",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Mochard & Frêne",
+      "place": "RENAN"
+    },
+    {
+      "name": "Sube & Cie",
+      "place": "MARSEILLE"
+    },
+    {
+      "name": "Tossat, Dubuisson & Comp",
+      "place": "SAARBRUCK"
+    },
+    {
+      "name": "Boy de la Tour, Auberjonois & Cie",
+      "place": "LYON"
+    },
+    {
+      "name": "Laffon & Ladebat",
+      "place": "BORDEAUX"
+    },
+    {
+      "name": "Ravet & Cie",
+      "place": "CADIX"
+    },
+    {
+      "name": "Société royale d'agric. et des arts de la Biscaye",
+      "place": "BILBAO"
+    },
+    {
+      "name": "Albert",
+      "place": "AVALLON"
+    },
+    {
+      "name": "Bonnardet frères",
+      "place": "TURIN"
+    },
+    {
+      "name": "Morel frères",
+      "place": "MONTBÉLIARD"
+    },
+    {
+      "name": "Servesse & Allais",
+      "place": "GHENT"
+    },
+    {
+      "name": "Volpi, Dominique de",
+      "place": "VIENNE"
+    },
+    {
+      "name": "Weyher, Corneille & Cie",
+      "place": "STRASBOURG"
+    },
+    {
+      "name": "Assesseurs & Pasteurs du Vénérable consistoire...",
+      "place": "ERLANG"
+    },
+    {
+      "name": "Directeurs (les) du bureau Royal de correspondance",
+      "address": "rue des Deux Portes, St. Sauveur",
+      "place": "PARIS"
+    },
+    {
+      "name": "Elmsly",
+      "place": "LONDRES"
+    },
+    {
+      "name": "Haguer frères",
+      "place": "BALE"
+    },
+    {
+      "name": "Lequier frères",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Marcaurd, Beutler & Comp",
+      "place": "BERNE"
+    },
+    {
+      "name": "Parquez, Vve et fils",
+      "place": "PONTARLIER"
+    },
+    {
+      "name": "Société royale d'agriculture & des arts deBrétagne",
+      "place": "RENNES"
+    },
+    {
+      "name": "Société Typographique de Londres",
+      "place": "LONDRES"
+    },
+    {
+      "name": "Editeurs de la Feuille d'Avis de Lausanne",
+      "place": "LAUSANNE"
+    },
+    {
+      "name": "Editeurs de la Gazette à Zurich",
+      "place": "ZURICH"
+    },
+    {
+      "name": "Editeurs de la Feuille d'Avis de Zurich",
+      "place": "ZURICH"
+    },
+    {
+      "name": "Editeurs de la Feuille d'Avis de Bâle",
+      "place": "BALE"
+    },
+    {
+      "name": "Société Typographique de Naples",
+      "place": "NAPLES"
+    },
+    {
+      "name": "Bornainville, Thorel & Cie",
+      "place": "ROUEN"
+    },
+    {
+      "name": "Carry & Besse",
+      "place": "POITIERS"
+    },
+    {
+      "name": "Duplain, Julien & Cie",
+      "place": "ANDUZE"
+    },
+    {
+      "name": "Fermiers généraux",
+      "place": "PARIS"
+    },
+    {
+      "name": "Musée de France, direction du",
+      "place": "PARIS"
+    },
+    {
+      "name": "Decker & Voss",
+      "place": "BERLIN"
+    },
+    {
+      "name": "Garnier frères",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Guaita & Comp",
+      "place": "AMSTERDAM"
+    },
+    {
+      "name": "Luke (veuve) & Kuntze",
+      "place": "LEIPZIG"
+    },
+    {
+      "name": "Nölling & fils",
+      "place": "LUBECK"
+    },
+    {
+      "name": "Ravicini & Bertacelli",
+      "place": "ROME"
+    },
+    {
+      "name": "Thieriot & Bassenge",
+      "place": "LEIPZIG"
+    },
+    {
+      "name": "Ostervald, Fréderic Samuel",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Jacquenod père & Rusand",
+      "place": "LYON"
+    },
+    {
+      "name": "Pingeon, Daniel",
+      "place": "BERNE"
+    },
+    {
+      "name": "Société littéraire de Neuchâtel",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Avelot",
+      "address": "rue St, honnoré, au coin de la rue de l'orangerie",
+      "place": "VERSAILLES"
+    },
+    {
+      "name": "Losey, Jean",
+      "place": "ESTAVAYER"
+    },
+    {
+      "name": "Camosi de Sarzane",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Dormingue",
+      "place": "CLERMONT-FERRAND"
+    },
+    {
+      "name": "Wallier & Piat",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Binders",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Rondi, Champ, Renaud & Comp.",
+      "place": "BERGAME"
+    },
+    {
+      "name": "Feray, Pierre",
+      "place": "ROUEN"
+    },
+    {
+      "name": "Société du jardin",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Perrelet & Pigeon",
+      "place": "GENÈVE"
+    },
+    {
+      "name": "Bertrand, Pomier & Ricard",
+      "place": "GÊNES"
+    },
+    {
+      "name": "Fauche, fils ainé & cie",
+      "place": "Neuchâtel"
+    },
+    {
+      "name": "Meuron, d'Ivernois et de Faivre",
+      "place": "PONTARLIER"
+    },
+    {
+      "name": "Clerck, de & fils",
+      "place": "OSTENDE"
+    },
+    {
+      "name": "Wohak & Cie",
+      "place": "SAINT-PETERSBOURG"
+    },
+    {
+      "name": "Fischer & Schott",
+      "place": "HAMBOURG"
+    }
+  ]
+}
