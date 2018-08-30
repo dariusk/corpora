@@ -53,8 +53,16 @@ function queryPromise (query) {
   return new Promise (function (resolve, reject) {
     connection.query (query, function (error, results, fields) {
       if (error) throw error
-//      console.warn (JSON.stringify (results, null, 2))
-      resolve (results)
+      var cleanResults = results.map (function (row) {
+	var cleanRow = {}
+	Object.keys(row).forEach (function (key) {
+	  var val = row[key]
+	  if (val)
+	    cleanRow[key] = (parseInt(val).toString() === val ? parseInt(val) : val)
+	})
+	return cleanRow
+      })
+      resolve (cleanResults)
     })
   })
 }
