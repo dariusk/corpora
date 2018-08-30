@@ -1,0 +1,4648 @@
+{
+  "description": "Locations of customers of the 18th-century publishing house, the Société typographique de Neuchâtel",
+  "values": [
+    {
+      "name": "GENTHOD",
+      "lower": "Geneva",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Geneva",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 100
+    },
+    {
+      "name": "AIGLE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 75
+    },
+    {
+      "name": "AIRE-en-ARTOIS",
+      "lower": "Lille",
+      "sovereign": "France",
+      "C21_admin": "Pas-de-Calais",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 345
+    },
+    {
+      "name": "AIX",
+      "lower": "Provence",
+      "sovereign": "France",
+      "C21_admin": "Bouches-du-Rhône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 402
+    },
+    {
+      "name": "ALICANTE",
+      "lower": "Valencia",
+      "sovereign": "Spain",
+      "C21_admin": "Valencia",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 1134
+    },
+    {
+      "name": "ALTDORF",
+      "lower": "Uri",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Uri",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 131
+    },
+    {
+      "name": "ALTONA",
+      "lower": "Holstein",
+      "sovereign": "Denmark",
+      "C21_admin": "Hamburg",
+      "C21_country": "Germany",
+      "zone": "Scandinavian",
+      "distance": 759
+    },
+    {
+      "name": "AMBERT",
+      "lower": "Riom",
+      "sovereign": "France",
+      "C21_admin": "Puy-de-Dôme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 293
+    },
+    {
+      "name": "AMIENS",
+      "lower": "Amiens",
+      "sovereign": "France",
+      "C21_admin": "Somme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 470
+    },
+    {
+      "name": "AMSTERDAM",
+      "lower": "Holland",
+      "sovereign": "United Provinces",
+      "C21_admin": "North Holland",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 614
+    },
+    {
+      "name": "ANDELEYS, Les",
+      "lower": "Rouen",
+      "sovereign": "France",
+      "C21_admin": "Eure",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 480
+    },
+    {
+      "name": "ANDUZE",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Gard",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 399
+    },
+    {
+      "name": "ANET",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 14
+    },
+    {
+      "name": "ANNECY",
+      "lower": "Savoy",
+      "sovereign": "Piedmont",
+      "C21_admin": "Haute-Savoie",
+      "C21_country": "France",
+      "zone": "Italian",
+      "distance": 136
+    },
+    {
+      "name": "ANNONAY",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Ardèche",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 261
+    },
+    {
+      "name": "APT",
+      "lower": "Provence",
+      "sovereign": "France",
+      "C21_admin": "Bouches-du-Rhône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 366
+    },
+    {
+      "name": "ARBERG",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 27
+    },
+    {
+      "name": "ARBOIS",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 89
+    },
+    {
+      "name": "ARDON",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 83
+    },
+    {
+      "name": "AUBONNE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 69
+    },
+    {
+      "name": "AUCH",
+      "lower": "Auch",
+      "sovereign": "France",
+      "C21_admin": "Gers",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 620
+    },
+    {
+      "name": "AUGSBOURG",
+      "lower": "Augsburg",
+      "sovereign": "Augsburg",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 334
+    },
+    {
+      "name": "AUTUN",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Saône-et-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 200
+    },
+    {
+      "name": "AUVERNIER",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 4
+    },
+    {
+      "name": "AUXERRE",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Yonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 268
+    },
+    {
+      "name": "AUXONNE",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Côte d'Or",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 119
+    },
+    {
+      "name": "AVENCHES",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 15
+    },
+    {
+      "name": "AVIGNON",
+      "lower": "Venaissin",
+      "sovereign": "Papal Territories: Venaissin",
+      "C21_admin": "Vaucluse",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 376
+    },
+    {
+      "name": "AVOUZON",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Ain",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 105
+    },
+    {
+      "name": "BÄCH",
+      "lower": "Schwyz",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Schwyz",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 139
+    },
+    {
+      "name": "BAIGORRY",
+      "lower": "Labourd and Navarre",
+      "sovereign": "France",
+      "C21_admin": "Pyrenées-Atlantiques",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 776
+    },
+    {
+      "name": "BALE",
+      "lower": "Basle",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Basel-Stadt",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 81
+    },
+    {
+      "name": "BAMBERG",
+      "lower": "Bamberg",
+      "sovereign": "Bamberg",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 435
+    },
+    {
+      "name": "BAR-le-DUC",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Meuse",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 238
+    },
+    {
+      "name": "BAR-sur-AUBE",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Aube",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 217
+    },
+    {
+      "name": "BAR-sur-SEINE",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Aube",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 229
+    },
+    {
+      "name": "BASSECOURT",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Canton of Jura",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 45
+    },
+    {
+      "name": "BAIERSDORF",
+      "lower": "Bayreuth",
+      "sovereign": "Bayreuth",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 425
+    },
+    {
+      "name": "BAYONNE",
+      "lower": "Labourd and Navarre",
+      "sovereign": "France",
+      "C21_admin": "Pyrenées-Atlantiques",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 325
+    },
+    {
+      "name": "BEAUNE",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Côte d'Or",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 159
+    },
+    {
+      "name": "BEAUREPAIRE",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 123
+    },
+    {
+      "name": "BEAUVAIS",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Oise",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 450
+    },
+    {
+      "name": "BELFORT",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Belfort (territoire de)",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 72
+    },
+    {
+      "name": "BELLE-ISLE en MER",
+      "lower": "Rennes",
+      "sovereign": "France",
+      "C21_admin": "Morbihan",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 764
+    },
+    {
+      "name": "BELLELAY",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 35
+    },
+    {
+      "name": "BELLINZONE",
+      "lower": "Occupied territories",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Ticino",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 183
+    },
+    {
+      "name": "BERGAME",
+      "lower": "Venice",
+      "sovereign": "Venice",
+      "C21_admin": "Lombardy",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 255
+    },
+    {
+      "name": "BERGERAC",
+      "lower": "Bordeaux",
+      "sovereign": "France",
+      "C21_admin": "Dordogne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 553
+    },
+    {
+      "name": "BERLIN",
+      "lower": "Brandenburg",
+      "sovereign": "Prussia",
+      "C21_admin": "Berlin",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 771
+    },
+    {
+      "name": "BERNE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 40
+    },
+    {
+      "name": "BERTHOUD",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 54
+    },
+    {
+      "name": "BESANCON",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 74
+    },
+    {
+      "name": "BEVAIX",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 11
+    },
+    {
+      "name": "BIED, Le",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 12
+    },
+    {
+      "name": "BIENNE",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 30
+    },
+    {
+      "name": "BIERE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 68
+    },
+    {
+      "name": "BLAMONT",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 44
+    },
+    {
+      "name": "BLOIS",
+      "lower": "Orléans",
+      "sovereign": "France",
+      "C21_admin": "Loir-et-Cher",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 428
+    },
+    {
+      "name": "BOIS-le-DUC",
+      "lower": "The Generality",
+      "sovereign": "United Provinces",
+      "C21_admin": "North Brabant",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 535
+    },
+    {
+      "name": "BOLBEC",
+      "lower": "Rouen",
+      "sovereign": "France",
+      "C21_admin": "Seine-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 558
+    },
+    {
+      "name": "BOLOGNE",
+      "lower": "Papal states",
+      "sovereign": "Papal Territories: Italy",
+      "C21_admin": "Emilia-Romagna",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 441
+    },
+    {
+      "name": "BONN",
+      "lower": "Cologne Archbishopric",
+      "sovereign": "Cologne Archbishopric",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 416
+    },
+    {
+      "name": "BORDEAUX",
+      "lower": "Bordeaux",
+      "sovereign": "France",
+      "C21_admin": "Gironde",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 629
+    },
+    {
+      "name": "BOUDRY",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 8
+    },
+    {
+      "name": "BOUILLON",
+      "lower": "Bouillon",
+      "sovereign": "Bouillon",
+      "C21_admin": "Belgian Luxembourg",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 341
+    },
+    {
+      "name": "BOURG-en-BRESSE",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Ain",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 157
+    },
+    {
+      "name": "BOURGES",
+      "lower": "Bourges",
+      "sovereign": "France",
+      "C21_admin": "Cher",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 344
+    },
+    {
+      "name": "BOURGNEUF en ORLEANAIS",
+      "lower": "Orléans",
+      "sovereign": "France",
+      "C21_admin": "Loiret",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 381
+    },
+    {
+      "name": "BOURG St ANDEOL",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Ardèche",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 340
+    },
+    {
+      "name": "BRANDEBOURG",
+      "lower": "Brandenburg",
+      "sovereign": "Prussia",
+      "C21_admin": "Brandenburg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 749
+    },
+    {
+      "name": "BRENETS, Les",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 19
+    },
+    {
+      "name": "BRESCIA",
+      "lower": "Venice",
+      "sovereign": "Venice",
+      "C21_admin": "Lombardy",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 300
+    },
+    {
+      "name": "BRESLAU",
+      "lower": "Silesia",
+      "sovereign": "Prussia",
+      "C21_admin": "Lower Silesia",
+      "C21_country": "Poland",
+      "zone": "German",
+      "distance": 868
+    },
+    {
+      "name": "BRÉVINE, La",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 25
+    },
+    {
+      "name": "BRIENNE",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Aube",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 238
+    },
+    {
+      "name": "BROUGG",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Aargau",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 111
+    },
+    {
+      "name": "BROUILLET, Le",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 30
+    },
+    {
+      "name": "BRUXELLES",
+      "lower": "Brabant",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "Brussels Capital Region",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 468
+    },
+    {
+      "name": "BULLE",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 42
+    },
+    {
+      "name": "BULLET",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 34
+    },
+    {
+      "name": "CADIX",
+      "lower": "Andalucia",
+      "sovereign": "Spain",
+      "C21_admin": "Andalucia",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 1594
+    },
+    {
+      "name": "CAEN",
+      "lower": "Caen",
+      "sovereign": "France",
+      "C21_admin": "Calvados",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 594
+    },
+    {
+      "name": "CAMBRAY",
+      "lower": "Valenciennes",
+      "sovereign": "France",
+      "C21_admin": "Nord",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 446
+    },
+    {
+      "name": "CARLSRUHE",
+      "lower": "Baden",
+      "sovereign": "Baden",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 250
+    },
+    {
+      "name": "CASSEL",
+      "lower": "Hesse-Cassel",
+      "sovereign": "Hesse-Cassel",
+      "C21_admin": "Hesse",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 516
+    },
+    {
+      "name": "CATEAU-CAMBRÉSIS, Le",
+      "lower": "Valenciennes",
+      "sovereign": "France",
+      "C21_admin": "Nord",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 427
+    },
+    {
+      "name": "CERLIER",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 14
+    },
+    {
+      "name": "CESSE",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Meuse",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 309
+    },
+    {
+      "name": "SÈTE",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Hérault",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 472
+    },
+    {
+      "name": "CHALON-sur-Saône",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Saône-et-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 160
+    },
+    {
+      "name": "CHÂLONS-sur-MARNE",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Marne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 290
+    },
+    {
+      "name": "CHAMBÉRY",
+      "lower": "Savoy",
+      "sovereign": "Piedmont",
+      "C21_admin": "Savoie",
+      "C21_country": "France",
+      "zone": "Italian",
+      "distance": 176
+    },
+    {
+      "name": "CHAMPVENT sur YVERDON",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 35
+    },
+    {
+      "name": "CHARMEY",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 45
+    },
+    {
+      "name": "CHARTRES",
+      "lower": "Orléans",
+      "sovereign": "France",
+      "C21_admin": "Eure-et-Loir",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 439
+    },
+    {
+      "name": "CHÂTEAU d'OEX",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 59
+    },
+    {
+      "name": "CHÂTEAUDUN en DUNOIS",
+      "lower": "Orléans",
+      "sovereign": "France",
+      "C21_admin": "Eure-et-Loir",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 438
+    },
+    {
+      "name": "CHÂTILLON sur SEINE",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Côte d'Or",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 202
+    },
+    {
+      "name": "CHAUMONT en BASSIGNEY",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Haute-Marne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 183
+    },
+    {
+      "name": "CHAUX d'ESTALIERES",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 27
+    },
+    {
+      "name": "CHAUX-de-FONDS, La",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 15
+    },
+    {
+      "name": "CHAUX-de-MILIEU",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 17
+    },
+    {
+      "name": "CHÉZARD",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 6
+    },
+    {
+      "name": "CLAIRVAUX",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 101
+    },
+    {
+      "name": "CLARENS",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 82
+    },
+    {
+      "name": "CLAVALEYRES",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 18
+    },
+    {
+      "name": "CLERMONT-FERRAND",
+      "lower": "Riom",
+      "sovereign": "France",
+      "C21_admin": "Puy-de-Dôme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 325
+    },
+    {
+      "name": "CLEVES",
+      "lower": "Cleves",
+      "sovereign": "Prussia: Cleves",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 534
+    },
+    {
+      "name": "COBLENCE",
+      "lower": "Trier",
+      "sovereign": "Trier",
+      "C21_admin": "Rhineland-Palatinate",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 375
+    },
+    {
+      "name": "COIRE",
+      "lower": "League of God's house",
+      "sovereign": "Grison Leagues",
+      "C21_admin": "Grisons",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 199
+    },
+    {
+      "name": "COLMAR",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Haut-Rhin",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 123
+    },
+    {
+      "name": "COLOGNE",
+      "lower": "Cologne (city)",
+      "sovereign": "Cologne (city)",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 437
+    },
+    {
+      "name": "COLOMBIER",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 6
+    },
+    {
+      "name": "CÔME",
+      "lower": "Milan",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Lombardy",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 213
+    },
+    {
+      "name": "COMPIÈGNE",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Oise",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 405
+    },
+    {
+      "name": "CONCISE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 22
+    },
+    {
+      "name": "CONDÉ sur NOIREAU",
+      "lower": "Caen",
+      "sovereign": "France",
+      "C21_admin": "Calvados",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 593
+    },
+    {
+      "name": "COPENHAGUE",
+      "lower": "Zealand",
+      "sovereign": "Denmark",
+      "C21_admin": "Hovedstaden",
+      "C21_country": "Denmark",
+      "zone": "Scandinavian",
+      "distance": 1041
+    },
+    {
+      "name": "COPPET",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 95
+    },
+    {
+      "name": "CORCELLES",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 5
+    },
+    {
+      "name": "CORGEMONT",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 28
+    },
+    {
+      "name": "CORNAUX",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 9
+    },
+    {
+      "name": "CORSEAUX",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 60
+    },
+    {
+      "name": "CORTAILLOD",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 6
+    },
+    {
+      "name": "COURGEVAUX",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 19
+    },
+    {
+      "name": "COURTELARY",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 24
+    },
+    {
+      "name": "COUVET",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 24
+    },
+    {
+      "name": "CRACOVIE",
+      "lower": "Poland",
+      "sovereign": "Poland",
+      "C21_admin": "Lesser Poland",
+      "C21_country": "Poland",
+      "zone": "East European",
+      "distance": 1017
+    },
+    {
+      "name": "CRAPONNE en VELAY",
+      "lower": "Riom",
+      "sovereign": "France",
+      "C21_admin": "Haute-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 302
+    },
+    {
+      "name": "CREMONE",
+      "lower": "Milan",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Lombardy",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 318
+    },
+    {
+      "name": "DARMSTADT",
+      "lower": "Hesse-Darmstadt",
+      "sovereign": "Hesse-Darmstadt",
+      "C21_admin": "Hesse",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 343
+    },
+    {
+      "name": "DELEMONT",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Canton of Jura",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 52
+    },
+    {
+      "name": "DESSAU",
+      "lower": "Anhalt",
+      "sovereign": "Anhalt",
+      "C21_admin": "Saxony Anhalt",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 660
+    },
+    {
+      "name": "DEUTZ",
+      "lower": "Cologne Archbishopric",
+      "sovereign": "Cologne Archbishopric",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 436
+    },
+    {
+      "name": "DEUX-PONTS",
+      "lower": "Zweibrücken",
+      "sovereign": "Zweibrücken",
+      "C21_admin": "Rhineland-Palatinate",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 251
+    },
+    {
+      "name": "DIEPPE",
+      "lower": "Rouen",
+      "sovereign": "France",
+      "C21_admin": "Seine-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 539
+    },
+    {
+      "name": "DIJON",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Côte d'Or",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 146
+    },
+    {
+      "name": "DIVONNE",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Ain",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 94
+    },
+    {
+      "name": "DÔLE",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 109
+    },
+    {
+      "name": "DORT",
+      "lower": "Holland",
+      "sovereign": "United Provinces",
+      "C21_admin": "South Holland",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 551
+    },
+    {
+      "name": "DRESDE",
+      "lower": "Saxony",
+      "sovereign": "Saxony",
+      "C21_admin": "Saxony",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 669
+    },
+    {
+      "name": "DUBLIN",
+      "lower": "Ireland",
+      "sovereign": "United Kingdom",
+      "C21_admin": "Dublin",
+      "C21_country": "Ireland",
+      "zone": "British",
+      "distance": 1170
+    },
+    {
+      "name": "DUNKERQUE",
+      "lower": "Lille",
+      "sovereign": "France",
+      "C21_admin": "Nord",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 557
+    },
+    {
+      "name": "ECHALENS",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 46
+    },
+    {
+      "name": "EDIMBOURG",
+      "lower": "Scotland",
+      "sovereign": "United Kingdom",
+      "C21_admin": "Edinburgh",
+      "C21_country": "United Kingdom",
+      "zone": "British",
+      "distance": 1214
+    },
+    {
+      "name": "EGLISAU",
+      "lower": "Zurich",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Zurich",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 137
+    },
+    {
+      "name": "EPINAL",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Vosges",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 134
+    },
+    {
+      "name": "ERFURT",
+      "lower": "Erfurt",
+      "sovereign": "Mainz",
+      "C21_admin": "Thuringia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 533
+    },
+    {
+      "name": "ERLANG",
+      "lower": "Bayreuth",
+      "sovereign": "Bayreuth",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 419
+    },
+    {
+      "name": "ESTAVAYER",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 19
+    },
+    {
+      "name": "FALAISE",
+      "lower": "Alençon",
+      "sovereign": "France",
+      "C21_admin": "Calvados",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 572
+    },
+    {
+      "name": "FERNEY",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Ain",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 104
+    },
+    {
+      "name": "FERRIERE, La",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 17
+    },
+    {
+      "name": "FIEZ",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 30
+    },
+    {
+      "name": "FLEURIER",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 28
+    },
+    {
+      "name": "FLORENCE",
+      "lower": "Tuscany",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Tuscany",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 494
+    },
+    {
+      "name": "FONTAINEBLEAU",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 352
+    },
+    {
+      "name": "FONTAINES",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 6
+    },
+    {
+      "name": "FONTENOTTES",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 22
+    },
+    {
+      "name": "FORGES-les-EAUX",
+      "lower": "Rouen",
+      "sovereign": "France",
+      "C21_admin": "Seine-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 493
+    },
+    {
+      "name": "FRANCFORT sur le MAIN",
+      "lower": "Frankfurt-on-Main",
+      "sovereign": "Frankfurt-on-Main",
+      "C21_admin": "Hesse",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 370
+    },
+    {
+      "name": "FRANCFORT sur l'ODER",
+      "lower": "Brandenburg",
+      "sovereign": "Prussia",
+      "C21_admin": "Brandenburg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 809
+    },
+    {
+      "name": "FRANCONVILLE",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 415
+    },
+    {
+      "name": "FRIBOURG",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 27
+    },
+    {
+      "name": "FRIBOURG en BRISGAU",
+      "lower": "Brisgau",
+      "sovereign": "Austrian exclave (Brisgau)",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 132
+    },
+    {
+      "name": "FRIENISBERG",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 31
+    },
+    {
+      "name": "FÜRTH",
+      "lower": "Fürth",
+      "sovereign": "Ansbach/Bamberg/Nuremberg",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 409
+    },
+    {
+      "name": "GANGES",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Hérault",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 422
+    },
+    {
+      "name": "GÊNES",
+      "lower": "Genoa",
+      "sovereign": "Genoa",
+      "C21_admin": "Liguria",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 326
+    },
+    {
+      "name": "GENÈVE",
+      "lower": "Geneva",
+      "sovereign": "Geneva",
+      "C21_admin": "Geneva",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 106
+    },
+    {
+      "name": "GLAND",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 81
+    },
+    {
+      "name": "GLAY sous BLAMONT",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 46
+    },
+    {
+      "name": "GLÉRESSE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 19
+    },
+    {
+      "name": "GOETTINGUE",
+      "lower": "Hanover",
+      "sovereign": "Hanover",
+      "C21_admin": "Lower Saxony",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 549
+    },
+    {
+      "name": "GRANDCOMBE des BOIS",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 20
+    },
+    {
+      "name": "GRANDCOUR",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 13
+    },
+    {
+      "name": "GRANDSON",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 29
+    },
+    {
+      "name": "GRANGE MARNAND",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 26
+    },
+    {
+      "name": "GRENG",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 15
+    },
+    {
+      "name": "GRENOBLE",
+      "lower": "Grenoble",
+      "sovereign": "France",
+      "C21_admin": "Isère",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 220
+    },
+    {
+      "name": "GAUDALAXARA",
+      "lower": "Castile-La Mancha",
+      "sovereign": "Spain",
+      "C21_admin": "Castile-La Mancha",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 1075
+    },
+    {
+      "name": "GUÉRET",
+      "lower": "Moulins",
+      "sovereign": "France",
+      "C21_admin": "Creuse",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 398
+    },
+    {
+      "name": "GUEUGNON",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Saône-et-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 223
+    },
+    {
+      "name": "GUÉVAUX",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 11
+    },
+    {
+      "name": "GUISE",
+      "lower": "Soissons",
+      "sovereign": "France",
+      "C21_admin": "Aisne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 405
+    },
+    {
+      "name": "HAMBOURG",
+      "lower": "Hamburg",
+      "sovereign": "Hamburg",
+      "C21_admin": "Hamburg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 761
+    },
+    {
+      "name": "HANAU",
+      "lower": "Hesse-Cassel",
+      "sovereign": "Hesse-Cassel",
+      "C21_admin": "Hesse",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 379
+    },
+    {
+      "name": "HAVRE, Le",
+      "lower": "Rouen",
+      "sovereign": "France",
+      "C21_admin": "Seine-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 577
+    },
+    {
+      "name": "HAYE, La",
+      "lower": "Holland",
+      "sovereign": "United Provinces",
+      "C21_admin": "South Holland",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 596
+    },
+    {
+      "name": "HÉRISAU",
+      "lower": "Appenzell Ausserrhoden",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Appenzell Ausserrhoden",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 183
+    },
+    {
+      "name": "HÖFEN",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 57
+    },
+    {
+      "name": "HOMBOURG",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Haut-Rhin",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 96
+    },
+    {
+      "name": "HOUTANT",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 48
+    },
+    {
+      "name": "KEHL",
+      "lower": "Baden",
+      "sovereign": "Baden",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 188
+    },
+    {
+      "name": "KILCHBERG",
+      "lower": "Zurich",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Zurich",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 128
+    },
+    {
+      "name": "KIZINGEN",
+      "lower": "Wurzburg",
+      "sovereign": "Wurzburg",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 387
+    },
+    {
+      "name": "KLAGENFURTH",
+      "lower": "Carinthia",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Carinthia",
+      "C21_country": "Austria",
+      "zone": "Austro-Hungarian",
+      "distance": 564
+    },
+    {
+      "name": "KÖNIGSBERG",
+      "lower": "East Prussia",
+      "sovereign": "Prussia",
+      "C21_admin": "Kaliningrad Oblast",
+      "C21_country": "Russia",
+      "zone": "East European",
+      "distance": 1278
+    },
+    {
+      "name": "LAIGLE",
+      "lower": "Alençon",
+      "sovereign": "France",
+      "C21_admin": "Orne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 510
+    },
+    {
+      "name": "LANDAU",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Rhineland-Palatinate",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 260
+    },
+    {
+      "name": "LANDERON",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 13
+    },
+    {
+      "name": "LANGRES",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Haute-Marne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 154
+    },
+    {
+      "name": "LAON",
+      "lower": "Soissons",
+      "sovereign": "France",
+      "C21_admin": "Aisne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 377
+    },
+    {
+      "name": "LAUSANNE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 58
+    },
+    {
+      "name": "LAUSEN",
+      "lower": "Basle",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Basle Landschaft",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 83
+    },
+    {
+      "name": "LEIPZIG",
+      "lower": "Saxony",
+      "sovereign": "Saxony",
+      "C21_admin": "Saxony",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 625
+    },
+    {
+      "name": "LENZBOURG",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Aargau",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 105
+    },
+    {
+      "name": "LEYDE",
+      "lower": "Holland",
+      "sovereign": "United Provinces",
+      "C21_admin": "South Holland",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 602
+    },
+    {
+      "name": "LIÈGE",
+      "lower": "Liège",
+      "sovereign": "Liège",
+      "C21_admin": "Liège",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 418
+    },
+    {
+      "name": "LIESTAL",
+      "lower": "Basle",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Basle Landschaft",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 82
+    },
+    {
+      "name": "LIGNIÈRES",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 15
+    },
+    {
+      "name": "LILLE",
+      "lower": "Lille",
+      "sovereign": "France",
+      "C21_admin": "Nord",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 495
+    },
+    {
+      "name": "LIMOGES",
+      "lower": "Limoges",
+      "sovereign": "France",
+      "C21_admin": "Haute-Vienne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 454
+    },
+    {
+      "name": "LISBONNE",
+      "lower": "Portugal",
+      "sovereign": "Portugal",
+      "C21_admin": "district of Lisbon",
+      "C21_country": "Portugal",
+      "zone": "Iberian",
+      "distance": 1598
+    },
+    {
+      "name": "LISIEUX",
+      "lower": "Alençon",
+      "sovereign": "France",
+      "C21_admin": "Calvados",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 554
+    },
+    {
+      "name": "LIVOURNE",
+      "lower": "Tuscany",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Tuscany",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 467
+    },
+    {
+      "name": "LOCARNO",
+      "lower": "Occupied territories",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Ticino",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 170
+    },
+    {
+      "name": "LOCLE, Le",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 16
+    },
+    {
+      "name": "LONDRES",
+      "lower": "England",
+      "sovereign": "United Kingdom",
+      "C21_admin": "Greater London",
+      "C21_country": "United Kingdom",
+      "zone": "British",
+      "distance": 717
+    },
+    {
+      "name": "LONGCHAUMOIS",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 96
+    },
+    {
+      "name": "LONGWY",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Meurthe-et-Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 294
+    },
+    {
+      "name": "LOUDUN",
+      "lower": "Tours",
+      "sovereign": "France",
+      "C21_admin": "Vienne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 521
+    },
+    {
+      "name": "LOUVAIN",
+      "lower": "Brabant",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "Flemish Brabant",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 462
+    },
+    {
+      "name": "LUBECK",
+      "lower": "Lubeck",
+      "sovereign": "Lubeck",
+      "C21_admin": "Schleswig-Holstein",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 810
+    },
+    {
+      "name": "LUCENS",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 32
+    },
+    {
+      "name": "LUCERNE",
+      "lower": "Lucerne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Lucerne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 105
+    },
+    {
+      "name": "LUGANO",
+      "lower": "Occupied territories",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Ticino",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 190
+    },
+    {
+      "name": "LUNÉVILLE",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Meurthe-et-Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 181
+    },
+    {
+      "name": "LUXEMBOURG",
+      "lower": "Luxembourg",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "City of Luxembourg",
+      "C21_country": "Luxembourg",
+      "zone": "Belgian",
+      "distance": 299
+    },
+    {
+      "name": "LUXEUIL",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Haute-Saône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 101
+    },
+    {
+      "name": "LYON",
+      "lower": "Lyon",
+      "sovereign": "France",
+      "C21_admin": "Rhône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 211
+    },
+    {
+      "name": "MÂCON",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Saône-et-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 178
+    },
+    {
+      "name": "MADRID",
+      "lower": "Castile-La Mancha",
+      "sovereign": "Spain",
+      "C21_admin": "Madrid",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 1124
+    },
+    {
+      "name": "MAESTRICHT",
+      "lower": "Limburg",
+      "sovereign": "United Provinces",
+      "C21_admin": "Limburg",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 439
+    },
+    {
+      "name": "MAIENFELD",
+      "lower": "League of Ten Jurisdictions",
+      "sovereign": "Grison Leagues",
+      "C21_admin": "Grisons",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 198
+    },
+    {
+      "name": "MALINES",
+      "lower": "Brabant",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "Antwerp",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 484
+    },
+    {
+      "name": "MANDEURE",
+      "lower": "Mandeure",
+      "sovereign": "Mandeure",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 52
+    },
+    {
+      "name": "MANNHEIM",
+      "lower": "Electoral Palatinate",
+      "sovereign": "Palatinate",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 300
+    },
+    {
+      "name": "MANS, Le",
+      "lower": "Tours",
+      "sovereign": "France",
+      "C21_admin": "Sarthe",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 519
+    },
+    {
+      "name": "MANTES",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 448
+    },
+    {
+      "name": "MARIN (La Poissine)",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 6
+    },
+    {
+      "name": "MARMOUTIER",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Bas-Rhin",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 192
+    },
+    {
+      "name": "MARSEILLE",
+      "lower": "Provence",
+      "sovereign": "France",
+      "C21_admin": "Bouches-du-Rhône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 428
+    },
+    {
+      "name": "MAS d'AZIL, Le",
+      "lower": "Perpignan",
+      "sovereign": "France",
+      "C21_admin": "Ariège",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 619
+    },
+    {
+      "name": "MAUBEUGE",
+      "lower": "Valenciennes",
+      "sovereign": "France",
+      "C21_admin": "Nord",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 426
+    },
+    {
+      "name": "MAYENCE",
+      "lower": "Mainz",
+      "sovereign": "Mainz",
+      "C21_admin": "Rhineland-Palatinate",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 349
+    },
+    {
+      "name": "MEAUX",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 373
+    },
+    {
+      "name": "MÉLIÈRE",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 48
+    },
+    {
+      "name": "MELUN",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 363
+    },
+    {
+      "name": "MENDE",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Lozère",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 383
+    },
+    {
+      "name": "METZ",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 243
+    },
+    {
+      "name": "MEUDON",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 405
+    },
+    {
+      "name": "MEYRIA",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Ain",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 150
+    },
+    {
+      "name": "MILAN",
+      "lower": "Milan",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Lombardy",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 243
+    },
+    {
+      "name": "MISSY",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 13
+    },
+    {
+      "name": "MODÈNE",
+      "lower": "Modena",
+      "sovereign": "Modena",
+      "C21_admin": "Emilia-Romagna",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 405
+    },
+    {
+      "name": "MONS",
+      "lower": "Hainaut",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "Hainaut",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 443
+    },
+    {
+      "name": "MONT-de-MARSAN",
+      "lower": "Auch",
+      "sovereign": "France",
+      "C21_admin": "Landes",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 675
+    },
+    {
+      "name": "MONTARGIS en Gatinois",
+      "lower": "Orléans",
+      "sovereign": "France",
+      "C21_admin": "Loiret",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 335
+    },
+    {
+      "name": "MONTAUBAN",
+      "lower": "Montauban",
+      "sovereign": "France",
+      "C21_admin": "Tarn-et-Garonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 546
+    },
+    {
+      "name": "MONTBÉLIARD",
+      "lower": "Principality of Montbéliard",
+      "sovereign": "Wurttemberg: Montbéliard",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 59
+    },
+    {
+      "name": "MONTÉLIMAR",
+      "lower": "Grenoble",
+      "sovereign": "France",
+      "C21_admin": "Drôme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 319
+    },
+    {
+      "name": "MONTMIRAIL",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 8
+    },
+    {
+      "name": "MONTPELLIER",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Hérault",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 445
+    },
+    {
+      "name": "MORAT",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 16
+    },
+    {
+      "name": "MORET",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 345
+    },
+    {
+      "name": "MORGES",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 63
+    },
+    {
+      "name": "MOSCOU",
+      "lower": "Moscow",
+      "sovereign": "Russia",
+      "C21_admin": "Central Federal District",
+      "C21_country": "Russia",
+      "zone": "East European",
+      "distance": 2324
+    },
+    {
+      "name": "MOTIERS",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 26
+    },
+    {
+      "name": "MOUDON",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 37
+    },
+    {
+      "name": "MOULINNEUF",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Ain",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 99
+    },
+    {
+      "name": "MULHOUSE",
+      "lower": "Mulhouse",
+      "sovereign": "Mulhouse",
+      "C21_admin": "Haut-Rhin",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 90
+    },
+    {
+      "name": "MUNICH",
+      "lower": "Bavaria",
+      "sovereign": "Bavaria",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 372
+    },
+    {
+      "name": "MUNSTER en Westf",
+      "lower": "Münster",
+      "sovereign": "Münster",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 555
+    },
+    {
+      "name": "NAILHOUX",
+      "lower": "Toulouse",
+      "sovereign": "France",
+      "C21_admin": "Haute-Garonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 580
+    },
+    {
+      "name": "NANCY",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Meurthe-et-Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 197
+    },
+    {
+      "name": "NANTES",
+      "lower": "Rennes",
+      "sovereign": "France",
+      "C21_admin": "Loire Atlantique",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 644
+    },
+    {
+      "name": "NAPLES",
+      "lower": "Naples",
+      "sovereign": "Kingdom of Two Sicilies",
+      "C21_admin": "Campania",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 901
+    },
+    {
+      "name": "NÈGREPELISSE",
+      "lower": "Montauban",
+      "sovereign": "France",
+      "C21_admin": "Tarn-et-Garonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 532
+    },
+    {
+      "name": "NEU-BREISACH",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Haut-Rhin",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 123
+    },
+    {
+      "name": "Neuchâtel",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic"
+    },
+    {
+      "name": "NEUFCHATEAU",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Vosges",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 178
+    },
+    {
+      "name": "NEUVEVILLE, La",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 15
+    },
+    {
+      "name": "NEUWIED",
+      "lower": "Weid-Neuwied",
+      "sovereign": "Weid-Neuwied",
+      "C21_admin": "Rhineland-Palatinate",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 384
+    },
+    {
+      "name": "NICE",
+      "lower": "Nice",
+      "sovereign": "Piedmont",
+      "C21_admin": "Alpes-Maritimes",
+      "C21_country": "France",
+      "zone": "Italian",
+      "distance": 366
+    },
+    {
+      "name": "NIDAU",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 28
+    },
+    {
+      "name": "NIMES",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Gard",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 404
+    },
+    {
+      "name": "NOIRMONT",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Canton of Jura",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 26
+    },
+    {
+      "name": "NOYON",
+      "lower": "Soissons",
+      "sovereign": "France",
+      "C21_admin": "Oise",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 410
+    },
+    {
+      "name": "NUREMBERG",
+      "lower": "Nuremberg",
+      "sovereign": "Nuremberg",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 412
+    },
+    {
+      "name": "NYON",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 86
+    },
+    {
+      "name": "NYONS",
+      "lower": "Grenoble",
+      "sovereign": "France",
+      "C21_admin": "Drôme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 324
+    },
+    {
+      "name": "OBER-SAXLEN",
+      "lower": "Grey League",
+      "sovereign": "Grison Leagues",
+      "C21_admin": "Grisons",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 166
+    },
+    {
+      "name": "OGNES",
+      "lower": "Soissons",
+      "sovereign": "France",
+      "C21_admin": "Aisne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 402
+    },
+    {
+      "name": "OLGINATE",
+      "lower": "Milan",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Lombardy",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 243
+    },
+    {
+      "name": "ORBE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 42
+    },
+    {
+      "name": "ORLÉANS",
+      "lower": "Orléans",
+      "sovereign": "France",
+      "C21_admin": "Loiret",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 392
+    },
+    {
+      "name": "ORNANS",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 61
+    },
+    {
+      "name": "ORVIN",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 29
+    },
+    {
+      "name": "OSTENDE",
+      "lower": "Flanders",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "West Flanders",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 555
+    },
+    {
+      "name": "OUCHY",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 58
+    },
+    {
+      "name": "PADOUE",
+      "lower": "Venice",
+      "sovereign": "Venice",
+      "C21_admin": "Veneto",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 420
+    },
+    {
+      "name": "PAMPELUNE",
+      "lower": "Navarre",
+      "sovereign": "Spain",
+      "C21_admin": "Navarre",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 820
+    },
+    {
+      "name": "PARIS",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 400
+    },
+    {
+      "name": "PARME",
+      "lower": "Parma",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Emilia-Romagna",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 359
+    },
+    {
+      "name": "PAVIE",
+      "lower": "Milan",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Lombardy",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 264
+    },
+    {
+      "name": "PAYERNE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 19
+    },
+    {
+      "name": "PÉRIGUEUX",
+      "lower": "Bordeaux",
+      "sovereign": "France",
+      "C21_admin": "Dordogne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 520
+    },
+    {
+      "name": "PÉRY",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 33
+    },
+    {
+      "name": "PESEUX",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 3
+    },
+    {
+      "name": "PEST",
+      "lower": "Hungary",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Budapest",
+      "C21_country": "Hungary",
+      "zone": "Austro-Hungarian",
+      "distance": 918
+    },
+    {
+      "name": "PIERREPONT",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Meurthe-et-Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 143
+    },
+    {
+      "name": "PLANCEMONT",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 24
+    },
+    {
+      "name": "PLANCHETTES, Les",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 18
+    },
+    {
+      "name": "PLOMBIÈRES",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Vosges",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 114
+    },
+    {
+      "name": "POITIERS",
+      "lower": "Poitiers",
+      "sovereign": "France",
+      "C21_admin": "Vienne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 505
+    },
+    {
+      "name": "POLIGNY",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 95
+    },
+    {
+      "name": "POMY",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 33
+    },
+    {
+      "name": "PONTARLIER",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 45
+    },
+    {
+      "name": "PONT-BEAUVOISIN",
+      "lower": "Grenoble",
+      "sovereign": "France",
+      "C21_admin": "Isère",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 188
+    },
+    {
+      "name": "PONTENET",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 37
+    },
+    {
+      "name": "PONTLEVOY",
+      "lower": "Orléans",
+      "sovereign": "France",
+      "C21_admin": "Loir-et-Cher",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 432
+    },
+    {
+      "name": "PONTS, Les",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 15
+    },
+    {
+      "name": "PORRENTRUY",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Canton of Jura",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 48
+    },
+    {
+      "name": "PRAGUE",
+      "lower": "Bohemia",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Prague",
+      "C21_country": "Czech Republic",
+      "zone": "Austro-Hungarian",
+      "distance": 651
+    },
+    {
+      "name": "PRÉAUX en BUGEY",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Ain",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 153
+    },
+    {
+      "name": "PRESBOURG",
+      "lower": "Hungary",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Bratislava",
+      "C21_country": "Slovakia",
+      "zone": "Austro-Hungarian",
+      "distance": 776
+    },
+    {
+      "name": "PROVENCE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 19
+    },
+    {
+      "name": "RAPPERSWIL",
+      "lower": "St Gallen",
+      "sovereign": "St Gallen",
+      "C21_admin": "St Gallen",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 146
+    },
+    {
+      "name": "RASTADT",
+      "lower": "Salzburg",
+      "sovereign": "Salzburg",
+      "C21_admin": "Salzburg",
+      "C21_country": "Austria",
+      "zone": "Austro-Hungarian",
+      "distance": 496
+    },
+    {
+      "name": "RAVENNE",
+      "lower": "Papal states",
+      "sovereign": "Papal Territories: Italy",
+      "C21_admin": "Emilia-Romagna",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 500
+    },
+    {
+      "name": "REGGIO",
+      "lower": "Reggio",
+      "sovereign": "Modena",
+      "C21_admin": "Emilia-Romagna",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 384
+    },
+    {
+      "name": "REIMS",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Marne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 332
+    },
+    {
+      "name": "REMAUFFENS",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 52
+    },
+    {
+      "name": "RENAN",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 14
+    },
+    {
+      "name": "RENAN (Rangée des Robert)",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 16
+    },
+    {
+      "name": "RENAN (Montagne du Droit)",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 17
+    },
+    {
+      "name": "RENNES",
+      "lower": "Rennes",
+      "sovereign": "France",
+      "C21_admin": "Ille-et-Vilaine",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 660
+    },
+    {
+      "name": "REUSE",
+      "lower": "Catalonia",
+      "sovereign": "Spain",
+      "C21_admin": "Catalonia",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 798
+    },
+    {
+      "name": "REVEL",
+      "lower": "Toulouse",
+      "sovereign": "France",
+      "C21_admin": "Haute-Garonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 550
+    },
+    {
+      "name": "ROANNE",
+      "lower": "Lyon",
+      "sovereign": "France",
+      "C21_admin": "Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 243
+    },
+    {
+      "name": "ROCHEFORT",
+      "lower": "La Rochelle",
+      "sovereign": "France",
+      "C21_admin": "Charente-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 617
+    },
+    {
+      "name": "ROCHELLE, La",
+      "lower": "La Rochelle",
+      "sovereign": "France",
+      "C21_admin": "Charente-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 626
+    },
+    {
+      "name": "ROLLE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 75
+    },
+    {
+      "name": "ROMAINMOTIERS",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 47
+    },
+    {
+      "name": "ROME",
+      "lower": "Papal States",
+      "sovereign": "Papal Territories: Italy",
+      "C21_admin": "Lazio",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 718
+    },
+    {
+      "name": "ROTTERDAM",
+      "lower": "Holland",
+      "sovereign": "United Provinces",
+      "C21_admin": "South Holland",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 582
+    },
+    {
+      "name": "ROUEN",
+      "lower": "Rouen",
+      "sovereign": "France",
+      "C21_admin": "Seine-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 512
+    },
+    {
+      "name": "ROUSSES, Les",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 87
+    },
+    {
+      "name": "RUELLE",
+      "lower": "Limoges",
+      "sovereign": "France",
+      "C21_admin": "Charente",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 536
+    },
+    {
+      "name": "RUYRES-les-PRÉS",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 15
+    },
+    {
+      "name": "SAARBRUCK",
+      "lower": "Nassau-Saarbrucken",
+      "sovereign": "Nassau-Saarbrucken",
+      "C21_admin": "Saarland",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 250
+    },
+    {
+      "name": "SAGNE, La",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 11
+    },
+    {
+      "name": "SAINT-AUBIN",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 16
+    },
+    {
+      "name": "SAINT-AUBIN de CRETOT",
+      "lower": "Rouen",
+      "sovereign": "France",
+      "C21_admin": "Seine-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 549
+    },
+    {
+      "name": "SAINT-BLAISE ",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 5
+    },
+    {
+      "name": "SAINT-CLAUDE",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 105
+    },
+    {
+      "name": "SAINT-DIZIER",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Haute-Marne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 236
+    },
+    {
+      "name": "SAINTE-CROIX",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 37
+    },
+    {
+      "name": "SAINT-GALL",
+      "lower": "Occupied territories",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "St Gallen",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 192
+    },
+    {
+      "name": "SAINT-GEORGE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 74
+    },
+    {
+      "name": "SAINT-JEAN",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 14
+    },
+    {
+      "name": "SAINT-MAIXANT",
+      "lower": "Poitiers",
+      "sovereign": "France",
+      "C21_admin": "Deux-Sèvres",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 549
+    },
+    {
+      "name": "SAINT-MALO",
+      "lower": "Rennes",
+      "sovereign": "France",
+      "C21_admin": "Ille-et-Vilaine",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 695
+    },
+    {
+      "name": "SAINT-MAURICE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 27
+    },
+    {
+      "name": "SAINT-PETERSBOURG",
+      "lower": "Saint Petersburg",
+      "sovereign": "Russia",
+      "C21_admin": "Leningrad Oblast",
+      "C21_country": "Russia",
+      "zone": "East European",
+      "distance": 2105
+    },
+    {
+      "name": "SAINT-QUENTIN",
+      "lower": "Amiens",
+      "sovereign": "France",
+      "C21_admin": "Aisne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 417
+    },
+    {
+      "name": "SAINT-QUIRIN",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 180
+    },
+    {
+      "name": "SAINT-SULPICE",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 29
+    },
+    {
+      "name": "SAINTES",
+      "lower": "La Rochelle",
+      "sovereign": "France",
+      "C21_admin": "Charente-Maritime",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 598
+    },
+    {
+      "name": "SALINS",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Jura",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 80
+    },
+    {
+      "name": "SALON en Provence",
+      "lower": "Provence",
+      "sovereign": "France",
+      "C21_admin": "Bouches-du-Rhône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 399
+    },
+    {
+      "name": "SARRAZ, La",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 49
+    },
+    {
+      "name": "SARREGUEMINES",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 236
+    },
+    {
+      "name": "SARRELOUIS",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Sarre",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 259
+    },
+    {
+      "name": "SASSEL",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 24
+    },
+    {
+      "name": "SAUGEY, Le",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 71
+    },
+    {
+      "name": "SAULE",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 36
+    },
+    {
+      "name": "SCHAFFISHEIM",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Aargau",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 101
+    },
+    {
+      "name": "SCHAFFHOUSE",
+      "lower": "Schaffhouse",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Schaffhouse",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 151
+    },
+    {
+      "name": "SCHWYZ",
+      "lower": "Schwyz",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Schwyz",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 131
+    },
+    {
+      "name": "SEDAN",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Ardennes",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 335
+    },
+    {
+      "name": "SEMUR en AUXOIS",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Côte d'Or",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 204
+    },
+    {
+      "name": "SENNHEIM",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Haut-Rhin",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 93
+    },
+    {
+      "name": "SENS",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Yonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 305
+    },
+    {
+      "name": "SERRIERES",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 2
+    },
+    {
+      "name": "SIENNE",
+      "lower": "Tuscany",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Tuscany",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 535
+    },
+    {
+      "name": "SIGNAU",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 61
+    },
+    {
+      "name": "SOISSONS",
+      "lower": "Soissons",
+      "sovereign": "France",
+      "C21_admin": "Aisne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 377
+    },
+    {
+      "name": "SOLEURE",
+      "lower": "Solothurn",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Solothurn",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 52
+    },
+    {
+      "name": "SÔNE, La",
+      "lower": "Grenoble",
+      "sovereign": "France",
+      "C21_admin": "Isère",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 245
+    },
+    {
+      "name": "SONVILLIERS",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 17
+    },
+    {
+      "name": "STOCKHOLM",
+      "lower": "Sweden",
+      "sovereign": "Sweden",
+      "C21_admin": "Stockholm County",
+      "C21_country": "Sweden",
+      "zone": "Scandinavian",
+      "distance": 1558
+    },
+    {
+      "name": "STRASBOURG",
+      "lower": "Strasbourg",
+      "sovereign": "France",
+      "C21_admin": "Bas-Rhin",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 187
+    },
+    {
+      "name": "TARBES",
+      "lower": "Auch",
+      "sovereign": "France",
+      "C21_admin": "Hautes-Pyrenées",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 682
+    },
+    {
+      "name": "TAVANNES",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 33
+    },
+    {
+      "name": "THIERS en Auvergne",
+      "lower": "Riom",
+      "sovereign": "France",
+      "C21_admin": "Puy-de-Dôme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 289
+    },
+    {
+      "name": "THIONVILLE",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 269
+    },
+    {
+      "name": "THORBERG",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 48
+    },
+    {
+      "name": "THOUNE",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 59
+    },
+    {
+      "name": "TONNEINS",
+      "lower": "Bordeaux",
+      "sovereign": "France",
+      "C21_admin": "Lot-et-Garonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 591
+    },
+    {
+      "name": "TONNERRE",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Yonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 243
+    },
+    {
+      "name": "TOUL",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Meurthe-et-Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 204
+    },
+    {
+      "name": "TOULON",
+      "lower": "Provence",
+      "sovereign": "France",
+      "C21_admin": "Var",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 437
+    },
+    {
+      "name": "TOULOUSE",
+      "lower": "Toulouse",
+      "sovereign": "France",
+      "C21_admin": "Haute-Garonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 571
+    },
+    {
+      "name": "TOURS",
+      "lower": "Tours",
+      "sovereign": "France",
+      "C21_admin": "Indre-et-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 475
+    },
+    {
+      "name": "TRAVERS",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 20
+    },
+    {
+      "name": "TROYES",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Aube",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 259
+    },
+    {
+      "name": "TUBINGUE",
+      "lower": "Duchy of Wurttemberg",
+      "sovereign": "Wurttemberg",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 233
+    },
+    {
+      "name": "TURIN",
+      "lower": "Piedmont",
+      "sovereign": "Piedmont",
+      "C21_admin": "Piedmont",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 221
+    },
+    {
+      "name": "ULM",
+      "lower": "Ulm",
+      "sovereign": "Ulm",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 279
+    },
+    {
+      "name": "UZÈS",
+      "lower": "Montpellier",
+      "sovereign": "France",
+      "C21_admin": "Gard",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 385
+    },
+    {
+      "name": "VALENCE en Dauphiné",
+      "lower": "Grenoble",
+      "sovereign": "France",
+      "C21_admin": "Drôme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 278
+    },
+    {
+      "name": "VALENCE",
+      "lower": "Valencia",
+      "sovereign": "Spain",
+      "C21_admin": "Valencia",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 1024
+    },
+    {
+      "name": "VALENCIENNES",
+      "lower": "Valenciennes",
+      "sovereign": "France",
+      "C21_admin": "Nord",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 451
+    },
+    {
+      "name": "VALLON",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 12
+    },
+    {
+      "name": "VARSOVIE",
+      "lower": "Poland",
+      "sovereign": "Poland",
+      "C21_admin": "Masovia",
+      "C21_country": "Poland",
+      "zone": "East European",
+      "distance": 1172
+    },
+    {
+      "name": "VAUMARCUS",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 18
+    },
+    {
+      "name": "VENISE",
+      "lower": "Venice",
+      "sovereign": "Venice",
+      "C21_admin": "Veneto",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 452
+    },
+    {
+      "name": "VERAGAGRA",
+      "lower": "Basque Country",
+      "sovereign": "Spain",
+      "C21_admin": "Basque Country",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 878
+    },
+    {
+      "name": "VERDUN",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Meuse",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 267
+    },
+    {
+      "name": "VERRIÈRES",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 35
+    },
+    {
+      "name": "VERSAILLES",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 411
+    },
+    {
+      "name": "VERSOIX",
+      "lower": "Geneva",
+      "sovereign": "Geneva",
+      "C21_admin": "Geneva",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 98
+    },
+    {
+      "name": "VEVEY",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 59
+    },
+    {
+      "name": "VIENNE",
+      "lower": "Lower Austria",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Vienna",
+      "C21_country": "Austria",
+      "zone": "Austro-Hungarian",
+      "distance": 722
+    },
+    {
+      "name": "VILARS",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 5
+    },
+    {
+      "name": "VILLETTE, La",
+      "lower": "Caen",
+      "sovereign": "France",
+      "C21_admin": "Calvados",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 597
+    },
+    {
+      "name": "VOUVRY",
+      "lower": "Valais",
+      "sovereign": "Valais",
+      "C21_admin": "Valais",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 73
+    },
+    {
+      "name": "VRAICHAMP-DOCELLES",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Vosges",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 130
+    },
+    {
+      "name": "VUILLAFANS",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 55
+    },
+    {
+      "name": "WARKLAND",
+      "lower": "Livonia",
+      "sovereign": "Russia",
+      "C21_admin": "Latgallia",
+      "C21_country": "Latvia",
+      "zone": "East European",
+      "distance": 1724
+    },
+    {
+      "name": "WARTHAUSEN",
+      "lower": "Stadion-Warthausen",
+      "sovereign": "Stadion-Warthausen",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 250
+    },
+    {
+      "name": "WESEL",
+      "lower": "Cleves",
+      "sovereign": "Prussia: Cleves",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 520
+    },
+    {
+      "name": "WINTERTHOUR",
+      "lower": "Zurich",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Zurich",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 147
+    },
+    {
+      "name": "WISMAR",
+      "lower": "Wismar",
+      "sovereign": "Sweden",
+      "C21_admin": "Mecklenberg-Vorpommern",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 832
+    },
+    {
+      "name": "YVERDON",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 32
+    },
+    {
+      "name": "ZOUG",
+      "lower": "Zug",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Zug",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 122
+    },
+    {
+      "name": "ZURICH",
+      "lower": "Zurich",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Zurich",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 129
+    },
+    {
+      "name": "LANCE, La",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 21
+    },
+    {
+      "name": "MOTHE, La",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 34
+    },
+    {
+      "name": "JOINVILLE",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Haute-Marne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 210
+    },
+    {
+      "name": "JUSSEY",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Haute-Saône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 121
+    },
+    {
+      "name": "WORMS",
+      "lower": "Worms",
+      "sovereign": "Worms",
+      "C21_admin": "Rhineland-Palatinate",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 312
+    },
+    {
+      "name": "BÔLE",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 7
+    },
+    {
+      "name": "VÉRONE",
+      "lower": "Venice",
+      "sovereign": "Venice",
+      "C21_admin": "Veneto",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 358
+    },
+    {
+      "name": "SÄRZEN",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 35
+    },
+    {
+      "name": "CHINON",
+      "lower": "Tours",
+      "sovereign": "France",
+      "C21_admin": "Indre-et-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 508
+    },
+    {
+      "name": "CALAIS",
+      "lower": "Amiens",
+      "sovereign": "France",
+      "C21_admin": "Pas-de-Calais",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 577
+    },
+    {
+      "name": "HOFSTETTEN",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 91
+    },
+    {
+      "name": "BÖNIGHEIM",
+      "lower": "Duchy of Wurttemberg",
+      "sovereign": "Wurttemberg",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 280
+    },
+    {
+      "name": "RATISBONNE",
+      "lower": "Ratisbon",
+      "sovereign": "Ratisbon",
+      "C21_admin": "Bavaria",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 447
+    },
+    {
+      "name": "VILLEFRANCHE",
+      "lower": "Lyon",
+      "sovereign": "France",
+      "C21_admin": "Rhône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 203
+    },
+    {
+      "name": "BOTTENS",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 46
+    },
+    {
+      "name": "SAUMUR",
+      "lower": "Tours",
+      "sovereign": "France",
+      "C21_admin": "Maine-et-Loire",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 532
+    },
+    {
+      "name": "MÜNZ",
+      "lower": "Weid-Neuwied",
+      "sovereign": "Weid-Neuwied",
+      "C21_admin": "Rhineland-Palatinate",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 385
+    },
+    {
+      "name": "THIELLE (des bords de la)",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 8
+    },
+    {
+      "name": "CRISSIER",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 55
+    },
+    {
+      "name": "KEHRSATZ",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 42
+    },
+    {
+      "name": "DUN-SUR-MEUSE",
+      "lower": "Metz",
+      "sovereign": "France",
+      "C21_admin": "Meuse",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 296
+    },
+    {
+      "name": "PLAISANCE",
+      "lower": "Milan",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Emilia-Romagna",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 304
+    },
+    {
+      "name": "SION",
+      "lower": "Valais",
+      "sovereign": "Valais",
+      "C21_admin": "Valais",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 90
+    },
+    {
+      "name": "DOMBRESSON",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 9
+    },
+    {
+      "name": "BEVILARD",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 39
+    },
+    {
+      "name": "PONT-DE-THIELLE",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 10
+    },
+    {
+      "name": "CLAIRA-EN-AGENAIS",
+      "lower": "Bordeaux",
+      "sovereign": "France",
+      "C21_admin": "Lot-et-Garonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 587
+    },
+    {
+      "name": "RIGA",
+      "lower": "Livonia",
+      "sovereign": "Russia",
+      "C21_admin": "Courland",
+      "C21_country": "Latvia",
+      "zone": "East European",
+      "distance": 1613
+    },
+    {
+      "name": "FREDERICIA",
+      "lower": "Jutland",
+      "sovereign": "Denmark",
+      "C21_admin": "Syddanmark",
+      "C21_country": "Denmark",
+      "zone": "Scandinavian",
+      "distance": 974
+    },
+    {
+      "name": "LIGNY-EN-BARROIS",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Meuse",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 224
+    },
+    {
+      "name": "POTSDAM",
+      "lower": "Brandenburg",
+      "sovereign": "Prussia",
+      "C21_admin": "Brandenburg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 746
+    },
+    {
+      "name": "BILBAO",
+      "lower": "Basque Country",
+      "sovereign": "Spain",
+      "C21_admin": "Basque Country",
+      "C21_country": "Spain",
+      "zone": "Iberian",
+      "distance": 878
+    },
+    {
+      "name": "AVALLON",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Yonne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 235
+    },
+    {
+      "name": "PISE",
+      "lower": "Tuscany",
+      "sovereign": "Austrian Italian territories",
+      "C21_admin": "Tuscany",
+      "C21_country": "Italy",
+      "zone": "Italian",
+      "distance": 454
+    },
+    {
+      "name": "ANVERS",
+      "lower": "Brabant",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "Antwerp",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 505
+    },
+    {
+      "name": "BREMGARTEN",
+      "lower": "Occupied territories",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Aargau",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 114
+    },
+    {
+      "name": "GLARIS",
+      "lower": "Glarus",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Glarus",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 163
+    },
+    {
+      "name": "PERONNE",
+      "lower": "Amiens",
+      "sovereign": "France",
+      "C21_admin": "Somme",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 444
+    },
+    {
+      "name": "CUDREFIN",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 8
+    },
+    {
+      "name": "GHENT",
+      "lower": "Flanders",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "East Flanders",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 509
+    },
+    {
+      "name": "YPRES",
+      "lower": "Flanders",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "West Flanders",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 521
+    },
+    {
+      "name": "FRAMBOURG, LE",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 44
+    },
+    {
+      "name": "BRUGES",
+      "lower": "Flanders",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "West Flanders",
+      "C21_country": "Belgium",
+      "zone": "Belgian",
+      "distance": 541
+    },
+    {
+      "name": "TOURNAY",
+      "lower": "Hainaut",
+      "sovereign": "Austrian Netherlands",
+      "C21_admin": "Hainaut",
+      "C21_country": "France",
+      "zone": "Belgian",
+      "distance": 478
+    },
+    {
+      "name": "AVRANCHES",
+      "lower": "Caen",
+      "sovereign": "France",
+      "C21_admin": "Manche",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 648
+    },
+    {
+      "name": "SAINT-JUNIEN",
+      "lower": "Limoges",
+      "sovereign": "France",
+      "C21_admin": "Haute-Vienne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 479
+    },
+    {
+      "name": "ERMENONVILLE",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Oise",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 395
+    },
+    {
+      "name": "PONT-A-MOUSSON",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Meurthe-et-Moselle",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 223
+    },
+    {
+      "name": "NOIRAIGUE",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 16
+    },
+    {
+      "name": "CASTRES",
+      "lower": "Toulouse",
+      "sovereign": "France",
+      "C21_admin": "Tarn",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 526
+    },
+    {
+      "name": "CONFLANS",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Haute-Saône",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 107
+    },
+    {
+      "name": "WURTTEMBERG",
+      "lower": "Duchy of Wurttemberg",
+      "sovereign": "Wurttemberg",
+      "C21_admin": "Baden-Wurttemberg",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 242
+    },
+    {
+      "name": "DUISBOURG",
+      "lower": "Cleves",
+      "sovereign": "Prussia: Cleves",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 494
+    },
+    {
+      "name": "HAUTERIVE",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 4
+    },
+    {
+      "name": "DUSSELDORF",
+      "lower": "Berg",
+      "sovereign": "Palatinate",
+      "C21_admin": "North Rhine-Westphalia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 471
+    },
+    {
+      "name": "ARNHEIM",
+      "lower": "Gelderland",
+      "sovereign": "United Provinces",
+      "C21_admin": "Gelderland",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 560
+    },
+    {
+      "name": "JOUGNE",
+      "lower": "Besançon",
+      "sovereign": "France",
+      "C21_admin": "Doubs",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 48
+    },
+    {
+      "name": "GOTHA",
+      "lower": "Saxe-Gotha",
+      "sovereign": "Saxe-Gotha-Altenburg",
+      "C21_admin": "Thuringia",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 519
+    },
+    {
+      "name": "BOLLIGEN",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Berne",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 43
+    },
+    {
+      "name": "TRIESTE",
+      "lower": "Carniola",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Friuli-Venezia Giulia",
+      "C21_country": "Italy",
+      "zone": "Austro-Hungarian",
+      "distance": 548
+    },
+    {
+      "name": "PORTALBAN",
+      "lower": "Fribourg",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Fribourg",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 8
+    },
+    {
+      "name": "BOURBONNE LES BAINS",
+      "lower": "Châlons",
+      "sovereign": "France",
+      "C21_admin": "Haute-Marne",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 139
+    },
+    {
+      "name": "REMIREMONT",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Vosges",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 117
+    },
+    {
+      "name": "GENLIS",
+      "lower": "Burgundy",
+      "sovereign": "France",
+      "C21_admin": "Côte d'Or",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 132
+    },
+    {
+      "name": "CALEVES",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Vaud",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 85
+    },
+    {
+      "name": "VALLENGIN",
+      "lower": "Neuchâtel",
+      "sovereign": "Prussia: Neuchâtel",
+      "C21_admin": "Neuchâtel",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 3
+    },
+    {
+      "name": "KREMS",
+      "lower": "Lower Austria",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Lower Austria",
+      "C21_country": "Austria",
+      "zone": "Austro-Hungarian",
+      "distance": 669
+    },
+    {
+      "name": "BURE",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Canton of Jura",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 51
+    },
+    {
+      "name": "UTRECHT",
+      "lower": "Utrecht",
+      "sovereign": "United Provinces",
+      "C21_admin": "Utrecht",
+      "C21_country": "Netherlands",
+      "zone": "Dutch",
+      "distance": 581
+    },
+    {
+      "name": "AIX-EN-SAVOIE",
+      "lower": "Savoy",
+      "sovereign": "Piedmont",
+      "C21_admin": "Savoie",
+      "C21_country": "France",
+      "zone": "Italian",
+      "distance": 164
+    },
+    {
+      "name": "SAINT-DENIS",
+      "lower": "Paris",
+      "sovereign": "France",
+      "C21_admin": "Ile-de France",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 403
+    },
+    {
+      "name": "MIRECOURT",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Vosges",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 157
+    },
+    {
+      "name": "SAINT-DIÉ",
+      "lower": "Nancy",
+      "sovereign": "France",
+      "C21_admin": "Vosges",
+      "C21_country": "France",
+      "zone": "French",
+      "distance": 143
+    },
+    {
+      "name": "BAIMOCZ",
+      "lower": "Hungary",
+      "sovereign": "Austrian Empire",
+      "C21_admin": "Trencin",
+      "C21_country": "Slovakia",
+      "zone": "Austro-Hungarian",
+      "distance": 892
+    },
+    {
+      "name": "LE BÉMONT",
+      "lower": "Basle Bishopric",
+      "sovereign": "Basle Bishopric",
+      "C21_admin": "Canton of Jura",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 31
+    },
+    {
+      "name": "AARAU",
+      "lower": "Berne",
+      "sovereign": "Swiss confederation",
+      "C21_admin": "Aargau",
+      "C21_country": "Switzerland",
+      "zone": "Helvetic",
+      "distance": 95
+    },
+    {
+      "name": "GIESSEN",
+      "lower": "Hesse-Darmstadt",
+      "sovereign": "Hesse-Darmstadt",
+      "C21_admin": "Hesse",
+      "C21_country": "Germany",
+      "zone": "German",
+      "distance": 419
+    }
+  ]
+}

@@ -1,0 +1,6978 @@
+{
+  "description": "Books published by the 18th-century publishing house, the Société typographique de Neuchâtel",
+  "values": [
+    {
+      "title": "Prolusione letta il giorno g gennaio 1769 nell'apertura della nuova cattedra di Scienze camerali nelle Scuole palatine di Milano",
+      "fbtee": "bk0000029",
+      "authors": [
+        "Beccaria, César Bonesana [marquis de]",
+        "Comparet, Jean-Antoine"
+      ],
+      "keywords": [
+        "Commerce",
+        "Economic Theory",
+        "Economics",
+        "Financial administration"
+      ]
+    },
+    {
+      "title": "[Selections from:] 'The Spectator'; 'The Tatler'; 'The Guardian'",
+      "fbtee": "bk0000067",
+      "authors": [
+        "Addison, Joseph",
+        "Açarq, Jean-Pierre [d']"
+      ],
+      "keywords": [
+        "Addison, Joseph",
+        "Biography",
+        "Britain",
+        "Collected works",
+        "Lives and letters",
+        "Miscellaneous essays",
+        "Periodical Literature",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Historiae",
+      "fbtee": "bk0000083",
+      "authors": "Salluste",
+      "keywords": [
+        "Classical antiquity",
+        "History",
+        "Roman Empire"
+      ]
+    },
+    {
+      "title": "Wilhelmine: ein prosaisch-komisches Gedicht / Das Leben und die Meinungen des Herrn Magister Sebaldus Nothanker",
+      "fbtee": [
+        "bk0000093",
+        "bk0002291",
+        "bk0003827"
+      ],
+      "authors": [
+        "Bertrand, Jean-Elie",
+        "Huber, Michael",
+        "Nicolai, Friedrich",
+        "Thümmel, Moritz August [von]"
+      ],
+      "keywords": [
+        "Anti-Clerical Works",
+        "Christian enlightenment text",
+        "Christianity",
+        "Collected works",
+        "Comic Poetry",
+        "Literature",
+        "Lutheranism",
+        "Poetry",
+        "Prose Fiction",
+        "Protestantism",
+        "Religion",
+        "Romantic Fiction",
+        "Satirical works",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Vorbereitung zur grundlichen und nützlichen Kenntniss der geographischen Beschaffenheit",
+      "fbtee": "bk0000094",
+      "authors": "Büsching, Anton-Friedrich",
+      "keywords": [
+        "Economics",
+        "Europe",
+        "Geography",
+        "Politics",
+        "School Book"
+      ]
+    },
+    {
+      "title": "Giornale di un viaggio da Constantinopoli in Polonia",
+      "fbtee": "bk0000103",
+      "authors": [
+        "Boškovic, Ruder Josip",
+        "Hennin, P.-M."
+      ],
+      "keywords": [
+        "Ottoman Empire",
+        "Poland",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Наказ Екатерины II Комиссии о составлении проекта нового Уложения [commonly known as the 'Nakaz']",
+      "fbtee": "bk0000105",
+      "authors": "Catherine II, Empress of Russia",
+      "keywords": [
+        "Current Affairs",
+        "Law",
+        "Legal Codification",
+        "Legal reform",
+        "Official documents",
+        "Philosophie",
+        "Political theory",
+        "Politics",
+        "Russia"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "A Plain Account of the Diseases Incident to Children; with an Easy Method of Curing Them: Designed for the Use of Families",
+      "fbtee": "bk0000106",
+      "authors": "Cook, John",
+      "keywords": [
+        "Childhood diseases",
+        "Medical remedies",
+        "Medicine",
+        "Science"
+      ]
+    },
+    {
+      "title": "[Satires]",
+      "fbtee": [
+        "bk0000112",
+        "bk0005392"
+      ],
+      "authors": [
+        "Aulus Persius Flaccus",
+        "Taillade d'Hervilliers"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Literature",
+        "Philosophy",
+        "Poetry",
+        "Roman Empire",
+        "Satirical works",
+        "Stoicism"
+      ]
+    },
+    {
+      "title": "Some Thoughts Concerning Religion, Natural and Revealed; A Letter to a Bishop; Reflexions on the Sources of Incredulity with Regard to Religion ",
+      "fbtee": "bk0000132",
+      "authors": [
+        "Forbes, Duncan [of Culloden]",
+        "Houbigant, Charles-François"
+      ],
+      "keywords": [
+        "Apologetic works",
+        "Christian theology",
+        "Christianity",
+        "Deism",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Selectae e profanis scriptoribus historiae",
+      "fbtee": "bk0000133",
+      "authors": "Heuzet, Jean",
+      "keywords": [
+        "Bilingual editions",
+        "Classical antiquity",
+        "Collected works",
+        "Languages",
+        "Latin language",
+        "Literary studies",
+        "Literature",
+        "Moral instruction",
+        "School Book",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "An Essay on Man ",
+      "fbtee": "bk0000146",
+      "authors": "Pope, Alexander",
+      "keywords": [
+        "Human nature",
+        "Literature",
+        "Metaphysics",
+        "Moral Philosophy",
+        "Philosophy",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "Treatise on the management of bees",
+      "fbtee": "bk0000159",
+      "authors": [
+        "Soresi, Pier-Domenico",
+        "Wildman, Thomas"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Beekeeping",
+        "Biology",
+        "Entomology",
+        "Science"
+      ]
+    },
+    {
+      "title": "Repvblica literaria",
+      "fbtee": "bk0000165",
+      "authors": "Saavedra Fajardo, Diego",
+      "keywords": [
+        "Allegorical Works",
+        "Literary Criticism",
+        "Literary studies",
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Animadversiones ad criminalem iurisprudentiam pertinentes",
+      "fbtee": "bk0000167",
+      "authors": [
+        "Risi, Paul",
+        "Seigneux de Correvon, Gabriel"
+      ],
+      "keywords": [
+        "Criminal Law",
+        "Judicial Procedure",
+        "Law",
+        "Legal reform",
+        "Penal system"
+      ]
+    },
+    {
+      "title": "Meditazioni sulla Economia Politica",
+      "fbtee": "bk0000193",
+      "authors": [
+        "Mingard, Gabriel-Jean-Henri",
+        "Verri, Pietro"
+      ],
+      "keywords": [
+        "Commerce",
+        "Economic Theory",
+        "Economics",
+        "Financial administration",
+        "Political theory",
+        "Politics",
+        "Taxation"
+      ]
+    },
+    {
+      "title": "Neue Idyllen",
+      "fbtee": [
+        "bk0000205",
+        "bk0004172"
+      ],
+      "authors": [
+        "Diderot, Denis",
+        "Gessner, Salomon",
+        "Meister, Jakob Heinrich"
+      ],
+      "keywords": [
+        "Literature",
+        "Philosophie",
+        "Poetry",
+        "Prose Fiction",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "The history of Emily Montague",
+      "fbtee": "bk0000223",
+      "authors": [
+        "Brooke, Frances Moore",
+        "Robinet, Jean-Baptiste-René"
+      ],
+      "keywords": [
+        "Canada",
+        "Epistolary Fiction",
+        "Literature",
+        "North America",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "Strictures on a Sermon, Entitled, the Principles of the Revolution Vindicated",
+      "fbtee": "bk0000279",
+      "authors": "Watson, Richard",
+      "keywords": [
+        "American Revolution",
+        "Britain",
+        "Christianity",
+        "Colonial policy",
+        "Current Affairs",
+        "Glorious Revolution",
+        "History",
+        "North America",
+        "Political theory",
+        "Politics",
+        "Protestant text",
+        "Religion",
+        "Sermons",
+        "Work of Religiosity"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Echte anecdoten van Peter den Grooten",
+      "fbtee": "bk0000297",
+      "authors": [
+        "Perrault",
+        "Richou, Louis Joseph",
+        "Staehlin-Storcksburg, Jakob [von]"
+      ],
+      "keywords": [
+        "Biographical anecdotes",
+        "Courts & Courtiers",
+        "History",
+        "Lives and letters",
+        "Peter I",
+        "Russia"
+      ]
+    },
+    {
+      "title": "M. Georg Christian Raff ... Naturgeschichte für Kinder zum Gebrauch auf Stat- und Landschulen",
+      "fbtee": "bk0000300",
+      "authors": [
+        "Perrault, Claude",
+        "Raff, Georg Christian"
+      ],
+      "keywords": [
+        "Natural History (general)",
+        "School Book",
+        "Science"
+      ]
+    },
+    {
+      "title": "Bagatellen von Anton Wall?",
+      "fbtee": "bk0000316",
+      "authors": [
+        "Heyne, Christian Leberecht",
+        "Polier, Marie Élisabeth [de]",
+        "Wall, Anton"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "The History of Amelia; Joseph Andrews; The Life of Jonathan Wild; Tom Jones, a Foundling; A Journey from this World to the Next; The Adventures of Roderick Random; The  Adventures of David Simple",
+      "fbtee": [
+        "bk0000322",
+        "bk0001232"
+      ],
+      "authors": [
+        "Fielding, Henry",
+        "Smollett, Tobias George"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Betrachtungen über die Werke Gottes",
+      "fbtee": "bk0000327",
+      "authors": [
+        "Brunswick-Wolfenbuttel, Élisabeth-Christine [de]",
+        "Sturm, Christoph Christian"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Meditations",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Tales of the Genii: or, The delightful lessons of Horam, the son on Asmar",
+      "fbtee": "bk0000337",
+      "authors": [
+        "Ridley, James",
+        "Robinet, Jean-Baptiste-René"
+      ],
+      "keywords": [
+        "Children's literature",
+        "Fantasy adventures",
+        "Islamic World",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "The Roman History: From the Building of Rome to the Ruin of the Commonwealth. ",
+      "fbtee": "bk0000351",
+      "authors": [
+        "Hooke, Luke Joseph",
+        "Hooke, Nathaniel"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "History",
+        "Roman Empire"
+      ]
+    },
+    {
+      "title": "[Various titles]",
+      "fbtee": [
+        "bk0000352",
+        "bk0000621",
+        "bk0000785",
+        "bk0000844",
+        "bk0001064",
+        "bk0001753",
+        "bk0002007",
+        "bk0002736",
+        "bk0003071",
+        "bk0004216",
+        "bk0004345",
+        "bk0004505",
+        "bk0005085",
+        "bk0005091",
+        "bk0005203",
+        "bk0005207"
+      ],
+      "authors": [
+        "Angoulême, Marguerite [d']",
+        "Bertrand, Jean [pasteur à Orbe]",
+        "Boccaccio, Giovanni",
+        "Bonneville, Nicolas [de]",
+        "Duhamel du Monceau, Henri Louis",
+        "Gessner, Salomon",
+        "Grazzini, Anton Francesco",
+        "Huber, Michael",
+        "Jacobi, Johann Georg",
+        "Lefebvre de Villebrune, Jean-Baptiste",
+        "Meissner, August Gottlieb",
+        "Metastasio, Pietro",
+        "Miller, Philip",
+        "Sabatier de Castres, Antoine",
+        "Shakespeare, William",
+        "Sturz, Helferich Peter",
+        "Turgot, Anne Robert Jacques",
+        "Térence",
+        "Wall, Anton",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Anti-Clerical Works",
+        "Arable farming",
+        "Arboriculture",
+        "Bilingual editions",
+        "Collected works",
+        "Comedy",
+        "Correspondence",
+        "Drama",
+        "Erotic works",
+        "Fine Arts",
+        "Languages",
+        "Literary Correspondence",
+        "Literature",
+        "Lives and letters",
+        "Manual",
+        "Music",
+        "Oeuvres",
+        "Opera",
+        "Painting",
+        "Poetry",
+        "Prints",
+        "Prose Fiction",
+        "Reference works",
+        "Romantic Fiction",
+        "Satirical works",
+        "Sentimental Fiction",
+        "Short stories",
+        "Verse Drama"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Dialogues Concerning Natural Religion",
+      "fbtee": "bk0000361",
+      "authors": "Hume, David",
+      "keywords": [
+        "Deism",
+        "Metaphysics",
+        "Natural Religion",
+        "Philosophie",
+        "Philosophy",
+        "Religion",
+        "Sceptical works",
+        "Theology"
+      ]
+    },
+    {
+      "title": "Die Entdeckung von Amerika, ein angenehmes und nützliches Lesebuch für Kinder und junge Leute ",
+      "fbtee": "bk0000363",
+      "authors": [
+        "Campe, Joachim Heinrich",
+        "Junker, Georges Adam"
+      ],
+      "keywords": [
+        "Caribbean",
+        "Central America",
+        "Children's literature",
+        "Conquistadors",
+        "Exploration",
+        "History",
+        "North America",
+        "South America"
+      ]
+    },
+    {
+      "title": "Ernst und Falk",
+      "fbtee": "bk0000385",
+      "authors": "Lessing, Gotthold Ephraim",
+      "keywords": "Freemasonry"
+    },
+    {
+      "title": "An Account of the Character and Manners of the French",
+      "fbtee": "bk0000387",
+      "authors": [
+        "Andrews, John",
+        "Rutledge, Jean Jacques [chevalier]"
+      ],
+      "keywords": [
+        "Catholicism",
+        "Christianity",
+        "France",
+        "Gender relations",
+        "History",
+        "National Character",
+        "National customs",
+        "Political institutions",
+        "Religion",
+        "Social mores",
+        "Social order"
+      ]
+    },
+    {
+      "title": "Economy of Human Life",
+      "fbtee": "bk0000390",
+      "authors": "Dodsley, Robert",
+      "keywords": [
+        "Conduct manual",
+        "India",
+        "Maxims",
+        "Moral Philosophy",
+        "Moral instruction",
+        "Philosophy",
+        "Spurious works"
+      ]
+    },
+    {
+      "title": "An Essay on Military Education",
+      "fbtee": "bk0000394",
+      "authors": "Lochée, Lewis",
+      "keywords": [
+        "Britain",
+        "Constitutional theory",
+        "Education",
+        "Military Affairs",
+        "Military training",
+        "Political theory",
+        "Politics"
+      ]
+    },
+    {
+      "title": "Dissertazioni di fissica animale e vegetabile",
+      "fbtee": "bk0000396",
+      "authors": [
+        "Spallanzani, Lazzaro",
+        "Sénebier, Jean"
+      ],
+      "keywords": [
+        "Biology",
+        "Botany",
+        "Physiology",
+        "Science",
+        "Zoology"
+      ]
+    },
+    {
+      "title": "Evelina: Or The History of A Young Lady's Entrance into the World",
+      "fbtee": "bk0000401",
+      "authors": "Burney, Fanny",
+      "keywords": [
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "Sketches of the natural, civil, and political state of Swisserland, in a series of letters to William Melmoth ",
+      "fbtee": "bk0000403",
+      "authors": [
+        "Coxe, William",
+        "Rieu, Henri"
+      ],
+      "keywords": [
+        "Current Affairs",
+        "Politics",
+        "Switzerland",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Kleine Seelenlehre für Kinder",
+      "fbtee": "bk0000409",
+      "authors": "Campe, Joachim Heinrich",
+      "keywords": [
+        "Children's literature",
+        "Education",
+        "Pedagogy",
+        "Philosophy"
+      ]
+    },
+    {
+      "title": "The Favourite of Fortune",
+      "fbtee": "bk0000421",
+      "authors": [
+        "Robinet, Jean-Baptiste-René",
+        "Seally, John"
+      ],
+      "keywords": [
+        "Amorous adventures",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Beschreibung von der Natur und Kräften des schweitzerischen Gletscher-Spiritus in den gefa¨hrlichsten und langwierigsten Krankheiten ",
+      "fbtee": "bk0000432",
+      "authors": "Langhans, Daniel",
+      "keywords": [
+        "Glaciers",
+        "Medical remedies",
+        "Medicine",
+        "Science",
+        "Switzerland",
+        "Venereal diseases"
+      ]
+    },
+    {
+      "title": "The Rise, Progress and Present State of the Northern Governments, viz. the United Provinces, Denmark, Sweden, Russia and Poland",
+      "fbtee": "bk0000436",
+      "authors": [
+        "Démeunier, Jean-Nicolas",
+        "Williams, John"
+      ],
+      "keywords": [
+        "Current Affairs",
+        "Denmark",
+        "Economics",
+        "History",
+        "Netherlands",
+        "Poland",
+        "Political institutions",
+        "Politics",
+        "Public administration",
+        "Russia",
+        "Sweden"
+      ]
+    },
+    {
+      "title": "El Discreto de Lorenço Gracian",
+      "fbtee": "bk0000454",
+      "authors": [
+        "Courbeville, Joseph [de]",
+        "Gracián, Baltasar"
+      ],
+      "keywords": [
+        "Conduct manual",
+        "Courts & Courtiers",
+        "Etiquette"
+      ]
+    },
+    {
+      "title": "Geschichte des Agathon",
+      "fbtee": [
+        "bk0000455",
+        "bk0001889"
+      ],
+      "authors": [
+        "Frenais, Joseph-Pierre",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Amorous adventures",
+        "Classical antiquity",
+        "Greece",
+        "Historical Fiction",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "[Riforma della legislazione criminale]",
+      "fbtee": "bk0000465",
+      "authors": "Leopold II, Austrian Emperor",
+      "keywords": [
+        "Austrian Empire",
+        "Criminal Law",
+        "Italy",
+        "Law",
+        "Legal codes"
+      ]
+    },
+    {
+      "title": "Le Notti Clementine",
+      "fbtee": "bk0000468",
+      "authors": [
+        "Bertòla De' Giorgi, Aurelio",
+        "Caraccioli, Louis-Antoine [de]"
+      ],
+      "keywords": [
+        "Catholicism",
+        "Christianity",
+        "Clement XIV, Pope",
+        "Current Affairs",
+        "Literature",
+        "Papacy",
+        "Poetry",
+        "Politics",
+        "Religion"
+      ]
+    },
+    {
+      "title": "Institutions of medicine",
+      "fbtee": "bk0000469",
+      "authors": [
+        "Cullen, William",
+        "Pinel, Philippe"
+      ],
+      "keywords": [
+        "Medical remedies",
+        "Medicine",
+        "Pathology",
+        "Reference works",
+        "Science"
+      ]
+    },
+    {
+      "title": "Res Gestae",
+      "fbtee": "bk0000474",
+      "authors": [
+        "Ammien Marcellin",
+        "Moulines, Guillaume [de]"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "History",
+        "Roman Empire"
+      ]
+    },
+    {
+      "title": "Iliás",
+      "fbtee": "bk0000475",
+      "authors": [
+        "Bitaubé, Paul Jérémie",
+        "Homer"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Epic Poetry",
+        "Greece",
+        "History",
+        "Literature",
+        "Mythology",
+        "Poetry",
+        "Trojan War"
+      ]
+    },
+    {
+      "title": "An Introduction to the Making of Latin ",
+      "fbtee": [
+        "bk0000484",
+        "bk0000653"
+      ],
+      "authors": [
+        "Clarke, John",
+        "Wailly, Noël François [de]"
+      ],
+      "keywords": [
+        "Grammar",
+        "Languages",
+        "Latin language",
+        "Reference works",
+        "School Book"
+      ]
+    },
+    {
+      "title": "Letters of Lord Chesterfield to his Son",
+      "fbtee": [
+        "bk0000497",
+        "bk0003490"
+      ],
+      "authors": [
+        "Chesterfield, Philip Dormer [4th Earl of]",
+        "Peyron, Jean-François"
+      ],
+      "keywords": [
+        "Conduct manual",
+        "Correspondence",
+        "Etiquette",
+        "Lives and letters",
+        "Manners"
+      ]
+    },
+    {
+      "title": "\"On the Uncertainty of the Signs of Death\" [from Medical Observations and Inquiries]",
+      "fbtee": "bk0000498",
+      "authors": "Hunter, William",
+      "keywords": [
+        "Anatomy",
+        "Human nature",
+        "Illegitimacy",
+        "Infanticide",
+        "Medical Autopsies",
+        "Medical Case Reports",
+        "Medicine",
+        "Murder",
+        "Nature of Women",
+        "Science"
+      ]
+    },
+    {
+      "title": "A view of society and manners in France, Switzerland and Germany",
+      "fbtee": "bk0000505",
+      "authors": [
+        "Moore, John",
+        "Rieu, Henri"
+      ],
+      "keywords": [
+        "France",
+        "Germany",
+        "National customs",
+        "Political institutions",
+        "Politics",
+        "Social mores",
+        "Switzerland",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Winckelmanns Briefe an seine freunde ... mit einigen zusätzen und litterarischen anmerkungen [and] Briefe an seine Freunde in der Schweiz [together with misc. other letters]",
+      "fbtee": "bk0000512",
+      "authors": "Winckelmann, Johann Joachim",
+      "keywords": [
+        "Architecture",
+        "Art History",
+        "Classical antiquity",
+        "Classical remains",
+        "Correspondence",
+        "Fine Arts",
+        "France",
+        "Greece",
+        "Italy",
+        "Literary Correspondence",
+        "Lives and letters",
+        "Painting",
+        "Roman Empire",
+        "Rome (city of)"
+      ]
+    },
+    {
+      "title": "Odes",
+      "fbtee": "bk0000530",
+      "authors": "Horace",
+      "keywords": [
+        "Classical antiquity",
+        "Collected works",
+        "Literature",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "Vita di Sebastiano Giuseppe de Carvalho e Melo",
+      "fbtee": "bk0000535",
+      "authors": [
+        "Gattel, Claude-Marie",
+        "Gusta, Francesco"
+      ],
+      "keywords": [
+        "Biography",
+        "Current Affairs",
+        "Lives and letters",
+        "Politics",
+        "Pombal, Marquis de",
+        "Portugal"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "kitab 'alf layla wa-layla",
+      "fbtee": "bk0000539",
+      "authors": "Galland, Antoine",
+      "keywords": [
+        "Collected works",
+        "Fantasy adventures",
+        "Islamic World",
+        "Literature",
+        "Persia",
+        "Prose Fiction",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "Was ist der Pabst?",
+      "fbtee": "bk0000545",
+      "authors": [
+        "Deschamps de Saucourt",
+        "Eybel, Joseph Valentin"
+      ],
+      "keywords": [
+        "Austrian Empire",
+        "Catholic text",
+        "Catholicism",
+        "Christian Doctrine",
+        "Christian enlightenment text",
+        "Christianity",
+        "Church and State",
+        "Ecclesiastical affairs",
+        "Ecclesiastical reform",
+        "Papacy",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "[The Iliad, The Odyssey]",
+      "fbtee": "bk0000559",
+      "authors": [
+        "Dacier, Anne Lefèvre",
+        "Homer",
+        "Pope, Alexander"
+      ],
+      "keywords": [
+        "Biography",
+        "Classical antiquity",
+        "Collected works",
+        "Epic Poetry",
+        "Greece",
+        "History",
+        "Homer",
+        "Literary History",
+        "Literary studies",
+        "Literature",
+        "Lives and letters",
+        "Mythology",
+        "Oeuvres",
+        "Poetry",
+        "Trojan War"
+      ]
+    },
+    {
+      "title": "Abridgement of the History of England",
+      "fbtee": "bk0000573",
+      "authors": [
+        "Brissot de Warville, Félicité",
+        "Goldsmith, Oliver"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "History"
+      ]
+    },
+    {
+      "title": "The History of the Progress and Termination of the Roman Republic",
+      "fbtee": "bk0000575",
+      "authors": "Ferguson, Adam",
+      "keywords": [
+        "Classical antiquity",
+        "History",
+        "Roman Empire"
+      ]
+    },
+    {
+      "title": "Political arithmetic; An Inquiry into the connection between the present price of provisions, and the size of farms ... by a farmer",
+      "fbtee": "bk0000585",
+      "authors": [
+        "Arbuthnot, John",
+        "Fréville, Anne-François-Joachim",
+        "Young, Arthur"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Agronomy",
+        "Collected works",
+        "Economics",
+        "Land improvement"
+      ]
+    },
+    {
+      "title": "The Rambler",
+      "fbtee": "bk0000597",
+      "authors": "Johnson, Samuel",
+      "keywords": [
+        "Britain",
+        "Christianity",
+        "Current Affairs",
+        "Literary Criticism",
+        "Literary studies",
+        "Miscellaneous essays",
+        "Periodical Literature",
+        "Politics",
+        "Religion"
+      ]
+    },
+    {
+      "title": "Sigewart, eine Klostergeschichte",
+      "fbtee": "bk0000608",
+      "authors": [
+        "La Vaux [de]",
+        "Miller, Johann Martin"
+      ],
+      "keywords": [
+        "Germany",
+        "Literature",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "[Sermons]",
+      "fbtee": [
+        "bk0000610",
+        "bk0001737"
+      ],
+      "authors": [
+        "Houbigant, Charles-François",
+        "Sherlock, Thomas",
+        "Sterne, Laurence"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Collected works",
+        "Protestant text",
+        "Religion",
+        "Sermons",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "'Especifico nuevamente descubierto en el reyno de Goatemala, para la curacion radical del horrible mal de cancro'",
+      "fbtee": "bk0000612",
+      "authors": [
+        "Flores, Joseph [dom]",
+        "Grasset, François"
+      ],
+      "keywords": [
+        "Medical remedies",
+        "Medicine",
+        "Science",
+        "Venereal diseases"
+      ]
+    },
+    {
+      "title": "Discorso sopra le vicende della letteratura",
+      "fbtee": "bk0000617",
+      "authors": [
+        "Denina, Carlo",
+        "Livoy, Timothée Hureau [de]"
+      ],
+      "keywords": [
+        "Literary Criticism",
+        "Literary History",
+        "Literary studies"
+      ]
+    },
+    {
+      "title": "Winterreise",
+      "fbtee": "bk0000632",
+      "authors": [
+        "Armandry",
+        "Jacobi, Johann Georg"
+      ],
+      "keywords": [
+        "Germany",
+        "Literature",
+        "Prose Fiction",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Relación histórica del viaje hecho de orden de su Majestad a la América Meridional",
+      "fbtee": "bk0000636",
+      "authors": [
+        "Mauvillon, Éléazar [de]",
+        "Santacilia, Jorge Juan y",
+        "Ulloa, Antonio [de]"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Exploration",
+        "Geography",
+        "History",
+        "Science",
+        "South America",
+        "Travel"
+      ]
+    },
+    {
+      "title": "A Voyage to the Pacific Ocean",
+      "fbtee": "bk0000641",
+      "authors": [
+        "Roberts, Henry",
+        "Webber, John"
+      ],
+      "keywords": [
+        "Australasia",
+        "Cook, James",
+        "Exploration",
+        "North America",
+        "Pacific",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "The Foundling; The Way to Keep Him; False Delicacy; The Jelous Wife; The Deuce is in Him",
+      "fbtee": "bk0000663",
+      "authors": [
+        "Colman, George",
+        "Kelly, Hugh",
+        "Moore, Edward",
+        "Murphy, Arthur",
+        "Riccoboni, Marie-Jeanne Laboras de Mézières"
+      ],
+      "keywords": [
+        "Collected works",
+        "Drama",
+        "Literature"
+      ]
+    },
+    {
+      "title": "The History of Hindostan",
+      "fbtee": "bk0000676",
+      "authors": [
+        "Dow, Alexander",
+        "Ferichta, Mohammed Qacim",
+        "Sinner de Ballaigues, Jean-Rudolphe"
+      ],
+      "keywords": [
+        "Current Affairs",
+        "Hinduism",
+        "India",
+        "Politics",
+        "Religion",
+        "World religions"
+      ]
+    },
+    {
+      "title": "Historische, politische und militärische Nachrichten von Rußland von dem Jahre 1727 bis 1744",
+      "fbtee": "bk0000697",
+      "authors": "Manstein, Christoph Hermann [von]",
+      "keywords": [
+        "Commerce",
+        "Current Affairs",
+        "Economics",
+        "History",
+        "Military Affairs",
+        "Military history",
+        "Politics",
+        "Russia",
+        "Russo-Turkish wars"
+      ]
+    },
+    {
+      "title": "The Female Quixote",
+      "fbtee": "bk0000718",
+      "authors": "Lennox, Charlotte",
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Der Hof in Fabeln",
+      "fbtee": "bk0000731",
+      "authors": "Moser, Friedrich Karl [von]",
+      "keywords": [
+        "Allegorical Works",
+        "Children's literature",
+        "Fables",
+        "Literature",
+        "Moral tales",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "Essay on the life of Jesus Christ",
+      "fbtee": "bk0000748",
+      "authors": "Craig, William",
+      "keywords": [
+        "Apologetic works",
+        "Biblical history",
+        "Biography",
+        "Christianity",
+        "Jesus Christ",
+        "Lives and letters",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Essay on man",
+      "fbtee": "bk0000755",
+      "authors": [
+        "Adami, Antonio Filippo",
+        "Am Ende, Johann Joachim Gottlob",
+        "Du Resnel du Bellay, Jean-François",
+        "Kretsch, Heinrich Christian",
+        "Pope, Alexander",
+        "Schweighäuser, Johannes"
+      ],
+      "keywords": [
+        "Human nature",
+        "Literature",
+        "Metaphysics",
+        "Moral Philosophy",
+        "Philosophy",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "The Sermons of Mr. Yorick",
+      "fbtee": "bk0000757",
+      "authors": "Sterne, Laurence",
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Collected works",
+        "Protestant text",
+        "Religion",
+        "Sermons",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The reign of George VI",
+      "fbtee": "bk0000781",
+      "authors": "Madden, Samuel",
+      "keywords": [
+        "Allegorical Works",
+        "Britain",
+        "Futuristic tales",
+        "Literature",
+        "Politics",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Orígenes de la poesía castellana",
+      "fbtee": "bk0000805",
+      "authors": "Velázquez de Velasco, Luis José",
+      "keywords": [
+        "Literary History",
+        "Literary studies",
+        "Spain"
+      ]
+    },
+    {
+      "title": "Von der Ruhr unter dem Volke im Jahr 1765",
+      "fbtee": "bk0000809",
+      "authors": [
+        "Lefebvre de Villebrune, Jean-Baptiste",
+        "Zimmermann, Johann Georg [von]"
+      ],
+      "keywords": [
+        "Medical remedies",
+        "Medicine",
+        "Pathology",
+        "Science"
+      ]
+    },
+    {
+      "title": "Introducción a la historia natural y la geografía física de Espana",
+      "fbtee": "bk0000855",
+      "authors": [
+        "Bowles, William",
+        "Flavigny, Gratien-Jean-Baptiste-Louis"
+      ],
+      "keywords": [
+        "Biology",
+        "Botany",
+        "Geography",
+        "Geology",
+        "Mineralogy",
+        "Science",
+        "Spain",
+        "Zoology"
+      ]
+    },
+    {
+      "title": "Characteristicks of men, manners, opinions, times",
+      "fbtee": "bk0000863",
+      "authors": [
+        "Coste, Pierre",
+        "Diderot, Denis",
+        "Pascal, Blaise",
+        "Robinet, Jean-Baptiste-René",
+        "Samson",
+        "Shaftesbury, Anthony Ashley Cooper [compte de]",
+        "Van Effen"
+      ],
+      "keywords": [
+        "Aesthetics",
+        "Collected works",
+        "Correspondence",
+        "Deism",
+        "Deist work",
+        "Lives and letters",
+        "Miscellaneous essays",
+        "Moral Philosophy",
+        "Natural Religion",
+        "Oeuvres",
+        "Pantheism",
+        "Philosophie",
+        "Philosophy",
+        "Religion",
+        "Sceptical works",
+        "Social mores",
+        "Theology"
+      ]
+    },
+    {
+      "title": "The History of Sir Charles Grandison",
+      "fbtee": [
+        "bk0000872",
+        "bk0003089"
+      ],
+      "authors": [
+        "Prévost, Antoine François",
+        "Richardson, Samuel"
+      ],
+      "keywords": [
+        "Epistolary Fiction",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Istoria del Concilio Tridentino",
+      "fbtee": "bk0000887",
+      "authors": "Sarpi, Paolo",
+      "keywords": [
+        "Catholicism",
+        "Christianity",
+        "Church History",
+        "History",
+        "Papacy",
+        "Reformation",
+        "Religion"
+      ]
+    },
+    {
+      "title": "Allerneueste Entdeckung der verborgensten Geheimnisse der hohen Stuffen der Freimäurerei, oder der wahre Rosencreutzer : aus dem Englischen übersetzt, nebst dem Noachiten, oder Preußischen Ritter",
+      "fbtee": "bk0000890",
+      "authors": "Koppen, Karl-Friedrich",
+      "keywords": "Freemasonry",
+      "illegal": true
+    },
+    {
+      "title": "Juicio imparcial sobre el monitorio de Roma",
+      "fbtee": "bk0000911",
+      "authors": [
+        "Hermilly, Vaquette [d']",
+        "Sorriba, Pedro Rodríguez Campomanes y"
+      ],
+      "keywords": [
+        "Catholicism",
+        "Christianity",
+        "Church and State",
+        "Clerical jurisdiction",
+        "Current Affairs",
+        "Italy",
+        "Law",
+        "Papacy",
+        "Political theory",
+        "Politics",
+        "Religion"
+      ]
+    },
+    {
+      "title": "Denkwürdigkeiten Friedrich des Grossen",
+      "fbtee": "bk0000912",
+      "authors": "Adelung, Johann Christoph",
+      "keywords": [
+        "Biography",
+        "Current Affairs",
+        "Frederick II of Prussia",
+        "Germany",
+        "International relations",
+        "Lives and letters",
+        "Military Affairs",
+        "Politics",
+        "Prussia"
+      ]
+    },
+    {
+      "title": "The Imitation of Christ",
+      "fbtee": [
+        "bk0000915",
+        "bk0005048"
+      ],
+      "authors": [
+        "Poiret, Pierre",
+        "Thomas à Kempis"
+      ],
+      "keywords": [
+        "Catholic text",
+        "Christian life",
+        "Christianity",
+        "Conduct manual",
+        "Devotional manual",
+        "Moral instruction",
+        "Religion",
+        "Sacred Texts",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "A Complete Body of Speculative and Practical Divinity ",
+      "fbtee": "bk0000922",
+      "authors": "Stackhouse, Thomas",
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Memoirs of Great Britain and Ireland: from the dissolution of the last Parliament of Charles II until the sea-battle of La Hogue",
+      "fbtee": "bk0000931",
+      "authors": "Dalrymple, John",
+      "keywords": [
+        "Britain",
+        "Glorious Revolution",
+        "History"
+      ]
+    },
+    {
+      "title": "De legis naturalis summa liber [excerpts]",
+      "fbtee": [
+        "bk0000937",
+        "bk0003667"
+      ],
+      "authors": "Lerber, Sigismond Louis",
+      "keywords": [
+        "Human nature",
+        "Law",
+        "Metaphysics",
+        "Moral Philosophy",
+        "Natural Law",
+        "Philosophy",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "A Sentimental Journey Through France and Italy ",
+      "fbtee": "bk0000941",
+      "authors": [
+        "Frenais, Joseph-Pierre",
+        "Sterne, Laurence"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "Fantasy adventures",
+        "France",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Opuscoli di fisica animale, e vegetabile",
+      "fbtee": "bk0000946",
+      "authors": [
+        "Spallanzani, Lazzaro",
+        "Sénebier, Jean"
+      ],
+      "keywords": [
+        "Biology",
+        "Botany",
+        "Science",
+        "Zoology",
+        "micro-organisms"
+      ]
+    },
+    {
+      "title": "Thoughts in Prison",
+      "fbtee": [
+        "bk0000947",
+        "bk0004334"
+      ],
+      "authors": "Dodd, William",
+      "keywords": [
+        "Autobiography",
+        "Biography",
+        "Christian theology",
+        "Christianity",
+        "Criminal biography",
+        "Lives and letters",
+        "Meditations",
+        "Prison narratives",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Vita di Soçivizça",
+      "fbtee": "bk0000949",
+      "authors": [
+        "Chapuis, Marc",
+        "Lovric, Ivan"
+      ],
+      "keywords": [
+        "Balkans",
+        "Biography",
+        "Criminal biography",
+        "Lives and letters",
+        "Ottoman Empire"
+      ]
+    },
+    {
+      "title": "De fide et officiis Christianorum",
+      "fbtee": "bk0000956",
+      "authors": [
+        "Burnet, Thomas",
+        "Daudé, Pierre"
+      ],
+      "keywords": [
+        "Christian Doctrine",
+        "Christian life",
+        "Christianity",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The History and Character of St. Paul Examined",
+      "fbtee": "bk0001013",
+      "authors": [
+        "Annet, Peter",
+        "Holbach, Paul Henri Dietrich [d']"
+      ],
+      "keywords": [
+        "Atheism",
+        "Atheist work",
+        "Biblical study",
+        "Biography",
+        "Christianity",
+        "Church History",
+        "History",
+        "Lives and letters",
+        "Paul of Tarsus, Saint",
+        "Philosophie",
+        "Religion",
+        "Sceptical works"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "A New and Impartial History of England",
+      "fbtee": "bk0001036",
+      "authors": [
+        "Barrow, John",
+        "Targe, Jean-Baptiste"
+      ],
+      "keywords": [
+        "Britain",
+        "Current Affairs",
+        "History",
+        "Politics"
+      ]
+    },
+    {
+      "title": "Agathokrator",
+      "fbtee": "bk0001039",
+      "authors": [
+        "Basedow, Johann Bernhard",
+        "Bourgoing, Jean-François [de]"
+      ],
+      "keywords": [
+        "Christian Rulership",
+        "Christianity",
+        "Education",
+        "Education of Princes",
+        "Moral Philosophy",
+        "Moral instruction",
+        "Philosophy",
+        "Political theory",
+        "Politics",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Dei Delitti et delle pene",
+      "fbtee": "bk0001048",
+      "authors": [
+        "Beccaria, César Bonesana [marquis de]",
+        "Morellet, André"
+      ],
+      "keywords": [
+        "Criminal Law",
+        "Judicial Procedure",
+        "Law",
+        "Legal reform",
+        "Penal system",
+        "Philosophie"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Sermons",
+      "fbtee": "bk0001062",
+      "authors": [
+        "Blair, Hugh",
+        "Frossard, M. B. S."
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Collected works",
+        "Protestant text",
+        "Religion",
+        "Sermons",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Nosologia methodica, sistens morborum classes, genera et species juxta Sydenhami mentem et botnicorum ordinem, auctores Francisco Boissier de Sauvages",
+      "fbtee": [
+        "bk0001071",
+        "bk0005103"
+      ],
+      "authors": [
+        "Boissier de la Croix de Sauvages, François",
+        "Nicolas, Jean"
+      ],
+      "keywords": [
+        "Biology",
+        "Botany",
+        "Medicine",
+        "Pathology",
+        "Reference works",
+        "Science",
+        "Veterinary science",
+        "Zoology"
+      ]
+    },
+    {
+      "title": "Estimate of the Manners and Principles of the Times",
+      "fbtee": "bk0001110",
+      "authors": [
+        "Brown, John",
+        "Chais, Charles"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "National Character",
+        "National customs",
+        "Political Rights",
+        "Political institutions",
+        "Political theory",
+        "Politics",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Domestic medicine",
+      "fbtee": [
+        "bk0001117",
+        "bk0003375"
+      ],
+      "authors": "Buchan, William",
+      "keywords": [
+        "Household Skills",
+        "Manual",
+        "Medical remedies",
+        "Medicine",
+        "Pharmacology",
+        "Recipes",
+        "Reference works",
+        "Science"
+      ]
+    },
+    {
+      "title": "Cecilia: Or, Memoirs of an Heiress; Evelina: Or The History of A Young Lady's Entrance into the World",
+      "fbtee": "bk0001123",
+      "authors": [
+        "Burney, Fanny",
+        "Renfner, Henri"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "Os Lusíadas",
+      "fbtee": "bk0001127",
+      "authors": [
+        "Camoëns, Louis",
+        "La Harpe, Jean François [de]"
+      ],
+      "keywords": [
+        "East Indies",
+        "Epic Poetry",
+        "History",
+        "Literature",
+        "Poetry",
+        "Portugal",
+        "Spain"
+      ]
+    },
+    {
+      "title": "Robinson der Jüngere",
+      "fbtee": [
+        "bk0001128",
+        "bk0004231"
+      ],
+      "authors": "Campe, Joachim Heinrich",
+      "keywords": [
+        "Castaway tales",
+        "Children's literature",
+        "Didactic Fiction",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Travels Through the Interior Parts of North-America, in the Years 1766, 1767 and 1768",
+      "fbtee": "bk0001132",
+      "authors": [
+        "Carver, Jonathan",
+        "Montucla, Jean-Étienne"
+      ],
+      "keywords": [
+        "Biology",
+        "Botany",
+        "Exploration",
+        "National customs",
+        "North America",
+        "Religion",
+        "Science",
+        "Social mores",
+        "World religions",
+        "Zoology"
+      ]
+    },
+    {
+      "title": "Konung Erik den Fjortondes historia",
+      "fbtee": "bk0001137",
+      "authors": [
+        "Celsius, Olof O.",
+        "Genet, Edmond Charles [fils]"
+      ],
+      "keywords": [
+        "History",
+        "Sweden"
+      ]
+    },
+    {
+      "title": "El ingenioso hidalgo Don Quijote de la Mancha",
+      "fbtee": [
+        "bk0001138",
+        "bk0004929",
+        "bk0005357"
+      ],
+      "authors": [
+        "Cervantes Saavedra, Miguel [de]",
+        "Filleau de Saint-Martin, François"
+      ],
+      "keywords": [
+        "Literature",
+        "Picaresque tales",
+        "Prose Fiction",
+        "Satirical works",
+        "Social fiction"
+      ]
+    },
+    {
+      "title": "Aloisiae Sigeae Tolentance Satyra sotadica",
+      "fbtee": "bk0001149",
+      "authors": "Chorier, Nicolas",
+      "keywords": [
+        "Amorous adventures",
+        "Erotic works",
+        "Literature",
+        "Pornographic works",
+        "Prose Fiction"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Grundriss des Rechts der Natur",
+      "fbtee": "bk0001152",
+      "authors": "Claproth, Johann Christian",
+      "keywords": [
+        "Law",
+        "Natural Law",
+        "Political theory",
+        "Politics"
+      ]
+    },
+    {
+      "title": "A Discourse on the Grounds and Reasons of the Christian Religion",
+      "fbtee": [
+        "bk0001156",
+        "bk0002191"
+      ],
+      "authors": [
+        "Collins, Anthony",
+        "Holbach, Paul Henri Dietrich [d']"
+      ],
+      "keywords": [
+        "Biblical history",
+        "Biblical study",
+        "Christian Doctrine",
+        "Christianity",
+        "Deist work",
+        "History",
+        "Judaism",
+        "Law",
+        "Philosophie",
+        "Religion",
+        "Religious Prophesy",
+        "Sceptical works",
+        "Theology"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "An Inquiry Concerning Vertue, or Merit",
+      "fbtee": "bk0001160",
+      "authors": [
+        "Diderot, Denis",
+        "Shaftesbury, Anthony Ashley Cooper [compte de]"
+      ],
+      "keywords": [
+        "Deist work",
+        "Moral Philosophy",
+        "Philosophie",
+        "Philosophy",
+        "Religion",
+        "Sceptical works"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Commentaries on the Laws of England [Volume 4]",
+      "fbtee": "bk0001164",
+      "authors": [
+        "Blackstone, William",
+        "Coyer, Gabriel-François"
+      ],
+      "keywords": [
+        "Britain",
+        "Criminal Law",
+        "England",
+        "Law",
+        "Legal codes",
+        "Legislation"
+      ]
+    },
+    {
+      "title": "Letters from an American farmer",
+      "fbtee": "bk0001170",
+      "authors": "Crèvecoeur, St. John de",
+      "keywords": [
+        "Agriculture",
+        "National customs",
+        "Natural History (general)",
+        "Science",
+        "Social mores",
+        "United States of America"
+      ]
+    },
+    {
+      "title": "Der Christ in der Einsamkeit",
+      "fbtee": "bk0001172",
+      "authors": [
+        "Crugot, Martin",
+        "Haller, Albrecht [von]",
+        "Seigneux de Correvon, Gabriel"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Collected works",
+        "Meditations",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Delle rivoluzioni d'Italia libri ventiquattro",
+      "fbtee": "bk0001186",
+      "authors": [
+        "Denina, Carlo",
+        "Jardin [abbé]"
+      ],
+      "keywords": [
+        "History",
+        "Italy"
+      ]
+    },
+    {
+      "title": "Rise and Progress of Religion in the Soul",
+      "fbtee": "bk0001195",
+      "authors": [
+        "Doddridge, M.P.",
+        "Vernède, Jean-Scipion"
+      ],
+      "keywords": [
+        "Christian life",
+        "Christianity",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Economy of Human Life",
+      "fbtee": [
+        "bk0001196",
+        "bk0002501"
+      ],
+      "authors": [
+        "Brissot de Warville, Félicité",
+        "Chesterfield, Philip Dormer [4th Earl of]",
+        "Dhaulon, Sieur",
+        "Dodsley, Robert"
+      ],
+      "keywords": [
+        "Conduct manual",
+        "Emotions and Sentiments",
+        "Etiquette",
+        "Gender relations",
+        "Happiness",
+        "India",
+        "Marriage",
+        "Maxims",
+        "Moral Philosophy",
+        "Moral instruction",
+        "Philosophy",
+        "Religion",
+        "Sceptical works",
+        "Social mores",
+        "Spurious works"
+      ]
+    },
+    {
+      "title": "The Classical Geographical Dictionary",
+      "fbtee": "bk0001216",
+      "authors": [
+        "Echard, Laurence",
+        "Ladvocat, Jean-Baptiste"
+      ],
+      "keywords": [
+        "Dictionary",
+        "Geography",
+        "Reference works"
+      ]
+    },
+    {
+      "title": "Institutes of Moral Philosophy",
+      "fbtee": "bk0001229",
+      "authors": [
+        "Ferguson, Adam",
+        "Reverdil, Élie Salomon François"
+      ],
+      "keywords": [
+        "Epistemology",
+        "Law",
+        "Moral Philosophy",
+        "Natural Religion",
+        "Philosophy",
+        "Political Rights",
+        "Political institutions",
+        "Political theory",
+        "Politics",
+        "Religion"
+      ]
+    },
+    {
+      "title": "The History of Amelia",
+      "fbtee": [
+        "bk0001233",
+        "bk0004931"
+      ],
+      "authors": "Fielding, Henry",
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "Joseph Andrews",
+      "fbtee": [
+        "bk0001234",
+        "bk0003092"
+      ],
+      "authors": "Fielding, Henry",
+      "keywords": [
+        "Literature",
+        "Picaresque tales",
+        "Prose Fiction",
+        "Social fiction"
+      ]
+    },
+    {
+      "title": "Tom Jones, a Foundling",
+      "fbtee": [
+        "bk0001235",
+        "bk0003088"
+      ],
+      "authors": "Fielding, Henry",
+      "keywords": [
+        "Amorous adventures",
+        "Erotic works",
+        "Literature",
+        "Picaresque tales",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Satirical works",
+        "Social fiction"
+      ]
+    },
+    {
+      "title": "The Life of Jonathan Wild ",
+      "fbtee": "bk0001236",
+      "authors": "Fielding, Henry",
+      "keywords": [
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "A Journey from this World to the Next ",
+      "fbtee": "bk0001237",
+      "authors": [
+        "Fielding, Henry",
+        "Kauffmann [interpreter at the Châtelet]"
+      ],
+      "keywords": [
+        "Afterlife",
+        "Boleyn, Anne",
+        "Dialogues of the Dead",
+        "Fantasy adventures",
+        "Julian 'The Apostate'",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "The History of Charlotte Summers, the fortunate parish girl",
+      "fbtee": "bk0001238",
+      "authors": "Fielding, Sarah",
+      "keywords": [
+        "Britain",
+        "England",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "The Remarkable and Surprising Adventures of David Simple, containing an account of his travels through the cities of London and Westminster, in the search of a real friend",
+      "fbtee": "bk0001239",
+      "authors": "Fielding, Sarah",
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "Sermons to Young Women",
+      "fbtee": "bk0001253",
+      "authors": [
+        "Estienne, Robert",
+        "Fordyce, James"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Collected works",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Sermons",
+        "Theology",
+        "Women's Literature",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Ricciardetto",
+      "fbtee": [
+        "bk0001257",
+        "bk0002932"
+      ],
+      "authors": [
+        "Duperrier-Dumouriez, Anne-François ",
+        "Forteguerri, Niccolò"
+      ],
+      "keywords": [
+        "Chivalry",
+        "Comic Poetry",
+        "Epic Poetry",
+        "Literature",
+        "Middle Ages",
+        "Poetry",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "La Puttane errante",
+      "fbtee": "bk0001262",
+      "authors": [
+        "Aretino, Pietro",
+        "Franco, Niccolò",
+        "Lampsaque, N."
+      ],
+      "keywords": [
+        "Amorous adventures",
+        "Erotic works",
+        "Libertine texts",
+        "Literature",
+        "Pornographic works",
+        "Prose Fiction",
+        "Prostitution",
+        "Short stories"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Idyllen und ländliche Gedichte",
+      "fbtee": [
+        "bk0001283",
+        "bk0003047"
+      ],
+      "authors": [
+        "Gessner, Salomon",
+        "Huber, Michael"
+      ],
+      "keywords": [
+        "Collected works",
+        "Literature",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "The Vicar of Wakefield",
+      "fbtee": "bk0001287",
+      "authors": "Goldsmith, Oliver",
+      "keywords": [
+        "Britain",
+        "England",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Sentimental Fiction",
+        "Social fiction",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Grundlegung einer deutschen Sprachkunst?",
+      "fbtee": "bk0001292",
+      "authors": "Gottsched, Johann Christoph",
+      "keywords": [
+        "German language",
+        "Grammar",
+        "Languages",
+        "Reference works"
+      ]
+    },
+    {
+      "title": "A Complete Body of Husbandry ",
+      "fbtee": "bk0001304",
+      "authors": [
+        "Dupuy-Demportes, Jean-Baptiste",
+        "Hale, Thomas"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Reference works"
+      ]
+    },
+    {
+      "title": "The Lady's New-Year's Gift: or, Advice to a Daughter",
+      "fbtee": "bk0001305",
+      "authors": "Halifax, George Savile",
+      "keywords": [
+        "Conduct manual",
+        "Education",
+        "Gender relations",
+        "Moral instruction",
+        "Social mores",
+        "Women's Literature",
+        "Women's education"
+      ]
+    },
+    {
+      "title": "Briefe über die wichtigsten Wahrheiten der Offenbarung",
+      "fbtee": "bk0001308",
+      "authors": [
+        "Haller, Albrecht [von]",
+        "Seigneux de Correvon, Gabriel"
+      ],
+      "keywords": [
+        "Christian Doctrine",
+        "Christian life",
+        "Christian theology",
+        "Christianity",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "De motu sanguinis",
+      "fbtee": "bk0001315",
+      "authors": [
+        "Haller, Albrecht [von]",
+        "Tissot, Samuel Auguste André David"
+      ],
+      "keywords": [
+        "Anatomy",
+        "Biology",
+        "Medical remedies",
+        "Medicine",
+        "Physiology",
+        "Science"
+      ]
+    },
+    {
+      "title": "Usong: Eine morgenländische Geschichte",
+      "fbtee": [
+        "bk0001324",
+        "bk0001325"
+      ],
+      "authors": [
+        "Haller, Albrecht [von]",
+        "Seigneux de Correvon, Gabriel"
+      ],
+      "keywords": [
+        "Literature",
+        "Political Fiction",
+        "Prose Fiction",
+        "Utopian Fiction"
+      ]
+    },
+    {
+      "title": "Munster village, a novel ",
+      "fbtee": "bk0001330",
+      "authors": "Hamilton, Mary",
+      "keywords": [
+        "Amorous adventures",
+        "Britain",
+        "England",
+        "Literature",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "Human Nature: Or the Fundemental Elements of Policy",
+      "fbtee": "bk0001350",
+      "authors": [
+        "Hobbes, Thomas",
+        "Holbach, Paul Henri Dietrich [d']"
+      ],
+      "keywords": [
+        "Epistemology",
+        "Human nature",
+        "Law",
+        "Metaphysics",
+        "Moral Philosophy",
+        "Natural Law",
+        "Philosophy",
+        "Religion",
+        "Sceptical works",
+        "Theology"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "History of the Man after God's Own Heart",
+      "fbtee": "bk0001355",
+      "authors": [
+        "Annet, Peter",
+        "Holbach, Paul Henri Dietrich [d']"
+      ],
+      "keywords": [
+        "Biblical history",
+        "Biblical study",
+        "Biography",
+        "Christianity",
+        "David, King of Israel",
+        "History",
+        "Judaism",
+        "Lives and letters",
+        "Philosophie",
+        "Religion",
+        "Sceptical works"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "[Poetry of Horace]",
+      "fbtee": [
+        "bk0001364",
+        "bk0002513"
+      ],
+      "authors": [
+        "Batteux, Charles",
+        "Horace"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Collected works",
+        "Literature",
+        "Poetry",
+        "Roman Empire"
+      ]
+    },
+    {
+      "title": "Biblische Historien",
+      "fbtee": "bk0001367",
+      "authors": "Hübner, Johann",
+      "keywords": [
+        "Bible stories",
+        "Biblical study",
+        "Children's literature",
+        "Christian Doctrine",
+        "Christianity",
+        "Meditations",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Sacred Texts",
+        "School Book",
+        "Scriptures",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "An Essay on Suicide",
+      "fbtee": "bk0001368",
+      "authors": "Hume, David",
+      "keywords": [
+        "Moral Philosophy",
+        "Philosophie",
+        "Philosophy",
+        "Sceptical works"
+      ]
+    },
+    {
+      "title": "Maria: the Genuine Memoirs of a Young Lady of Rank and Fortune.",
+      "fbtee": "bk0001379",
+      "authors": "Kimber, Edward",
+      "keywords": [
+        "Britain",
+        "England",
+        "Literature",
+        "London",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "Cosmologische Briefe über die Einrichtung des Weltbaues",
+      "fbtee": [
+        "bk0001408",
+        "bk0005389"
+      ],
+      "authors": [
+        "Lambert, Johann Heinrich",
+        "Mérian, Jean-Baptiste [de]"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Cosmology",
+        "Science"
+      ]
+    },
+    {
+      "title": "Memoirs of a Women of Pleasure",
+      "fbtee": "bk0001409",
+      "authors": "Cleland, John",
+      "keywords": [
+        "Amorous adventures",
+        "Epistolary Fiction",
+        "Erotic works",
+        "Libertine texts",
+        "Literature",
+        "Pornographic works",
+        "Prose Fiction",
+        "Prostitution",
+        "Romantic Fiction"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Erzälung der Begebenheiten vier russicher Matrosen die durch einen Sturm zur Insel Ost Spitzenbergen verschlagen worden, Riga und Mietau",
+      "fbtee": "bk0001431",
+      "authors": "Le Roy, Pierre Louis",
+      "keywords": [
+        "Castaway tales",
+        "Norway",
+        "Polar regions",
+        "Spitzbergen",
+        "Travel",
+        "True adventure"
+      ]
+    },
+    {
+      "title": "The naturalist's and traveler's companion",
+      "fbtee": "bk0001447",
+      "authors": "Lettsom, John Coakley",
+      "keywords": [
+        "Natural History (general)",
+        "Science",
+        "Scientific method",
+        "Social Observation",
+        "Specimen collecting",
+        "Taxonomy"
+      ]
+    },
+    {
+      "title": "Versuch über die Mittel",
+      "fbtee": "bk0001449",
+      "authors": [
+        "Lieberkühn, Philipp Julius",
+        "Weiler"
+      ],
+      "keywords": [
+        "Charity",
+        "Emotions and Sentiments",
+        "Moral instruction",
+        "Philanthropy"
+      ]
+    },
+    {
+      "title": "Daphnis kai Chloe",
+      "fbtee": "bk0001457",
+      "authors": [
+        "Longus",
+        "Mulot, François-Valentin"
+      ],
+      "keywords": [
+        "Erotic works",
+        "Literature",
+        "Mythology",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Sentimental Fiction",
+        "lesbianism"
+      ]
+    },
+    {
+      "title": "The Memoirs of Sign. Gaudentio di Lucca",
+      "fbtee": "bk0001460",
+      "authors": [
+        "Berington, Simon",
+        "Dupuy-Demportes, Jean-Baptiste",
+        "Lucca, Gaudentio di"
+      ],
+      "keywords": [
+        "Catholicism",
+        "Christianity",
+        "Inquisition",
+        "Italy",
+        "Literature",
+        "North Africa",
+        "Prose Fiction",
+        "Religion",
+        "Religious Persecution"
+      ]
+    },
+    {
+      "title": "Castorologia explicans castoris animalis naturam & usum medico-chemicum",
+      "fbtee": "bk0001484",
+      "authors": [
+        "Eidous, Marc-Antoine",
+        "Marius, Johannes Mayer"
+      ],
+      "keywords": [
+        "Medical remedies",
+        "Medicine",
+        "Science"
+      ]
+    },
+    {
+      "title": "Storia della vita e tragica morte di Bianca Capello",
+      "fbtee": "bk0001503",
+      "authors": "Di Sanseverino, Giulio Roberto",
+      "keywords": [
+        "Biography",
+        "Capello, Bianca",
+        "Courts & Courtiers",
+        "History",
+        "Italy",
+        "Lives and letters",
+        "Royal Mistresses",
+        "Tuscany",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Phädon oder über die Unsterblichkeit der Seele",
+      "fbtee": "bk0001505",
+      "authors": [
+        "Junker, Georges Adam",
+        "Mendelssohn, Moses"
+      ],
+      "keywords": [
+        "Biography",
+        "Classical antiquity",
+        "Greece",
+        "Lives and letters",
+        "Metaphysics",
+        "Philosophy",
+        "Religion",
+        "Socrates",
+        "Theology"
+      ]
+    },
+    {
+      "title": "Paradise Lost",
+      "fbtee": "bk0001522",
+      "authors": "Milton, John",
+      "keywords": [
+        "Bible stories",
+        "Christian theology",
+        "Christianity",
+        "Epic Poetry",
+        "Literature",
+        "Moral tales",
+        "Poetry",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Chronology of Ancient Kingdoms Amended",
+      "fbtee": "bk0001569",
+      "authors": [
+        "Butini, Jean-Antoine",
+        "Newton, Isaac",
+        "Reid, Andrew"
+      ],
+      "keywords": [
+        "Ancient world",
+        "Astronomy",
+        "Biblical study",
+        "Chronology",
+        "Classical antiquity",
+        "History",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Beschreibung von Arabien",
+      "fbtee": "bk0001571",
+      "authors": [
+        "Mourier, Ferdinand-Louis",
+        "Niebuhr, Carsten"
+      ],
+      "keywords": [
+        "Arabia",
+        "Geography",
+        "Travel"
+      ]
+    },
+    {
+      "title": "A Mother's Advice to her Absent Daughters",
+      "fbtee": "bk0001601",
+      "authors": [
+        "Gin d'Ossery",
+        "Pennington, Sarah"
+      ],
+      "keywords": [
+        "Child-rearing",
+        "Christian life",
+        "Christianity",
+        "Conduct manual",
+        "Education",
+        "Gender relations",
+        "Marriage",
+        "Moral instruction",
+        "Prayer",
+        "Religion",
+        "Women's Literature",
+        "Women's education",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Faustin, oder Das philosophische Jahrhundert",
+      "fbtee": "bk0001607",
+      "authors": [
+        "Doray de Longrais, P.-J.-B.",
+        "Pezzl, Johann"
+      ],
+      "keywords": [
+        "Anti-Clerical Works",
+        "Literature",
+        "Philosophie",
+        "Prose Fiction",
+        "Satirical works"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "A Voyage Towards the North Pole Undertaken by His Majesty's Command, 1773",
+      "fbtee": "bk0001610",
+      "authors": [
+        "Démeunier, Jean-Nicolas",
+        "Phipps, Constantin-Jean"
+      ],
+      "keywords": [
+        "Exploration",
+        "Polar regions",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "[Various works]",
+      "fbtee": [
+        "bk0001621",
+        "bk0003064",
+        "bk0004030",
+        "bk0004946",
+        "bk0005120"
+      ],
+      "authors": [
+        "Dodsley, Robert",
+        "Fontenelle, Bernard Le Bouvier [de]",
+        "Hervey, James",
+        "Linguet, Simon-Nicolas-Henri",
+        "Lyttelton, George",
+        "Pope, Alexander",
+        "Robertson, William",
+        "Shaw, Peter",
+        "Tacitus, Cornelius",
+        "Thiroux d' Arconville, Marie-Geneviève-Charlotte",
+        "Valcourt [Mlle]",
+        "Wycherley, A. M."
+      ],
+      "keywords": [
+        "Caribbean",
+        "Central America",
+        "Charles V",
+        "Classical antiquity",
+        "Collected works",
+        "Conquistadors",
+        "Drama",
+        "Europe",
+        "General Science",
+        "Germany",
+        "History",
+        "Literature",
+        "Miscellaneous essays",
+        "Moral Philosophy",
+        "Moral instruction",
+        "North America",
+        "Oeuvres",
+        "Philosophy",
+        "Poetry",
+        "Rhetoric",
+        "Roman Empire",
+        "Science",
+        "South America",
+        "Spain",
+        "World history"
+      ]
+    },
+    {
+      "title": "Kleine Naturlehre oder die vier Elemente",
+      "fbtee": "bk0001622",
+      "authors": "Pott, Jules-Henri",
+      "keywords": [
+        "Acoustics",
+        "Astronomy",
+        "Biology",
+        "Chemistry",
+        "Comets",
+        "Earthquakes",
+        "Epidemiology",
+        "Gases",
+        "Medicine",
+        "Physics",
+        "Physiology",
+        "Respiration",
+        "School Book",
+        "Science"
+      ]
+    },
+    {
+      "title": "The Two Mentors",
+      "fbtee": "bk0001652",
+      "authors": [
+        "La Place, Pierre-Antoine [de]",
+        "Reeve, Clara"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "The History of Sir William Harrington ",
+      "fbtee": "bk0001664",
+      "authors": [
+        "Hull, Thomas",
+        "Meades, Anna"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Sentimental Fiction",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Clarissa, or The History of a Young Lady",
+      "fbtee": [
+        "bk0001665",
+        "bk0001666",
+        "bk0004109"
+      ],
+      "authors": [
+        "Le Tourneur, Pierre-Prime-Félicien",
+        "Richardson, Samuel"
+      ],
+      "keywords": [
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "Pamela, or Virtue Rewarded",
+      "fbtee": [
+        "bk0001667",
+        "bk0004724",
+        "bk0005160"
+      ],
+      "authors": "Richardson, Samuel",
+      "keywords": [
+        "Epistolary Fiction",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "The History of America",
+      "fbtee": [
+        "bk0001674",
+        "bk0002234",
+        "bk0003530",
+        "bk0003543"
+      ],
+      "authors": [
+        "Eidous, Marc-Antoine",
+        "Robertson, William"
+      ],
+      "keywords": [
+        "Caribbean",
+        "Central America",
+        "Conquistadors",
+        "Exploration",
+        "History",
+        "North America",
+        "South America"
+      ]
+    },
+    {
+      "title": "History of Scotland",
+      "fbtee": [
+        "bk0001675",
+        "bk0003077"
+      ],
+      "authors": [
+        "Besset de la Chapelle, N.-P.",
+        "Robertson, William",
+        "Suard, Jean-Baptiste-Antoine"
+      ],
+      "keywords": [
+        "Britain",
+        "History",
+        "James I and VI",
+        "Mary Queen of Scots",
+        "Scotland"
+      ]
+    },
+    {
+      "title": "A Discourse Concerning the Happiness of Good Men, and the Punishment of the Wicked, in the Next World. Part 1, Containing the proofs of the immortality of the soul, and immortal life",
+      "fbtee": "bk0001738",
+      "authors": "Sherlock, William",
+      "keywords": [
+        "Afterlife",
+        "Apologetic works",
+        "Christian Doctrine",
+        "Christian theology",
+        "Christianity",
+        "Divine Judgement",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "A Practical Discourse Concerning Death",
+      "fbtee": "bk0001739",
+      "authors": [
+        "Mazel, David",
+        "Sherlock, William"
+      ],
+      "keywords": [
+        "Christian Doctrine",
+        "Christian theology",
+        "Christianity",
+        "Death and dying",
+        "Divine Judgement",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Letters to Married Women",
+      "fbtee": "bk0001740",
+      "authors": [
+        "Le Rebours, Marie-Angélique",
+        "Smith, Hugh"
+      ],
+      "keywords": [
+        "Breast-feeding",
+        "Child-rearing",
+        "Hygiene",
+        "Nutrition"
+      ]
+    },
+    {
+      "title": "The Adventures of Roderick Random",
+      "fbtee": "bk0001741",
+      "authors": "Smollett, Tobias George",
+      "keywords": [
+        "Literature",
+        "Moral tales",
+        "Picaresque tales",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Kurzgefaßte Mißions-Geschichte oder historischer Auszug der evangelischen Mißions-Berichte aus Ost-Indien",
+      "fbtee": "bk0001743",
+      "authors": [
+        "Gaudard, B.",
+        "NIekamp, Johann Lucas"
+      ],
+      "keywords": [
+        "Christianity",
+        "Church History",
+        "East Indies",
+        "History",
+        "National customs",
+        "Protestantism",
+        "Religion",
+        "Religious Missions",
+        "Social mores",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Dissertazioni di fisica animale e vegetabile",
+      "fbtee": "bk0001746",
+      "authors": [
+        "Spallanzani, Lazzaro",
+        "Sénebier, Jean"
+      ],
+      "keywords": [
+        "Anatomy",
+        "Biology",
+        "Digestion",
+        "Physiology",
+        "Science",
+        "Scientific method"
+      ]
+    },
+    {
+      "title": "Gulliver's Travels",
+      "fbtee": [
+        "bk0001749",
+        "bk0004732"
+      ],
+      "authors": [
+        "Desfontaines [abbé]",
+        "Swift, Jonathan"
+      ],
+      "keywords": [
+        "Allegorical Works",
+        "Fantasy adventures",
+        "Literature",
+        "Political Fiction",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "The Samians, a tale; La Fenice o La vita mistica: apologo arabico; Callista e Filetore",
+      "fbtee": "bk0001755",
+      "authors": [
+        "Cesarotti, Melchior",
+        "Thiroux d' Arconville, Marie-Geneviève-Charlotte"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Collected works",
+        "Fantasy adventures",
+        "Greece",
+        "Islamic World",
+        "Literature",
+        "Prose Fiction",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "Sermons [various]",
+      "fbtee": "bk0001758",
+      "authors": [
+        "Barbeyrac, Jean",
+        "Beausobre, C. L. [de]",
+        "Tillotson, John"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Collected works",
+        "Protestant text",
+        "Religion",
+        "Sermons",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Essai sur les maladies des gens du monde",
+      "fbtee": "bk0001770",
+      "authors": "Tissot, Samuel Auguste André David",
+      "keywords": [
+        "Medical remedies",
+        "Medicine",
+        "Pathology",
+        "Patient care",
+        "Science"
+      ]
+    },
+    {
+      "title": "De membrorum amputatione",
+      "fbtee": "bk0001778",
+      "authors": [
+        "Bilguer, Johann Ulrich",
+        "Tissot, Samuel Auguste André David"
+      ],
+      "keywords": [
+        "Medicine",
+        "Science",
+        "Surgery"
+      ]
+    },
+    {
+      "title": "En ostindisk resa til Suratte, China",
+      "fbtee": "bk0001780",
+      "authors": [
+        "Blackford, Dominique [de]",
+        "Torée, Olof"
+      ],
+      "keywords": [
+        "China",
+        "India",
+        "National customs",
+        "Political institutions",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "The Sylph",
+      "fbtee": "bk0001782",
+      "authors": [
+        "Devonshire, Georgiana Cavendish",
+        "Le Tourneur, Pierre-Prime-Félicien"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Cui bono? or, An inquiry, what benefits can arise either to the English or the Americans, the French, Spaniards, or Dutch, from the greatest victories, or successes in the present war? Being a series of letters addressed to Monsieur Necker, late controller general of the finances of France",
+      "fbtee": "bk0001793",
+      "authors": "Tucker, Josiah",
+      "keywords": [
+        "American Revolution",
+        "Britain",
+        "Colonial policy",
+        "Commerce",
+        "Current Affairs",
+        "Economics",
+        "France",
+        "International Trade",
+        "Netherlands",
+        "Politics",
+        "Spain",
+        "United States of America"
+      ]
+    },
+    {
+      "title": "Observations on the Nature, Causes, and Cure of those Disorders wich have been Commonly Called Nervous Hypocondriac or Hysteric, to which are prefixed some remarkes on the sympathy of the nerves",
+      "fbtee": "bk0001888",
+      "authors": [
+        "Le Bègue de Presle, Achille-Guillaume",
+        "Whytt, Robert"
+      ],
+      "keywords": [
+        "Medical remedies",
+        "Medicine",
+        "Mental diseases",
+        "Nervous system",
+        "Pathology",
+        "Reference works",
+        "Science"
+      ]
+    },
+    {
+      "title": "Musarion oder die Philosophie der Grazien",
+      "fbtee": "bk0001890",
+      "authors": [
+        "Laveaux, Jean-Charles",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Erotic works",
+        "Literature",
+        "Poetry",
+        "Stoicism"
+      ]
+    },
+    {
+      "title": "Historiae ecclesiasticae compendium a Christo nato usque ad annum MDCC [abridged from]",
+      "fbtee": "bk0001899",
+      "authors": "Turrettini, Jean Alphonse",
+      "keywords": [
+        "Church History",
+        "History",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Liber Secretorum Alberti Magni de virtutibus herbarum, lapidum et animalium quorumdam ",
+      "fbtee": "bk0001907",
+      "authors": "Albert le Grand",
+      "keywords": [
+        "Alchemy",
+        "Book of secrets",
+        "Cookery",
+        "Distillation",
+        "Dyes and tinctures",
+        "Herbalism",
+        "Household Skills",
+        "Human reproduction",
+        "Magic Spells",
+        "Manual",
+        "Medical remedies",
+        "Medicine",
+        "Pharmacology",
+        "Pseudo-science",
+        "Recipes",
+        "Reference works",
+        "Science"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Alfred",
+      "fbtee": "bk0001909",
+      "authors": "Haller, Albrecht [von]",
+      "keywords": [
+        "Alfred the Great",
+        "Britain",
+        "England",
+        "Historical Fiction",
+        "Literature",
+        "Middle Ages",
+        "Political Fiction",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Friendship in Death. In Twenty Letters from the Dead to the Living",
+      "fbtee": "bk0001916",
+      "authors": [
+        "Bertrand, Jean",
+        "Rowe, Elizabeth Singer"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Death and dying",
+        "Dialogues of the Dead",
+        "Didactic Fiction",
+        "Epistolary Fiction",
+        "Literature",
+        "Moral instruction",
+        "Poetry",
+        "Prose Fiction",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Hermann: ein Trauerspiel [partially translated and adapted from]",
+      "fbtee": "bk0001937",
+      "authors": [
+        "Bauvin, Jean-Grégoire",
+        "Schlegel, Johann Heinrich"
+      ],
+      "keywords": [
+        "Drama",
+        "Literature",
+        "Tragedy",
+        "Verse Drama"
+      ]
+    },
+    {
+      "title": "Cecilia, or Memoirs of an Heiress",
+      "fbtee": "bk0001991",
+      "authors": [
+        "Burney, Fanny",
+        "Rieu, Henri"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "A letter to Dr Abraham Johnson on the subject of his new scheme for the propagation of the human species",
+      "fbtee": "bk0002020",
+      "authors": "Roe, Richard",
+      "keywords": [
+        "Amorous adventures",
+        "Anatomy",
+        "Biology",
+        "Human reproduction",
+        "Libertine texts",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works",
+        "Science",
+        "Short stories",
+        "Virgin Birth"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The Improvement of the Mind, or A Supplement to the Art of Logic",
+      "fbtee": "bk0002054",
+      "authors": [
+        "Superville, Daniel [de]",
+        "Watts, Isaac"
+      ],
+      "keywords": [
+        "Education",
+        "Educational Curriculum",
+        "Epistemology",
+        "Logic",
+        "Pedagogy",
+        "Philosophy",
+        "Science",
+        "Scientific method",
+        "Self-Improvement",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Account of the Russian discoveries between Asia and America; to which are added, The conquest of Siberia, and the history of the transactions and commerce between Russia and China",
+      "fbtee": "bk0002057",
+      "authors": [
+        "Coxe, William",
+        "Démeunier, Jean-Nicolas"
+      ],
+      "keywords": [
+        "China",
+        "Commerce",
+        "Economics",
+        "Exploration",
+        "History",
+        "Military history",
+        "Pacific",
+        "Russia"
+      ]
+    },
+    {
+      "title": "Matrona Ephesi; ?",
+      "fbtee": "bk0002067",
+      "authors": [
+        "Fréron, Élie-Catherine",
+        "Halde, Jean-Baptiste [du]",
+        "Petronius"
+      ],
+      "keywords": [
+        "China",
+        "Classical antiquity",
+        "Collected works",
+        "Greece",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "Historia aëris factitii., Historiae aëris factitii pars medica",
+      "fbtee": "bk0002068",
+      "authors": [
+        "Corvinus, Joannes Fridericus",
+        "Vicat, Philippe Rodolphe"
+      ],
+      "keywords": [
+        "Chemistry",
+        "Gases",
+        "Medicine",
+        "Science"
+      ]
+    },
+    {
+      "title": "A Discourse of free-thinking, occasion'd by the rise and growth of a sect call'd free-thinkers",
+      "fbtee": "bk0002087",
+      "authors": [
+        "Collins, Anthony",
+        "Rousset de Missy, Jean",
+        "Scheurléer, Henri"
+      ],
+      "keywords": [
+        "Anti-Clerical Works",
+        "Christianity",
+        "Deism",
+        "Philosophie",
+        "Religion",
+        "Sceptical works",
+        "Theology",
+        "religious toleration"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Juris naturalis elementa ",
+      "fbtee": "bk0002124",
+      "authors": "Burlamaqui, Jean-Jacques",
+      "keywords": [
+        "Church and State",
+        "Law",
+        "Moral Philosophy",
+        "Natural Law",
+        "Natural Religion",
+        "Philosophie",
+        "Philosophy",
+        "Political Rights",
+        "Political theory",
+        "Politics",
+        "Religion",
+        "Sceptical works",
+        "School Book",
+        "religious toleration"
+      ]
+    },
+    {
+      "title": "Physiognomische Fragmente",
+      "fbtee": "bk0002165",
+      "authors": [
+        "Caillard, Antoine-Bernard",
+        "La Fite, Marie-Élisabeth Bouée [Mme de]",
+        "Lavater, Johann Caspar",
+        "Renfner, Henri"
+      ],
+      "keywords": [
+        "Physiognomy",
+        "Pseudo-science",
+        "Science"
+      ]
+    },
+    {
+      "title": "Dissertation on Providence ",
+      "fbtee": "bk0002167",
+      "authors": [
+        "Bochat, Charles Guillaume Loys [de]",
+        "Price, Richard"
+      ],
+      "keywords": [
+        "Christian enlightenment text",
+        "Christian theology",
+        "Christianity",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "An Account of Corsica: the Journal of a Tour to that Island; and Memoirs of Pascal Paoli",
+      "fbtee": "bk0002182",
+      "authors": [
+        "Boswell, James",
+        "Seigneux de Correvon, Gabriel"
+      ],
+      "keywords": [
+        "Biography",
+        "Corsica",
+        "Current Affairs",
+        "Geography",
+        "History",
+        "Lives and letters",
+        "Paoli, Pascal",
+        "Politics",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "A View of the Internal Evidence of the Christian Religion by Soame Jenyns",
+      "fbtee": "bk0002190",
+      "authors": "Jenyns, Soame",
+      "keywords": [
+        "Apologetic works",
+        "Christian enlightenment text",
+        "Christian theology",
+        "Christianity",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The Excursion",
+      "fbtee": "bk0002192",
+      "authors": [
+        "Brooke, Frances Moore",
+        "Rieu, Henri"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "Fabius und Cato",
+      "fbtee": "bk0002196",
+      "authors": [
+        "Haller, Albrecht [von]",
+        "Koenig, F. L."
+      ],
+      "keywords": [
+        "Carthage",
+        "Cato",
+        "Classical antiquity",
+        "Hannibal",
+        "Historical Fiction",
+        "Literature",
+        "Political Fiction",
+        "Prose Fiction",
+        "Punic Wars",
+        "Roman Empire",
+        "Scipio Africanus"
+      ]
+    },
+    {
+      "title": "Felicità (la) pubblica considerata nei coltivatori di terre proprie",
+      "fbtee": "bk0002200",
+      "authors": "Vasco, Giambattista",
+      "keywords": [
+        "Agriculture",
+        "Agronomy",
+        "Economic Theory",
+        "Economics",
+        "Land Tenure",
+        "Peasantry",
+        "Political theory",
+        "Politics",
+        "Social order"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "fbtee": "bk0002204",
+      "authors": [
+        "Reverdil, Élie Salomon François",
+        "Smith, Adam"
+      ],
+      "keywords": [
+        "Britain",
+        "Colonial policy",
+        "Commerce",
+        "Economics",
+        "Free trade",
+        "International Trade"
+      ]
+    },
+    {
+      "title": "Henriette, oder der Husarenraub, in Briefen bey Gelegenheit des gegenwärtigen Kriegs",
+      "fbtee": "bk0002216",
+      "authors": [
+        "Beuvius, Adam",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Bavaria",
+        "Epistolary Fiction",
+        "Germany",
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Sentimental Fiction",
+        "War of Bavarian Succession"
+      ]
+    },
+    {
+      "title": "El héroe ",
+      "fbtee": "bk0002218",
+      "authors": "Gracián, Baltasar",
+      "keywords": [
+        "Heros and Heroism",
+        "Moral Philosophy",
+        "Philosophy"
+      ]
+    },
+    {
+      "title": "The Fortunate Foundlings [partially translated from]",
+      "fbtee": "bk0002219",
+      "authors": [
+        "Crébillon fils, Claude-Prosper Jolyot [de]",
+        "Haywood, Eliza Fowler"
+      ],
+      "keywords": [
+        "Amorous adventures",
+        "Literature",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The Triumph of Benevolence; or The History of Francis Wills",
+      "fbtee": "bk0002221",
+      "authors": [
+        "Goldsmith, Oliver",
+        "Murphy, Arthur"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Spurious works"
+      ]
+    },
+    {
+      "title": "The History of Rhedi, The Hermit of Mount Ararat",
+      "fbtee": "bk0002241",
+      "authors": "Duff, William",
+      "keywords": [
+        "Literature",
+        "Middle East",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "Allgemeine Geschichte der neuesten Entdeckungen",
+      "fbtee": [
+        "bk0002243",
+        "bk0003629"
+      ],
+      "authors": "Pallas, Peter Simon",
+      "keywords": [
+        "Commerce",
+        "Economics",
+        "Exploration",
+        "Geography",
+        "History",
+        "Persia",
+        "Russia",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "The Old and New Testament connected in the History of the Jews and Neighbouring Nations",
+      "fbtee": "bk0002244",
+      "authors": "Prideaux, Humphrey",
+      "keywords": [
+        "Ancient world",
+        "Biblical history",
+        "Biblical study",
+        "Classical antiquity",
+        "History",
+        "Jews",
+        "Judaism",
+        "Middle East",
+        "Persia",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The History of the Reign of the Emperor Charles V, with a view of the progress of society in Europe, from the subversion of the Roman Empire, to the beginning of the sixteenth century",
+      "fbtee": [
+        "bk0002253",
+        "bk0003619"
+      ],
+      "authors": [
+        "Robertson, William",
+        "Suard, Jean-Baptiste-Antoine"
+      ],
+      "keywords": [
+        "Austrian Empire",
+        "Charles V",
+        "Europe",
+        "Germany",
+        "History",
+        "Netherlands",
+        "Renaissance",
+        "Spain"
+      ]
+    },
+    {
+      "title": "Institutiones Historiae Ecclesiasticae Antiquae et Recentioris",
+      "fbtee": "bk0002257",
+      "authors": [
+        "Eidous, Marc-Antoine",
+        "Maclaine, Archibald",
+        "Mosheim, Johann Lorenz [von]"
+      ],
+      "keywords": [
+        "Biblical study",
+        "Christianity",
+        "Church History",
+        "History",
+        "Religion",
+        "Work of Religiosity"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The Adventures of Peregrine Pickle",
+      "fbtee": "bk0002258",
+      "authors": [
+        "Smollett, Tobias George",
+        "Toussaint, François-Vincent"
+      ],
+      "keywords": [
+        "Literature",
+        "Picaresque tales",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Die Eisgebirge des Schweizenlandes?",
+      "fbtee": "bk0002263",
+      "authors": [
+        "Dulon, Isaac",
+        "Gruner, Gottlieb Sigmund"
+      ],
+      "keywords": [
+        "Geology",
+        "Hydrography",
+        "Mineralogy",
+        "Paleontology",
+        "Science",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Naval History of England, in all its Branches ",
+      "fbtee": "bk0002264",
+      "authors": [
+        "Lediard, Thomas",
+        "Puisieux, Philippe-Florent [de]"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "History",
+        "Military history",
+        "Naval Warfare",
+        "Navies & Naval Power"
+      ]
+    },
+    {
+      "title": "Der Wilde",
+      "fbtee": "bk0002276",
+      "authors": [
+        "Mercier, Louis-Sébastien",
+        "Pfeil, Johann Gottlob Benjamin"
+      ],
+      "keywords": [
+        "Anti-Clerical Works",
+        "Literature",
+        "Noble Savage, The",
+        "Philosophie",
+        "Prose Fiction",
+        "Rousseauian text",
+        "Sentimental Fiction"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "A True Picture of Popery; Popery a Craft; Priestianity",
+      "fbtee": "bk0002279",
+      "authors": [
+        "Bourn, Samuel",
+        "Davisson, John",
+        "Gordon, Thomas",
+        "Holbach, Paul Henri Dietrich [d']"
+      ],
+      "keywords": [
+        "Anti-Clerical Works",
+        "Catholicism",
+        "Christianity",
+        "Church History",
+        "History",
+        "Papacy",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The History of the Late War in Germany ",
+      "fbtee": "bk0002293",
+      "authors": [
+        "Lloyd, Henry",
+        "Mesmont, Germain-Hyacinthe Romance [Marquis de] (translator)"
+      ],
+      "keywords": [
+        "Military Affairs",
+        "Seven Years War"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Prevenciones Divinas; La Divinité du Jésus-Christ détruite; Dissertation sur le Messie",
+      "fbtee": "bk0002294",
+      "authors": [
+        "Holbach, Paul Henri Dietrich [d']",
+        "Orobio, Isaac"
+      ],
+      "keywords": [
+        "Biblical study",
+        "Christianity",
+        "Judaism",
+        "Philosophie",
+        "Religion",
+        "Religious Prophesy",
+        "Sceptical works",
+        "Spurious works",
+        "Theology"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The Journal of a Voyage to Lisbon",
+      "fbtee": "bk0002307",
+      "authors": "Fielding, Henry",
+      "keywords": [
+        "Biography",
+        "Britain",
+        "England",
+        "Lives and letters",
+        "Portugal",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "A Father's Legacy to his Daughters",
+      "fbtee": [
+        "bk0002314",
+        "bk0003225"
+      ],
+      "authors": [
+        "Gregory, John",
+        "Morellet, André"
+      ],
+      "keywords": [
+        "Christian life",
+        "Christianity",
+        "Conduct manual",
+        "Education",
+        "Gender relations",
+        "Marriage",
+        "Moral instruction",
+        "Religion",
+        "Women's Literature",
+        "Women's education",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Briefe über einige nochlebenden Freygeister Einwürfe wider die Offenbarung",
+      "fbtee": "bk0002334",
+      "authors": [
+        "Haller, Albrecht [von]",
+        "Koenig, F. L."
+      ],
+      "keywords": [
+        "Ancient world",
+        "Apologetic works",
+        "Biblical history",
+        "Biblical study",
+        "Christian enlightenment text",
+        "Christian theology",
+        "Christianity",
+        "History",
+        "Judaism",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Voltaire",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Saggio di lettere sopra la Russia",
+      "fbtee": "bk0002339",
+      "authors": "Algarotti, Francesco",
+      "keywords": [
+        "Commerce",
+        "Economics",
+        "History",
+        "Military Affairs",
+        "Military history",
+        "Russia",
+        "Russo-Turkish wars"
+      ]
+    },
+    {
+      "title": "Letters From an English Traveller ",
+      "fbtee": [
+        "bk0002343",
+        "bk0003606"
+      ],
+      "authors": "Sherlock, Martin",
+      "keywords": [
+        "Europe",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Letters from Yorick to Eliza",
+      "fbtee": "bk0002345",
+      "authors": [
+        "Raynal, Guillaume-Thomas-François",
+        "Sterne, Laurence"
+      ],
+      "keywords": [
+        "Correspondence",
+        "India",
+        "Literary Correspondence",
+        "Lives and letters",
+        "Sterne, Laurence",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Delle leggi civili reali?",
+      "fbtee": "bk0002367",
+      "authors": [
+        "Félice, Fortunato Bartholomeo [de]",
+        "Seigneux de Correvon, Gabriel",
+        "Vasco, Dalmazzo Francesco"
+      ],
+      "keywords": [
+        "Civil Law",
+        "Law",
+        "Property"
+      ]
+    },
+    {
+      "title": "De rerum natura",
+      "fbtee": "bk0002370",
+      "authors": "Lucrèce",
+      "keywords": [
+        "Epistemology",
+        "Literature",
+        "Materialism",
+        "Metaphysics",
+        "Philosophy",
+        "Poetry"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Historia stirpium indigenarum Helvetiae",
+      "fbtee": "bk0002380",
+      "authors": [
+        "Haller, Albrecht [von]",
+        "Vicat, Philippe Rodolphe"
+      ],
+      "keywords": [
+        "Botany",
+        "Herbalism",
+        "Medical remedies",
+        "Medicine",
+        "Pharmacology",
+        "Science",
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "Pro Memoria per i sovrani della comunione di Roma de 1600, 1 iuglio 1778",
+      "fbtee": "bk0002386",
+      "authors": "Valotti, Gaudenzio",
+      "keywords": [
+        "Catholicism",
+        "Christian enlightenment text",
+        "Christianity",
+        "Church and State",
+        "Clerical jurisdiction",
+        "Current Affairs",
+        "Ecclesiastical affairs",
+        "Law",
+        "Papacy",
+        "Politics",
+        "Religion",
+        "Work of Religiosity"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Memoirs of an Unfortunate Queen",
+      "fbtee": "bk0002404",
+      "authors": [
+        "Caroline-Mathilde, Reine de Danemark",
+        "Sheridan, Charles Francis"
+      ],
+      "keywords": [
+        "Autobiography",
+        "Biography",
+        "Caroline, Queen of Denmark",
+        "Correspondence",
+        "Courts & Courtiers",
+        "Current Affairs",
+        "Denmark",
+        "Lives and letters",
+        "Political Correspondence",
+        "Politics",
+        "Scandal",
+        "Spurious works"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Der goldne Spiegel oder Die Könige von Scheschian",
+      "fbtee": "bk0002417",
+      "authors": "Wieland, Christoph Martin",
+      "keywords": [
+        "Literature",
+        "Political Fiction",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Epistolae medico practicae",
+      "fbtee": [
+        "bk0002448",
+        "bk0003631"
+      ],
+      "authors": [
+        "Tissot, Samuel Auguste André David",
+        "Vicat, Philippe Rodolphe"
+      ],
+      "keywords": [
+        "Inoculation",
+        "Medical remedies",
+        "Medicine",
+        "Pathology",
+        "Science"
+      ]
+    },
+    {
+      "title": "Observazioni fisico-mediche intorno alla elettricità",
+      "fbtee": "bk0002451",
+      "authors": "Veratti, Gio. Giuseppe",
+      "keywords": [
+        "Electricity",
+        "Medical Case Reports",
+        "Medical remedies",
+        "Medicine",
+        "Physics",
+        "Science",
+        "Technology"
+      ]
+    },
+    {
+      "title": "Observations on the Religion, Law, Government and Manners of the Turks",
+      "fbtee": "bk0002455",
+      "authors": "Porter, James",
+      "keywords": [
+        "Islam",
+        "Law",
+        "Ottoman Empire",
+        "Political institutions",
+        "Politics",
+        "Religion",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Carmina amatoria",
+      "fbtee": "bk0002469",
+      "authors": "Barrin, Jean",
+      "keywords": [
+        "Collected works",
+        "Erotic works",
+        "Literature",
+        "Poetry"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Abscheid der im Jahr 1549 zu Baden gehaltenen Tagsazung der zwölf alten Orten einer hochlobl ",
+      "fbtee": "bk0002531",
+      "authors": [
+        "Hory, Daniel",
+        "Suisse. Diète fédérale"
+      ],
+      "keywords": [
+        "Edicts",
+        "History",
+        "Neuchatel",
+        "Official documents",
+        "Parliamentary bodies",
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "Reflexionen eines Schweizers über die Frage, ob es der Catholischen Eidgenossschaft nicht zuträglich wäre, die regularen Orden gänzlich aufzuheben, oder wenigstens einzuschränken?",
+      "fbtee": "bk0002551",
+      "authors": "Heidegger, Heinrich",
+      "keywords": [
+        "Catholicism",
+        "Christianity",
+        "Church and State",
+        "Current Affairs",
+        "Local politics",
+        "Monasticism",
+        "Politics",
+        "Religion",
+        "Religious orders",
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "An Account of the Earthquakes in Calabria, Sicily etc.",
+      "fbtee": "bk0002564",
+      "authors": [
+        "Hamilton, William",
+        "Sella, Gasparo"
+      ],
+      "keywords": [
+        "Calabria",
+        "Earthquakes",
+        "Italy",
+        "Sicily"
+      ]
+    },
+    {
+      "title": "Orlando furioso",
+      "fbtee": [
+        "bk0002578",
+        "bk0002855"
+      ],
+      "authors": [
+        "Ariosto, Ludovico",
+        "Tressan, Louis-Élisabeth de La Vergne [comte de]"
+      ],
+      "keywords": [
+        "Charlemagne",
+        "Chivalry",
+        "Crusades",
+        "Epic Poetry",
+        "France",
+        "History",
+        "Literature",
+        "Middle Ages",
+        "Poetry",
+        "Spain"
+      ]
+    },
+    {
+      "title": "Wirthschaft eines philosophischen Bauers",
+      "fbtee": "bk0002597",
+      "authors": "Hirzel, Hans Caspar",
+      "keywords": [
+        "Agriculture",
+        "Agronomy",
+        "Arable farming",
+        "Economics",
+        "Food and Beverages",
+        "Gujer, Jacob",
+        "Land improvement",
+        "Potatoes",
+        "Switzerland",
+        "Vegetables"
+      ]
+    },
+    {
+      "title": "Sobranie uchrezhdenii kastel'no vospitaniia",
+      "fbtee": "bk0002612",
+      "authors": [
+        "Betskij, Ivan Ivanovic",
+        "Le Clerc, Nicolas-Gabriel"
+      ],
+      "keywords": [
+        "Child-rearing",
+        "Education",
+        "Educational Curriculum",
+        "Moral instruction",
+        "Pedagogy",
+        "Public Education System",
+        "Russia"
+      ]
+    },
+    {
+      "title": "Thebaid",
+      "fbtee": "bk0002628",
+      "authors": [
+        "Cormiliolle [abbé]",
+        "Stace"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Epic Poetry",
+        "Greece",
+        "Literature",
+        "Mythology",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "Abhandlung über die bey Anlegung der Minen nöthige Theorie",
+      "fbtee": "bk0002629",
+      "authors": [
+        "Geuss, Joachim Michael",
+        "Smeets, A. L."
+      ],
+      "keywords": [
+        "Explosives",
+        "Military Affairs",
+        "Military science",
+        "Science",
+        "Siege Warfare",
+        "Technology",
+        "Weaponry"
+      ]
+    },
+    {
+      "title": "Every Man His own Gardener (excerpt)",
+      "fbtee": "bk0002637",
+      "authors": "Abercrombie, John",
+      "keywords": [
+        "Agriculture",
+        "Arable farming",
+        "Arboriculture",
+        "Manual",
+        "Reference works"
+      ]
+    },
+    {
+      "title": "Life of David Hume",
+      "fbtee": [
+        "bk0002656",
+        "bk0003498"
+      ],
+      "authors": [
+        "Hume, David",
+        "Suard, Jean-Baptiste-Antoine"
+      ],
+      "keywords": [
+        "Autobiography",
+        "Biography",
+        "Britain",
+        "Hume, David",
+        "Lives and letters",
+        "Philosophers",
+        "Scotland"
+      ]
+    },
+    {
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+      "fbtee": [
+        "bk0002658",
+        "bk0003438",
+        "bk0004050"
+      ],
+      "authors": [
+        "Frenais, Joseph-Pierre",
+        "Sterne, Laurence"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Bioi parallèloi",
+      "fbtee": "bk0002662",
+      "authors": [
+        "Dacier, André",
+        "Plutarch"
+      ],
+      "keywords": [
+        "Biography",
+        "Classical antiquity",
+        "History",
+        "Lives and letters",
+        "Moral instruction"
+      ]
+    },
+    {
+      "title": "Wilhelmine",
+      "fbtee": "bk0002663",
+      "authors": [
+        "Huber, Michael",
+        "Thümmel, Moritz August [von]"
+      ],
+      "keywords": [
+        "Comic Poetry",
+        "Erotic works",
+        "Literature",
+        "Poetry",
+        "Romantic Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "A Voyage Towards the South Pole, and Round the World: performed in His Majesty's ships the Resolution and Adventure, in the years 1772, 1773, 1774, and 1775",
+      "fbtee": "bk0002666",
+      "authors": [
+        "Cook, James",
+        "Suard, Jean-Baptiste-Antoine"
+      ],
+      "keywords": [
+        "Cook, James",
+        "Exploration",
+        "Pacific",
+        "Polar regions",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Nicolaus Ernst Kleemanns Reisen von Wien über Belgrad bis Kilianova, durch die Butschiack-Tartarey über Kavschan, Bender, durch die Nogew-Tartarey in die Crimm, dann von Kaffa nach Konstantinopel, nach Smirna und durch den Archipelagum nach Triest und Wien, in den Jahren 1768, 1769 und 1779, nebst einem Anhange von den besonderen Merkwürdigkeiten der crimmischen Tartarey, in Briefen an einen Freund",
+      "fbtee": "bk0002671",
+      "authors": [
+        "Kleemann, Nicolaus Ernst",
+        "Rieu, Henri"
+      ],
+      "keywords": [
+        "Austrian Empire",
+        "Ottoman Empire",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Reisebeschreibung nach Arabien und andern umliegenden Ländern",
+      "fbtee": [
+        "bk0002673",
+        "bk0003876"
+      ],
+      "authors": [
+        "Mérian, Jean-Baptiste [de]",
+        "Niebuhr, Carsten"
+      ],
+      "keywords": [
+        "Arabia",
+        "Commerce",
+        "Cuneiform",
+        "Economics",
+        "Egypt",
+        "India",
+        "Islamic World",
+        "Languages",
+        "Meteorology",
+        "Middle East",
+        "National customs",
+        "Natural History (general)",
+        "Oriental languages",
+        "Ottoman Empire",
+        "Persia",
+        "Pre-Classical Remains",
+        "Science",
+        "Technology",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Viaggio in Dalmazia",
+      "fbtee": "bk0002674",
+      "authors": "Fortis, Alberto",
+      "keywords": [
+        "Balkans",
+        "Dalmatia",
+        "National customs",
+        "Social mores",
+        "Travel",
+        "Venice"
+      ]
+    },
+    {
+      "title": "Travels through Spain and Portugal, in 1774",
+      "fbtee": "bk0002675",
+      "authors": [
+        "Dalrymple, W.",
+        "Mesmont, Germain-Hyacinthe Romance [Marquis de] (translator)"
+      ],
+      "keywords": [
+        "Military Affairs",
+        "North Africa",
+        "Portugal",
+        "Spain",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Travels through Portugal and Spain, in 1772 and 1773",
+      "fbtee": "bk0002676",
+      "authors": "Twiss, Richard",
+      "keywords": [
+        "Bibliography",
+        "National customs",
+        "Portugal",
+        "Spain",
+        "Travel"
+      ]
+    },
+    {
+      "title": "A Tour through Sicily and Malta: in a series of letters to William Beckford, esq. of Somerly in Suffolk",
+      "fbtee": "bk0002678",
+      "authors": "Brydone, Patrick",
+      "keywords": [
+        "Italy",
+        "Malta",
+        "Sicily",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Reise durch Sizilien und Grossgriechenland",
+      "fbtee": "bk0002679",
+      "authors": [
+        "Frey des Landres, Jean Rodolphe",
+        "Hamilton, William",
+        "Riedesel, Johann Hermann [von]",
+        "Zinzendorf, Nikolaus Ludwig [von]"
+      ],
+      "keywords": [
+        "Architecture",
+        "Art History",
+        "Classical remains",
+        "Fine Arts",
+        "Greece",
+        "Italy",
+        "Sicily",
+        "Travel"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Travels Through the Middle Settlements in North America, In the Years 1759 and 1760 ",
+      "fbtee": "bk0002682",
+      "authors": "Burnaby, Andrew",
+      "keywords": [
+        "Britain",
+        "Colonial policy",
+        "Current Affairs",
+        "National customs",
+        "North America",
+        "Political institutions",
+        "Politics",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "A Description of the East, and Some Other Countries",
+      "fbtee": "bk0002683",
+      "authors": "Pococke, Richard",
+      "keywords": [
+        "Ottoman Empire",
+        "Travel"
+      ]
+    },
+    {
+      "title": "The American Traveller: or observations on the present state, culture and commerce of the British colonies in America",
+      "fbtee": "bk0002685",
+      "authors": [
+        "Cluny, Alexander",
+        "Mandrillon, Joseph"
+      ],
+      "keywords": [
+        "Agriculture",
+        "American Revolution",
+        "Commerce",
+        "Current Affairs",
+        "Economics",
+        "History",
+        "North America",
+        "Political institutions",
+        "Politics",
+        "Public administration",
+        "United States of America"
+      ]
+    },
+    {
+      "title": "Museum rusticum et commerciale, or select papers on agriculture, commerce, arts and manufactures",
+      "fbtee": "bk0002700",
+      "authors": "Schwabe, Johann Joachim",
+      "keywords": [
+        "Agriculture",
+        "Agronomy",
+        "Economics",
+        "Periodical Literature"
+      ]
+    },
+    {
+      "title": "Die Eisgebirge des Schweizerlandes",
+      "fbtee": "bk0002745",
+      "authors": [
+        "Gruner, Gottlieb Sigmund",
+        "Keralio, Louis-Félix Guinement"
+      ],
+      "keywords": [
+        "Alps",
+        "Glaciers",
+        "Mountains",
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "Moralische Vorlesungen",
+      "fbtee": [
+        "bk0002753",
+        "bk0003128",
+        "bk0004704",
+        "bk0005049"
+      ],
+      "authors": "Gellert, Christian Fuerchtegott",
+      "keywords": [
+        "Child-rearing",
+        "Christian theology",
+        "Christianity",
+        "Education",
+        "Moral Philosophy",
+        "Moral instruction",
+        "Pedagogy",
+        "Philosophy",
+        "Protestant text",
+        "Religion",
+        "School Book",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Evidence of the Christian religion",
+      "fbtee": "bk0002760",
+      "authors": [
+        "Addison, Joseph",
+        "Seigneux de Correvon, Gabriel"
+      ],
+      "keywords": [
+        "Apologetic works",
+        "Biblical history",
+        "Biblical study",
+        "Christian Doctrine",
+        "Christian enlightenment text",
+        "Christian theology",
+        "Christianity",
+        "Church History",
+        "History",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Divoti affetti d'un'anima verso Dio",
+      "fbtee": "bk0002765",
+      "authors": "Gossard [le Père]",
+      "keywords": [
+        "Catholicism",
+        "Christian life",
+        "Christianity",
+        "Moral instruction",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Night Thoughts; Various Titles",
+      "fbtee": [
+        "bk0002786",
+        "bk0005052"
+      ],
+      "authors": [
+        "Le Tourneur, Pierre-Prime-Félicien",
+        "Young, Edward"
+      ],
+      "keywords": [
+        "Christianity",
+        "Collected works",
+        "Human nature",
+        "International relations",
+        "Literary Criticism",
+        "Literary studies",
+        "Literature",
+        "Miscellaneous essays",
+        "Moral Philosophy",
+        "Oeuvres",
+        "Philosophy",
+        "Politics",
+        "Religion",
+        "Theatre",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "[unknown manuscript]",
+      "fbtee": "bk0002795",
+      "authors": [
+        "Açarq, Jean-Pierre [d']",
+        "San Severino, Giulio Roberto [di]"
+      ],
+      "keywords": [
+        "Biography",
+        "History",
+        "Italy",
+        "Lives and letters",
+        "Reference works"
+      ]
+    },
+    {
+      "title": "[various titles]",
+      "fbtee": [
+        "bk0002796",
+        "bk0003156",
+        "bk0004911"
+      ],
+      "authors": [
+        "Anderson, Adam",
+        "Coste, Jean-François",
+        "Decker, Matthew",
+        "Hooke, Andrew",
+        "Huber, Michael",
+        "Mead, Richard",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Britain",
+        "Collected works",
+        "Commerce",
+        "Economics",
+        "England",
+        "Financial administration",
+        "Literature",
+        "Medicine",
+        "Natural History (general)",
+        "Pathology",
+        "Physics",
+        "Poetry",
+        "Science",
+        "Taxation"
+      ]
+    },
+    {
+      "title": "Les Provinciales",
+      "fbtee": "bk0002803",
+      "authors": [
+        "Nicole, Pierre",
+        "Pascal, Blaise"
+      ],
+      "keywords": [
+        "Casuistry",
+        "Catholicism",
+        "Christian theology",
+        "Christianity",
+        "Jansenist text",
+        "Jesuits",
+        "Moral Philosophy",
+        "Philosophy",
+        "Religion",
+        "Religious orders",
+        "Satirical works",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Socrates mainomenos oder die Dialogen des Diogenes von Sinope",
+      "fbtee": "bk0002814",
+      "authors": [
+        "Barbé-Marbois, François [marquis de]",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Greece",
+        "Literature",
+        "Moral tales",
+        "Philosophie",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Von den Krankheiten des Hofes und der Weltleute",
+      "fbtee": "bk0002841",
+      "authors": "Langhans, Daniel",
+      "keywords": [
+        "France",
+        "Medical remedies",
+        "Medicine",
+        "Nobility",
+        "Pathology",
+        "Reference works",
+        "Science"
+      ]
+    },
+    {
+      "title": "The Christian's Consolations Against the Fears of Death",
+      "fbtee": [
+        "bk0002850",
+        "bk0005346"
+      ],
+      "authors": "Drelincourt, Charles",
+      "keywords": [
+        "Christianity",
+        "Death and dying",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Polish Partition in Seven Dramatick Dialogues",
+      "fbtee": "bk0002853",
+      "authors": [
+        "Lindsey, Theophilus",
+        "Rayneval, Joseph-Mathias Gérard [de]"
+      ],
+      "keywords": [
+        "Current Affairs",
+        "Europe",
+        "International relations",
+        "Military Affairs",
+        "Poland",
+        "Politics"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Night Thoughts",
+      "fbtee": [
+        "bk0002882",
+        "bk0004718"
+      ],
+      "authors": "Young, Edward",
+      "keywords": [
+        "Literature",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "A Voyage to the East-Indies",
+      "fbtee": "bk0002891",
+      "authors": [
+        "Cleland, John",
+        "Grose, John Henry",
+        "Hernandez, Philippe"
+      ],
+      "keywords": [
+        "Hinduism",
+        "India",
+        "Islam",
+        "National customs",
+        "Persia",
+        "Religion",
+        "Social mores",
+        "Travel",
+        "World religions"
+      ]
+    },
+    {
+      "title": "A Golden Chain of Four Links to Draw Poor Souls to their Desired Habitation ",
+      "fbtee": "bk0002893",
+      "authors": "Stevens, Joseph",
+      "keywords": [
+        "Afterlife",
+        "Christian life",
+        "Christianity",
+        "Conduct manual",
+        "Death and dying",
+        "Divine Judgement",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "A Short Account of the Ancient History, Present Government, and Laws of the Republic of Geneva",
+      "fbtee": "bk0002894",
+      "authors": [
+        "Keate, George",
+        "Lorovich, Antoine"
+      ],
+      "keywords": [
+        "Geneva",
+        "History",
+        "Law",
+        "Political institutions",
+        "Politics",
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "Principia medicinae; ?",
+      "fbtee": "bk0002928",
+      "authors": [
+        "Gastellier, René-Georges",
+        "Home, Francis"
+      ],
+      "keywords": [
+        "Anatomy",
+        "Medical Autopsies",
+        "Medical Case Reports",
+        "Medicine",
+        "Science"
+      ]
+    },
+    {
+      "title": "The Adventurer",
+      "fbtee": [
+        "bk0002953",
+        "bk0005098"
+      ],
+      "authors": [
+        "Blavet, Jean-Louis",
+        "Hawkesworth, John"
+      ],
+      "keywords": [
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Von der Erfahrung in der Arzneykunst",
+      "fbtee": "bk0002957",
+      "authors": [
+        "Lefebvre de Villebrune, Jean-Baptiste",
+        "Zimmermann, Johann Georg [von]"
+      ],
+      "keywords": [
+        "Medicine",
+        "Science",
+        "Scientific method"
+      ]
+    },
+    {
+      "title": "An account of the voyages undertaken by the order of His present Majesty for making discoveries in the Southern Hemisphere: and successively performed by Commodore Byron, Captain Wallis, Captain Carteret, and Captain Cook, in the Dolphin, the Swallow, and the Endeavor, drawn up from the journals which were kept by the several commanders, and from the papers of Joseph Banks, Esq.",
+      "fbtee": "bk0002968",
+      "authors": [
+        "Hawkesworth, John",
+        "Suard, Jean-Baptiste-Antoine"
+      ],
+      "keywords": [
+        "Australasia",
+        "Cook, James",
+        "Exploration",
+        "Pacific",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "The Pilgrim's Progress from This World to That Which Is to Come",
+      "fbtee": "bk0002970",
+      "authors": "Bunyan, John",
+      "keywords": [
+        "Afterlife",
+        "Allegorical Works",
+        "Christian Doctrine",
+        "Christian life",
+        "Christian theology",
+        "Christianity",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "La Gerusalemme liberata",
+      "fbtee": "bk0002999",
+      "authors": [
+        "Mirabaud, Jean-Baptiste",
+        "Tasso, Torquato"
+      ],
+      "keywords": [
+        "Chivalry",
+        "Crusades",
+        "Epic Poetry",
+        "History",
+        "Literature",
+        "Middle Ages",
+        "Military history",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "De Helvetiorum juribus circa sacra, das ist Kurzer historischer Entwurf der Freyheiten und der Gerichtsbarkeit der Eidsgenossen, in so genannten geistlichen Dingen",
+      "fbtee": "bk0003027",
+      "authors": [
+        "Balthasar, Joseph Anton Felix [von]",
+        "Vicat, Béat Philippe"
+      ],
+      "keywords": [
+        "Calvinism",
+        "Canon Law",
+        "Christian Doctrine",
+        "Christianity",
+        "Church History",
+        "Church and State",
+        "Clerical jurisdiction",
+        "History",
+        "Law",
+        "Protestant text",
+        "Protestantism",
+        "Religion",
+        "Switzerland",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "A Collection of Authentic, Useful, and Entertaining Voyages and Dscoveries",
+      "fbtee": "bk0003037",
+      "authors": [
+        "Barrow, John",
+        "Targe, Jean-Baptiste"
+      ],
+      "keywords": [
+        "Exploration",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Epitome de T. Livio Bellorum omnium annorum DCC Libri duo [abridged]",
+      "fbtee": "bk0003050",
+      "authors": [
+        "Florus, Lucius Annaeus",
+        "Paul, Armand-Laurent [abbé]"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "History",
+        "Roman Empire",
+        "School Book"
+      ]
+    },
+    {
+      "title": "French of The World, edited by Adam Fitz-Adam",
+      "fbtee": "bk0003094",
+      "authors": [
+        "Cambridge, Richard Owen",
+        "Chesterfield, Philip Dormer [4th Earl of]",
+        "Monod, Gaspard Joel",
+        "Moore, Edward",
+        "Walpole, Horace"
+      ],
+      "keywords": [
+        "Britain",
+        "Miscellaneous essays",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Geschichte des Fräuleins von Sternheim ",
+      "fbtee": "bk0003102",
+      "authors": [
+        "La Roche, Sophie [von]",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Britain",
+        "Epistolary Fiction",
+        "Germany",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Sentimental Fiction",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "An Essay Towards a Complete New System of Midwifery Theorical and Practical",
+      "fbtee": "bk0003134",
+      "authors": [
+        "Burton, John",
+        "Le Moine, François Marie"
+      ],
+      "keywords": [
+        "Childhood diseases",
+        "Medical remedies",
+        "Medicine",
+        "Obstetrics",
+        "Paediatrics",
+        "Patient care",
+        "Science"
+      ]
+    },
+    {
+      "title": "Observations on Modern Gardening",
+      "fbtee": "bk0003143",
+      "authors": [
+        "Latapie, François de Paule",
+        "Whately, Thomas"
+      ],
+      "keywords": [
+        "Garden design",
+        "Gardening",
+        "Manual",
+        "Reference works"
+      ]
+    },
+    {
+      "title": "Il conclave del MDCCLXXIV, dramma per musica",
+      "fbtee": "bk0003150",
+      "authors": [
+        "Salvemini da Castiglione, Federico",
+        "Sertor, Gaetano"
+      ],
+      "keywords": [
+        "Catholicism",
+        "Christianity",
+        "Comic Opera",
+        "Current Affairs",
+        "Drama",
+        "Ecclesiastical affairs",
+        "Literature",
+        "Music",
+        "Opera",
+        "Papacy",
+        "Politics",
+        "Prose Drama",
+        "Religion",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "The Spectator",
+      "fbtee": [
+        "bk0003168",
+        "bk0004136"
+      ],
+      "authors": [
+        "Addison, Joseph",
+        "Steele, Richard"
+      ],
+      "keywords": [
+        "Etiquette",
+        "Manners",
+        "Miscellaneous essays",
+        "Moral instruction",
+        "Periodical Literature",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Observations on the conversion and apostleship of St. Paul.",
+      "fbtee": "bk0003201",
+      "authors": [
+        "Des Champs, Jean",
+        "Lyttelton, George"
+      ],
+      "keywords": [
+        "Apologetic works",
+        "Christianity",
+        "Paul of Tarsus, Saint",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Life of Apollonius of Tyana",
+      "fbtee": "bk0003207",
+      "authors": [
+        "Blount, Charles",
+        "Philostrate l'Athénien",
+        "Salvemini da Castiglione, Giovanni Francesco Mauro Melchior"
+      ],
+      "keywords": [
+        "Biography",
+        "Classical antiquity",
+        "Lives and letters",
+        "Philosophers",
+        "Roman Empire"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "La Palingénésie philosophique",
+      "fbtee": "bk0003209",
+      "authors": [
+        "Bonnet, Charles",
+        "Lavater, Johann Caspar"
+      ],
+      "keywords": [
+        "Afterlife",
+        "Apologetic works",
+        "Biology",
+        "Christian Doctrine",
+        "Christian enlightenment text",
+        "Christian theology",
+        "Christianity",
+        "Epistemology",
+        "Materialism",
+        "Metaphysics",
+        "Philosophy",
+        "Protestant text",
+        "Psychology",
+        "Religion",
+        "Science",
+        "Theology",
+        "Work of Religiosity",
+        "Zoology",
+        "micro-organisms"
+      ]
+    },
+    {
+      "title": "La Puttana errante: dialogo di Maddalena e Giulia",
+      "fbtee": "bk0003214",
+      "authors": [
+        "Aretino, Pietro",
+        "Franco, Niccolò"
+      ],
+      "keywords": [
+        "Amorous adventures",
+        "Erotic works",
+        "Libertine texts",
+        "Literature",
+        "Pornographic works",
+        "Prose Fiction",
+        "Prostitution",
+        "Short stories"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "A Dissertation on the Numbers of Mankind: in Ancient and Modern Times",
+      "fbtee": "bk0003231",
+      "authors": [
+        "Joncourt, Elie [de]",
+        "Wallace, Robert"
+      ],
+      "keywords": "Demography"
+    },
+    {
+      "title": "Political Discourses",
+      "fbtee": "bk0003232",
+      "authors": "Hume, David",
+      "keywords": [
+        "Britain",
+        "Commerce",
+        "Constitutional theory",
+        "Current Affairs",
+        "Demography",
+        "Economics",
+        "Financial administration",
+        "International Trade",
+        "International relations",
+        "Political institutions",
+        "Political theory",
+        "Politics",
+        "Taxation"
+      ]
+    },
+    {
+      "title": "The Distressed Wife, or the history of Eliza Wyndham",
+      "fbtee": "bk0003249",
+      "authors": "Dumanoir, Philippe-François Pinel",
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "Der wohltätige Unbekannte, eine Familien-Scene",
+      "fbtee": "bk0003310",
+      "authors": "Wagner, Heinrich Leopold",
+      "keywords": [
+        "Drama",
+        "Drame",
+        "Literature",
+        "Prose Drama"
+      ]
+    },
+    {
+      "title": "A Treatise on the Management of Pregnant and Lying-in Women",
+      "fbtee": "bk0003339",
+      "authors": "White, Charles",
+      "keywords": [
+        "Medical remedies",
+        "Medicine",
+        "Obstetrics",
+        "Patient care",
+        "Science"
+      ]
+    },
+    {
+      "title": "Discorsi della vita sobria",
+      "fbtee": "bk0003340",
+      "authors": "Cornaro, Luigi",
+      "keywords": [
+        "Abstemiousness",
+        "Hygiene",
+        "Longevity",
+        "Nutrition",
+        "Sobriety",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Gamester [adapted from]",
+      "fbtee": [
+        "bk0003344",
+        "bk0005340"
+      ],
+      "authors": [
+        "Moore, Edward",
+        "Saurin, Bernard-Joseph"
+      ],
+      "keywords": [
+        "Drama",
+        "Literature",
+        "Tragedy",
+        "Verse Drama"
+      ]
+    },
+    {
+      "title": "Institutiones chemiae praelectionibus adademicis adcommodatae",
+      "fbtee": "bk0003347",
+      "authors": [
+        "Cadet-de-Vaux, Antoine-Alexis",
+        "Spielmann, Jacob Reinbold",
+        "Villiers, Jacques-François [de]"
+      ],
+      "keywords": [
+        "Chemistry",
+        "Medicine",
+        "Pharmacology",
+        "Science"
+      ]
+    },
+    {
+      "title": "Travels through Holland, Flanders, Germany, Denmark, Sweden, Lapland, Russia, the Ukraine, and Poland, in the years 1768, 1769, and 1770 ",
+      "fbtee": "bk0003364",
+      "authors": [
+        "Marshall, Joseph",
+        "Pingeron, Jean-Claude"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Baltic region",
+        "Commerce",
+        "Constitutional theory",
+        "Economics",
+        "Europe",
+        "Industry",
+        "Law",
+        "Netherlands",
+        "Political institutions",
+        "Political theory",
+        "Politics",
+        "Public administration",
+        "Russia",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Anfangsgründe zur metallurgischen Chimie, in einem theoretischen und practischen Theile nach einer in der Natur gegründeten Ordnung abgefasset von C. E. Gellert",
+      "fbtee": "bk0003369",
+      "authors": [
+        "Gellert, Christlieb Ehregott",
+        "Holbach, Paul Henri Dietrich [d']"
+      ],
+      "keywords": [
+        "Chemistry",
+        "Metallurgy",
+        "Science"
+      ]
+    },
+    {
+      "title": "The Life and Adventures of Common Sense",
+      "fbtee": "bk0003468",
+      "authors": "Lawrence, Herbert",
+      "keywords": [
+        "Allegorical Works",
+        "France",
+        "Greece",
+        "History",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Journal of the Resolution's voyage, in 1772, 1773, 1774 and 1775, on discovery to the Southern Hemisphere ",
+      "fbtee": "bk0003480",
+      "authors": "Cook, James",
+      "keywords": [
+        "Cook, James",
+        "Exploration",
+        "Pacific",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Observations on Different Kinds of Air",
+      "fbtee": "bk0003495",
+      "authors": [
+        "Gibelin, Jacques",
+        "Priestley, Joseph"
+      ],
+      "keywords": [
+        "Chemistry",
+        "Gases",
+        "Physics",
+        "Science"
+      ]
+    },
+    {
+      "title": "Historiae Alexandri Magni",
+      "fbtee": "bk0003519",
+      "authors": "Quinte-Curce",
+      "keywords": [
+        "Alexander the Great",
+        "Classical antiquity",
+        "Greece",
+        "History",
+        "Military history"
+      ]
+    },
+    {
+      "title": "The History of the Reign of Philip the Second, King of Spain ",
+      "fbtee": "bk0003536",
+      "authors": [
+        "Durival, Jean-Baptiste-Luton",
+        "Mirabeau, Honoré-Gabriel Riqueti [comte de]",
+        "Watson, Richard"
+      ],
+      "keywords": [
+        "History",
+        "Philip II",
+        "Spain"
+      ]
+    },
+    {
+      "title": "All's Right at Last, or, The History of Miss West",
+      "fbtee": "bk0003537",
+      "authors": "Brooke, Frances Moore",
+      "keywords": [
+        "Britain",
+        "England",
+        "Epistolary Fiction",
+        "Literature",
+        "Moral tales",
+        "North America",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "A Tour Through Some of the Northern Parts of Europe, Particularly Copenhagen, Stockholm, and Petersburgh",
+      "fbtee": "bk0003538",
+      "authors": "Wraxall, Nathaniel William",
+      "keywords": [
+        "Denmark",
+        "Russia",
+        "Sweden",
+        "Travel"
+      ]
+    },
+    {
+      "title": "The History of the Decline and Fall of the Roman Empire",
+      "fbtee": [
+        "bk0003554",
+        "bk0004122",
+        "bk0004555",
+        "bk0004615",
+        "bk0004845"
+      ],
+      "authors": "Gibbon, Edward",
+      "keywords": [
+        "Classical antiquity",
+        "History",
+        "Philosophie",
+        "Roman Empire",
+        "Sceptical works"
+      ]
+    },
+    {
+      "title": "Il Mattino e il mezzogiorno",
+      "fbtee": "bk0003560",
+      "authors": [
+        "Grellet-Desprades, Joseph",
+        "Parini, Giuseppe"
+      ],
+      "keywords": [
+        "Comic Poetry",
+        "Literature",
+        "Poetry",
+        "Satirical works",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "A Description of the East and Some other Countries",
+      "fbtee": "bk0003577",
+      "authors": "Pococke, Richard",
+      "keywords": [
+        "Ottoman Empire",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Zufällige Gedancken und nützliche Bedencken über den Streit, von dem so genannten Sulphure",
+      "fbtee": "bk0003584",
+      "authors": [
+        "Holbach, Paul Henri Dietrich [d']",
+        "Stahl, Georg Ernst"
+      ],
+      "keywords": [
+        "Chemistry",
+        "Science"
+      ]
+    },
+    {
+      "title": "Pneumato-pathologia seu Tractatus de flatulentis humani corporis affectibus",
+      "fbtee": "bk0003585",
+      "authors": "Combalusier, François de Paule",
+      "keywords": [
+        "Flatulence",
+        "Medicine",
+        "Physiology",
+        "Science"
+      ]
+    },
+    {
+      "title": "The Gentleman's Pocket-Farrier",
+      "fbtee": "bk0003616",
+      "authors": "Burdon, William",
+      "keywords": [
+        "Equine care",
+        "Horsemanship",
+        "Manual",
+        "Reference works",
+        "Science",
+        "Veterinary science"
+      ]
+    },
+    {
+      "title": "The Knowledge and Practice of Christianity made easy to the Meanest Capacity",
+      "fbtee": "bk0003627",
+      "authors": "Wilson, Thomas",
+      "keywords": [
+        "Catechisms",
+        "Christian Doctrine",
+        "Christian life",
+        "Christianity",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Allgemeine Geschichte der neuesten Entdeckungen, welche von verschiedenen gelehrten Reisenden in vielen Gegenden des russischen Reichs und Persien in der Historie, Landwirthschaft und Naturgeschichte, &c. sind gemacht worden ",
+      "fbtee": "bk0003646",
+      "authors": "Pallas, Peter Simon",
+      "keywords": [
+        "Commerce",
+        "Economics",
+        "Exploration",
+        "Geography",
+        "History",
+        "Persia",
+        "Russia",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Storia della letteratura italiana, del cavaliere abate Girolamo Tiraboschi",
+      "fbtee": "bk0003664",
+      "authors": [
+        "Landi, Antoine",
+        "Tiraboschi, Girolamo"
+      ],
+      "keywords": [
+        "Italy",
+        "Literary History",
+        "Literary studies"
+      ]
+    },
+    {
+      "title": "The Practice of Christian Graces, or The Whole Duty of Man",
+      "fbtee": "bk0003687",
+      "authors": "Allestree, Richard",
+      "keywords": [
+        "Christian Doctrine",
+        "Christian life",
+        "Christianity",
+        "Conduct manual",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Der Tod Abels",
+      "fbtee": "bk0003690",
+      "authors": "Gessner, Salomon",
+      "keywords": [
+        "Bible stories",
+        "Christianity",
+        "Literature",
+        "Poetry",
+        "Religion",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Description of an Engine for Dividing Mathematical Instruments",
+      "fbtee": "bk0003755",
+      "authors": "Ramsden, Jesse",
+      "keywords": [
+        "Mathematics",
+        "Science",
+        "Scientific Instruments",
+        "Technology"
+      ]
+    },
+    {
+      "title": "Georgics",
+      "fbtee": "bk0003782",
+      "authors": [
+        "Delille, Jacques",
+        "Virgil"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Allegorical Works",
+        "Classical antiquity",
+        "Literature",
+        "Mythology",
+        "Poetry",
+        "Political theory",
+        "Politics",
+        "Roman Empire"
+      ]
+    },
+    {
+      "title": "[Metamorphoses]",
+      "fbtee": "bk0003831",
+      "authors": "Ovide",
+      "keywords": [
+        "Ancient world",
+        "Classical antiquity",
+        "Epic Poetry",
+        "History",
+        "Literature",
+        "Mythology",
+        "Poetry",
+        "World history"
+      ]
+    },
+    {
+      "title": "Enchiridion",
+      "fbtee": "bk0003846",
+      "authors": [
+        "Arrian",
+        "Epictetus",
+        "Pommereul, François-René-Jean [de]"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Moral Philosophy",
+        "Philosophy",
+        "Stoicism"
+      ]
+    },
+    {
+      "title": "De solis ac lunae defectibus",
+      "fbtee": "bk0003874",
+      "authors": [
+        "Barruel, Augustin",
+        "Boškovic, Ruder Josip"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Literature",
+        "Poetry"
+      ]
+    },
+    {
+      "title": "Lienhard und Gertrud, ein Buch für das Volk",
+      "fbtee": "bk0003885",
+      "authors": [
+        "Pajon de Moncets, Louis-Esaïe",
+        "Pestalozzi, Henri"
+      ],
+      "keywords": [
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Sentimental Fiction",
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "Grundlegung einer deutschen Sprachkunst",
+      "fbtee": "bk0003898",
+      "authors": "Gottsched, Johann Christoph",
+      "keywords": [
+        "German language",
+        "Grammar",
+        "Languages",
+        "Reference works"
+      ]
+    },
+    {
+      "title": "A View of Society and Manners in Italy: with anecdotes relating to some eminent characters",
+      "fbtee": "bk0003938",
+      "authors": [
+        "Moore, John",
+        "Rieu, Henri"
+      ],
+      "keywords": [
+        "Italy",
+        "National Character",
+        "National customs",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "A Voyage to New Guinea and the Moluccas from Balambangan: performed in the Tartar Galley belonging to the Honourable East India Company during the years 1774, 1775 and 1776",
+      "fbtee": "bk0003958",
+      "authors": [
+        "Démeunier, Jean-Nicolas",
+        "Forrest, Thomas"
+      ],
+      "keywords": [
+        "East Indies",
+        "National customs",
+        "Philippines",
+        "Social mores",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Lettere d'un vago italiano [abridged]",
+      "fbtee": "bk0004070",
+      "authors": "Caimo, Norberto",
+      "keywords": [
+        "Architecture",
+        "Art Criticism",
+        "Fine Arts",
+        "Guidebooks",
+        "Painting",
+        "Reference works",
+        "Sculpture",
+        "Spain",
+        "Travel",
+        "Universities"
+      ]
+    },
+    {
+      "title": "The Life and Surprising Adventures of Robinson Crusoe",
+      "fbtee": [
+        "bk0004074",
+        "bk0004406"
+      ],
+      "authors": "Defoe, Daniel",
+      "keywords": [
+        "Castaway tales",
+        "Literature",
+        "Prose Fiction",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "The Recess, or A Tale of Other Times",
+      "fbtee": "bk0004212",
+      "authors": [
+        "La Mare, P.-B. [de]",
+        "Lee, Sophia"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "Historical Fiction",
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Halleines Eidgenossen",
+      "fbtee": "bk0004241",
+      "authors": [
+        "Marval, Samuel [de]",
+        "Müller von Friedberg, Karl"
+      ],
+      "keywords": [
+        "Current Affairs",
+        "Politics",
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "Observations Medical and Political on the Small-Pox ",
+      "fbtee": "bk0004249",
+      "authors": "Black, William",
+      "keywords": [
+        "Inoculation",
+        "Medical remedies",
+        "Medicine",
+        "Pathology",
+        "Science"
+      ]
+    },
+    {
+      "title": "Henri and Isabella",
+      "fbtee": "bk0004255",
+      "authors": [
+        "Cantwell, André-Samuel-Michel",
+        "Hughes, Anne"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "Literature",
+        "Prose Fiction",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Il Congresso di Citera",
+      "fbtee": "bk0004257",
+      "authors": "Algarotti, Francesco",
+      "keywords": [
+        "Allegorical Works",
+        "Literature",
+        "Mythology",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Women's Literature"
+      ]
+    },
+    {
+      "title": "The Platonic Marriage",
+      "fbtee": "bk0004258",
+      "authors": [
+        "Cartwright, H. [Mrs]",
+        "Vasse, Cornélie-Pétronille-Bénédicte Wouters [baronne de]"
+      ],
+      "keywords": [
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Il Calloandro Fedele",
+      "fbtee": "bk0004260",
+      "authors": "Marini, Giovanni Ambrosio",
+      "keywords": [
+        "Chivalry",
+        "Historical Fiction",
+        "Literature",
+        "Middle Ages",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "Memorie del barone di Trenck, comandante de' Panduri",
+      "fbtee": "bk0004297",
+      "authors": [
+        "Chiari, Pietro",
+        "Trenck, Franz [von der]"
+      ],
+      "keywords": [
+        "Amorous adventures",
+        "Autobiography",
+        "Biography",
+        "Courts & Courtiers",
+        "Current Affairs",
+        "Fictionalised biography",
+        "Lives and letters",
+        "Politics",
+        "Prison narratives",
+        "Prussia",
+        "Russia"
+      ]
+    },
+    {
+      "title": "The London Practice of Physic",
+      "fbtee": "bk0004304",
+      "authors": [
+        "Jaubert, Nicolas-Antoine",
+        "Sims, James",
+        "Villiers, Jacques-François [de]"
+      ],
+      "keywords": [
+        "Britain",
+        "Epidemiology",
+        "Manual",
+        "Medical remedies",
+        "Medicine",
+        "Reference works",
+        "Science"
+      ]
+    },
+    {
+      "title": "The Curse of Sentiment?",
+      "fbtee": "bk0004308",
+      "authors": "Gaigne [chevalier de]",
+      "keywords": [
+        "Britain",
+        "England",
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Sentimental Fiction",
+        "Spurious works"
+      ]
+    },
+    {
+      "title": "Historie van Mejuffrouw Sara Burgerhart",
+      "fbtee": "bk0004317",
+      "authors": [
+        "Charrière, Isabelle [de]",
+        "Deken, Agatha",
+        "Wolff, Elizabeth Bekker"
+      ],
+      "keywords": [
+        "Epistolary Fiction",
+        "Literature",
+        "Netherlands",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "The letters of Charlotte during her connexion with Werther",
+      "fbtee": "bk0004320",
+      "authors": "James, William",
+      "keywords": [
+        "Epistolary Fiction",
+        "Germany",
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "Sammlung merkwürdiger Reisebeschreibungen für die Jugend",
+      "fbtee": "bk0004343",
+      "authors": [
+        "Arnex, Auguste Simon [d']",
+        "Campe, Joachim Heinrich"
+      ],
+      "keywords": [
+        "Children's literature",
+        "Collected works",
+        "Exploration",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Orlando Furioso",
+      "fbtee": "bk0004376",
+      "authors": "Ariosto, Ludovico",
+      "keywords": [
+        "Charlemagne",
+        "Chivalry",
+        "Crusades",
+        "Epic Poetry",
+        "France",
+        "History",
+        "Literature",
+        "Middle Ages",
+        "Poetry",
+        "Spain"
+      ]
+    },
+    {
+      "title": "Louisa; or the cottage on the moor",
+      "fbtee": "bk0004379",
+      "authors": "Helme, Elizabeth",
+      "keywords": [
+        "Britain",
+        "England",
+        "Literature",
+        "Prose Fiction",
+        "Sentimental Fiction"
+      ]
+    },
+    {
+      "title": "The life of Harriot Stuart, written by herself",
+      "fbtee": "bk0004415",
+      "authors": [
+        "Fleurian [chevalier de]",
+        "Lennox, Charlotte"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Melissa and Marcia, or The sisters; a novel",
+      "fbtee": "bk0004416",
+      "authors": "Hervey, Elizabeth",
+      "keywords": [
+        "Britain",
+        "England",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works"
+      ]
+    },
+    {
+      "title": "Vida do Infante D. Henrique",
+      "fbtee": "bk0004430",
+      "authors": [
+        "Cournand, Antoine [de]",
+        "Freire, Francisco José"
+      ],
+      "keywords": [
+        "Biography",
+        "Henry, Prince of Portugal, 'the Navigator'",
+        "History",
+        "Lives and letters",
+        "Portugal",
+        "Renaissance"
+      ]
+    },
+    {
+      "title": "[History of the Peloponnesian War]",
+      "fbtee": "bk0004445",
+      "authors": [
+        "Ablancourt, Nicolas Perrot [d']",
+        "Thucydides"
+      ],
+      "keywords": [
+        "Classical antiquity",
+        "Greece",
+        "History",
+        "Military history"
+      ]
+    },
+    {
+      "title": "Vita di Sisto V. Pontefice Romano",
+      "fbtee": "bk0004450",
+      "authors": "Leti, Gregorio",
+      "keywords": [
+        "Biography",
+        "Catholicism",
+        "Christianity",
+        "Church History",
+        "History",
+        "Lives and letters",
+        "Papacy",
+        "Reformation",
+        "Religion",
+        "Sixtus V, Pope"
+      ]
+    },
+    {
+      "title": "Sketch of a tour through Swisserland",
+      "fbtee": "bk0004452",
+      "authors": [
+        "Blanc, Samuel Louis",
+        "Martyn, Thomas"
+      ],
+      "keywords": [
+        "Guidebooks",
+        "Reference works",
+        "Switzerland",
+        "Travel"
+      ]
+    },
+    {
+      "title": "The History of Sandford and Merton [freely translated from]",
+      "fbtee": "bk0004464",
+      "authors": [
+        "Berquin, Arnaud",
+        "Day, Thomas"
+      ],
+      "keywords": [
+        "Britain",
+        "Education",
+        "England",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Friedrichs Freyherrn von der Trenck merkwürdige Lebensgeschichte ",
+      "fbtee": [
+        "bk0004467",
+        "bk0005388"
+      ],
+      "authors": [
+        "Bock, Jean-Nicolas-Étienne [baron de]",
+        "Trenck, Friedrich [von der]"
+      ],
+      "keywords": [
+        "Autobiography",
+        "Biography",
+        "Courts & Courtiers",
+        "Europe",
+        "Fictionalised biography",
+        "Frederick II of Prussia",
+        "Lives and letters",
+        "Prison narratives",
+        "Prussia",
+        "True adventure"
+      ]
+    },
+    {
+      "title": "Friedrich des Grossen letzte Tage",
+      "fbtee": "bk0004469",
+      "authors": [
+        "Mercier, J. B.",
+        "Zimmermann, Johann Georg [von]"
+      ],
+      "keywords": [
+        "Biographical anecdotes",
+        "Current Affairs",
+        "Death and dying",
+        "Frederick II of Prussia",
+        "Lives and letters",
+        "Medical Case Reports",
+        "Medicine",
+        "Politics",
+        "Prussia",
+        "Science"
+      ]
+    },
+    {
+      "title": "Johann Ludwig Wagners, gegenwärtig Königl. Preuss. Postdirektors zu Graudenz, Schicksale während seiner unter den Russen erlittenen Staatsgefangenschaft in den Jahren 1759 bis 1763 ",
+      "fbtee": "bk0004470",
+      "authors": "Wagner, Johann Ludwig",
+      "keywords": [
+        "Autobiography",
+        "Biography",
+        "Lives and letters",
+        "National customs",
+        "Prison narratives",
+        "Russia",
+        "Siberia",
+        "Social mores",
+        "Tartary",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Tableaux de la bonne compagnie",
+      "fbtee": "bk0004497",
+      "authors": [
+        "Ligne, Charles Joseph [de]",
+        "Restif de la Bretonne, Nicolas-Edmé"
+      ],
+      "keywords": [
+        "Collected works",
+        "Literature",
+        "Prose Fiction",
+        "Short stories"
+      ]
+    },
+    {
+      "title": "The History of Henri de La Tour d'Auvergne, Viscount de Turenne",
+      "fbtee": "bk0004529",
+      "authors": "Ramsay, Andrew Michael",
+      "keywords": [
+        "Biography",
+        "France",
+        "History",
+        "Lives and letters",
+        "Turenne, vicomte de"
+      ]
+    },
+    {
+      "title": "Le opere di Raimondo Montecuccoli",
+      "fbtee": [
+        "bk0004541",
+        "bk0004797"
+      ],
+      "authors": [
+        "Adam, Jacques",
+        "Montecuccoli, Raimondo"
+      ],
+      "keywords": [
+        "Austrian Empire",
+        "Austro-Turkish Wars",
+        "Autobiography",
+        "Biography",
+        "Generalship",
+        "History",
+        "Lives and letters",
+        "Military history",
+        "Military science",
+        "Ottoman Empire",
+        "Strategy and Tactics"
+      ]
+    },
+    {
+      "title": "Calloandro; Le Gare de' disperati",
+      "fbtee": "bk0004558",
+      "authors": [
+        "Marini, Giovanni Ambrosio",
+        "Serré de Rieux, Jean [de]"
+      ],
+      "keywords": [
+        "Chivalry",
+        "Collected works",
+        "Historical Fiction",
+        "Literature",
+        "Middle Ages",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Avantures de Télémaque",
+      "fbtee": "bk0004583",
+      "authors": "Fénelon, François de Salignac de La Mothe",
+      "keywords": [
+        "Allegorical Works",
+        "Classical antiquity",
+        "Didactic Fiction",
+        "Historical Fiction",
+        "Literature",
+        "Political Fiction",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "An Inquiry into the Human Mind on the Principles of the Common Sense",
+      "fbtee": "bk0004624",
+      "authors": "Reid, Thomas",
+      "keywords": [
+        "Epistemology",
+        "Medicine",
+        "Philosophy",
+        "Psychology",
+        "Science"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The Gardeners Dictionary (excerpts)",
+      "fbtee": "bk0004629",
+      "authors": [
+        "Miller, Philip",
+        "Tschudi, Louis-Théodore [de]"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Arboriculture",
+        "Forestry",
+        "Gardening"
+      ]
+    },
+    {
+      "title": "Travels to Discover the Source of the Nile, In the Years 1768, 1769, 1770, 1771, 1772 and 1773",
+      "fbtee": "bk0004634",
+      "authors": [
+        "Bruce, James",
+        "Castéra, Jean Henri"
+      ],
+      "keywords": [
+        "Africa",
+        "Egypt",
+        "Exploration",
+        "History",
+        "Military Affairs",
+        "National customs",
+        "Political institutions",
+        "Politics",
+        "Social mores",
+        "Travel",
+        "World history"
+      ]
+    },
+    {
+      "title": "Reise auf dem Rhein",
+      "fbtee": "bk0004635",
+      "authors": [
+        "Beaunoir, Alexandre Louis Bertrand Robineau [de]",
+        "Lang, Joseph Gregor"
+      ],
+      "keywords": [
+        "Germany",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Kúrou paideía",
+      "fbtee": "bk0004636",
+      "authors": "Xenophon",
+      "keywords": [
+        "Ancient world",
+        "Biography",
+        "Classical antiquity",
+        "Cyrus the Great",
+        "Education",
+        "Education of Princes",
+        "Fictionalised biography",
+        "History",
+        "Lives and letters",
+        "Persia",
+        "Political theory",
+        "Politics"
+      ]
+    },
+    {
+      "title": "Legaat van Gillis Blasius Stern",
+      "fbtee": "bk0004666",
+      "authors": "Sterne, Gille Blasius",
+      "keywords": [
+        "Literature",
+        "Netherlands",
+        "Political Fiction",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "A Journey through the Crimea to Constantinople",
+      "fbtee": "bk0004670",
+      "authors": [
+        "Craven, Elizabeth Berkeley [lady]",
+        "Durand, P.-Noël"
+      ],
+      "keywords": [
+        "Europe",
+        "National customs",
+        "Ottoman Empire",
+        "Russia",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "A Vindication of Natural Society",
+      "fbtee": "bk0004679",
+      "authors": "Burke, Edmund",
+      "keywords": [
+        "Constitutional theory",
+        "Law",
+        "Natural Law",
+        "Political theory",
+        "Politics"
+      ]
+    },
+    {
+      "title": "Ueber das Königliche Dänische Indigenatrecht und einige andre Gegenstände der Staatswissenschaft und Geschichte",
+      "fbtee": "bk0004684",
+      "authors": "Schirach, Gottlob Benedict [von]",
+      "keywords": [
+        "Current Affairs",
+        "Denmark",
+        "History",
+        "Politics"
+      ]
+    },
+    {
+      "title": "Geschichte des siebenjährigen Krieges in Deutschland von 1756 bis 1763",
+      "fbtee": "bk0004686",
+      "authors": [
+        "Archenholtz, Johann Wilhelm [von]",
+        "Arnex, Auguste Simon [d']"
+      ],
+      "keywords": [
+        "Germany",
+        "Military Affairs",
+        "Seven Years War"
+      ]
+    },
+    {
+      "title": "Bianka Capello, halb Dialog, halb Erzählung",
+      "fbtee": "bk0004705",
+      "authors": [
+        "Luchet, Jean-Pierre-Louis de La Roche du Marin [marquis de]",
+        "Meissner, August Gottlieb"
+      ],
+      "keywords": [
+        "Capello, Bianca",
+        "Courts & Courtiers",
+        "Historical Fiction",
+        "Italy",
+        "Literature",
+        "Prose Fiction",
+        "Renaissance",
+        "Romantic Fiction",
+        "Royal Mistresses",
+        "Sentimental Fiction",
+        "Tuscany"
+      ]
+    },
+    {
+      "title": "Sermons to Young Women ",
+      "fbtee": "bk0004729",
+      "authors": [
+        "Estienne, Robert",
+        "Fordyce, James"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Collected works",
+        "Moral instruction",
+        "Protestant text",
+        "Religion",
+        "Sermons",
+        "Theology",
+        "Women's Literature",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Tristram Shandy (excerpts)",
+      "fbtee": "bk0004733",
+      "authors": [
+        "La Boissière, Joseph-Louis [de]",
+        "Sterne, Laurence"
+      ],
+      "keywords": [
+        "France",
+        "Literature",
+        "Prose Fiction",
+        "Satirical works",
+        "Social mores"
+      ]
+    },
+    {
+      "title": "Travels in Poland, Russia, Sweden and Denmark",
+      "fbtee": [
+        "bk0004737",
+        "bk0004738"
+      ],
+      "authors": [
+        "Coxe, William",
+        "Mallet, Paul Henri"
+      ],
+      "keywords": [
+        "Baltic region",
+        "Commerce",
+        "Economics",
+        "Industry",
+        "National customs",
+        "Political institutions",
+        "Scandinavia",
+        "Travel"
+      ]
+    },
+    {
+      "title": "The History of Lady Barton",
+      "fbtee": "bk0004742",
+      "authors": "Griffith, Elizabeth",
+      "keywords": [
+        "Epistolary Fiction",
+        "Literature",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Dell' impiego del danaro",
+      "fbtee": "bk0004772",
+      "authors": [
+        "Maffei, Francesco Scipione",
+        "Nonnotte, Claude-François"
+      ],
+      "keywords": [
+        "Banking",
+        "Christian Doctrine",
+        "Christianity",
+        "Commerce",
+        "Economics",
+        "Religion",
+        "Usury",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Garduña de Sevilla y anzuelo de las bolsas",
+      "fbtee": "bk0004779",
+      "authors": "Castillo Solórzano, Alonso [de]",
+      "keywords": [
+        "Amorous adventures",
+        "Literature",
+        "Picaresque tales",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Laurentii Heisteri Institutiones Chirurgicae in quibus quidquid ad rem chirurgicam pertinet optima et novissima ratione pertractatur",
+      "fbtee": "bk0004787",
+      "authors": "Heister, Lorenz",
+      "keywords": [
+        "Manual",
+        "Medicine",
+        "Reference works",
+        "Science",
+        "Surgery"
+      ]
+    },
+    {
+      "title": "Lettere moderne colle loco riposte del S. Dionigi di Villecomte ",
+      "fbtee": "bk0004790",
+      "authors": "Villecomte, Denis [de]",
+      "keywords": [
+        "Bilingual editions",
+        "French language",
+        "Italian language",
+        "Languages",
+        "Manual",
+        "Reference works",
+        "Rhetoric",
+        "Writing (art of)"
+      ]
+    },
+    {
+      "title": "[The Republic]",
+      "fbtee": "bk0004794",
+      "authors": "Plato",
+      "keywords": [
+        "Classical antiquity",
+        "Greece",
+        "Political theory",
+        "Politics"
+      ]
+    },
+    {
+      "title": "A Voyage Round the World, in the Years MDCCXL, I, II, III, IV by George Anson",
+      "fbtee": "bk0004798",
+      "authors": [
+        "Anson, George",
+        "Joncourt, Elie [de]"
+      ],
+      "keywords": [
+        "China",
+        "Exploration",
+        "Military Affairs",
+        "Pacific",
+        "South America",
+        "Travel",
+        "Voyages",
+        "Wars of Austrian Succession"
+      ]
+    },
+    {
+      "title": "Della pubblica felicita oggetto de buoni principi",
+      "fbtee": "bk0004816",
+      "authors": [
+        "Livoy, Timothée Hureau [de]",
+        "Muratori, Lodovico Antonio"
+      ],
+      "keywords": [
+        "Christian enlightenment text",
+        "Economic Theory",
+        "Economics",
+        "Education",
+        "Financial administration",
+        "Law",
+        "Political theory",
+        "Politics",
+        "Public Education System",
+        "Public administration",
+        "Taxation",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Fragen an eine Gesellschaft gelehrter Männer, die auf Befehl Ihro Majestät des Königes von Dännemark nach Arabien reisen ",
+      "fbtee": "bk0004822",
+      "authors": [
+        "Merian, Johann Bernhard",
+        "Michaelis, Johann David"
+      ],
+      "keywords": [
+        "Arabia",
+        "Egypt",
+        "Exploration",
+        "Geography",
+        "Guidebooks",
+        "History",
+        "India",
+        "Middle East",
+        "National customs",
+        "Natural History (general)",
+        "Ottoman Empire",
+        "Questions for Explorers",
+        "Science",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "An Easy Introduction to the Knowledge of Nature, and Reading the Holy Scriptures",
+      "fbtee": "bk0004832",
+      "authors": [
+        "Berquin, Arnaud",
+        "Trimmer, Sarah"
+      ],
+      "keywords": [
+        "Biblical study",
+        "Children's literature",
+        "Christianity",
+        "Natural History (general)",
+        "Protestant text",
+        "Religion",
+        "School Book",
+        "Science",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "A Description of Patagonia and the Adjoining Parts of South America",
+      "fbtee": "bk0004860",
+      "authors": [
+        "Bourrit, Marc-Théodore",
+        "Falkner, Thomas"
+      ],
+      "keywords": [
+        "Geography",
+        "Social mores",
+        "South America",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Anti-Pamela: or, Feign'd innocence detected",
+      "fbtee": "bk0004862",
+      "authors": [
+        "Haywood, Eliza Fowler",
+        "Mauvillon, Éléazar [de]"
+      ],
+      "keywords": [
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Satirical works"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "The Old English Baron",
+      "fbtee": "bk0004883",
+      "authors": [
+        "La Place, Pierre-Antoine [de]",
+        "Reeve, Clara"
+      ],
+      "keywords": [
+        "Britain",
+        "England",
+        "Historical Fiction",
+        "Literature",
+        "Middle Ages",
+        "Prose Fiction"
+      ]
+    },
+    {
+      "title": "Letters of the Right Honourable Lady M---y W---y M----e: written, during her travels in Europe, Asia and Africa, to persons of distinction",
+      "fbtee": "bk0004885",
+      "authors": [
+        "Montagu, Mary Wortley",
+        "Suard, Jean-Baptiste-Antoine"
+      ],
+      "keywords": [
+        "Correspondence",
+        "Europe",
+        "Islamic World",
+        "Lives and letters",
+        "National customs",
+        "North Africa",
+        "Ottoman Empire",
+        "Social mores",
+        "Travel"
+      ]
+    },
+    {
+      "title": "[Compendium of Roman History]",
+      "fbtee": "bk0004909",
+      "authors": "Velleius Paterculus, Caius",
+      "keywords": [
+        "Classical antiquity",
+        "Greece",
+        "History",
+        "Roman Empire"
+      ]
+    },
+    {
+      "title": "Euphormionis Lusinini Satyricon",
+      "fbtee": "bk0004939",
+      "authors": [
+        "Barclay, John",
+        "Maupertuis, Pierre-Louis Moreau [de]"
+      ],
+      "keywords": [
+        "Anti-Clerical Works",
+        "Catholicism",
+        "Christianity",
+        "Education",
+        "Jesuits",
+        "Literary Criticism",
+        "Literary studies",
+        "Literature",
+        "Medical profession",
+        "Medicine",
+        "Picaresque tales",
+        "Prose Fiction",
+        "Religion",
+        "Religious orders",
+        "Satirical works",
+        "Social Issues"
+      ]
+    },
+    {
+      "title": "Sapientia angelica de divino amore",
+      "fbtee": "bk0004947",
+      "authors": [
+        "Pernety, Antoine-Joseph",
+        "Swedenborg, Emanuel"
+      ],
+      "keywords": [
+        "Christian theology",
+        "Christianity",
+        "Religion",
+        "Swedenborgianism",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Anatome corporis humani",
+      "fbtee": "bk0004965",
+      "authors": "Van Diemerbroeck, Ijsbrand",
+      "keywords": [
+        "Anatomy",
+        "Medicine",
+        "Science"
+      ]
+    },
+    {
+      "title": "Philosophische Arzt",
+      "fbtee": "bk0004976",
+      "authors": "Weikard, Melchior Adam",
+      "keywords": [
+        "Epistemology",
+        "Human nature",
+        "Medicine",
+        "Metaphysics",
+        "Moral Philosophy",
+        "Nervous system",
+        "Philosophie",
+        "Philosophy",
+        "Physiology",
+        "Psychology",
+        "Science"
+      ]
+    },
+    {
+      "title": "The History of England",
+      "fbtee": "bk0005055",
+      "authors": "Hume, David",
+      "keywords": [
+        "Britain",
+        "England",
+        "History"
+      ]
+    },
+    {
+      "title": "Resa till Goda Hoppsudden",
+      "fbtee": "bk0005057",
+      "authors": [
+        "Le Tourneur, Pierre-Prime-Félicien",
+        "Sparrman, Anders"
+      ],
+      "keywords": [
+        "Africa",
+        "Exploration",
+        "National customs",
+        "Social mores",
+        "Travel",
+        "Voyages"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Narrative of the death of captain James Cook",
+      "fbtee": "bk0005059",
+      "authors": "Samwell, David",
+      "keywords": [
+        "Biography",
+        "Cook, James",
+        "Exploration",
+        "Hawaii",
+        "Lives and letters",
+        "Medicine",
+        "Pacific",
+        "Science",
+        "Travel",
+        "Venereal diseases",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Travels in Europe, Asia, and Africa",
+      "fbtee": "bk0005061",
+      "authors": [
+        "Brissot de Warville, Jacques-Pierre",
+        "Macintosh, William"
+      ],
+      "keywords": [
+        "American Revolution",
+        "Britain",
+        "Colonial policy",
+        "Commerce",
+        "Economics",
+        "Europe",
+        "France",
+        "India",
+        "International relations",
+        "Mauritius",
+        "Military Affairs",
+        "National customs",
+        "Political institutions",
+        "Politics",
+        "Social mores",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "Nazarenus",
+      "fbtee": "bk0005072",
+      "authors": [
+        "Holbach, Paul Henri Dietrich [d']",
+        "Toland, John"
+      ],
+      "keywords": [
+        "Celtic Church",
+        "Christianity",
+        "Church History",
+        "Deism",
+        "Deist work",
+        "Gospels (non-canonical)",
+        "History",
+        "Islam",
+        "Jesus Christ",
+        "Judaism",
+        "Religion",
+        "Sacred Texts",
+        "Sceptical works",
+        "Scriptures",
+        "Theology"
+      ],
+      "illegal": true
+    },
+    {
+      "title": "Oberon",
+      "fbtee": "bk0005077",
+      "authors": [
+        "Bouton",
+        "Wieland, Christoph Martin"
+      ],
+      "keywords": [
+        "Castaway tales",
+        "Fairy Tales",
+        "Fantasy adventures",
+        "France",
+        "Islamic World",
+        "Literature",
+        "Poetry",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "Inquiry concerning virtue or merit",
+      "fbtee": "bk0005095",
+      "authors": [
+        "Diderot, Denis",
+        "Shaftesbury, Anthony Ashley Cooper [compte de]"
+      ],
+      "keywords": [
+        "Moral Philosophy",
+        "Philosophie",
+        "Philosophy",
+        "Sceptical works"
+      ]
+    },
+    {
+      "title": "The Discovery, Settlement and Present State of Kentuckey",
+      "fbtee": "bk0005110",
+      "authors": [
+        "Filson, John",
+        "Parraud, I.-P."
+      ],
+      "keywords": [
+        "Current Affairs",
+        "Exploration",
+        "History",
+        "Military Affairs",
+        "North America",
+        "Politics",
+        "United States of America"
+      ]
+    },
+    {
+      "title": "Lettres d'une Péruvienne",
+      "fbtee": "bk0005119",
+      "authors": [
+        "Deodati de Tovazzi, G. L. ",
+        "Graffigny, Françoise [de]"
+      ],
+      "keywords": [
+        "Conquistadors",
+        "Epistolary Fiction",
+        "France",
+        "Historical Fiction",
+        "Literature",
+        "National customs",
+        "Prose Fiction",
+        "Romantic Fiction",
+        "Satirical works",
+        "Social mores",
+        "South America"
+      ]
+    },
+    {
+      "title": "Konung Carl den XII tes historia",
+      "fbtee": "bk0005184",
+      "authors": "Nordberg, Jöran Andersson",
+      "keywords": [
+        "Biography",
+        "Charles XII",
+        "Great Northern War",
+        "History",
+        "Lives and letters",
+        "Sweden"
+      ]
+    },
+    {
+      "title": "Il Newtonianismo per le dame",
+      "fbtee": "bk0005187",
+      "authors": [
+        "Algarotti, Francesco",
+        "Du Perron de Castera, Louis-Adrien"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Cosmology",
+        "Mechanics",
+        "Optics",
+        "Physics",
+        "Science"
+      ]
+    },
+    {
+      "title": "Collection of Tracts, on Various Subjects",
+      "fbtee": "bk0005210",
+      "authors": "Chubb, Thomas",
+      "keywords": [
+        "Christian Doctrine",
+        "Christianity",
+        "Deism",
+        "Deist work",
+        "Religion",
+        "Sceptical works",
+        "Theology"
+      ]
+    },
+    {
+      "title": "A collection of cheap remedies for the use of the poor? [partially translated from]",
+      "fbtee": "bk0005264",
+      "authors": [
+        "Chalettes",
+        "Espuller [baron d']",
+        "Lewis, William"
+      ],
+      "keywords": [
+        "Agriculture",
+        "Agronomy",
+        "Animal husbandry",
+        "Economics",
+        "Equine care",
+        "Herbalism",
+        "Household Skills",
+        "Land improvement",
+        "Manual",
+        "Medical remedies",
+        "Medicine",
+        "Pharmacology",
+        "Recipes",
+        "Reference works",
+        "Science",
+        "Veterinary science"
+      ]
+    },
+    {
+      "title": "Bemerkungen über Deutschland und dessen Literatur",
+      "fbtee": "bk0005270",
+      "authors": [
+        "Dyck, Johann Gottfried",
+        "Wezel, Johann Karl"
+      ],
+      "keywords": [
+        "German Literature",
+        "Germany",
+        "Literary studies",
+        "Travel"
+      ]
+    },
+    {
+      "title": "A Compleat System of Opticks in Four Books",
+      "fbtee": "bk0005271",
+      "authors": [
+        "Duval-Le Roy, Nicolas-Claude",
+        "Smith, Robert"
+      ],
+      "keywords": [
+        "Optics",
+        "Physics",
+        "Science"
+      ]
+    },
+    {
+      "title": "A Discourse Concerning the Being and Attributes of God",
+      "fbtee": "bk0005286",
+      "authors": "Clarke, Samuel",
+      "keywords": [
+        "Apologetic works",
+        "Christian enlightenment text",
+        "Christian theology",
+        "Christianity",
+        "Metaphysics",
+        "Philosophy",
+        "Protestant text",
+        "Religion",
+        "Theology",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Huomo (l') di lettere",
+      "fbtee": "bk0005362",
+      "authors": [
+        "Bartoli, Daniello",
+        "Delivoy, Timothée"
+      ],
+      "keywords": [
+        "Conduct manual",
+        "Moral Philosophy",
+        "Moral instruction",
+        "Philosophy",
+        "Savants",
+        "Writing (art of)"
+      ]
+    },
+    {
+      "title": "Village memoirs, in a series of letters between a clergyman and his family in the country and his son in town",
+      "fbtee": "bk0005376",
+      "authors": "Cradock, Joseph",
+      "keywords": [
+        "Britain",
+        "Christian enlightenment text",
+        "England",
+        "Epistolary Fiction",
+        "Garden design",
+        "Gardening",
+        "Literature",
+        "Moral tales",
+        "Prose Fiction",
+        "Work of Religiosity"
+      ]
+    },
+    {
+      "title": "Cecilia",
+      "fbtee": "bk0005398",
+      "authors": [
+        "Burney, Fanny",
+        "Rieu, Henri"
+      ],
+      "keywords": [
+        "Literature",
+        "Prose Fiction",
+        "Romantic Fiction"
+      ]
+    },
+    {
+      "title": "A Journal of a Voyage Round the World in His Majesty's Ship, the Endeavour in the Years 1768, 1769, 1770 and 1771",
+      "fbtee": "bk0005402",
+      "authors": [
+        "Banks, Joseph",
+        "Cook, James",
+        "Hawkesworth, John"
+      ],
+      "keywords": [
+        "Australasia",
+        "Cook, James",
+        "Exploration",
+        "Pacific",
+        "Travel",
+        "Voyages"
+      ]
+    },
+    {
+      "title": "The Authentic Memoirs of the Countess de Barre, The French King's Mistress",
+      "fbtee": [
+        "bk0005403",
+        "bk0005404"
+      ],
+      "authors": "Nogaret, François-Félix",
+      "keywords": [
+        "Amorous adventures",
+        "Biography",
+        "Courts & Courtiers",
+        "Current Affairs",
+        "Erotic works",
+        "Fictionalised biography",
+        "France",
+        "Libertine texts",
+        "Literature",
+        "Lives and letters",
+        "Louis XV",
+        "Maupeouana",
+        "Personal libel",
+        "Political Fiction",
+        "Politics",
+        "Prose Fiction",
+        "Royal Mistresses",
+        "Scandal",
+        "du Barry, Jeanne"
+      ]
+    }
+  ]
+}
