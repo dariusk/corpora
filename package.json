@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/dariusk/corpora/issues"
   },
-  "homepage": "https://github.com/dariusk/corpora",
-  "dependencies": {
-    "mysql": "^2.16.0"
-  }
+  "homepage": "https://github.com/dariusk/corpora"
 }
