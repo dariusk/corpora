@@ -11,7 +11,7 @@
             "element": "Fire",
             "ruling_body_classic": "Mars",
             "ruling_body_modern": "Mars",
-            "keywords": ["creative", "driven", "aggressive"]
+            "keywords": ["driven", "idealistic", "aggressive"]
         },
         "Taurus": {
             "longitude_start": "30",
@@ -22,8 +22,7 @@
             "element": "Earth",
             "ruling_body_classic": "Venus",
             "ruling_body_modern": "Earth",
-            "keywords": ["stubborn", "sensual", "extravagant"]
-
+            "keywords": ["resolute", "sensual", "indulgent"]
         },
         "Gemini": {
             "longitude_start": "60",
@@ -45,7 +44,7 @@
             "element": "Water",
             "ruling_body_classic": "Moon",
             "ruling_body_modern": "Moon",
-            "keywords": ["nurturing", "shy", "petty"]
+            "keywords": ["nurturing", "snobby", "petty"]
         },
         "Leo": {
             "longitude_start": "120",
@@ -56,7 +55,7 @@
             "element": "Fire",
             "ruling_body_classic": "Sun",
             "ruling_body_modern": "Sun",
-            "keywords": ["fierce", "generous", "narcissistic"]
+            "keywords": ["fierce", "opulent", "narcissistic"]
         },
         "Virgo": {
             "longitude_start": "150",
@@ -67,7 +66,7 @@
             "element": "Earth",
             "ruling_body_classic": "Mercury",
             "ruling_body_modern": "Ceres",
-            "keywords": ["diligent", "helpful", "naive"]
+            "keywords": ["meticulous", "helpful", "naive"]
         },
         "Libra": {
             "longitude_start": "180",
@@ -78,7 +77,7 @@
             "element": "Air",
             "ruling_body_classic": "Venus",
             "ruling_body_modern": "Venus",
-            "keywords": ["balanced", "verbose", "indecisive"]
+            "keywords": ["balanced", "chatty", "indecisive"]
         },
         "Scorpio": {
             "longitude_start": "210",
@@ -89,7 +88,7 @@
             "element": "Water",
             "ruling_body_classic": "Mars",
             "ruling_body_modern": "Pluto",
-            "keywords": ["deep", "magnetic", "vindictive"]
+            "keywords": ["deep", "magnetic", "destructive"]
         },
         "Sagittarius": {
             "longitude_start": "240",
@@ -100,7 +99,7 @@
             "element": "Fire",
             "ruling_body_classic": "Jupiter",
             "ruling_body_modern": "Jupiter",
-            "keywords": ["ambitious", "daring", "aloof"]
+            "keywords": ["ambitious", "daring", "coarse"]
         },
         "Capricorn": {
             "longitude_start": "270",
@@ -122,7 +121,7 @@
             "element": "Air",
             "ruling_body_classic": "Saturn",
             "ruling_body_modern": "Uranus",
-            "keywords": ["inventive", "rebellious", "erratic"]
+            "keywords": ["inventive", "zany", "erratic"]
         },
         "Pisces": {
             "longitude_start": "330",
