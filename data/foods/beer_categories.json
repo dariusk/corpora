@@ -1,5 +1,6 @@
 {
   "description": "A list of beer categories and corresponding styles, according to the BJCP 2015 Style Guidelines",
+  "source": "https://www.bjcp.org/docs/2015_Guidelines_Beer.pdf",
   "beer_categories": [
     {
       "number": "1",
