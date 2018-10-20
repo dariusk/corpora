@@ -822,6 +822,70 @@
         {
         "name" : "Bill Withers",
         "year" : 2015
+        },
+        {
+        "name" : "Cheap Trick",
+        "year" : 2016
+        },
+        {
+        "name" : "Chicago",
+        "year" : 2016
+        },
+        {
+        "name" : "Deep Purple",
+        "year" : 2016
+        },
+        {
+        "name" : "N.W.A",
+        "year" : 2016
+        },
+        {
+        "name" : "Steve Miller",
+        "year" : 2016
+        },
+        {
+        "name" : "Electric Light Orchestra",
+        "year" : 2017
+        },
+        {
+        "name" : "Joan Baez",
+        "year" : 2017
+        },
+        {
+        "name" : "Journey",
+        "year" : 2017
+        },
+        {
+        "name" : "Pearl Jam",
+        "year" : 2017
+        },
+        {
+        "name" : "Tupac Shakur",
+        "year" : 2017
+        },
+        {
+        "name" : "Yes",
+        "year" : 2017
+        },
+        {
+        "name" : "Bon Jovi",
+        "year" : 2018
+        },
+        {
+        "name" : "The Cars",
+        "year" : 2018
+        },
+        {
+        "name" : "Dire Straits",
+        "year" : 2018
+        },
+        {
+        "name" : "The Moody Blues",
+        "year" : 2018
+        },
+        {
+        "name" : "Nina Simone",
+        "year" : 2018
         }
     ]
 }
