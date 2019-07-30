@@ -218,6 +218,7 @@
 		"Liquid funk",
 		"Livetronica",
 		"Lowercase",
+		"Lo-fi",
 		"Madchester",
 		"Mainstream jazz",
 		"Makina",
@@ -236,7 +237,7 @@
 		"Neofolk",
 		"Neurofunk",
 		"New Beat",
-    "New jack swing",
+    	"New jack swing",
 		"New prog",
 		"New rave",
 		"New wave",
@@ -358,6 +359,7 @@
 		"Turbofolk",
 		"Twee Pop",
 		"Uplifting trance",
+		"Vaporwave",
 		"Viking metal",
 		"Vocal house",
 		"Vocal jazz",
@@ -367,7 +369,7 @@
 		"Witch House/Drag",
 		"World fusion",
 		"Worldbeat",
-    "Yacht rock",
+    	"Yacht rock",
 		"Yorkshire Bleeps and Bass"
 	]
 }
