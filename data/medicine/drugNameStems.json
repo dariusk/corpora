@@ -1,5 +1,5 @@
 {
-    "description": "A list of generic pharmaceutical drug name stems. Hypens indicate whether a stem appears at the beginning, middle, or end of the name.",
+    "description": "A list of generic pharmaceutical drug name stems. Hyphens indicate whether a stem appears at the beginning, middle, or end of the name.",
     "source": "http://druginfo.nlm.nih.gov/drugportal/jsp/drugportal/DrugNameGenericStems.jsp",
     "stems": [
         "-abine",
@@ -407,7 +407,8 @@
         "-trexate",
         "-trexed",
         "-tricin",
-        "-tril -trilat",
+        "-tril",
+        "-trilat",
         "-triptan",
         "-triptyline",
         "-troban",
