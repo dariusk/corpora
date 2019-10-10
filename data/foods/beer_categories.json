@@ -1,16 +1,631 @@
 {
-  "description": "A list of beer categories.",
+  "description": "A list of beer categories and corresponding styles, according to the BJCP 2015 Style Guidelines",
+  "source": "https://www.bjcp.org/docs/2015_Guidelines_Beer.pdf",
   "beer_categories": [
-    "Belgian and French ale",
-    "British ale",
-    "German ale",
-    "German lager",
-    "international ale",
-    "international lager",
-    "Irish ale",
-    "North American ale",
-    "North American lager",
-    "other lager",
-    "other style"
+    {
+      "number": "1",
+      "category": "Standard American Beer",
+      "styles": [{
+          "code": "1A",
+          "name": "American Light Lager"
+        },
+        {
+          "code": "1B",
+          "name": "American Lager"
+        },
+        {
+          "code": "1C",
+          "name": "Cream Ale"
+        },
+        {
+          "code": "1D",
+          "name": "American Wheat Beer"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "category": "International Lager",
+      "styles": [{
+          "code": "2A",
+          "name": "International Pale Lager"
+        },
+        {
+          "code": "2B",
+          "name": "International Amber Lager"
+        },
+        {
+          "code": "2C",
+          "name": "International Dark Lager"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "category": "Czech Lager",
+      "styles": [{
+          "code": "3A",
+          "name": "Czech Pale Lager"
+        },
+        {
+          "code": "3B",
+          "name": "Czech Premium Pale Lager"
+        },
+        {
+          "code": "3C",
+          "name": "Czech Amber Lager"
+        },
+        {
+          "code": "3D",
+          "name": "Czech Dark Lager"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "category": "Pale Malty European Lager",
+      "styles": [{
+          "code": "4A",
+          "name": "Munich Helles"
+        },
+        {
+          "code": "4B",
+          "name": "Festbier"
+        },
+        {
+          "code": "4C",
+          "name": "Helles Bock"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "category": "Pale Bitter European Beer",
+      "styles": [{
+          "code": "5A",
+          "name": "German Leichtbier"
+        },
+        {
+          "code": "5B",
+          "name": "Kölsch"
+        },
+        {
+          "code": "5C",
+          "name": "German Helles Exportbier"
+        },
+        {
+          "code": "5D",
+          "name": "German Pils"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "category": "Amber Malty European Lager",
+      "styles": [{
+          "code": "6A",
+          "name": "Märzen"
+        },
+        {
+          "code": "6B",
+          "name": "Rauchbier"
+        },
+        {
+          "code": "6C",
+          "name": "Dunkles Bock"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "category": "Amber Bitter European Beer",
+      "styles": [{
+          "code": "7A",
+          "name": "Vienna Lager"
+        },
+        {
+          "code": "7B",
+          "name": "Altbier"
+        },
+        {
+          "code": "7C",
+          "name": "Kellerbier",
+          "substyles": [
+            "Pale Kellerbier",
+            "Amber Kellerbier"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "category": "Dark European Lager",
+      "styles": [{
+          "code": "8A",
+          "name": "Munich Dunkel"
+        },
+        {
+          "code": "8B",
+          "name": "Schwarzbier"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "category": "Strong European Beer",
+      "styles": [{
+          "code": "9A",
+          "name": "Doppelbock"
+        },
+        {
+          "code": "9B",
+          "name": "Eisbock"
+        },
+        {
+          "code": "9C",
+          "name": "Baltic Porter"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "category": "German Wheat Beer",
+      "styles": [{
+          "code": "10A",
+          "name": "Weissbier"
+        },
+        {
+          "code": "10B",
+          "name": "Dunkles Weissbier"
+        },
+        {
+          "code": "10C",
+          "name": "Weizenbock"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "category": "British Bitter",
+      "styles": [{
+          "code": "11A",
+          "name": "Ordinary Bitter"
+        },
+        {
+          "code": "11B",
+          "name": "Best Bitter"
+        },
+        {
+          "code": "11C",
+          "name": "Strong Bitter"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "category": "Pale Commonwealth Beer",
+      "styles": [{
+          "code": "12A",
+          "name": "British Golden Ale"
+        },
+        {
+          "code": "12B",
+          "name": "Australian Sparkling Ale"
+        },
+        {
+          "code": "12C",
+          "name": "English IPA"
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "category": "Brown British Beer",
+      "styles": [{
+          "code": "13A",
+          "name": "Dark Mild"
+        },
+        {
+          "code": "13B",
+          "name": "British Brown Ale"
+        },
+        {
+          "code": "13C",
+          "name": "English Porter"
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "category": "Scotish Ale",
+      "styles": [{
+          "code": "14A",
+          "name": "Scotish Light"
+        },
+        {
+          "code": "14B",
+          "name": "Scotish Heavy"
+        },
+        {
+          "code": "14C",
+          "name": "Scotish Export"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "category": "Irish Beer",
+      "styles": [{
+          "code": "15A",
+          "name": "Irish Red Ale"
+        },
+        {
+          "code": "15B",
+          "name": "Irish Stout"
+        },
+        {
+          "code": "15C",
+          "name": "Irish Extra Stout"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "category": "Dark British Beer",
+      "styles": [{
+          "code": "16A",
+          "name": "Sweet Stout"
+        },
+        {
+          "code": "16B",
+          "name": "Oatmeal Stout"
+        },
+        {
+          "code": "16C",
+          "name": "Tropical Stout"
+        },
+        {
+          "code": "16D",
+          "name": "Foreign Extra Stout"
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "category": "Strong British Ale",
+      "styles": [{
+          "code": "17A",
+          "name": "British Strong Ale"
+        },
+        {
+          "code": "17B",
+          "name": "Old Ale"
+        },
+        {
+          "code": "17C",
+          "name": "Wee Heavy"
+        },
+        {
+          "code": "17D",
+          "name": "English Barleywine"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "category": "Pale American Ale",
+      "styles": [{
+          "code": "18A",
+          "name": "Blonde Ale"
+        },
+        {
+          "code": "18B",
+          "name": "American Pale Ale"
+        }
+      ]
+    },
+    {
+      "number": "19",
+      "category": "Amber and Brown American Beer",
+      "styles": [{
+          "code": "19A",
+          "name": "American Amber Ale"
+        },
+        {
+          "code": "19B",
+          "name": "California Common"
+        },
+        {
+          "code": "19C",
+          "name": "American Brown Ale"
+        }
+      ]
+    },
+    {
+      "number": "20",
+      "category": "American Porter and Stout",
+      "styles": [{
+          "code": "20A",
+          "name": "American Porter"
+        },
+        {
+          "code": "20B",
+          "name": "American Stout"
+        },
+        {
+          "code": "20C",
+          "name": "Imperial Stout"
+        }
+      ]
+    },
+    {
+      "number": "21",
+      "category": "IPA",
+      "styles": [{
+          "code": "21A",
+          "name": "American IPA"
+        },
+        {
+          "code": "21B",
+          "name": "Specialty IPA",
+          "substyles": [
+            "Belgian IPA",
+            "Black IPA",
+            "Brown IPA",
+            "Red IPA",
+            "Rya IPA",
+            "White IPA"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "22",
+      "category": "Strong American Ale",
+      "styles": [{
+          "code": "22A",
+          "name": "Double IPA"
+        },
+        {
+          "code": "22B",
+          "name": "American Strong Ale"
+        },
+        {
+          "code": "22C",
+          "name": "American Barleywine"
+        },
+        {
+          "code": "22D",
+          "name": "Wheatwine"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "category": "European Sour Ale",
+      "styles": [{
+          "code": "23A",
+          "name": "Berliner Weisse"
+        },
+        {
+          "code": "23B",
+          "name": "Flanders Red Ale"
+        },
+        {
+          "code": "23C",
+          "name": "Oud Bruin"
+        },
+        {
+          "code": "23D",
+          "name": "Lambic"
+        },
+        {
+          "code": "23E",
+          "name": "Gueuze"
+        },
+        {
+          "code": "23F",
+          "name": "Fruit Lambic"
+        }
+      ]
+    },
+    {
+      "number": "24",
+      "category": "Belgian Ale",
+      "styles": [{
+          "code": "24A",
+          "name": "Witbier"
+        },
+        {
+          "code": "24B",
+          "name": "Belgian Pale Ale"
+        },
+        {
+          "code": "24C",
+          "name": "Bière de Garde"
+        }
+      ]
+    },
+    {
+      "number": "25",
+      "category": "Belgian Strong Ale",
+      "styles": [{
+          "code": "25A",
+          "name": "Belgian Blond Ale"
+        },
+        {
+          "code": "25B",
+          "name": "Saison"
+        },
+        {
+          "code": "25C",
+          "name": "Belgian Golden Strong Ale"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "category": "Trappist Ale",
+      "styles": [{
+          "code": "26A",
+          "name": "Trappist Single"
+        },
+        {
+          "code": "26B",
+          "name": "Belgian Dubbel"
+        },
+        {
+          "code": "26C",
+          "name": "Belgian Tripel"
+        },
+        {
+          "code": "26D",
+          "name": "Trappist Dark Strong Ale"
+        }
+      ]
+    },
+    {
+      "number": "27",
+      "category": "Historical Beer",
+      "styles": [
+        "Gose",
+        "Kentucky Common",
+        "Lichtenhainer",
+        "London Brown Ale",
+        "Piwo Grodziskie",
+        "Pre-Prohibition Lager",
+        "Pre-Prohibition Porter",
+        "Roggenbier",
+        "Sahti"
+      ]
+    },
+    {
+      "number": "28",
+      "category": "American Wild Ale",
+      "styles": [{
+          "code": "28A",
+          "name": "Brett Beer"
+        },
+        {
+          "code": "28B",
+          "name": "Mixed-Fermentation Sour Beer"
+        },
+        {
+          "code": "28C",
+          "name": "Wild Specialty Beer"
+        }
+      ]
+    },
+    {
+      "number": "29",
+      "category": "Fruit Beer",
+      "styles": [{
+          "code": "29A",
+          "name": "Fruit Beer"
+        },
+        {
+          "code": "29B",
+          "name": "Fruit and Spice Beer"
+        },
+        {
+          "code": "29C",
+          "name": "Specialty Fruit Beer"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "category": "Spiced Beer",
+      "styles": [{
+          "code": "30A",
+          "name": "Spice, Herb or Vegetable Beer"
+        },
+        {
+          "code": "30B",
+          "name": "Autumn Seasonal Beer"
+        },
+        {
+          "code": "30C",
+          "name": "Winter Seasonal Beer"
+        },
+        {
+          "code": "1D",
+          "name": "American Wheat Beer"
+        }
+      ]
+    },
+    {
+      "number": "31",
+      "category": "Alternative Fermentables Beer",
+      "styles": [{
+          "code": "31A",
+          "name": "Alternative Grain Beer"
+        },
+        {
+          "code": "31B",
+          "name": "Alternative Sugar Beer"
+        }
+      ]
+    },
+    {
+      "number": "32",
+      "category": "Smoked Beer",
+      "styles": [{
+          "code": "32A",
+          "name": "Classic Style Smoked Beer"
+        },
+        {
+          "code": "32B",
+          "name": "Specialty Smoked Beer"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "category": "Wood Beer",
+      "styles": [{
+          "code": "33A",
+          "name": "Wood-Aged beer"
+        },
+        {
+          "code": "33B",
+          "name": "Specialty Wood-Aged Beer"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "category": "Specialty Beer",
+      "styles": [{
+          "code": "34A",
+          "name": "Clone Beer"
+        },
+        {
+          "code": "34B",
+          "name": "Mixed-Style Beer"
+        },
+        {
+          "code": "34C",
+          "name": "Experimental Beer"
+        }
+      ]
+    },
+    {
+      "number": "Appendix B",
+      "category": "Local Styles",
+      "styles": [{
+          "code": "X1",
+          "name": "Argentine Dorada Pampeana"
+        },
+        {
+          "code": "X2",
+          "name": "Argentine IPA Argenta"
+        },
+        {
+          "code": "X3",
+          "name": "Italian Grape Ale"
+        }
+      ]
+    }
   ]
 }
