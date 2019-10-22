@@ -1,4 +1,55 @@
 {
-  "description":"a list of pre-modern combat weapons",
-  "data":{}
+	"description": "a list of pre-modern combat weapons",
+	"data": {
+		"melee": [
+			"Dagger",
+			"Falchion",
+			"Scimitar",
+			"Katana",
+			"Knife",
+			"Longsword",
+			"Greatsword",
+			"Claymore",
+			"Sabre",
+			"Shortsword",
+			"Rapier",
+			"Axe",
+			"Hand axe",
+			"Battle axe",
+			"Club",
+			"Flail",
+			"Mace",
+			"Maul",
+			"Morning star",
+			"Quarterstaff",
+			"War hammer",
+			"Glaive",
+			"Halberd",
+			"Lance",
+			"Pike",
+			"War scythe",
+			"Spear",
+			"Whip",
+			"Hammer",
+			"Pickaxe"
+		],
+		"ranged": [
+			"Spear",
+			"Javelin",
+			"Throwing darts",
+			"Throwing spikes",
+			"Harpoon",
+			"Boomerang",
+			"Throwing stars",
+			"Spikes",
+			"Longbow",
+			"Shortbow",
+			"Recurve bow",
+			"Composite bow",
+			"Crossbow",
+			"Sling",
+			"Slingshot",
+			"Blowgun"
+		]
+	}
 }
