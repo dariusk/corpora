@@ -1,0 +1,77 @@
+{
+    "description": "A list of family member classifiers and their relationships, gender neutral",
+    "familyRelations": [
+        {
+            "member": "grandparent",
+            "inverse": "grandchild"
+        },
+        {
+            "member": "grandchild",
+            "inverse": "grandparent"
+        },
+        {
+            "member": "parent",
+            "inverse": "child"
+        },
+        {
+            "member": "child",
+            "inverse": "parent"
+        },
+        {
+            "member": "cousin",
+            "inverse": "cousin"
+        },
+        {
+            "member": "younger sibling",
+            "inverse": "older sibling"
+        },
+        {
+            "member": "older sibling",
+            "inverse": "younger sibling"
+        },
+        {
+            "member": "fraternal twin",
+            "inverse": "fraternal twin"
+        },
+        {
+            "member": "identical twin",
+            "inverse": "identical twin"
+        },
+        {
+            "member": "step-sibling",
+            "inverse": "step-sibling"
+        },
+        {
+            "member": "half-sibling",
+            "inverse": "half-sibling"
+        },
+        {
+            "member": "aunt/uncle",
+            "inverse": "niece/nephew"
+        },
+        {
+            "member": "niece/nephew",
+            "inverse": "aunt/uncle"
+        },
+        {
+            "member": "step-parent",
+            "inverse": "step-child"
+        },
+        {
+            "member": "step-child",
+            "inverse": "step-parent"
+        },
+        {
+            "member": "parent-in-law",
+            "inverse": "child-in-law"
+        },
+        {
+            "member": "child-in-law",
+            "inverse": "parent-in-law"
+        },
+        {
+            "member": "sibling-in-law",
+            "inverse": "sibling-in-law"
+        }
+    ]
+}
