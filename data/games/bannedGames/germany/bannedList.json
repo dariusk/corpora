@@ -1,0 +1,457 @@
+{
+  "description":"A list of video games banned in Argentina",
+  "games":[
+    {
+    "name":"10.000 Bullets ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"25 to Life ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"50 Cent: Blood on the Sand ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"50 Cent: Bulletproof ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Afro Samurai ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Aliens vs. Predator ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Area 51 ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Army of Two ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Army of Two: The 40th Day ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Army of Two: The Devil's Cartel ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Beat Down: Fists of Vengeance ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Bloodrayne ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released. The banned, uncensored version, with Nazi references removed, was available on Steam and GOG without classification until it was taken down on May 31, 2016."
+    },
+    {
+    "name":"Bloodrayne II ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released. The banned, uncensored version was available on Steam and GOG without classification until it was taken down on May 31, 2016."
+    },
+    {
+    "name":"Call of Duty 4: Modern Warfare ",
+    "reason":"Banned because of high-impact violence related to incentives and rewards via an unlockable Arcade mode."
+    },
+    {
+    "name":"Call of Duty: Black Ops ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Call of Duty: Modern Warfare 2 ",
+    "reason":"Banned because of high-impact violence related to incentives and rewards via an unlockable Arcade mode."
+    },
+    {
+    "name":"Call of Duty: World at War ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Carmageddon ",
+    "reason":"Was originally released in both cut and uncut versions attaining 18+ and 16+ ratings respectively, before the uncut 18+ version was banned following the 2003 reforms. The banned uncensored version was available on Steam and GOG without classification, until it was taken down on May 31, 2016."
+    },
+    {
+    "name":"Carmageddon II: Carpocalypse Now ",
+    "reason":"Was originally released in both cut and uncut versions attaining 18+ and 16+ ratings respectively, before the uncut 18+ version was banned following the 2003 reforms. The banned uncensored version was available on Steam and GOG without classification, until it was taken down on May 31, 2016."
+    },
+    {
+    "name":"Carmageddon: Max Damage ",
+    "reason":"Banned because of high-impact violence related to incentives and rewards."
+    },
+    {
+    "name":"Clive Barker's Jericho ",
+    "reason":"Originally banned because of high-impact gory violence. The ban was later lifted."
+    },
+    {
+    "name":"Cold Fear ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Cold Winter ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Condemned: Criminal Origins ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Condemned 2: Bloodshot ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Conflict: Denied Ops ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Crackdown ",
+    "reason":"Originally banned because of high-impact gory violence. The ban was lifted in 2018."
+    },
+    {
+    "name":"Crackdown 2 ",
+    "reason":"Originally banned because of high-impact gory violence. The ban was lifted in 2018."
+    },
+    {
+    "name":"Criminal Girls 2: Party Favors ",
+    "reason":"Banned because of sexual activity involving a person who is, or appears to be, under 18 years of age."
+    },
+    {
+    "name":"Dark Messiah of Might and Magic ",
+    "reason":"Originally banned because of high-impact gory violence. A censored version was released. The ban was later lifted."
+    },
+    {
+    "name":"Dead Island ",
+    "reason":"Originally banned because of high-impact gory violence. The ban was lifted in 2019.[40]"
+    },
+    {
+    "name":"Dead Island: Riptide ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Dead Rising ",
+    "reason":"Banned because of high-impact gory violence. Was later banned in 2018 because of violence in a public mall setting."
+    },
+    {
+    "name":"Dead Rising 2 ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Dead Rising 2: Off the Record ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Dead Rising 3 ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Dead Rising: Chop Till You Drop ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Dead Space ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released.[41]"
+    },
+    {
+    "name":"Dead to Rights ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Dead to Rights II ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Dead to Rights: Retribution ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Doom 3: Resurrection of Evil ",
+    "reason":"Originally banned because of high-impact gory violence. In 2019, its RC rating has been appealed and overturned."
+    },
+    {
+    "name":"Dying Light ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Far Cry ",
+    "reason":"Originally given an 18+ rating. Banned for high-impact violence using realistic ragdoll effects. Game was re-censored to remove the ragdoll effects and re-attain the 18+ rating."
+    },
+    {
+    "name":"Football Manager ",
+    "reason":"Originally banned for recognizing Bavaria as an independent country. The ban was later lifted with the 2019 edition."
+    },
+    {
+    "name":"Gal*Gun 2 ",
+    "reason":"Originally banned because of sexual activity involving people who are, or appear to be, minors. The ban was later lifted."
+    },
+    {
+    "name":"Gears of War ",
+    "reason":"Originally banned because of high-impact gory violence. The ban was lifted in 2016."
+    },
+    {
+    "name":"Gears of War 2 ",
+    "reason":"Originally banned because of high-impact gory violence. The ban was lifted in 2016."
+    },
+    {
+    "name":"The Godfather: Black Edition ",
+    "reason":"Banned because of game controls imitating brutality and exortion."
+    },
+    {
+    "name":"The Godfather 2 ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"God of War ",
+    "reason":"Originally banned because of high-impact gory violence. The ban was lifted on the basis that the characters are of Greek mythology and the gameplay put a large emphasis on puzzle-solving."
+    },
+    {
+    "name":"Golden Axe: Beast Rider ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Grand Theft Auto: Liberty City Stories ",
+    "reason":"Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2012."
+    },
+    {
+    "name":"Grand Theft Auto: San Andreas ",
+    "reason":"Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2012."
+    },
+    {
+    "name":"Grand Theft Auto: Vice City ",
+    "reason":"Originally given a 16+ rating. However, the game was later banned because of high-impact gory violence. The game was re-censored, re-attaining the 16+ rating. The ban was lifted in 2012."
+    },
+    {
+    "name":"Grand Theft Auto: Vice City Stories ",
+    "reason":"Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2012."
+    },
+    {
+    "name":"Gun ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Hellforces ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Inversion ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Kane & Lynch 2: Dog Days ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Land of the Dead: Road to Fiddler's Green ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Left 4 Dead ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Left 4 Dead 2 ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Little Britain: The Video Game ",
+    "reason":"Banned because of a mini-game involving homophobia related to incentives and rewards."
+    },
+    {
+    "name":"MadWorld ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Manhunt ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Manhunt 2 ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Medal of Honor: Heroes 2 (Wii) ",
+    "reason":"Banned because of game controls imitating the use of a real-life firearm within a realistic theatre of war."
+    },
+    {
+    "name":"Mortal Kombat ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Mortal Kombat (2011 video game) ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Mortal Kombat II ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Mortal Kombat 3 ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Mortal Kombat: Armageddon ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Mortal Kombat: Shaolin Monks ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"NARC ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Nitro Family ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Omega Labyrinth Z ",
+    "reason":"Banned because of interactive sexual activity involving a person who is, or appears to be, a minor."
+    },
+    {
+    "name":"Postal (video game) ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Postal 2 ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Postal III ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Predator: Concrete Jungle ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Quake 4 ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Red Ninja: End of Honor ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Reservoir Dogs ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Resident Evil 4 ",
+    "reason":"Banned because of high-impact violence related to incentives and rewards via two unlockable bonus games. A censored version was released. The ban was lifted in 2017."
+    },
+    {
+    "name":"Resident Evil: Operation Raccoon City ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Resident Evil: The Umbrella Chronicles ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Return to Castle Wolfenstein ",
+    "reason":"Originally given a 16+ rating with Nazi references censored. Later banned for high-impact gory violence."
+    },
+    {
+    "name":"Saints Row ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Saints Row 2 ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Saints Row: The Third ",
+    "reason":"Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2019."
+    },
+    {
+    "name":"Scarface: The World Is Yours ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Shellshock: Nam '67 ",
+    "reason":"Was originally released unrated in some retail stores in Germany, before being banned because of high-impact gory violence."
+    },
+    {
+    "name":"Shellshock 2: Blood Trails ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Sleeping Dogs ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Soldier of Fortune: Payback ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Splatterhouse ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Syndicate ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"The Club (video game) ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"The House of the Dead: Overkill ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"The Suffering ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"The Suffering: Ties That Bind ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"The Warriors ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Tom Clancy's Rainbow Six: Vegas 2 ",
+    "reason":"Banned because of high-impact violence related to incentives and rewards. A censored version was released."
+    },
+    {
+    "name":"Total Overdose ",
+    "reason":"Was originally released unrated in some retail stores in Germany, before being banned because of high-impact gory violence."
+    },
+    {
+    "name":"True Crime: New York City ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Unreal Championship 2: The Liandri Conflict ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Unreal Tournament III ",
+    "reason":"Banned because of high-impact gory violence. A censored version was released."
+    },
+    {
+    "name":"Valkyrie Drive: Bhikkhuni ",
+    "reason":"Banned because of sexual activity involving people who are, or appear to be, children under 18 years."
+    },
+    {
+    "name":"Vivisector: Beast Within ",
+    "reason":"Banned because of high-impact gory violence."
+    },
+    {
+    "name":"Wolfenstein ",
+    "reason":"Banned because of high-impact gory violence and Nazi references."
+    },
+    {
+    "name":"Wolfenstein 3D ",
+    "reason":"Originally banned because of Nazi references. The ban has been overturned in 2019 on grounds of social adequacy."
+    },
+    {
+    "name":"X-Men Origins: Wolverine (PS3, Xbox 360, PC) ",
+    "reason":"Banned because of high-impact gory violence."
+    }
+  ]
+}
