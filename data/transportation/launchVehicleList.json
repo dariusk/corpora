@@ -528,7 +528,7 @@
 				{
 					"vehicle": "Long March 8",
 					"type": "Orbital",
-					"reuse": "Partial",
+					"reuse": "Partially reusable",
 					"status": "Under development"
 				},
 				{
