@@ -1,0 +1,259 @@
+{
+	"Description": "A short list of some aerospace companies & their launch vehicles.",
+	"Refs": ["https://en.wikipedia.org/wiki/Arianespace#Ariane_launch_vehicles", "https://en.wikipedia.org/wiki/Blue_Origin", "https://en.wikipedia.org/wiki/Blue_Origin_Goddard", "https://en.wikipedia.org/wiki/SpaceX", "https://en.wikipedia.org/wiki/United_Launch_Alliance", "https://en.wikipedia.org/wiki/Rocket_Lab", "https://en.wikipedia.org/wiki/Virgin_Galactic", "https://en.wikipedia.org/wiki/SpaceShipTwo", "https://en.wikipedia.org/wiki/Virgin_Orbit", "https://en.wikipedia.org/wiki/Astra_(aerospace)", "https://en.wikipedia.org/wiki/H-I", "https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries", "https://en.wikipedia.org/wiki/N-I_(rocket)", "https://en.wikipedia.org/wiki/N-II_(rocket)", "https://en.wikipedia.org/wiki/H-II", "https://en.wikipedia.org/wiki/H-IIA", "https://en.wikipedia.org/wiki/H-IIB", "https://en.wikipedia.org/wiki/H3_(rocket)", "https://en.wikipedia.org/wiki/Minotaur_(rocket_family)", "https://en.wikipedia.org/wiki/Northrop_Grumman_Innovation_Systems", "https://en.wikipedia.org/wiki/OmegA"],
+	"aerospaceCompany": [{
+			"name": "Arianespace",
+			"rockets": [{
+					"vehicle": "Ariane 1",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Ariane 2",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Ariane 3",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Ariane 4",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Ariane 5",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Ariane 6",
+					"type": "Orbital",
+					"status": "Under development"
+				},
+				{
+					"vehicle": "Vega",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Vega-C",
+					"type": "Orbital",
+					"status": "Under development"
+				}
+			]
+		},
+		{
+			"name": "Blue Origin",
+			"rockets": [{
+					"vehicle": "Charon",
+					"type": "Sub-orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Goddard",
+					"type": "Sub-orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "New Glenn",
+					"type": "Orbital",
+					"status": "Under development"
+				},
+				{
+					"vehicle": "New Shepard",
+					"type": "Sub-orbital",
+					"status": "Active"
+				}
+			]
+		},
+
+		{
+			"name": "SpaceX",
+			"rockets": [{
+					"vehicle": "Falcon 1",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Falcon 9",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Falcon Heavy",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Starship",
+					"type": "Orbital",
+					"status": "Under development"
+				}
+			]
+		},
+		{
+			"name": "United Launch Alliance",
+			"rockets": [{
+					"vehicle": "Delta II",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Delta 1V",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Delta IV Heavy",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Atlas V",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Vulcan",
+					"type": "Orbital",
+					"status": "Under development"
+				}
+			]
+		},
+		{
+			"name": "Rocket Lab",
+			"rockets": [{
+					"vehicle": "Ātea",
+					"type": "Sub-orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Electron",
+					"type": "Orbital",
+					"status": "Active"
+				}
+			]
+		},
+		{
+			"name": "Astra",
+			"rockets": [{
+				"vehicle": "Rocket 3",
+				"type": "Orbital",
+				"status": "Active"
+			}]
+		},
+		{
+			"name": "Virgin Orbit",
+			"rockets": [{
+				"vehicle": "LauncherOne",
+				"type": "Orbital",
+				"status": "Active"
+			}]
+		},
+		{
+			"name": "Virgin Galactic",
+			"rockets": [{
+				"vehicle": "SpaceShipTwo",
+				"type": "Sub-orbital",
+				"status": "Active"
+			}]
+		},
+
+		{
+			"name": "Mitsubishi Heavy Industries",
+			"rockets": [{
+					"vehicle": "H-I",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "H-II",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "H-IIA",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "H-IIB",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "H-3",
+					"type": "Orbital",
+					"status": "Under development"
+				},
+				{
+					"vehicle": "N-I",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "N-II",
+					"type": "Orbital",
+					"status": "Retired"
+				}
+			]
+		},
+		{
+			"name": "Northrop Grumman",
+			"rockets": [{
+					"vehicle": "Antares",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Minotaur-C",
+					"type": "Orbital",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Minotaur I",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Minotaur II",
+					"type": "Sub-orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Minotaur III",
+					"type": "Sub-orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Minotaur IV",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Minotaur V",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Minotaur VI",
+					"type": "Orbital",
+					"status": "Concept"
+				},
+				{
+					"vehicle": "Pegasus",
+					"type": "Orbital",
+					"status": "Active"
+				},
+				{
+					"vehicle": "OmegA",
+					"type": "Orbital",
+					"status": "Canceled"
+				}
+			]
+		}
+	]
+}
