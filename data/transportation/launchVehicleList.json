@@ -1,46 +1,54 @@
 {
 	"Description": "A short list of some aerospace companies & their launch vehicles.",
-	"Refs": ["https://en.wikipedia.org/wiki/Arianespace#Ariane_launch_vehicles", "https://en.wikipedia.org/wiki/Blue_Origin", "https://en.wikipedia.org/wiki/Blue_Origin_Goddard", "https://en.wikipedia.org/wiki/SpaceX", "https://en.wikipedia.org/wiki/United_Launch_Alliance", "https://en.wikipedia.org/wiki/Rocket_Lab", "https://en.wikipedia.org/wiki/Virgin_Galactic", "https://en.wikipedia.org/wiki/SpaceShipTwo", "https://en.wikipedia.org/wiki/Virgin_Orbit", "https://en.wikipedia.org/wiki/Astra_(aerospace)", "https://en.wikipedia.org/wiki/H-I", "https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries", "https://en.wikipedia.org/wiki/N-I_(rocket)", "https://en.wikipedia.org/wiki/N-II_(rocket)", "https://en.wikipedia.org/wiki/H-II", "https://en.wikipedia.org/wiki/H-IIA", "https://en.wikipedia.org/wiki/H-IIB", "https://en.wikipedia.org/wiki/H3_(rocket)", "https://en.wikipedia.org/wiki/Minotaur_(rocket_family)", "https://en.wikipedia.org/wiki/Northrop_Grumman_Innovation_Systems", "https://en.wikipedia.org/wiki/OmegA"],
+	"Refs": ["https://en.wikipedia.org/wiki/Arianespace#Ariane_launch_vehicles", "https://en.wikipedia.org/wiki/Blue_Origin", "https://en.wikipedia.org/wiki/Blue_Origin_Goddard", "https://en.wikipedia.org/wiki/SpaceX", "https://en.wikipedia.org/wiki/United_Launch_Alliance", "https://en.wikipedia.org/wiki/Rocket_Lab", "https://en.wikipedia.org/wiki/Virgin_Galactic", "https://en.wikipedia.org/wiki/SpaceShipTwo", "https://en.wikipedia.org/wiki/Virgin_Orbit", "https://en.wikipedia.org/wiki/Astra_(aerospace)", "https://en.wikipedia.org/wiki/H-I", "https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries", "https://en.wikipedia.org/wiki/N-I_(rocket)", "https://en.wikipedia.org/wiki/N-II_(rocket)", "https://en.wikipedia.org/wiki/H-II", "https://en.wikipedia.org/wiki/H-IIA", "https://en.wikipedia.org/wiki/H-IIB", "https://en.wikipedia.org/wiki/H3_(rocket)", "https://en.wikipedia.org/wiki/Minotaur_(rocket_family)", "https://en.wikipedia.org/wiki/Northrop_Grumman_Innovation_Systems", "https://en.wikipedia.org/wiki/OmegA", "https://en.wikipedia.org/wiki/Ares_V", "https://en.wikipedia.org/wiki/NASA", "https://en.wikipedia.org/wiki/Ares_I", "https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation", "https://en.wikipedia.org/wiki/Long_March_(rocket_family)"],
 	"aerospaceCompany": [{
 			"name": "Arianespace",
 			"rockets": [{
 					"vehicle": "Ariane 1",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Ariane 2",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Ariane 3",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Ariane 4",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Ariane 5",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Ariane 6",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Under development"
 				},
 				{
 					"vehicle": "Vega",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Vega-C",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Under development"
 				}
 			]
@@ -50,21 +58,25 @@
 			"rockets": [{
 					"vehicle": "Charon",
 					"type": "Sub-orbital",
+					"reuse": "Reusable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Goddard",
 					"type": "Sub-orbital",
+					"reuse": "Reusable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "New Glenn",
 					"type": "Orbital",
+					"reuse": "Partially reusable",
 					"status": "Under development"
 				},
 				{
 					"vehicle": "New Shepard",
 					"type": "Sub-orbital",
+					"reuse": "Fully reusable",
 					"status": "Active"
 				}
 			]
@@ -75,21 +87,25 @@
 			"rockets": [{
 					"vehicle": "Falcon 1",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Falcon 9",
 					"type": "Orbital",
+					"reuse": "Partially reusable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Falcon Heavy",
 					"type": "Orbital",
+					"reuse": "Partially reusable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Starship",
 					"type": "Orbital",
+					"reuse": "Fully reusable",
 					"status": "Under development"
 				}
 			]
@@ -99,26 +115,31 @@
 			"rockets": [{
 					"vehicle": "Delta II",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Delta 1V",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Delta IV Heavy",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Atlas V",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Vulcan",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Under development"
 				}
 			]
@@ -128,11 +149,13 @@
 			"rockets": [{
 					"vehicle": "Ātea",
 					"type": "Sub-orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Electron",
 					"type": "Orbital",
+					"reuse": "Partially reusable",
 					"status": "Active"
 				}
 			]
@@ -142,6 +165,7 @@
 			"rockets": [{
 				"vehicle": "Rocket 3",
 				"type": "Orbital",
+				"reuse": "Expendable",
 				"status": "Active"
 			}]
 		},
@@ -150,6 +174,7 @@
 			"rockets": [{
 				"vehicle": "LauncherOne",
 				"type": "Orbital",
+				"reuse": "Partially reusable",
 				"status": "Active"
 			}]
 		},
@@ -158,6 +183,7 @@
 			"rockets": [{
 				"vehicle": "SpaceShipTwo",
 				"type": "Sub-orbital",
+				"reuse": "Fully reusable",
 				"status": "Active"
 			}]
 		},
@@ -167,36 +193,43 @@
 			"rockets": [{
 					"vehicle": "H-I",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "H-II",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "H-IIA",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "H-IIB",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "H-3",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Under development"
 				},
 				{
 					"vehicle": "N-I",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "N-II",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				}
 			]
@@ -206,52 +239,309 @@
 			"rockets": [{
 					"vehicle": "Antares",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Minotaur-C",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Retired"
 				},
 				{
 					"vehicle": "Minotaur I",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Minotaur II",
 					"type": "Sub-orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Minotaur III",
 					"type": "Sub-orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Minotaur IV",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Minotaur V",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "Minotaur VI",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Concept"
 				},
 				{
 					"vehicle": "Pegasus",
 					"type": "Orbital",
+					"reuse": "Partially reusable",
 					"status": "Active"
 				},
 				{
 					"vehicle": "OmegA",
 					"type": "Orbital",
+					"reuse": "Expendable",
 					"status": "Canceled"
+				}
+			]
+		},
+
+		{
+			"name": "NASA",
+			"rockets": [{
+					"vehicle": "Saturn V",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Space Shuttle",
+					"type": "Orbital",
+					"reuse": "Partially reusable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Ares V",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Canceled"
+				},
+				{
+					"vehicle": "Ares I",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Canceled"
+				},
+				{
+					"vehicle": "SLS",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Under development"
+				}
+			]
+		},
+		{
+			"name": "ISRO",
+			"rockets": [{
+					"vehicle": "SLV",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "ASLV",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "PSLV",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "GSLV Mark I",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "GSLV Mark II",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "GSLV Mark III",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "SSLV",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Under development"
+				},
+				{
+					"vehicle": "RLV-TD",
+					"type": "Orbital",
+					"reuse": "Fully reusable",
+					"status": "Under development"
+				},
+				{
+					"vehicle": "ULV",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Under development"
+				}
+			]
+		},
+		{
+			"name": "CNSA",
+			"rockets": [{
+					"vehicle": "Long March 1",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Long March 1D",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Long March 2A",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Long March 2C",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 2D",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 2E",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Long March 2E(A)",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Canceled"
+				},
+				{
+					"vehicle": "Long March 2F",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 3",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Long March 3A",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 3B",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Long March 3B/E",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 3B(A)",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 3C",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 4A",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Retired"
+				},
+				{
+					"vehicle": "Long March 4B",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 4C",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 5",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 5B",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 6",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 7",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 7A",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
+				},
+				{
+					"vehicle": "Long March 8",
+					"type": "Orbital",
+					"reuse": "Partial",
+					"status": "Under development"
+				},
+				{
+					"vehicle": "Long March 9",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Under development"
+				},
+				{
+					"vehicle": "Long March 11",
+					"type": "Orbital",
+					"reuse": "Expendable",
+					"status": "Active"
 				}
 			]
 		}
