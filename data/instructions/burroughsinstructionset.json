@@ -191,7 +191,7 @@
             "category": "Logical operators",
             "opcode": "LEQV",
             "instruction": "Logical bitwise equivalence of all bits in operands"
-        },                         
+        },
         {
             "category": "Descriptor operators",
             "opcode": "INDX",
