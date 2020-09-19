@@ -211,6 +211,6 @@
             "category": "Descriptor operators",
             "opcode": "EVAL",
             "instruction": "Follow address chain until data word or another descriptor found"
-        }               
+        }
     ]
 }
