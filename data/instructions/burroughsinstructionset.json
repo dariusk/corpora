@@ -19,7 +19,7 @@
         },
         {
             "category": "Arithmetic operators",
-            "opcode": "MULX ",
+            "opcode": "MULX",
             "instruction": "Extended multiply with forced double precision result"
         },
         {
