@@ -81,6 +81,16 @@
 		"While {0} is cooking, heat {1} in a skillet over medium heat.",
 		"Stir for a minute, then cover and steam over low heat for 2 minutes.",
 		"Cover and cook over medium heat until {0} is wilted, about 3 minutes.",
-		"Cover, and allow to sit for 10 minutes before serving."
+		"Cover, and allow to sit for 10 minutes before serving.",
+		"Fill {0} with {1}",
+		"Glaze {0} before baking",
+		"Sprinkle with {0}",
+		"Marinate {0} for 20 minutes, turning the mixture from time to time.",
+		"Fill small bowl with marinated {0}",
+		"Allow {0} to stand in ice box to marinate for at least two hours.",
+		"{0} should be boiled slowly with {1} and {2}",
+		"Sprinkle chopped {0} over top {1}",
+		"Sprinkle {1} with chopped {0}",
+		"On a bed of julienned {1}, gently place {0}"
 	]
 }
