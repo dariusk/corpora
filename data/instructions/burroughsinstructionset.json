@@ -1,0 +1,216 @@
+{
+    "description": "The Burroughs B6x00-7x00 instruction set includes the set of valid operations for the Burroughs computers manufactured in the 1970s. An instruction set is an abstract model of computer functions. In that era, distinct items in the set were called syllables or opcodes.",
+    "source": "wikipedia accessed 20180911 wikipedia.org/wiki/Burroughs_B6x00-7x00_instruction_set",
+    "burroughsinstructionset": [
+    	{
+            "category": "Arithmetic operators",
+            "opcode": "ADD",
+            "instruction": "Add top two stack operands"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "SUBT",
+            "instruction": "Subtract"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "MULT",
+            "instruction": "Multiply with single or double precision result"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "MULX",
+            "instruction": "Extended multiply with forced double precision result"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "DIVD",
+            "instruction": "Divide with real result"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "IDIV",
+            "instruction": "Divide with integer result"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "RDIV",
+            "instruction": "Return remainder after division"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "NTIA",
+            "instruction": "Integerize truncated"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "NTGR",
+            "instruction": "Integerize rounded"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "NTGD",
+            "instruction": "Integerize rounded with double precision result"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "CHSN",
+            "instruction": "Change sign"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "JOIN",
+            "instruction": "Join two singles to form a double"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "SPLT",
+            "instruction": "Split a double to form two singles"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "ICVD",
+            "instruction": "Input convert destructive – convert BCD number to binary"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "ICVU",
+            "instruction": "Input convert update – convert BCD number to binary"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "SNGL",
+            "instruction": "Set to single precision rounded"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "SNGT",
+            "instruction": "Set to single precision truncated"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "XTND",
+            "instruction": "Set to double precision"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "PACD",
+            "instruction": "Pack destructive"
+        },      
+        {
+            "category": "Arithmetic operators",
+            "opcode": "PACU",
+            "instruction": "Pack update"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "USND",
+            "instruction": "Unpack signed destructive"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "USNU",
+            "instruction": "Unpack signed update"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "UABD",
+            "instruction": "Unpack absolute destructive"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "UABU",
+            "instruction": "Unpack, absolute update"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "SXSN",
+            "instruction": "Set external sign"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "ROFF",
+            "instruction": "Read and clear overflow flip flop"
+        },
+        {
+            "category": "Arithmetic operators",
+            "opcode": "RTFF",
+            "instruction": "Read true/false flip flop"
+        },
+        {
+            "category": "Comparison operators",
+            "opcode": "LESS",
+            "instruction": "Is B < A?"
+        },
+        {
+            "category": "Comparison operators",
+            "opcode": "GREQ",
+            "instruction": "Is B >= A?"
+        },
+        {
+            "category": "Comparison operators",
+            "opcode": "GRTR",
+            "instruction": "Is B > A?"
+        },
+        {
+            "category": "Comparison operators",
+            "opcode": "LSEQ",
+            "instruction": "Is B <= A?"
+        },
+        {
+            "category": "Comparison operators",
+            "opcode": "EQUL",
+            "instruction": "Is B = A?"
+        },
+        {
+            "category": "Comparison operators",
+            "opcode": "NEQL",
+            "instruction": "Is B <> A?"
+        },
+        {
+            "category": "Comparison operators",
+            "opcode": "SAME",
+            "instruction": "Does B have the same bit pattern as A, including the tag"
+        }, 
+        {
+            "category": "Logical operators",
+            "opcode": "LAND",
+            "instruction": "Logical bitwise and of all bits in operands"
+        },
+        {
+            "category": "Logical operators",
+            "opcode": "LOR",
+            "instruction": "Logical bitwise or of all bits in operands"
+        },
+        {
+            "category": "Logical operators",
+            "opcode": "LNOT",
+            "instruction": "Logical bitwise complement of all bits in operand"
+        },
+        {
+            "category": "Logical operators",
+            "opcode": "LEQV",
+            "instruction": "Logical bitwise equivalence of all bits in operands"
+        },
+        {
+            "category": "Descriptor operators",
+            "opcode": "INDX",
+            "instruction": "Index create a pointer from a base MOM descriptor"
+        },
+        {
+            "category": "Descriptor operators",
+            "opcode": "NXLN",
+            "instruction": "Index and load name, resulting in an indexed descriptor"
+        },
+        {
+            "category": "Descriptor operators",
+            "opcode": "NXLV",
+            "instruction": "Index and load value, resulting in a data value"
+        },
+        {
+            "category": "Descriptor operators",
+            "opcode": "EVAL",
+            "instruction": "Follow address chain until data word or another descriptor found"
+        }
+    ]
+}
