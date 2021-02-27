@@ -1,5 +1,5 @@
 {
-  "description": "Current (as of 2016) teams in the NFL and where they play",
+  "description": "Current (as of 2020) teams in the NFL and where they play",
   "nfl_teams": [
     {
       "name": "Buffalo Bills",
@@ -7,7 +7,7 @@
       "division": "East",
       "city": "Orchard Park",
       "state": "NY",
-      "stadium": "New Era Field"
+      "stadium": "Bills Stadium"
     },
     {
       "name": "Miami Dolphins",
@@ -15,7 +15,7 @@
       "division": "East",
       "city": "Miami Gardens",
       "state": "FL",
-      "stadium": "Sun Life Stadium"
+      "stadium": "Hard Rock Stadium"
     },
     {
       "name": "New England Patriots",
@@ -87,7 +87,7 @@
       "division": "South",
       "city": "Jacksonville",
       "state": "FL",
-      "stadium": "EverBank Field"
+      "stadium": "TIAA Bank Field"
     },
     {
       "name": "Tennessee Titans",
@@ -103,7 +103,7 @@
       "division": "West",
       "city": "Denver",
       "state": "CO",
-      "stadium": "Sports Authority Field at Mile High"
+      "stadium": "Empower Field at Mile High"
     },
     {
       "name": "Kansas City Chiefs",
@@ -114,20 +114,20 @@
       "stadium": "Arrowhead Stadium"
     },
     {
-      "name": "Oakland Raiders",
+      "name": "Las Vegas Raiders",
       "conference": "AFC",
       "division": "West",
-      "city": "Oakland",
-      "state": "CA",
-      "stadium": "Oakland Alemeda Coliseum"
+      "city": "Paradise",
+      "state": "NV",
+      "stadium": "Allegiant Stadium"
     },
     {
       "name": "Los Angeles Chargers",
       "conference": "AFC",
       "division": "West",
-      "city": "Los Angeles",
+      "city": "Inglewood",
       "state": "CA",
-      "stadium": "StubHub Center"
+      "stadium": "SoFi Stadium"
     },
     {
       "name": "Dallas Cowboys",
@@ -154,7 +154,7 @@
       "stadium": "Lincoln Financial Field"
     },
     {
-      "name": "Washington Redskins",
+      "name": "Washington Football Team",
       "conference": "NFC",
       "division": "East",
       "city": "Landover",
@@ -199,7 +199,7 @@
       "division": "South",
       "city": "Atlanta",
       "state": "GA",
-      "stadium": "Georgia Dome"
+      "stadium": "Mercedes-Benz Stadium"
     },
     {
       "name": "Carolina Panthers",
@@ -231,15 +231,15 @@
       "division": "West",
       "city": "Glendale",
       "state": "AZ",
-      "stadium": "University of Phoenix Stadium"
+      "stadium": "State Farm Stadium"
     },
     {
       "name": "Los Angeles Rams",
       "conference": "NFC",
       "division": "West",
-      "city": "Los Angeles",
+      "city": "Inglewood",
       "state": "CA",
-      "stadium": "Los Angeles Memorial Coliseum"
+      "stadium": "SoFi Stadium"
     },
     {
       "name": "San Francisco 49ers",
