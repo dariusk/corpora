@@ -1,0 +1,1814 @@
+[
+  {
+    "name": "Affenpinscher",
+    "name_de": "Affenpinscher"
+  },
+  {
+    "name": "Afghan Hound",
+    "name_de": "Afghan Hound"
+  },
+  {
+    "name": "Aidi",
+    "name_de": "Aidi"
+  },
+  {
+    "name": "Airedale Terrier",
+    "name_de": "Airedale Terrier"
+  },
+  {
+    "name": "Akbash Dog",
+    "name_de": "Akbash Dog"
+  },
+  {
+    "name": "Akita",
+    "name_de": "Akita"
+  },
+  {
+    "name": "Alano Español",
+    "name_de": "Alano Español"
+  },
+  {
+    "name": "Alaskan Klee Kai",
+    "name_de": "Alaskan Klee Kai"
+  },
+  {
+    "name": "Alaskan Malamute",
+    "name_de": "Alaskan Malamute"
+  },
+  {
+    "name": "Alpine Dachsbracke",
+    "name_de": "Alpine Dachsbracke"
+  },
+  {
+    "name": "Alpine Spaniel",
+    "name_de": "Alpine Spaniel"
+  },
+  {
+    "name": "American Bulldog",
+    "name_de": "American Bulldog"
+  },
+  {
+    "name": "American Cocker Spaniel",
+    "name_de": "American Cocker Spaniel"
+  },
+  {
+    "name": "American Eskimo Dog",
+    "name_de": "American Eskimo Dog"
+  },
+  {
+    "name": "American Foxhound",
+    "name_de": "American Foxhound"
+  },
+  {
+    "name": "American Hairless Terrier",
+    "name_de": "American Hairless Terrier"
+  },
+  {
+    "name": "American Pit Bull Terrier",
+    "name_de": "American Pit Bull Terrier"
+  },
+  {
+    "name": "American Staffordshire Terrier",
+    "name_de": "American Staffordshire Terrier"
+  },
+  {
+    "name": "American Water Spaniel",
+    "name_de": "American Water Spaniel"
+  },
+  {
+    "name": "Anglo-Français de Petite Vénerie",
+    "name_de": "Anglo-Français de Petite Vénerie"
+  },
+  {
+    "name": "Appenzeller Sennenhund",
+    "name_de": "Appenzell Mountain dog"
+  },
+  {
+    "name": "Ariege Pointer",
+    "name_de": "Ariege Pointer"
+  },
+  {
+    "name": "Ariegeois",
+    "name_de": "Ariegeois"
+  },
+  {
+    "name": "Armant",
+    "name_de": "Armant"
+  },
+  {
+    "name": "Armenian Gampr dog",
+    "name_de": "Armenian Gampr dog"
+  },
+  {
+    "name": "Artois Hound",
+    "name_de": "Artois Hound"
+  },
+  {
+    "name": "Australian Cattle Dog",
+    "name_de": "Australian Cattle Dog"
+  },
+  {
+    "name": "Australian Kelpie",
+    "name_de": "Australian Kelpie"
+  },
+  {
+    "name": "Australian Shepherd",
+    "name_de": "Australian Shepherd"
+  },
+  {
+    "name": "Australian Silky Terrier",
+    "name_de": "Australian Silky Terrier"
+  },
+  {
+    "name": "Australian Stumpy Tail Cattle Dog",
+    "name_de": "Australian Stumpy Tail Cattle Dog"
+  },
+  {
+    "name": "Australian Terrier",
+    "name_de": "Australian Terrier"
+  },
+  {
+    "name": "Azawakh",
+    "name_de": "Azawakh"
+  },
+  {
+    "name": "Bakharwal Dog",
+    "name_de": "Bakharwal Dog"
+  },
+  {
+    "name": "Barbet",
+    "name_de": "Barbet"
+  },
+  {
+    "name": "Basenji",
+    "name_de": "Basenji"
+  },
+  {
+    "name": "Basque Shepherd Dog",
+    "name_de": "Basque Shepherd Dog"
+  },
+  {
+    "name": "Basset Artésien Normand",
+    "name_de": "Basset Artésien Normand"
+  },
+  {
+    "name": "Basset Bleu de Gascogne",
+    "name_de": "Basset Bleu de Gascogne"
+  },
+  {
+    "name": "Basset Fauve de Bretagne",
+    "name_de": "Basset Fauve de Bretagne"
+  },
+  {
+    "name": "Basset Hound",
+    "name_de": "Basset Hound"
+  },
+  {
+    "name": "Bavarian Mountain Hound",
+    "name_de": "Bavarian Mountain Hound"
+  },
+  {
+    "name": "Beagle",
+    "name_de": "Beagle"
+  },
+  {
+    "name": "Beagle-Harrier",
+    "name_de": "Beagle-Harrier"
+  },
+  {
+    "name": "Bearded Collie",
+    "name_de": "Bearded Collie"
+  },
+  {
+    "name": "Beauceron",
+    "name_de": "Beauceron"
+  },
+  {
+    "name": "Bedlington Terrier",
+    "name_de": "Bedlington Terrier"
+  },
+  {
+    "name": "Belgian Shepherd Dog (Groenendael)",
+    "name_de": "Belgian Shepherd Dog (Groenendael)"
+  },
+  {
+    "name": "Belgian Shepherd Dog (Laekenois)",
+    "name_de": "Belgian Shepherd Dog (Laekenois)"
+  },
+  {
+    "name": "Belgian Shepherd Dog (Malinois)",
+    "name_de": "Belgian Shepherd Dog (Malinois)"
+  },
+  {
+    "name": "Bergamasco Shepherd",
+    "name_de": "Bergamasco Shepherd"
+  },
+  {
+    "name": "Berger Blanc Suisse",
+    "name_de": "Berger Blanc Suisse"
+  },
+  {
+    "name": "Berger Picard",
+    "name_de": "Berger Picard"
+  },
+  {
+    "name": "Berner Laufhund",
+    "name_de": "Bernese running dog"
+  },
+  {
+    "name": "Bernese Mountain Dog",
+    "name_de": "Bernese Mountain Dog"
+  },
+  {
+    "name": "Billy",
+    "name_de": "Billy"
+  },
+  {
+    "name": "Black and Tan Coonhound",
+    "name_de": "Black and Tan Coonhound"
+  },
+  {
+    "name": "Black and Tan Virginia Foxhound",
+    "name_de": "Black and Tan Virginia Foxhound"
+  },
+  {
+    "name": "Black Norwegian Elkhound",
+    "name_de": "Black Norwegian Elkhound"
+  },
+  {
+    "name": "Black Russian Terrier",
+    "name_de": "Black Russian Terrier"
+  },
+  {
+    "name": "Bloodhound",
+    "name_de": "Bloodhound"
+  },
+  {
+    "name": "Blue Lacy",
+    "name_de": "Blue Lacy"
+  },
+  {
+    "name": "Blue Paul Terrier",
+    "name_de": "Blue Paul Terrier"
+  },
+  {
+    "name": "Boerboel",
+    "name_de": "Boerboel"
+  },
+  {
+    "name": "Bohemian Shepherd",
+    "name_de": "Bohemian Shepherd"
+  },
+  {
+    "name": "Bolognese",
+    "name_de": "Bolognese"
+  },
+  {
+    "name": "Border Collie",
+    "name_de": "Border Collie"
+  },
+  {
+    "name": "Border Terrier",
+    "name_de": "Border Terrier"
+  },
+  {
+    "name": "Borzoi",
+    "name_de": "Borzoi"
+  },
+  {
+    "name": "Boston Terrier",
+    "name_de": "Boston Terrier"
+  },
+  {
+    "name": "Bouvier des Ardennes",
+    "name_de": "Bouvier des Ardennes"
+  },
+  {
+    "name": "Bouvier des Flandres",
+    "name_de": "Bouvier des Flandres"
+  },
+  {
+    "name": "Boxer",
+    "name_de": "Boxer"
+  },
+  {
+    "name": "Boykin Spaniel",
+    "name_de": "Boykin Spaniel"
+  },
+  {
+    "name": "Bracco Italiano",
+    "name_de": "Bracco Italiano"
+  },
+  {
+    "name": "Braque d'Auvergne",
+    "name_de": "Braque d'Auvergne"
+  },
+  {
+    "name": "Braque du Bourbonnais",
+    "name_de": "Braque du Bourbonnais"
+  },
+  {
+    "name": "Braque du Puy",
+    "name_de": "Braque du Puy"
+  },
+  {
+    "name": "Braque Francais",
+    "name_de": "Braque Francais"
+  },
+  {
+    "name": "Braque Saint-Germain",
+    "name_de": "Braque Saint-Germain"
+  },
+  {
+    "name": "Brazilian Terrier",
+    "name_de": "Brazilian Terrier"
+  },
+  {
+    "name": "Briard",
+    "name_de": "Briard"
+  },
+  {
+    "name": "Briquet Griffon Vendéen",
+    "name_de": "Briquet Griffon Vendéen"
+  },
+  {
+    "name": "Brittany",
+    "name_de": "Brittany"
+  },
+  {
+    "name": "Broholmer",
+    "name_de": "Broholmer"
+  },
+  {
+    "name": "Bruno Jura Hound",
+    "name_de": "Bruno Jura Hound"
+  },
+  {
+    "name": "Bucovina Shepherd Dog",
+    "name_de": "Bucovina Shepherd Dog"
+  },
+  {
+    "name": "Bull and Terrier",
+    "name_de": "Bull and Terrier"
+  },
+  {
+    "name": "Bull Terrier (Miniature)",
+    "name_de": "Bull Terrier (Miniature)"
+  },
+  {
+    "name": "Bull Terrier",
+    "name_de": "Bull Terrier"
+  },
+  {
+    "name": "Bulldog",
+    "name_de": "Bulldog"
+  },
+  {
+    "name": "Bullenbeisser",
+    "name_de": "Bullenbeisser"
+  },
+  {
+    "name": "Bullmastiff",
+    "name_de": "Bullmastiff"
+  },
+  {
+    "name": "Bully Kutta",
+    "name_de": "Bully Kutta"
+  },
+  {
+    "name": "Burgos Pointer",
+    "name_de": "Burgos Pointer"
+  },
+  {
+    "name": "Cairn Terrier",
+    "name_de": "Cairn Terrier"
+  },
+  {
+    "name": "Canaan Dog",
+    "name_de": "Canaan Dog"
+  },
+  {
+    "name": "Canadian Eskimo Dog",
+    "name_de": "Canadian Eskimo Dog"
+  },
+  {
+    "name": "Cane Corso",
+    "name_de": "Cane Corso"
+  },
+  {
+    "name": "Cardigan Welsh Corgi",
+    "name_de": "Cardigan Welsh Corgi"
+  },
+  {
+    "name": "Carolina Dog",
+    "name_de": "Carolina Dog"
+  },
+  {
+    "name": "Carpathian Shepherd Dog",
+    "name_de": "Carpathian Shepherd Dog"
+  },
+  {
+    "name": "Catahoula Cur",
+    "name_de": "Catahoula Cur"
+  },
+  {
+    "name": "Catalan Sheepdog",
+    "name_de": "Catalan Sheepdog"
+  },
+  {
+    "name": "Caucasian Shepherd Dog",
+    "name_de": "Caucasian Shepherd Dog"
+  },
+  {
+    "name": "Cavalier King Charles Spaniel",
+    "name_de": "Cavalier King Charles Spaniel"
+  },
+  {
+    "name": "Central Asian Shepherd Dog",
+    "name_de": "Central Asian Shepherd Dog"
+  },
+  {
+    "name": "Cesky Fousek",
+    "name_de": "Cesky Fousek"
+  },
+  {
+    "name": "Cesky Terrier",
+    "name_de": "Cesky Terrier"
+  },
+  {
+    "name": "Chesapeake Bay Retriever",
+    "name_de": "Chesapeake Bay Retriever"
+  },
+  {
+    "name": "Chien Français Blanc et Noir",
+    "name_de": "Chien Français Blanc et Noir"
+  },
+  {
+    "name": "Chien Français Blanc et Orange",
+    "name_de": "Chien Français Blanc et Orange"
+  },
+  {
+    "name": "Chien Français Tricolore",
+    "name_de": "Chien Français Tricolore"
+  },
+  {
+    "name": "Chien-gris",
+    "name_de": "Chien-gris"
+  },
+  {
+    "name": "Chihuahua",
+    "name_de": "Chihuahua"
+  },
+  {
+    "name": "Chilean Fox Terrier",
+    "name_de": "Chilean Fox Terrier"
+  },
+  {
+    "name": "Chinese Chongqing Dog",
+    "name_de": "Chinese Chongqing Dog"
+  },
+  {
+    "name": "Chinese Crested Dog",
+    "name_de": "Chinese Crested Dog"
+  },
+  {
+    "name": "Chinese Imperial Dog",
+    "name_de": "Chinese Imperial Dog"
+  },
+  {
+    "name": "Chinook",
+    "name_de": "Chinook"
+  },
+  {
+    "name": "Chippiparai",
+    "name_de": "Chippiparai"
+  },
+  {
+    "name": "Chow Chow",
+    "name_de": "Chow Chow"
+  },
+  {
+    "name": "Cierny Sery",
+    "name_de": "Cierny Sery"
+  },
+  {
+    "name": "Cimarrón Uruguayo",
+    "name_de": "Cimarrón Uruguayo"
+  },
+  {
+    "name": "Cirneco dell'Etna",
+    "name_de": "Cirneco dell'Etna"
+  },
+  {
+    "name": "Clumber Spaniel",
+    "name_de": "Clumber Spaniel"
+  },
+  {
+    "name": "Combai",
+    "name_de": "Combai"
+  },
+  {
+    "name": "Cordoba Fighting Dog",
+    "name_de": "Cordoba Fighting Dog"
+  },
+  {
+    "name": "Coton de Tulear",
+    "name_de": "Coton de Tulear"
+  },
+  {
+    "name": "Cretan Hound",
+    "name_de": "Cretan Hound"
+  },
+  {
+    "name": "Croatian Sheepdog",
+    "name_de": "Croatian Sheepdog"
+  },
+  {
+    "name": "Cumberland Sheepdog",
+    "name_de": "Cumberland Sheepdog"
+  },
+  {
+    "name": "Curly Coated Retriever",
+    "name_de": "Curly Coated Retriever"
+  },
+  {
+    "name": "Cursinu",
+    "name_de": "Cursinu"
+  },
+  {
+    "name": "Cão da Serra de Aires",
+    "name_de": "Cão da Serra de Aires"
+  },
+  {
+    "name": "Cão de Castro Laboreiro",
+    "name_de": "Cão de Castro Laboreiro"
+  },
+  {
+    "name": "Cão Fila de São Miguel",
+    "name_de": "Cão Fila de São Miguel"
+  },
+  {
+    "name": "Dachshund",
+    "name_de": "Dachshund"
+  },
+  {
+    "name": "Dalmatian",
+    "name_de": "Dalmatian"
+  },
+  {
+    "name": "Dandie Dinmont Terrier",
+    "name_de": "Dandie Dinmont Terrier"
+  },
+  {
+    "name": "Danish Swedish Farmdog",
+    "name_de": "Danish Swedish Farmdog"
+  },
+  {
+    "name": "Deutsche Bracke",
+    "name_de": "German hound"
+  },
+  {
+    "name": "Doberman Pinscher",
+    "name_de": "Dobermann Pinscher"
+  },
+  {
+    "name": "Dogo Argentino",
+    "name_de": "Argentinische Bulldogge"
+  },
+  {
+    "name": "Dogo Cubano",
+    "name_de": "Kubanische Bulldogge"
+  },
+  {
+    "name": "Dogue de Bordeaux",
+    "name_de": "Bordeauxdogge"
+  },
+  {
+    "name": "Drentse Patrijshond",
+    "name_de": "Drentse Patrijshond"
+  },
+  {
+    "name": "Drever",
+    "name_de": "Drever"
+  },
+  {
+    "name": "Dunker",
+    "name_de": "Dunker"
+  },
+  {
+    "name": "Dutch Shepherd Dog",
+    "name_de": "Niederländischer Schäferhund"
+  },
+  {
+    "name": "Dutch Smoushond",
+    "name_de": "Holländischer Smoushond"
+  },
+  {
+    "name": "East Siberian Laika",
+    "name_de": "Ostsibirische Laika"
+  },
+  {
+    "name": "East-European Shepherd",
+    "name_de": "Osteuropäischer Schäferhund"
+  },
+  {
+    "name": "Elo",
+    "name_de": "Elo"
+  },
+  {
+    "name": "English Cocker Spaniel",
+    "name_de": "Englischer Cocker Spaniel"
+  },
+  {
+    "name": "English Foxhound",
+    "name_de": "Englischer Foxhound"
+  },
+  {
+    "name": "English Mastiff",
+    "name_de": "Englischer Mastiff"
+  },
+  {
+    "name": "English Setter",
+    "name_de": "Englischer Setter"
+  },
+  {
+    "name": "English Shepherd",
+    "name_de": "English Shepherd"
+  },
+  {
+    "name": "English Springer Spaniel",
+    "name_de": "English Springer Spaniel"
+  },
+  {
+    "name": "English Toy Terrier (Black &amp; Tan)",
+    "name_de": "Englischer Toy Terrier"
+  },
+  {
+    "name": "English Water Spaniel",
+    "name_de": "Englischer Wasserspaniel"
+  },
+  {
+    "name": "English White Terrier",
+    "name_de": "English White Terrier"
+  },
+  {
+    "name": "Entlebucher Mountain Dog",
+    "name_de": "Entlebucher Sennenhund"
+  },
+  {
+    "name": "Estonian Hound",
+    "name_de": "Estonian Hound"
+  },
+  {
+    "name": "Estrela Mountain Dog",
+    "name_de": "Star Mountain Dog"
+  },
+  {
+    "name": "Eurasier",
+    "name_de": "Eurasier"
+  },
+  {
+    "name": "Field Spaniel",
+    "name_de": "Field Spaniel"
+  },
+  {
+    "name": "Fila Brasileiro",
+    "name_de": "Brasilianische Reihe"
+  },
+  {
+    "name": "Finnish Hound",
+    "name_de": "Finnischer Jagdhund"
+  },
+  {
+    "name": "Finnish Lapphund",
+    "name_de": "Finnischer Lapphund"
+  },
+  {
+    "name": "Finnish Spitz",
+    "name_de": "Finnischer Spitz"
+  },
+  {
+    "name": "Flat-Coated Retriever",
+    "name_de": "Flat-Coated Retriever"
+  },
+  {
+    "name": "Formosan Mountain Dog",
+    "name_de": "Formosan Mountain Dog"
+  },
+  {
+    "name": "Fox Terrier (Smooth)",
+    "name_de": "Foxterrier (glatt)"
+  },
+  {
+    "name": "French Bulldog",
+    "name_de": "Französische Bulldogge"
+  },
+  {
+    "name": "French Spaniel",
+    "name_de": "Französischer Spaniel"
+  },
+  {
+    "name": "Galgo Español",
+    "name_de": "Spanischer Windhund"
+  },
+  {
+    "name": "Gascon Saintongeois",
+    "name_de": "Gascon Saintongeois"
+  },
+  {
+    "name": "German Longhaired Pointer",
+    "name_de": "Deutscher Langhaarzeiger"
+  },
+  {
+    "name": "German Pinscher",
+    "name_de": "Deutscher Pinscher"
+  },
+  {
+    "name": "German Shepherd",
+    "name_de": "Deutscher Schäferhund"
+  },
+  {
+    "name": "German Shorthaired Pointer",
+    "name_de": "Deutsch Kurzhaar"
+  },
+  {
+    "name": "German Spaniel",
+    "name_de": "Deutscher Spaniel"
+  },
+  {
+    "name": "German Spitz",
+    "name_de": "Deutscher Spitz"
+  },
+  {
+    "name": "German Wirehaired Pointer",
+    "name_de": "German Wirehaired Pointer"
+  },
+  {
+    "name": "Giant Schnauzer",
+    "name_de": "Riesenschnauzer"
+  },
+  {
+    "name": "Glen of Imaal Terrier",
+    "name_de": "Glen of Imaal Terrier"
+  },
+  {
+    "name": "Golden Retriever",
+    "name_de": "Golden Retriever"
+  },
+  {
+    "name": "Gordon Setter",
+    "name_de": "Gordon Setter"
+  },
+  {
+    "name": "Gran Mastín de Borínquen",
+    "name_de": "Großer Mastiff von Borínquen"
+  },
+  {
+    "name": "Grand Anglo-Français Blanc et Noir",
+    "name_de": "Grand Anglo-Français Blanc et Noir"
+  },
+  {
+    "name": "Grand Anglo-Français Blanc et Orange",
+    "name_de": "Grand Anglo-Français Blanc et Orange"
+  },
+  {
+    "name": "Grand Anglo-Français Tricolore",
+    "name_de": "Grand Anglo-Français Tricolore"
+  },
+  {
+    "name": "Grand Basset Griffon Vendéen",
+    "name_de": "Grand Basset Griffon Vendéen"
+  },
+  {
+    "name": "Grand Bleu de Gascogne",
+    "name_de": "Grand Bleu de Gascogne"
+  },
+  {
+    "name": "Grand Griffon Vendéen",
+    "name_de": "Grand Griffon Vendéen"
+  },
+  {
+    "name": "Great Dane",
+    "name_de": "Deutsche Dogge"
+  },
+  {
+    "name": "Great Pyrenees",
+    "name_de": "Große Pyrenäen"
+  },
+  {
+    "name": "Greater Swiss Mountain Dog",
+    "name_de": "Grosser Schweizer Sennenhund"
+  },
+  {
+    "name": "Greek Harehound",
+    "name_de": "Griechischer Windhund"
+  },
+  {
+    "name": "Greenland Dog",
+    "name_de": "Grönlandhund"
+  },
+  {
+    "name": "Greyhound",
+    "name_de": "Windhund"
+  },
+  {
+    "name": "Griffon Bleu de Gascogne",
+    "name_de": "Griffon Bleu de Gascogne"
+  },
+  {
+    "name": "Griffon Bruxellois",
+    "name_de": "Griffon Bruxellois"
+  },
+  {
+    "name": "Griffon Fauve de Bretagne",
+    "name_de": "Griffon Fauve de Bretagne"
+  },
+  {
+    "name": "Griffon Nivernais",
+    "name_de": "Griffon Nivernais"
+  },
+  {
+    "name": "Hamiltonstövare",
+    "name_de": "Hamiltonstövare"
+  },
+  {
+    "name": "Hanover Hound",
+    "name_de": "Hannover Hound"
+  },
+  {
+    "name": "Hare Indian Dog",
+    "name_de": "Hare Indian Dog"
+  },
+  {
+    "name": "Harrier",
+    "name_de": "Harrier"
+  },
+  {
+    "name": "Havanese",
+    "name_de": "Havaneser"
+  },
+  {
+    "name": "Hawaiian Poi Dog",
+    "name_de": "Hawaiian Poi Dog"
+  },
+  {
+    "name": "Himalayan Sheepdog",
+    "name_de": "Himalaya-Schäferhund"
+  },
+  {
+    "name": "Hokkaido",
+    "name_de": "Hokkaido"
+  },
+  {
+    "name": "Hovawart",
+    "name_de": "Hovawart"
+  },
+  {
+    "name": "Huntaway",
+    "name_de": "Huntaway"
+  },
+  {
+    "name": "Hygenhund",
+    "name_de": "Hygenhund"
+  },
+  {
+    "name": "Ibizan Hound",
+    "name_de": "Ibizan Hound"
+  },
+  {
+    "name": "Icelandic Sheepdog",
+    "name_de": "Isländischer Schäferhund"
+  },
+  {
+    "name": "Indian pariah dog",
+    "name_de": "Indischer Pariahund"
+  },
+  {
+    "name": "Indian Spitz",
+    "name_de": "Indischer Spitz"
+  },
+  {
+    "name": "Irish Red and White Setter",
+    "name_de": "Irish Red and White Setter"
+  },
+  {
+    "name": "Irish Setter",
+    "name_de": "Irish Setter"
+  },
+  {
+    "name": "Irish Terrier",
+    "name_de": "Irish Terrier"
+  },
+  {
+    "name": "Irish Water Spaniel",
+    "name_de": "Irish Water Spaniel"
+  },
+  {
+    "name": "Irish Wolfhound",
+    "name_de": "Irischer Wolfshund"
+  },
+  {
+    "name": "Istrian Coarse-haired Hound",
+    "name_de": "Istrian Coarse-haired Hound"
+  },
+  {
+    "name": "Istrian Shorthaired Hound",
+    "name_de": "Istrian Shorthaired Hound"
+  },
+  {
+    "name": "Italian Greyhound",
+    "name_de": "Italienischer Windhund"
+  },
+  {
+    "name": "Jack Russell Terrier",
+    "name_de": "Jack Russell Terrier"
+  },
+  {
+    "name": "Jagdterrier",
+    "name_de": "Jagdterrier"
+  },
+  {
+    "name": "Jämthund",
+    "name_de": "Jämthund"
+  },
+  {
+    "name": "Kai Ken",
+    "name_de": "Kai Ken"
+  },
+  {
+    "name": "Kaikadi",
+    "name_de": "Kaikadi"
+  },
+  {
+    "name": "Kanni",
+    "name_de": "Kanni"
+  },
+  {
+    "name": "Karelian Bear Dog",
+    "name_de": "Karelischer Bärenhund"
+  },
+  {
+    "name": "Karst Shepherd",
+    "name_de": "Karsthirte"
+  },
+  {
+    "name": "Keeshond",
+    "name_de": "Keeshond"
+  },
+  {
+    "name": "Kerry Beagle",
+    "name_de": "Kerry Beagle"
+  },
+  {
+    "name": "Kerry Blue Terrier",
+    "name_de": "Kerry Blue Terrier"
+  },
+  {
+    "name": "King Charles Spaniel",
+    "name_de": "King Charles Spaniel"
+  },
+  {
+    "name": "King Shepherd",
+    "name_de": "King Shepherd"
+  },
+  {
+    "name": "Kintamani",
+    "name_de": "Kintamani"
+  },
+  {
+    "name": "Kishu",
+    "name_de": "Kishu"
+  },
+  {
+    "name": "Komondor",
+    "name_de": "Komondor"
+  },
+  {
+    "name": "Kooikerhondje",
+    "name_de": "Kooikerhondje"
+  },
+  {
+    "name": "Koolie",
+    "name_de": "Koolie"
+  },
+  {
+    "name": "Korean Jindo Dog",
+    "name_de": "Koreanischer Jindo-Hund"
+  },
+  {
+    "name": "Kromfohrländer",
+    "name_de": "Kromfohrländer"
+  },
+  {
+    "name": "Kumaon Mastiff",
+    "name_de": "Kumaon Mastiff"
+  },
+  {
+    "name": "Kurī",
+    "name_de": "Kurī"
+  },
+  {
+    "name": "Kuvasz",
+    "name_de": "Kuvasz"
+  },
+  {
+    "name": "Kyi-Leo",
+    "name_de": "Kyi-Leo"
+  },
+  {
+    "name": "Labrador Husky",
+    "name_de": "Labrador Husky"
+  },
+  {
+    "name": "Labrador Retriever",
+    "name_de": "Labrador Retriever"
+  },
+  {
+    "name": "Lagotto Romagnolo",
+    "name_de": "Lagotto Romagnolo"
+  },
+  {
+    "name": "Lakeland Terrier",
+    "name_de": "Lakeland Terrier"
+  },
+  {
+    "name": "Lancashire Heeler",
+    "name_de": "Lancashire Heeler"
+  },
+  {
+    "name": "Landseer",
+    "name_de": "Landseer"
+  },
+  {
+    "name": "Lapponian Herder",
+    "name_de": "Lapponischer Hirte"
+  },
+  {
+    "name": "Large Münsterländer",
+    "name_de": "Große Münsterländer"
+  },
+  {
+    "name": "Leonberger",
+    "name_de": "Leonberger"
+  },
+  {
+    "name": "Lhasa Apso",
+    "name_de": "Lhasa Apso"
+  },
+  {
+    "name": "Lithuanian Hound",
+    "name_de": "Litauischer Windhund"
+  },
+  {
+    "name": "Longhaired Whippet",
+    "name_de": "Langhaariger Whippet"
+  },
+  {
+    "name": "Löwchen",
+    "name_de": "Löwchen"
+  },
+  {
+    "name": "Mahratta Greyhound",
+    "name_de": "Mahratta Greyhound"
+  },
+  {
+    "name": "Maltese",
+    "name_de": "Malteser"
+  },
+  {
+    "name": "Manchester Terrier",
+    "name_de": "Manchester Terrier"
+  },
+  {
+    "name": "Maremma Sheepdog",
+    "name_de": "Maremma-Schäferhund"
+  },
+  {
+    "name": "McNab",
+    "name_de": "McNab"
+  },
+  {
+    "name": "Mexican Hairless Dog",
+    "name_de": "Mexikanischer Nackthund"
+  },
+  {
+    "name": "Miniature American Shepherd",
+    "name_de": "Miniatur amerikanischer Schäferhund"
+  },
+  {
+    "name": "Miniature Australian Shepherd",
+    "name_de": "Miniatur Australian Shepherd"
+  },
+  {
+    "name": "Miniature Fox Terrier",
+    "name_de": "Miniatur-Foxterrier"
+  },
+  {
+    "name": "Miniature Pinscher",
+    "name_de": "Zwergpinscher"
+  },
+  {
+    "name": "Miniature Schnauzer",
+    "name_de": "Zwergschnauzer"
+  },
+  {
+    "name": "Miniature Shar Pei",
+    "name_de": "Miniatur Shar Pei"
+  },
+  {
+    "name": "Molossus",
+    "name_de": "Molossus"
+  },
+  {
+    "name": "Montenegrin Mountain Hound",
+    "name_de": "Montenegrinischer Gebirgshund"
+  },
+  {
+    "name": "Moscow Watchdog",
+    "name_de": "Moskauer Wachhund"
+  },
+  {
+    "name": "Moscow Water Dog",
+    "name_de": "Moskauer Wasserhund"
+  },
+  {
+    "name": "Mountain Cur",
+    "name_de": "Gebirgskur"
+  },
+  {
+    "name": "Mucuchies",
+    "name_de": "Mucuchies"
+  },
+  {
+    "name": "Mudhol Hound",
+    "name_de": "Mudhol Hound"
+  },
+  {
+    "name": "Mudi",
+    "name_de": "Mudi"
+  },
+  {
+    "name": "Neapolitan Mastiff",
+    "name_de": "Neapolitanischer Mastiff"
+  },
+  {
+    "name": "New Zealand Heading Dog",
+    "name_de": "New Zealand Heading Dog"
+  },
+  {
+    "name": "Newfoundland",
+    "name_de": "Neufundland"
+  },
+  {
+    "name": "Norfolk Spaniel",
+    "name_de": "Norfolk Spaniel"
+  },
+  {
+    "name": "Norfolk Terrier",
+    "name_de": "Norfolk Terrier"
+  },
+  {
+    "name": "Norrbottenspets",
+    "name_de": "Norrbottenspets"
+  },
+  {
+    "name": "North Country Beagle",
+    "name_de": "North Country Beagle"
+  },
+  {
+    "name": "Northern Inuit Dog",
+    "name_de": "Northern Inuit Dog"
+  },
+  {
+    "name": "Norwegian Buhund",
+    "name_de": "Norwegian Buhund"
+  },
+  {
+    "name": "Norwegian Elkhound",
+    "name_de": "Norwegischer Elchhund"
+  },
+  {
+    "name": "Norwegian Lundehund",
+    "name_de": "Norwegischer Lundehund"
+  },
+  {
+    "name": "Norwich Terrier",
+    "name_de": "Norwich Terrier"
+  },
+  {
+    "name": "Old Croatian Sighthound",
+    "name_de": "Alter kroatischer Windhund"
+  },
+  {
+    "name": "Old Danish Pointer",
+    "name_de": "Old Danish Pointer"
+  },
+  {
+    "name": "Old English Sheepdog",
+    "name_de": "Old English Sheepdog"
+  },
+  {
+    "name": "Old English Terrier",
+    "name_de": "Old English Terrier"
+  },
+  {
+    "name": "Old German Shepherd Dog",
+    "name_de": "Alter Schäferhund"
+  },
+  {
+    "name": "Olde English Bulldogge",
+    "name_de": "Olde English Bulldogge"
+  },
+  {
+    "name": "Otterhound",
+    "name_de": "Otterhound"
+  },
+  {
+    "name": "Pachon Navarro",
+    "name_de": "Pachon Navarro"
+  },
+  {
+    "name": "Paisley Terrier",
+    "name_de": "Paisley Terrier"
+  },
+  {
+    "name": "Pandikona",
+    "name_de": "Pandikona"
+  },
+  {
+    "name": "Papillon",
+    "name_de": "Papillon"
+  },
+  {
+    "name": "Parson Russell Terrier",
+    "name_de": "Parson Russell Terrier"
+  },
+  {
+    "name": "Patterdale Terrier",
+    "name_de": "Patterdale Terrier"
+  },
+  {
+    "name": "Pekingese",
+    "name_de": "Pekingese"
+  },
+  {
+    "name": "Pembroke Welsh Corgi",
+    "name_de": "Pembroke Welsh Corgi"
+  },
+  {
+    "name": "Perro de Presa Canario",
+    "name_de": "Hund von Presa Canario"
+  },
+  {
+    "name": "Perro de Presa Mallorquin",
+    "name_de": "Mallorquin Dam Dog"
+  },
+  {
+    "name": "Peruvian Hairless Dog",
+    "name_de": "Peruanischer Nackthund"
+  },
+  {
+    "name": "Petit Basset Griffon Vendéen",
+    "name_de": "Petit Basset Griffon Vendéen"
+  },
+  {
+    "name": "Petit Bleu de Gascogne",
+    "name_de": "Petit Bleu de Gascogne"
+  },
+  {
+    "name": "Phalène",
+    "name_de": "Phalène"
+  },
+  {
+    "name": "Pharaoh Hound",
+    "name_de": "Pharaoh Hound"
+  },
+  {
+    "name": "Phu Quoc ridgeback dog",
+    "name_de": "Phu Quoc Ridgeback Dog"
+  },
+  {
+    "name": "Picardy Spaniel",
+    "name_de": "Picardy Spaniel"
+  },
+  {
+    "name": "Plott Hound",
+    "name_de": "Plott Hound"
+  },
+  {
+    "name": "Podenco Canario",
+    "name_de": "Podenco Canario"
+  },
+  {
+    "name": "Pointer (dog breed)",
+    "name_de": "Pointer (Hunderasse)"
+  },
+  {
+    "name": "Polish Greyhound",
+    "name_de": "Polnischer Windhund"
+  },
+  {
+    "name": "Polish Hound",
+    "name_de": "Polnischer Jagdhund"
+  },
+  {
+    "name": "Polish Hunting Dog",
+    "name_de": "Polnischer Jagdhund"
+  },
+  {
+    "name": "Polish Lowland Sheepdog",
+    "name_de": "Polnischer Tiefland-Schäferhund"
+  },
+  {
+    "name": "Polish Tatra Sheepdog",
+    "name_de": "Polnischer Tatra-Schäferhund"
+  },
+  {
+    "name": "Pomeranian",
+    "name_de": "Pommersche"
+  },
+  {
+    "name": "Pont-Audemer Spaniel",
+    "name_de": "Pont-Audemer Spaniel"
+  },
+  {
+    "name": "Poodle",
+    "name_de": "Pudel"
+  },
+  {
+    "name": "Porcelaine",
+    "name_de": "Porzellan"
+  },
+  {
+    "name": "Portuguese Podengo",
+    "name_de": "Portugiesischer Podengo"
+  },
+  {
+    "name": "Portuguese Pointer",
+    "name_de": "Portugiesischer Zeiger"
+  },
+  {
+    "name": "Portuguese Water Dog",
+    "name_de": "Portugiesischer Wasserhund"
+  },
+  {
+    "name": "Posavac Hound",
+    "name_de": "Posavac Hound"
+  },
+  {
+    "name": "Pražský Krysařík",
+    "name_de": "Pražský Krysařík"
+  },
+  {
+    "name": "Pudelpointer",
+    "name_de": "Pudelpointer"
+  },
+  {
+    "name": "Pug",
+    "name_de": "Mops"
+  },
+  {
+    "name": "Puli",
+    "name_de": "Puli"
+  },
+  {
+    "name": "Pumi",
+    "name_de": "Pumi"
+  },
+  {
+    "name": "Pungsan Dog",
+    "name_de": "Pungsan Dog"
+  },
+  {
+    "name": "Pyrenean Mastiff",
+    "name_de": "Pyrenäen Mastiff"
+  },
+  {
+    "name": "Pyrenean Shepherd",
+    "name_de": "Pyrenäen-Hirte"
+  },
+  {
+    "name": "Rafeiro do Alentejo",
+    "name_de": "Rafeiro do Alentejo"
+  },
+  {
+    "name": "Rajapalayam",
+    "name_de": "Rajapalayam"
+  },
+  {
+    "name": "Rampur Greyhound",
+    "name_de": "Rampur Greyhound"
+  },
+  {
+    "name": "Rastreador Brasileiro",
+    "name_de": "Brazilian Tracker"
+  },
+  {
+    "name": "Rat Terrier",
+    "name_de": "Rat Terrier"
+  },
+  {
+    "name": "Ratonero Bodeguero Andaluz",
+    "name_de": "Ratonero Bodeguero Andaluz"
+  },
+  {
+    "name": "Redbone Coonhound",
+    "name_de": "Redbone Coonhound"
+  },
+  {
+    "name": "Rhodesian Ridgeback",
+    "name_de": "Rhodesian Ridgeback"
+  },
+  {
+    "name": "Rottweiler",
+    "name_de": "Rottweiler"
+  },
+  {
+    "name": "Rough Collie",
+    "name_de": "Rauer Collie"
+  },
+  {
+    "name": "Russell Terrier",
+    "name_de": "Russell Terrier"
+  },
+  {
+    "name": "Russian Spaniel",
+    "name_de": "Russischer Spaniel"
+  },
+  {
+    "name": "Russian tracker",
+    "name_de": "Russischer Tracker"
+  },
+  {
+    "name": "Russo-European Laika",
+    "name_de": "Russisch-europäische Laika"
+  },
+  {
+    "name": "Sabueso Español",
+    "name_de": "Spanischer Hund"
+  },
+  {
+    "name": "Saint-Usuge Spaniel",
+    "name_de": "Saint-Usuge Spaniel"
+  },
+  {
+    "name": "Sakhalin Husky",
+    "name_de": "Sakhalin Husky"
+  },
+  {
+    "name": "Saluki",
+    "name_de": "Saluki"
+  },
+  {
+    "name": "Samoyed",
+    "name_de": "Samojede"
+  },
+  {
+    "name": "Sapsali",
+    "name_de": "Sapsali"
+  },
+  {
+    "name": "Schapendoes",
+    "name_de": "Schapendoes"
+  },
+  {
+    "name": "Schillerstövare",
+    "name_de": "Schillerstövare"
+  },
+  {
+    "name": "Schipperke",
+    "name_de": "Schipperke"
+  },
+  {
+    "name": "Schweizer Laufhund",
+    "name_de": "Schweizer Laufhund"
+  },
+  {
+    "name": "Schweizerischer Niederlaufhund",
+    "name_de": "Schweizerischer Niederlaufhund"
+  },
+  {
+    "name": "Scotch Collie",
+    "name_de": "Scotch Collie"
+  },
+  {
+    "name": "Scottish Deerhound",
+    "name_de": "Scottish Deerhound"
+  },
+  {
+    "name": "Scottish Terrier",
+    "name_de": "Scottish Terrier"
+  },
+  {
+    "name": "Sealyham Terrier",
+    "name_de": "Sealyham Terrier"
+  },
+  {
+    "name": "Segugio Italiano",
+    "name_de": "Italienisches Segment"
+  },
+  {
+    "name": "Seppala Siberian Sleddog",
+    "name_de": "Seppala Sibirischer Schlittenhund"
+  },
+  {
+    "name": "Serbian Hound",
+    "name_de": "Serbian Hound"
+  },
+  {
+    "name": "Serbian Tricolour Hound",
+    "name_de": "Serbian Tricolor Hound"
+  },
+  {
+    "name": "Shar Pei",
+    "name_de": "Shar Pei"
+  },
+  {
+    "name": "Shetland Sheepdog",
+    "name_de": "Shetland Sheepdog"
+  },
+  {
+    "name": "Shiba Inu",
+    "name_de": "Shiba Inu"
+  },
+  {
+    "name": "Shih Tzu",
+    "name_de": "Shih Tzu"
+  },
+  {
+    "name": "Shikoku",
+    "name_de": "Shikoku"
+  },
+  {
+    "name": "Shiloh Shepherd Dog",
+    "name_de": "Shiloh Shepherd Dog"
+  },
+  {
+    "name": "Siberian Husky",
+    "name_de": "Siberian Husky"
+  },
+  {
+    "name": "Silken Windhound",
+    "name_de": "Silken Windhound"
+  },
+  {
+    "name": "Sinhala Hound",
+    "name_de": "Singhalesischer Hund"
+  },
+  {
+    "name": "Skye Terrier",
+    "name_de": "Skye Terrier"
+  },
+  {
+    "name": "Sloughi",
+    "name_de": "Sloughi"
+  },
+  {
+    "name": "Slovak Cuvac",
+    "name_de": "Slowakischer Cuvac"
+  },
+  {
+    "name": "Slovakian Rough-haired Pointer",
+    "name_de": "Slowakischer rauhaariger Zeiger"
+  },
+  {
+    "name": "Small Greek Domestic Dog",
+    "name_de": "Kleiner griechischer Haushund"
+  },
+  {
+    "name": "Small Münsterländer",
+    "name_de": "Kleine Münsterländer"
+  },
+  {
+    "name": "Smooth Collie",
+    "name_de": "Glatter Collie"
+  },
+  {
+    "name": "South Russian Ovcharka",
+    "name_de": "Südrussischer Ovcharka"
+  },
+  {
+    "name": "Southern Hound",
+    "name_de": "Southern Hound"
+  },
+  {
+    "name": "Spanish Mastiff",
+    "name_de": "Spanischer Mastiff"
+  },
+  {
+    "name": "Spanish Water Dog",
+    "name_de": "Spanischer Wasserhund"
+  },
+  {
+    "name": "Spinone Italiano",
+    "name_de": "Italienischer Spinone"
+  },
+  {
+    "name": "Sporting Lucas Terrier",
+    "name_de": "Sporting Lucas Terrier"
+  },
+  {
+    "name": "St. Bernard",
+    "name_de": "Bernhardiner"
+  },
+  {
+    "name": "St. John's water dog",
+    "name_de": "St. John's Wasserhund"
+  },
+  {
+    "name": "Stabyhoun",
+    "name_de": "Stabyhoun"
+  },
+  {
+    "name": "Staffordshire Bull Terrier",
+    "name_de": "Staffordshire Bull Terrier"
+  },
+  {
+    "name": "Standard Schnauzer",
+    "name_de": "Standard Schnauzer"
+  },
+  {
+    "name": "Stephens Cur",
+    "name_de": "Stephens Cur"
+  },
+  {
+    "name": "Styrian Coarse-haired Hound",
+    "name_de": "Steirischer Grobhaarhund"
+  },
+  {
+    "name": "Sussex Spaniel",
+    "name_de": "Sussex Spaniel"
+  },
+  {
+    "name": "Swedish Lapphund",
+    "name_de": "Schwedischer Lapphund"
+  },
+  {
+    "name": "Swedish Vallhund",
+    "name_de": "Swedish Vallhund"
+  },
+  {
+    "name": "Tahltan Bear Dog",
+    "name_de": "Tahltan Bärenhund"
+  },
+  {
+    "name": "Taigan",
+    "name_de": "Taigan"
+  },
+  {
+    "name": "Talbot",
+    "name_de": "Talbot"
+  },
+  {
+    "name": "Tamaskan Dog",
+    "name_de": "Tamaskan Dog"
+  },
+  {
+    "name": "Teddy Roosevelt Terrier",
+    "name_de": "Teddy Roosevelt Terrier"
+  },
+  {
+    "name": "Telomian",
+    "name_de": "Telomian"
+  },
+  {
+    "name": "Tenterfield Terrier",
+    "name_de": "Tenterfield Terrier"
+  },
+  {
+    "name": "Thai Bangkaew Dog",
+    "name_de": "Thai Bangkaew Dog"
+  },
+  {
+    "name": "Thai Ridgeback",
+    "name_de": "Thai Ridgeback"
+  },
+  {
+    "name": "Tibetan Mastiff",
+    "name_de": "Tibetan Mastiff"
+  },
+  {
+    "name": "Tibetan Spaniel",
+    "name_de": "Tibetan Spaniel"
+  },
+  {
+    "name": "Tibetan Terrier",
+    "name_de": "Tibetan Terrier"
+  },
+  {
+    "name": "Tornjak",
+    "name_de": "Tornjak"
+  },
+  {
+    "name": "Tosa",
+    "name_de": "Tosa"
+  },
+  {
+    "name": "Toy Bulldog",
+    "name_de": "Toy Bulldog"
+  },
+  {
+    "name": "Toy Fox Terrier",
+    "name_de": "Toy Fox Terrier"
+  },
+  {
+    "name": "Toy Manchester Terrier",
+    "name_de": "Toy Manchester Terrier"
+  },
+  {
+    "name": "Toy Trawler Spaniel",
+    "name_de": "Toy Trawler Spaniel"
+  },
+  {
+    "name": "Transylvanian Hound",
+    "name_de": "Siebenbürgerhund"
+  },
+  {
+    "name": "Treeing Cur",
+    "name_de": "Treeing Cur"
+  },
+  {
+    "name": "Treeing Walker Coonhound",
+    "name_de": "Treeing Walker Coonhound"
+  },
+  {
+    "name": "Trigg Hound",
+    "name_de": "Trigg Hound"
+  },
+  {
+    "name": "Tweed Water Spaniel",
+    "name_de": "Tweed Water Spaniel"
+  },
+  {
+    "name": "Tyrolean Hound",
+    "name_de": "Tiroler Jagdhund"
+  },
+  {
+    "name": "Vizsla",
+    "name_de": "Vizsla"
+  },
+  {
+    "name": "Volpino Italiano",
+    "name_de": "Italienischer Volpino"
+  },
+  {
+    "name": "Weimaraner",
+    "name_de": "Weimaraner"
+  },
+  {
+    "name": "Welsh Sheepdog",
+    "name_de": "Welsh Sheepdog"
+  },
+  {
+    "name": "Welsh Springer Spaniel",
+    "name_de": "Welsh Springer Spaniel"
+  },
+  {
+    "name": "Welsh Terrier",
+    "name_de": "Welsh Terrier"
+  },
+  {
+    "name": "West Highland White Terrier",
+    "name_de": "West Highland White Terrier"
+  },
+  {
+    "name": "West Siberian Laika",
+    "name_de": "Westsibirische Laika"
+  },
+  {
+    "name": "Westphalian Dachsbracke",
+    "name_de": "Westfälische Dachsbracke"
+  },
+  {
+    "name": "Wetterhoun",
+    "name_de": "Wetterhoun"
+  },
+  {
+    "name": "Whippet",
+    "name_de": "Whippet"
+  },
+  {
+    "name": "White Shepherd",
+    "name_de": "Weißer Hirte"
+  },
+  {
+    "name": "Wire Fox Terrier",
+    "name_de": "Wire Fox Terrier"
+  },
+  {
+    "name": "Wirehaired Pointing Griffon",
+    "name_de": "Wirehaired Pointing Griffon"
+  },
+  {
+    "name": "Wirehaired Vizsla",
+    "name_de": "Wirehaired Vizsla"
+  },
+  {
+    "name": "Yorkshire Terrier",
+    "name_de": "Yorkshire Terrier"
+  },
+  {
+    "name": "Šarplaninac",
+    "name_de": "Šarplaninac"
+  }
+]
