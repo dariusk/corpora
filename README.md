@@ -29,7 +29,7 @@ This project is not meant to replace exhaustive APIs -- if you want nouns, and y
 
  * [corpora-project](https://www.npmjs.com/package/corpora-project), a Node.js NPM package for accessing corpora data offline.
  * [pycorpora](https://github.com/aparrish/pycorpora), a simple Python interface for corpora
- * [corpora-api](https://github.com/coleww/corpora-api), a Node.js server that offers up the corpora as a JSON API
+ * [corpora-api](https://github.com/coleww/corpora-api), a Node.js server that offers up the corpora as a JSON API (now live at <https://corpora-api.glitch.me>)
 
 ## I have some data, how do I submit?
 
