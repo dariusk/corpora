@@ -1,5 +1,5 @@
 {
-  "description": "NBA MVP award winners 1956-2017",
+  "description": "NBA MVP award winners 1956-2020",
   "souce": "Wikipedia",
   "winners": {
     "1956": {
@@ -249,6 +249,18 @@
     "2017": {
       "name": "Russell Westbrook",
       "team": "Oklahoma City Thunder"
+    },
+    "2018": {
+      "name": "James Harden",
+      "team": "Houston Rockets"
+    },
+    "2019": {
+      "name": "Giannis Antetokounmpo",
+      "team": "Milwaukee Bucks"
+    },
+    "2020": {
+      "name": "Nikola Jokic",
+      "team": "Denver NUggets"  
     }
   }
 }
