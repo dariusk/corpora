@@ -1,3 +1,9 @@
+# `imonroe/corpora`
+
+This is a PHP and Composer-friendly fork of the `darius/corpora` package, designed for easy use with PHP projects.  It is currently a work in progress, and I don't suggest you use it yet.
+
+Original README: 
+
 # Corpora
 
 This project is a collection of static corpora (plural of "corpus") that are potentially useful in the creation of weird internet stuff. I've found that, as a creator, sometimes I am making something that needs access to a lot of adjectives, but not necessarily every adjective in the English language. So for the last year I've been copy/pasting an `adjs.json` file from project to project. This is kind of awful, so I'm hoping that this project will at least help me keep everything in one place.

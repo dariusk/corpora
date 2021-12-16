@@ -1,0 +1,50 @@
+{
+    "name": "imonroe/corpora",
+    "type": "library",
+    "description": "A PHP-friendly version of the dariusk/corpora javascript library.  It provides \"[a] collection of small corpuses of interesting data for the creation of bots and similar stuff\"",
+    "keywords": [
+        "corpora",
+        "test data",
+        "nouns",
+        "verbs",
+        "adjectives",
+        "parts of speech",
+        "word lists"
+    ],
+    "homepage": "https://github.com/imonroe/corpora",
+    "license": "CC0",
+    "authors": [
+        {
+            "name": "Ian Monroe",
+            "email": "ian@ianmonroe.com",
+            "homepage": "https://github.com/imonroe",
+            "role": "PHP/composer port dev"
+        },
+        {
+            "name": "Darius Kazemi",
+            "homepage": "https://github.com/dariusk",
+            "role": "Original author"
+        }
+    ],
+    "require": {
+        "php" : "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "imonroe\\corpora\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "imonroe\\corpora\\": "tests"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
