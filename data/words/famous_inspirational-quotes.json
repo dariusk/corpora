@@ -1,5 +1,6 @@
 {
-    "description":"",
+    "description":"Inspirational quotes from famous personalities across the globe and over generation.",
+    "foot-note":"While adding the quoted from various sources, caution of duplicate quotes have been taken. If duplicstion is found then please update and open a pr",
     "quotes":[  
         {  
            "text":"The only people who never fail are those who never try.",
