@@ -27,7 +27,8 @@
         }
     ],
     "require": {
-        "php" : "^7.0"
+        "php": "^7.0",
+        "squizlabs/php_codesniffer": "^3.6"
     },
     "autoload": {
         "psr-4": {
@@ -39,6 +40,11 @@
             "imonroe\\corpora\\": "tests"
         }
     },
+    "scripts": {
+        "test": "vendor/bin/phpunit --bootstrap ./vendor/autoload.php tests",
+        "check-style": "vendor/bin/phpcs -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests",
+        "fix-style": "vendor/bin/phpcbf -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
@@ -46,5 +52,9 @@
     },
     "config": {
         "sort-packages": true
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "squizlabs/php_codesniffer": "^2.3"
     }
 }
