@@ -291,7 +291,7 @@
         },
         {
             "present": "break",
-            "past": "breaked"
+            "past": "broke"
         },
         {
             "present": "breathe",
@@ -815,7 +815,7 @@
         },
         {
             "present": "enable",
-            "past": "endabled"
+            "past": "enabled"
         },
         {
             "present": "encode",
@@ -2079,7 +2079,7 @@
         },
         {
             "present": "restore",
-            "past": "restore"
+            "past": "restored"
         },
         {
             "present": "restrict",
