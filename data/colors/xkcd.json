@@ -2,6 +2,31 @@
     "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the xkcd color name survey.",
     "colors": [
         {
+            "color": "darker blue",
+            "hex": "#011288"
+        },
+
+        {
+            "color": "darker green",
+            "hex": "#087804"
+        },
+
+        {
+            "color": "green again",
+            "hex": "#16d43f"
+        },
+      
+        {
+            "color": "darker purple",
+            "hex": "#5f1b6b"
+        },
+
+        {
+            "color": "darker pink",
+            "hex": "#c4387f"
+        },
+
+        {
             "color": "cloudy blue",
             "hex": "#acc2d9"
         },
