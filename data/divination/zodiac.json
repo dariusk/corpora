@@ -11,6 +11,8 @@
             "element": "Fire",
             "ruling_body_classic": "Mars",
             "ruling_body_modern": "Mars",
+            "approximate_start_date": "21 March",
+            "approximate_end_date": "20 April",
             "keywords": ["driven", "idealistic", "aggressive"]
         },
         "Taurus": {
@@ -22,6 +24,8 @@
             "element": "Earth",
             "ruling_body_classic": "Venus",
             "ruling_body_modern": "Earth",
+            "approximate_start_date": "21 April",
+            "approximate_end_date": "21 May",
             "keywords": ["resolute", "sensual", "indulgent"]
         },
         "Gemini": {
@@ -33,6 +37,8 @@
             "element": "Air",
             "ruling_body_classic": "Mercury",
             "ruling_body_modern": "Mercury",
+            "approximate_start_date": "22 May",
+            "approximate_end_date": "21 June",
             "keywords": ["playful", "curious", "two-faced"]
         },
         "Cancer": {
@@ -44,6 +50,8 @@
             "element": "Water",
             "ruling_body_classic": "Moon",
             "ruling_body_modern": "Moon",
+            "approximate_start_date": "22 June",
+            "approximate_end_date": "23 July",
             "keywords": ["nurturing", "snobby", "petty"]
         },
         "Leo": {
@@ -55,6 +63,8 @@
             "element": "Fire",
             "ruling_body_classic": "Sun",
             "ruling_body_modern": "Sun",
+            "approximate_start_date": "24 July",
+            "approximate_end_date": "23 August",
             "keywords": ["fierce", "opulent", "narcissistic"]
         },
         "Virgo": {
@@ -66,6 +76,8 @@
             "element": "Earth",
             "ruling_body_classic": "Mercury",
             "ruling_body_modern": "Ceres",
+            "approximate_start_date": "24 August",
+            "approximate_end_date": "23 September",
             "keywords": ["meticulous", "helpful", "naive"]
         },
         "Libra": {
@@ -77,6 +89,8 @@
             "element": "Air",
             "ruling_body_classic": "Venus",
             "ruling_body_modern": "Venus",
+            "approximate_start_date": "24 September",
+            "approximate_end_date": "23 October",
             "keywords": ["balanced", "chatty", "indecisive"]
         },
         "Scorpio": {
@@ -88,6 +102,8 @@
             "element": "Water",
             "ruling_body_classic": "Mars",
             "ruling_body_modern": "Pluto",
+            "approximate_start_date": "24 October",
+            "approximate_end_date": "22 November",
             "keywords": ["deep", "magnetic", "destructive"]
         },
         "Sagittarius": {
@@ -99,6 +115,8 @@
             "element": "Fire",
             "ruling_body_classic": "Jupiter",
             "ruling_body_modern": "Jupiter",
+            "approximate_start_date": "23 November",
+            "approximate_end_date": "21 December",
             "keywords": ["ambitious", "daring", "coarse"]
         },
         "Capricorn": {
@@ -110,6 +128,8 @@
             "element": "Earth",
             "ruling_body_classic": "Saturn",
             "ruling_body_modern": "Saturn",
+            "approximate_start_date": "22 December",
+            "approximate_end_date": "20 January",
             "keywords": ["responsible", "awkward", "rigid"]
         },
         "Aquarius": {
@@ -121,6 +141,8 @@
             "element": "Air",
             "ruling_body_classic": "Saturn",
             "ruling_body_modern": "Uranus",
+            "approximate_start_date": "21 January",
+            "approximate_end_date": "19 February",
             "keywords": ["inventive", "zany", "erratic"]
         },
         "Pisces": {
@@ -132,6 +154,8 @@
             "element": "Water",
             "ruling_body_classic": "Jupiter",
             "ruling_body_modern": "Neptune",
+            "approximate_start_date": "20 February",
+            "approximate_end_date": "20 March",
             "keywords": ["artistic", "sentimental", "dependent"]
         }
     },
