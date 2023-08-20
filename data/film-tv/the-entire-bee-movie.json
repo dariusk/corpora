@@ -1,1367 +1,5456 @@
 {
-  "beeMovieArray": [
-    "According to all known laws of aviation, there is no way a bee should be able to fly.",
-    "Its wings are too small to get its fat little body off the ground.",
-    "The bee, of course, flies anyway because bees don't care what humans think is impossible.",
-    "Yellow, black. Yellow, black. Yellow, black. Yellow, black.",
-    "Ooh, black and yellow!",
-    "Let's shake it up a little.",
-    "Barry! Breakfast is ready!",
-    "Coming!",
-    "Hang on a second.",
-    "Hello?",
-    "Barry?",
-    "Adam?",
-    "Can you believe this is happening?",
-    "I can't.",
-    "I'll pick you up.",
-    "Looking sharp.",
-    "Use the stairs, Your father paid good money for those.",
-    "Sorry. I'm excited.",
-    "Here's the graduate.",
-    "We're very proud of you, son.",
-    "A perfect report card, all B's.",
-    "Very proud.",
-    "Ma! I got a thing going here.",
-    "You got lint on your fuzz.",
-    "Ow! That's me!",
-    "Wave to us! We'll be in row 118,000.",
-    "Bye!",
-    "Barry, I told you, stop flying in the house!",
-    "Hey, Adam.",
-    "Hey, Barry.",
-    "Is that fuzz gel?",
-    "A little. Special day, graduation.",
-    "Never thought I'd make it.",
-    "Three days grade school, three days high school.",
-    "Those were awkward.",
-    "Three days college. I'm glad I took a day and hitchhiked around The Hive.",
-    "You did come back different.",
-    "Hi, Barry. Artie, growing a mustache? Looks good.",
-    "Hear about Frankie?",
-    "Yeah.",
-    "You going to the funeral?",
-    "No, I'm not going.",
-    "Everybody knows, sting someone, you die.",
-    "Don't waste it on a squirrel.",
-    "Such a hothead.",
-    "I guess he could have just gotten out of the way.",
-    "I love this incorporating an amusement park into our day.",
-    "That's why we don't need vacations.",
-    "Boy, quite a bit of pomp under the circumstances.",
-    "Well, Adam, today we are men.",
-    "We are!",
-    "Bee-men.",
-    "Amen!",
-    "Hallelujah!",
-    "Students, faculty, distinguished bees,",
-    "please welcome Dean Buzzwell.",
-    "Welcome, New Hive City graduating class of 9:15.",
-    "That concludes our ceremonies And begins your career at Honex Industries!",
-    "Will we pick our job today?",
-    "I heard it's just orientation.",
-    "Heads up! Here we go.",
-    "Keep your hands and antennas inside the tram at all times.",
-    "Wonder what it'll be like?",
-    "A little scary.",
-    "Welcome to Honex, a division of Honesco and a part of the Hexagon Group.",
-    "This is it!",
-    "Wow.",
-    "Wow.",
-    "We know that you, as a bee, have worked your whole life to get to the point where you can work for your whole life.",
-    "Honey begins when our valiant Pollen Jocks bring the nectar to The Hive.",
-    "Our top-secret formula is automatically color-corrected, scent-adjusted and bubble-contoured into this soothing sweet syrup with its distinctive golden glow you know as... Honey!",
-    "That girl was hot.",
-    "She's my cousin!",
-    "She is?",
-    "Yes, we're all cousins.",
-    "Right. You're right.",
-    "At Honex, we constantly strive to improve every aspect of bee existence.",
-    "These bees are stress-testing a new helmet technology.",
-    "What do you think he makes?",
-    "Not enough.",
-    "Here we have our latest advancement, the Krelman.",
-    "What does that do?",
-    "Catches that little strand of honey that hangs after you pour it.",
-    "Saves us millions.",
-    "Can anyone work on the Krelman?",
-    "Of course. Most bee jobs are small ones.",
-    "But bees know that every small job, if it's done well, means a lot.",
-    "But choose carefully because you'll stay in the job you pick for the rest of your life.",
-    "The same job the rest of your life? I didn't know that.",
-    "What's the difference?",
-    "You'll be happy to know that bees, as a species, haven't had one day off in 27 million years.",
-    "So you'll just work us to death?",
-    "We'll sure try.",
-    "Wow! That blew my mind!",
-    "\"What's the difference?\"",
-    "How can you say that?",
-    "One job forever?",
-    "That's an insane choice to have to make.",
-    "I'm relieved. Now we only have to make one decision in life.",
-    "But, Adam, how could they never have told us that?",
-    "Why would you question anything? We're bees.",
-    "We're the most perfectly functioning society on Earth.",
-    "You ever think maybe things work a little too well here?",
-    "Like what? Give me one example.",
-    "I don't know. But you know what I'm talking about.",
-    "Please clear the gate. Royal Nectar Force on approach.",
-    "Wait a second. Check it out.",
-    "Hey, those are Pollen Jocks!",
-    "Wow.",
-    "I've never seen them this close.",
-    "They know what it's like outside The Hive.",
-    "Yeah, but some don't come back.",
-    "Hey, Jocks!",
-    "Hi, Jocks!",
-    "You guys did great!",
-    "You're monsters!",
-    "You're sky freaks! I love it! I love it!",
-    "I wonder where they were.",
-    "I don't know.",
-    "Their day's not planned.",
-    "Outside The Hive, flying who knows where, doing who knows what.",
-    "You can't just decide to be a Pollen Jock. You have to be bred for that.",
-    "Right.",
-    "Look. That's more pollen than you and I will see in a lifetime.",
-    "It's just a status symbol.",
-    "Bees make too much of it.",
-    "Perhaps. Unless you're wearing it and the ladies see you wearing it.",
-    "Those ladies?",
-    "Aren't they our cousins too?",
-    "Distant. Distant.",
-    "Look at these two.",
-    "Couple of Hive Harrys.",
-    "Let's have fun with them.",
-    "It must be dangerous being a Pollen Jock.",
-    "Yeah. Once a bear pinned me against a mushroom!",
-    "He had a paw on my throat, and with the other, he was slapping me!",
-    "Oh, my!",
-    "I never thought I'd knock him out.",
-    "What were you doing during this?",
-    "Trying to alert the authorities.",
-    "I can autograph that.",
-    "A little gusty out there today, wasn't it, comrades?",
-    "Yeah. Gusty.",
-    "We're hitting a sunflower patch six miles from here tomorrow.",
-    "Six miles, huh?",
-    "Barry!",
-    "A puddle jump for us, but maybe you're not up for it.",
-    "Maybe I am.",
-    "You are not!",
-    "We're going 0900 at J-Gate.",
-    "What do you think, buzzy-boy?",
-    "Are you bee enough?",
-    "I might be. It all depends on what 0900 means.",
-    "Hey, Honex!",
-    "Dad, you surprised me.",
-    "You decide what you're interested in?",
-    "Well, there's a lot of choices.",
-    "But you only get one.",
-    "Do you ever get bored doing the same job every day?",
-    "Son, let me tell you about stirring.",
-    "You grab that stick, and you just move it around, and you stir it around.",
-    "You get yourself into a rhythm.",
-    "It's a beautiful thing.",
-    "You know, Dad, the more I think about it,",
-    "maybe the honey field just isn't right for me.",
-    "You were thinking of what, making balloon animals?",
-    "That's a bad job for a guy with a stinger.",
-    "Janet, your son's not sure he wants to go into honey!",
-    "Barry, you are so funny sometimes.",
-    "I'm not trying to be funny.",
-    "You're not funny! You're going into honey. Our son, the stirrer!",
-    "You're gonna be a stirrer?",
-    "No one's listening to me!",
-    "Wait till you see the sticks I have.",
-    "I could say anything right now.",
-    "I'm gonna get an ant tattoo!",
-    "Let's open some honey and celebrate!",
-    "Maybe I'll pierce my thorax. Shave my antennae. Shack up with a grasshopper. Get a gold tooth and call everybody \"dawg\"!",
-    "I'm so proud.",
-    "We're starting work today!",
-    "Today's the day.",
-    "Come on! All the good jobs will be gone.",
-    "Yeah, right.",
-    "Pollen counting, stunt bee, pouring, stirrer, front desk, hair removal...",
-    "Is it still available?",
-    "Hang on. Two left!",
-    "One of them's yours! Congratulations!",
-    "Step to the side.",
-    "What'd you get?",
-    "Picking crud out. Stellar!",
-    "Wow!",
-    "Couple of newbies?",
-    "Yes, sir! Our first day! We are ready!",
-    "Make your choice.",
-    "You want to go first?",
-    "No, you go.",
-    "Oh, my. What's available?",
-    "Restroom attendant's open, not for the reason you think.",
-    "Any chance of getting the Krelman?",
-    "Sure, you're on.",
-    "I'm sorry, the Krelman just closed out.",
-    "Wax monkey's always open.",
-    "The Krelman opened up again.",
-    "What happened?",
-    "A bee died. Makes an opening. See? He's dead. Another dead one.",
-    "Deady. Deadified. Two more dead.",
-    "Dead from the neck up. Dead from the neck down. That's life!",
-    "Oh, this is so hard!",
-    "Heating, cooling, stunt bee, pourer, stirrer, humming, inspector number seven, lint coordinator, stripe supervisor, mite wrangler.",
-    "Barry, what do you think I should... Barry?",
-    "Barry!",
-    "All right, we've got the sunflower patch in quadrant nine...",
-    "What happened to you?",
-    "Where are you?",
-    "I'm going out.",
-    "Out? Out where?",
-    "Out there.",
-    "Oh, no!",
-    "I have to, before I go to work for the rest of my life.",
-    "You're gonna die! You're crazy! Hello?",
-    "Another call coming in.",
-    "If anyone's feeling brave, there's a Korean deli on 83rd that gets their roses today.",
-    "Hey, guys.",
-    "Look at that.",
-    "Isn't that the kid we saw yesterday?",
-    "Hold it, son, flight deck's restricted.",
-    "It's OK, Lou. We're gonna take him up.",
-    "Really? Feeling lucky, are you?",
-    "Sign here, here. Just initial that.",
-    "Thank you.",
-    "OK.",
-    "You got a rain advisory today, and as you all know, bees cannot fly in rain.",
-    "So be careful. As always, watch your brooms, hockey sticks, dogs, birds, bears and bats.",
-    "Also, I got a couple of reports of root beer being poured on us.",
-    "Murphy's in a home because of it, babbling like a cicada!",
-    "That's awful.",
-    "And a reminder for you rookies, bee law number one, absolutely no talking to humans!",
-    " All right, launch positions!",
-    "Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz!",
-    "Black and yellow!",
-    "Hello!",
-    "You ready for this, hot shot?",
-    "Yeah. Yeah, bring it on.",
-    "Wind, check.",
-    "Antennae, check.",
-    "Nectar pack, check.",
-    "Wings, check.",
-    "Stinger, check.",
-    "Scared out of my shorts, check.",
-    "OK, ladies,",
-    "let's move it out!",
-    "Pound those petunias, you striped stem-suckers!",
-    "All of you, drain those flowers!",
-    "Wow! I'm out!",
-    "I can't believe I'm out!",
-    "So blue.",
-    "I feel so fast and free!",
-    "Box kite!",
-    "Wow!",
-    "Flowers!",
-    "This is Blue Leader, We have roses visual.",
-    "Bring it around 30 degrees and hold.",
-    "Roses!",
-    "30 degrees, roger. Bringing it around.",
-    "Stand to the side, kid.",
-    "It's got a bit of a kick.",
-    "That is one nectar collector!",
-    "Ever see pollination up close?",
-    "No, sir.",
-    "I pick up some pollen here, sprinkle it over here. Maybe a dash over there, a pinch on that one.",
-    "See that? It's a little bit of magic.",
-    "That's amazing. Why do we do that?",
-    "That's pollen power. More pollen, more flowers, more nectar, more honey for us.",
-    "Cool.",
-    "I'm picking up a lot of bright yellow, Could be daisies, Don't we need those?",
-    "Copy that visual.",
-    "Wait. One of these flowers seems to be on the move.",
-    "Say again? You're reporting a moving flower?",
-    "Affirmative.",
-    "That was on the line!",
-    "This is the coolest. What is it?",
-    "I don't know, but I'm loving this color.",
-    "It smells good.",
-    "Not like a flower, but I like it.",
-    "Yeah, fuzzy.",
-    "Chemical-y.",
-    "Careful, guys. It's a little grabby.",
-    "My sweet lord of bees!",
-    "Candy-brain, get off there!",
-    "Problem!",
-    "Guys!",
-    "This could be bad.",
-    "Affirmative.",
-    "Very close.",
-    "Gonna hurt.",
-    "Mama's little boy.",
-    "You are way out of position, rookie!",
-    "Coming in at you like a missile!",
-    "Help me!",
-    "I don't think these are flowers.",
-    "Should we tell him?",
-    "I think he knows.",
-    "What is this?!",
-    "Match point!",
-    "You can start packing up, honey, because you're about to eat it!",
-    "Yowser!",
-    "Gross.",
-    "There's a bee in the car!",
-    "Do something!",
-    "I'm driving!",
-    "Hi, bee.",
-    "He's back here!",
-    "He's going to sting me!",
-    "Nobody move. If you don't move, he won't sting you. Freeze!",
-    "He blinked!",
-    "Spray him, Granny!",
-    "What are you doing?!",
-    "Wow... the tension level out here is unbelievable.",
-    "I gotta get home.",
-    "Can't fly in rain. Can't fly in rain. Can't fly in rain.",
-    "Mayday! Mayday! Bee going down!",
-    "Ken, could you close the window please?",
-    "Ken, could you close the window please?",
-    "Check out my new resume. I made it into a fold-out brochure. You see? Folds out.",
-    "Oh, no. More humans. I don't need this.",
-    "What was that?",
-    "Maybe this time. This time. This time. This time! This time! This... Drapes!",
-    "That is diabolical.",
-    "It's fantastic. It's got all my special skills, even my top-ten favorite movies.",
-    "What's number one? Star Wars?",
-    "Nah, I don't go for that... kind of stuff.",
-    "No wonder we shouldn't talk to them. They're out of their minds.",
-    "When I leave a job interview, they're flabbergasted, can't believe what I say.",
-    "There's the sun. Maybe that's a way out.",
-    "I don't remember the sun having a big 75 on it.",
-    "I predicted global warming. I could feel it getting hotter. At first I thought it was just me.",
-    "Wait! Stop! Bee!",
-    "Stand back. These are winter boots.",
-    "Wait!",
-    "Don't kill him!",
-    "You know I'm allergic to them! This thing could kill me!",
-    "Why does his life have less value than yours?",
-    "Why does his life have any less value than mine? Is that your statement?",
-    "I'm just saying all life has value. You don't know what he's capable of feeling.",
-    "My brochure!",
-    "There you go, little guy.",
-    "I'm not scared of him.It's an allergic thing.",
-    " Put that on your resume brochure.",
-    "My whole face could puff up.",
-    "Make it one of your special skills.",
-    "Knocking someone out is also a special skill.",
-    "Right. Bye, Vanessa. Thanks.",
-    "Vanessa, next week? Yogurt night?",
-    "Sure, Ken. You know, whatever.",
-    "You could put carob chips on there.",
-    "Bye.",
-    "Supposed to be less calories.",
-    "Bye.",
-    "I gotta say something. She saved my life. I gotta say something.",
-    "All right, here it goes.",
-    "Nah.",
-    "What would I say?",
-    "I could really get in trouble. It's a bee law. You're not supposed to talk to a human.",
-    "I can't believe I'm doing this. I've got to.",
-    "Oh, I can't do it. Come on!",
-    "No. Yes. No. Do it. I can't.",
-    "How should I start it? \"You like jazz?\" No, that's no good.",
-    "Here she comes! Speak, you fool!",
-    "Hi!",
-    "I'm sorry. You're talking.",
-    "Yes, I know.",
-    "You're talking!",
-    "I'm so sorry.",
-    "No, it's OK. It's fine.",
-    "I know I'm dreaming. But I don't recall going to bed.",
-    "Well, I'm sure this is very disconcerting.",
-    "This is a bit of a surprise to me. I mean, you're a bee!",
-    "I am. And I'm not supposed to be doing this, but they were all trying to kill me.",
-    "And if it wasn't for you... I had to thank you. It's just how I was raised.",
-    "That was a little weird. I'm talking with a bee.",
-    "Yeah.",
-    "I'm talking to a bee. And the bee is talking to me!",
-    "I just want to say I'm grateful.",
-    "I'll leave now.",
-    "Wait! How did you learn to do that?",
-    "What?",
-    "The talking thing.",
-    "Same way you did, I guess. \"Mama, Dada, honey.\" You pick it up.",
-    "That's very funny.",
-    "Yeah.",
-    "Bees are funny. If we didn't laugh, we'd cry with what we have to deal with.",
-    "Anyway... Can I... get you something?",
-    "Like what?",
-    "I don't know. I mean... I don't know. Coffee?",
-    "I don't want to put you out.",
-    "It's no trouble. It takes two minutes.",
-    "It's just coffee.",
-    "I hate to impose.",
-    "Don't be ridiculous!",
-    "Actually, I would love a cup.",
-    "Hey, you want rum cake?",
-    "I shouldn't.",
-    "Have some.",
-    "No, I can't.",
-    "Come on!",
-    "I'm trying to lose a couple micrograms.",
-    "Where?",
-    "These stripes don't help.",
-    "You look great!",
-    "I don't know if you know anything about fashion.",
-    "Are you all right?",
-    "No.",
-    "He's making the tie in the cab as they're flying up Madison.",
-    "He finally gets there.",
-    "He runs up the steps into the church.",
-    "The wedding is on.",
-    "And he says, \"Watermelon?",
-    "I thought you said Guatemalan.",
-    "Why would I marry a watermelon?\"",
-    "Is that a bee joke?",
-    "That's the kind of stuff we do.",
-    "Yeah, different.",
-    "So, what are you gonna do, Barry?",
-    "About work? I don't know.",
-    "I want to do my part for The Hive, but I can't do it the way they want.",
-    "I know how you feel.",
-    "You do?",
-    "Sure.",
-    "My parents wanted me to be a lawyer or a doctor, but I wanted to be a florist.",
-    "Really?",
-    "My only interest is flowers.",
-    "Our new queen was just elected with that same campaign slogan.",
-    "Anyway, if you look... There's my hive right there. See it?",
-    "You're in Sheep Meadow!",
-    "Yes! I'm right off the Turtle Pond!",
-    "No way! I know that area. I lost a toe ring there once.",
-    "Why do girls put rings on their toes?",
-    "Why not?",
-    "It's like putting a hat on your knee.",
-    "Maybe I'll try that.",
-    "You all right, ma'am?",
-    "Oh, yeah. Fine.",
-    "Just having two cups of coffee!",
-    "Anyway, this has been great.",
-    "Thanks for the coffee.",
-    "Yeah, it's no trouble.",
-    "Sorry I couldn't finish it. If I did, I'd be up the rest of my life.",
-    "Are you...?",
-    "Can I take a piece of this with me?",
-    "Sure! Here, have a crumb.",
-    "Thanks!",
-    "Yeah.",
-    "All right. Well, then... I guess I'll see you around. Or not.",
-    "OK, Barry.",
-    "And thank you so much again... for before.",
-    "Oh, that? That was nothing.",
-    "Well, not nothing, but... Anyway...",
-    "This can't possibly work.",
-    "He's all set to go.",
-    "We may as well try it.",
-    "OK, Dave, pull the chute.",
-    "Sounds amazing.",
-    "It was amazing!",
-    "It was the scariest, happiest moment of my life.",
-    "Humans! I can't believe you were with humans!",
-    "Giant, scary humans!",
-    "What were they like?",
-    "Huge and crazy. They talk crazy.",
-    "They eat crazy giant things.",
-    "They drive crazy.",
-    "Do they try and kill you, like on TV?",
-    "Some of them. But some of them don't.",
-    "How'd you get back?",
-    "Poodle.",
-    "You did it, and I'm glad. You saw whatever you wanted to see.",
-    "You had your \"experience.\" Now you can pick out yourjob and be normal.",
-    "Well...",
-    "Well?",
-    "Well, I met someone.",
-    "You did? Was she Bee-ish?",
-    "A wasp?! Your parents will kill you!",
-    "No, no, no, not a wasp.",
-    "Spider?",
-    "I'm not attracted to spiders.",
-    "I know it's the hottest thing, with the eight legs and all. I can't get by that face.",
-    "So who is she?",
-    "She's... human.",
-    "No, no. That's a bee law. You wouldn't break a bee law.",
-    "Her name's Vanessa.",
-    "Oh, boy.",
-    "She's so nice. And she's a florist!",
-    "Oh, no! You're dating a human florist!",
-    "We're not dating.",
-    "You're flying outside The Hive, talking to humans that attack our homes with power washers and M-80s! One-eighth a stick of dynamite!",
-    "She saved my life! And she understands me.",
-    "This is over!",
-    "Eat this.",
-    "This is not over! What was that?",
-    "They call it a crumb.",
-    "It was so stingin' stripey!",
-    "And that's not what they eat.",
-    "That's what falls off what they eat!",
-    "You know what a Cinnabon is?",
-    "No.",
-    "It's bread and cinnamon and frosting. They heat it up...",
-    "Sit down!",
-    "...really hot!",
-    "Listen to me!",
-    "We are not them! We're us.",
-    "There's us and there's them!",
-    "Yes, but who can deny the heart that is yearning?",
-    "There's no yearning. Stop yearning. Listen to me!",
-    "You have got to start thinking bee, my friend. Thinking bee!",
-    "Thinking bee.",
-    "Thinking bee.",
-    "Thinking bee! Thinking bee! Thinking bee! Thinking bee!",
-    "There he is. He's in the pool.",
-    "You know what your problem is, Barry?",
-    "I gotta start thinking bee?",
-    "How much longer will this go on?",
-    "It's been three days! Why aren't you working?",
-    "I've got a lot of big life decisions to think about.",
-    "What life? You have no life!",
-    "You have no job. You're barely a bee!",
-    "Would it kill you to make a little honey?",
-    "Barry, come out. Your father's talking to you.",
-    "Martin, would you talk to him?",
-    "Barry, I'm talking to you!",
-    "You coming?",
-    "Got everything?",
-    "All set!",
-    "Go ahead. I'll catch up.",
-    "Don't be too long.",
-    "Watch this!",
-    "Vanessa!",
-    "We're still here.",
-    "I told you not to yell at him.",
-    "He doesn't respond to yelling!",
-    "Then why yell at me?",
-    "Because you don't listen!",
-    "I'm not listening to this.",
-    "Sorry, I've gotta go.",
-    "Where are you going?",
-    "I'm meeting a friend.",
-    "A girl? Is this why you can't decide?",
-    "Bye.",
-    "I just hope she's Bee-ish.",
-    "They have a huge parade of flowers every year in Pasadena?",
-    "To be in the Tournament of Roses, that's every florist's dream!",
-    "Up on a float, surrounded by flowers, crowds cheering.",
-    "A tournament. Do the roses compete in athletic events?",
-    "No. All right, I've got one.",
-    "How come you don't fly everywhere?",
-    "It's exhausting. Why don't you run everywhere? It's faster.",
-    "Yeah, OK, I see, I see.",
-    "All right, your turn.",
-    "TiVo. You can just freeze live TV? That's insane!",
-    "You don't have that?",
-    "We have Hivo, but it's a disease. It's a horrible, horrible disease.",
-    "Oh, my.",
-    "Dumb bees!",
-    "You must want to sting all those jerks.",
-    "We try not to sting. It's usually fatal for us.",
-    "So you have to watch your temper.",
-    "Very carefully.",
-    "You kick a wall, take a walk, write an angry letter and throw it out. Work through it like any emotion: Anger, jealousy, lust.",
-    "Oh, my goodness! Are you OK?",
-    "Yeah.",
-    "What is wrong with you?!",
-    "It's a bug.",
-    "He's not bothering anybody.",
-    "Get out of here, you creep!",
-    "What was that? A Pic 'N' Save circular?",
-    "Yeah, it was. How did you know?",
-    "It felt like about 10 pages. Seventy-five is pretty much our limit.",
-    "You've really got that down to a science.",
-    "I lost a cousin to Italian Vogue.",
-    "I'll bet.",
-    "What in the name of Mighty Hercules is this?",
-    "How did this get here? cute Bee, Golden Blossom, Ray Liotta Private Select?",
-    "Is he that actor?",
-    "I never heard of him.",
-    "Why is this here?",
-    "For people. We eat it.",
-    "You don't have enough food of your own?",
-    "Well, yes.",
-    "How do you get it?",
-    "Bees make it.",
-    "I know who makes it! And it's hard to make it!",
-    "There's heating, cooling, stirring. You need a whole Krelman thing!",
-    "It's organic.",
-    "It's our-ganic!",
-    "It's just honey, Barry.",
-    "Just what?!",
-    "Bees don't know about this! This is stealing! A lot of stealing!",
-    "You've taken our homes, schools,hospitals! This is all we have!",
-    "And it's on sale?! I'm getting to the bottom of this.",
-    "I'm getting to the bottom of all of this!",
-    "Hey, Hector. You almost done?",
-    "Almost.",
-    "He is here. I sense it.",
-    "Well, I guess I'll go home now and just leave this nice honey out, with no one around.",
-    "You're busted, box boy!",
-    "I knew I heard something.",
-    "So you can talk!",
-    "I can talk. And now you'll start talking!",
-    "Where you getting the sweet stuff? Who's your supplier?",
-    "I don't understand.",
-    "I thought we were friends.",
-    "The last thing we want to do is upset bees!",
-    "You're too late! It's ours now!",
-    "You, sir, have crossed the wrong sword!",
-    "You, sir, will be lunch for my iguana, Ignacio!",
-    "Where is the honey coming from? Tell me where!",
-    "Honey Farms! It comes from Honey Farms!",
-    "Crazy person!",
-    "What horrible thing has happened here?",
-    "These faces, they never knew what hit them. And now",
-    "they're on the road to nowhere!",
-    "Just keep still.",
-    "What? You're not dead?",
-    "Do I look dead? They will wipe anything that moves. Where you headed?",
-    "To Honey Farms. I am onto something huge here.",
-    "I'm going to Alaska. Moose blood, crazy stuff. Blows your head off!",
-    "I'm going to Tacoma.",
-    "And you?",
-    "He really is dead.",
-    "All right.",
-    "Uh-oh!",
-    "What is that?!",
-    "Oh, no!",
-    "A wiper! Triple blade!",
-    "Triple blade?",
-    "Jump on! It's your only chance, bee!",
-    "Why does everything have",
-    "to be so doggone clean?!",
-    "How much do you people need to see?!",
-    "Open your eyes!",
-    "Stick your head out the window!",
-    "From NPR News in Washington,",
-    "I'm Carl Kasell.",
-    "But don't kill no more bugs!",
-    "Bee!",
-    "Moose blood guy!!",
-    "You hear something?",
-    "Like what?",
-    "Like tiny screaming.",
-    "Turn off the radio.",
-    "Whassup, bee boy?",
-    "Hey, Blood.",
-    "Just a row of honey jars, as far as the eye could see.",
-    "Wow!",
-    "I assume wherever this truck goes is where they're getting it. I mean, that honey's ours.",
-    "Bees hang tight. We're all jammed in.",
-    "It's a close community.",
-    "Not us, man. We on our own. Every mosquito on his own.",
-    "What if you get in trouble?",
-    "You a mosquito, you in trouble. Nobody likes us. They just smack. See a mosquito, smack, smack!",
-    "At least you're out in the world. You must meet girls.",
-    "Mosquito girls try to trade up, get with a moth, dragonfly. Mosquito girl don't want no mosquito.",
-    "You got to be kidding me!",
-    "Mooseblood's about to leave the building! So long, bee!",
-    "Hey, guys!",
-    "Mooseblood!",
-    "I knew I'd catch y'all down here.",
-    "Did you bring your crazy straw?",
-    "We throw it in jars, slap a label on it, and it's pretty much pure profit.",
-    "What is this place?",
-    "A bee's got a brain the size of a pinhead.",
-    "They are pinheads!",
-    "Pinhead.",
-    "Check out the new smoker.",
-    "Oh, sweet. That's the one you want. The Thomas 3000!",
-    "Smoker?",
-    "Ninety puffs a minute, semi-automatic. Twice the nicotine, all the tar. A couple breaths of this knocks them right out.",
-    "They make the honey, and we make the money.",
-    "\"They make the honey, and we make the money\"?",
-    "Oh, my!",
-    "What's going on? Are you OK?",
-    "Yeah. It doesn't last too long.",
-    "Do you know you're in a fake hive with fake walls?",
-    "Our queen was moved here. We had no choice.",
-    "This is your queen? That's a man in women's clothes! That's a drag queen!",
-    "What is this?",
-    "Oh, no!",
-    "There's hundreds of them!",
-    "Bee honey.",
-    "Our honey is being brazenly stolen on a massive scale!",
-    "This is worse than anything bears have done! I intend to do something.",
-    "Oh, Barry, stop.",
-    "Who told you humans are taking our honey? That's a rumor.",
-    "Do these look like rumors?",
-    "That's a conspiracy theory. These are obviously doctored photos. How did you get mixed up in this?",
-    "He's been talking to humans.",
-    "What? Talking to humans?!",
-    "He has a human girlfriend. And they make out!",
-    "Make out? Barry!",
-    "We do not.",
-    "You wish you could.",
-    "Whose side are you on?",
-    "The bees!",
-    "I dated a cricket once in San Antonio. Those crazy legs kept me up all night.",
-    "Barry, this is what you want to do with your life?",
-    "I want to do it for all our lives. Nobody works harder than bees!",
-    "Dad, I remember you coming home so overworked",
-    "your hands were still stirring. You couldn't stop.",
-    "I remember that.",
-    "What right do they have to our honey?",
-    "We live on two cups a year. They put it in lip balm for no reason whatsoever!",
-    "Even if it's true, what can one bee do?",
-    "Sting them where it really hurts.",
-    "In the face! The eye!",
-    "That would hurt.",
-    "No.",
-    "Up the nose? That's a killer.",
-    "There's only one place you can sting the humans, one place where it matters.",
-    "Hive at Five, The Hive's only full-hour action news source.",
-    "No more bee beards!",
-    "With Bob Bumble at the anchor desk. Weather with Storm Stinger. Sports with Buzz Larvi. And Jeanette Chung.",
-    "Good evening. I'm Bob Bumble.",
-    "And I'm Jeanette Ohung.",
-    "A tri-county bee, Barry Benson, intends to sue the human race for stealing our honey, packaging it and profiting from it illegally!",
-    "Tomorrow night on Bee Larry King, we'll have three former queens here in our studio, discussing their new book, classy Ladies, out this week on Hexagon.",
-    "Tonight we're talking to Barry Benson.",
-    "Did you ever think, \"I'm a kid from The Hive. I can't do this\"?",
-    "Bees have never been afraid to change the world.",
-    "What about Bee Oolumbus? Bee Gandhi? Bejesus?",
-    "Where I'm from, we'd never sue humans.",
-    "We were thinking of stickball or candy stores.",
-    "How old are you?",
-    "The bee community is supporting you in this case, which will be the trial of the bee century.",
-    "You know, they have a Larry King in the human world too.",
-    "It's a common name. Next week...",
-    "He looks like you and has a show and suspenders and colored dots...",
-    "Next week...",
-    "Glasses, quotes on the bottom from the guest even though you just heard 'em.",
-    "Bear Week next week! They're scary, hairy and here live.",
-    "Always leans forward, pointy shoulders, squinty eyes, very Jewish.",
-    "In tennis, you attack at the point of weakness!",
-    "It was my grandmother, Ken. She's 81.",
-    "Honey, her backhand's a joke!",
-    "I'm not gonna take advantage of that?",
-    "Quiet, please.",
-    "Actual work going on here.",
-    "Is that that same bee?",
-    "Yes, it is!",
-    "I'm helping him sue the human race.",
-    "Hello.",
-    "Hello, bee.",
-    "This is Ken.",
-    "Yeah, I remember you. Timberland, size ten and a half. Vibram sole, I believe.",
-    "Why does he talk again?",
-    "Listen, you better go 'cause we're really busy working.",
-    "But it's our yogurt night!",
-    "Bye-bye.",
-    "Why is yogurt night so difficult?!",
-    "You poor thing. You two have been at this for hours!",
-    "Yes, and Adam here has been a huge help.",
-    "Frosting...",
-    "How many sugars?",
-    "Just one. I try not to use the competition.",
-    "So why are you helping me?",
-    "Bees have good qualities. And it takes my mind off the shop. Instead of flowers, people are giving balloon bouquets now.",
-    "Those are great, if you're three.",
-    "And artificial flowers.",
-    "Oh, those just get me psychotic!",
-    "Yeah, me too.",
-    "Bent stingers, pointless pollination.",
-    "Bees must hate those fake things!",
-    "Nothing worse than a daffodil that's had work done.",
-    "Maybe this could make up for it a little bit.",
-    "This lawsuit's a pretty big deal.",
-    "I guess.",
-    "You sure you want to go through with it?",
-    "Am I sure? When I'm done with the humans, they won't be able to say, \"Honey, I'm home,\" without paying a royalty!",
-    "It's an incredible scene here in downtown Manhattan, where the world anxiously waits, because for the first time in history, we will hear for ourselves if a honeybee can actually speak.",
-    "What have we gotten into here, Barry?",
-    "It's pretty big, isn't it?",
-    "I can't believe how many humans don't work during the day.",
-    "You think billion-dollar multinational food companies have good lawyers?",
-    "Everybody needs to stay behind the barricade.",
-    "What's the matter?",
-    "I don't know, I just got a chill.",
-    "Well, if it isn't the bee team.",
-    "You boys work on this?",
-    "All rise! The Honorable Judge Bumbleton presiding.",
-    "All right. Case number 4475,",
-    "Superior Court of New York,",
-    "Barry Bee Benson v. the Honey Industry is now in session.",
-    "Mr. Montgomery, you're representing the five food companies collectively?",
-    "A privilege.",
-    "Mr. Benson... you're representing all the bees of the world?",
-    "I'm kidding. Yes, Your Honor, we're ready to proceed.",
-    "Mr. Montgomery, your opening statement, please.",
-    "Ladies and gentlemen of the jury, my grandmother was a simple woman. Born on a farm, she believed it was man's divine right to benefit from the bounty of nature God put before us.",
-    "If we lived in the topsy-turvy world Mr. Benson imagines, just think of what would it mean.",
-    "I would have to negotiate with the silkworm for the elastic in my britches!",
-    "Talking bee!",
-    "How do we know this isn't some sort of holographic motion-picture-capture Hollywood wizardry?",
-    "They could be using laser beams! Robotics! Ventriloquism! Cloning! For all we know, he could be on steroids!",
-    "Mr. Benson?",
-    "Ladies and gentlemen, there's no trickery here. I'm just an ordinary bee. Honey's pretty important to me. It's important to all bees. We invented it! We make it. And we protect it with our lives.",
-    "Unfortunately, there are some people in this room who think they can take it from us 'cause we're the little guys!",
-    "I'm hoping that, after this is all over, you'll see how, by taking our honey, you not only take everything we have but everything we are!",
-    "I wish he'd dress like that all the time. So nice!",
-    "Call your first witness.",
-    "So, Mr. Klauss Vanderhayden of Honey Farms, big company you have.",
-    "I suppose so.",
-    "I see you also own Honeyburton and Honron!",
-    "Yes, they provide beekeepers for our farms.",
-    "Beekeeper. I find that to be a very disturbing term.",
-    "I don't imagine you employ any bee-free-ers, do you?",
-    "No.",
-    "I couldn't hear you.",
-    "No.",
-    "No. Because you don't free bees. You keep bees. Not only that, it seems you thought a bear would be an appropriate image for a jar of honey.",
-    "They're very lovable creatures. Yogi Bear, Fozzie Bear, Build-A-Bear.",
-    "You mean like this?",
-    "Bears kill bees!",
-    "How'd you like his head crashing through your living room?! Biting into your couch! Spitting out your throw pillows! OK, that's enough. Take him away.",
-    "So, Mr. Sting, thank you for being here. Your name intrigues me. Where have I heard it before?",
-    "I was with a band called The Police.",
-    "But you've never been a police officer, have you?",
-    "No, I haven't.",
-    "No, you haven't. And so here we have yet another example of bee culture casually stolen by a human for nothing more than a prance-about stage name.",
-    "Oh, please.",
-    "Have you ever been stung, Mr. Sting? Because I'm feeling a little stung, Sting. Or should I say... Mr. Gordon M. Sumner!",
-    "That's not his real name?! You idiots!",
-    "Mr. Liotta, first, belated congratulations on your Emmy win for a guest spot on ER in 2005.",
-    "Thank you. Thank you.",
-    "I see from your resume that you're devilishly handsome with a churning inner turmoil that's ready to blow.",
-    "I enjoy what I do. Is that a crime?",
-    "Not yet it isn't. But is this what it's come to for you? Exploiting tiny, helpless bees so you don't have to rehearse your part and learn your lines, sir?",
-    "Watch it, Benson! I could blow right now!",
-    "This isn't a goodfella.",
-    "This is a badfella!",
-    "Why doesn't someone just step on this creep, and we can all go home?!",
-    "Order in this court!",
-    "You're all thinking it!",
-    "Order! Order, I say!",
-    "Say it!",
-    "Mr. Liotta, please sit down!",
-    "I think it was awfully nice of that bear to pitch in like that. I think the jury's on our side.",
-    "Are we doing everything right, legally?",
-    "I'm a florist.",
-    "Right. Well, here's to a great team.",
-    "To a great team!",
-    "Well, hello.",
-    "Ken!",
-    "Hello.",
-    "I didn't think you were coming.",
-    "No, I was just late I tried to call, but... the battery.",
-    "I didn't want all this to go to waste,",
-    "so I called Barry. Luckily, he was free.",
-    "Oh, that was lucky.",
-    "There's a little left. I could heat it up.",
-    "Yeah, heat it up, sure, whatever.",
-    "So I hear you're quite a tennis player. I'm not much for the game myself. The ball's a little grabby.",
-    "That's where I usually sit. Right... there.",
-    "Ken, Barry was looking at your resume, and he agreed with me that eating with chopsticks isn't really a special skill.",
-    "You think I don't see what you're doing?",
-    "I know how hard it is to find the right job. We have that in common.",
-    "Do we?",
-    "Bees have 100 percent employment, but we do jobs like taking the crud out.",
-    "That's just what I was thinking about doing.",
-    "Ken, I let Barry borrow your razor for his fuzz. I hope that was all right.",
-    "I'm going to drain the old stinger.",
-    "Yeah, you do that.",
-    "Look at that.",
-    "You know, I've just about had it with your little Mind Games.",
-    "What's that?",
-    "Italian Vogue.",
-    "Mamma mia, that's a lot of pages.",
-    "A lot of ads.",
-    "Remember what Van said, why is your life more valuable than mine?",
-    "Funny, I just can't seem to recall that! I think something stinks in here!",
-    "I love the smell of flowers.",
-    "How do you like the smell of flames?!",
-    "Not as much.",
-    "Water bug! Not taking sides!",
-    "Ken, I'm wearing a Chapstick hat!",
-    "This is pathetic!",
-    "I've got issues!",
-    "Well, well, well, a royal flush!",
-    "You're bluffing.",
-    "Am I?",
-    "Surf's up, dude!",
-    "Poo water!",
-    "That bowl is gnarly. Except for those dirty yellow rings!",
-    "Kenneth! What are you doing?!",
-    "You know, I don't even like honey! I don't eat it!",
-    "We need to talk! He's just a little bee!",
-    "And he happens to be the nicest bee I've met in a long time!",
-    "Long time? What are you talking about?! Are there other bugs in your life?",
-    " No, but there are other things bugging me in life. And you're one of them!",
-    "Fine! Talking bees, no yogurt night...",
-    "My nerves are fried from riding on this emotional roller coaster!",
-    "Goodbye, Ken.",
-    "And for your information, I prefer sugar-free, artificial sweeteners made by man!",
-    "I'm sorry about all that.",
-    "I know it's got an aftertaste! I like it!",
-    "I always felt there was some kind of barrier between Ken and me. I couldn't overcome it.",
-    "Oh, well.",
-    "Are you OK for the trial?",
-    "I believe Mr. Montgomery is about out of ideas.",
-    "We would like to call Mr. Barry Benson Bee to the stand.",
-    "Good idea! You can really see why he's considered one of the best lawyers...",
-    "Yeah.",
-    "Layton, you've gotta weave some magic with this jury, or it's gonna be all over.",
-    "Don't worry. The only thing I have to do to turn this jury around is to remind them of what they don't like about bees.",
-    "You got the tweezers?",
-    "Are you allergic?",
-    "Only to losing, son. Only to losing.",
-    "Mr. Benson Bee, I'll ask you what I think we'd all like to know.",
-    "What exactly is your relationship to that woman?",
-    "We're friends.",
-    "Good friends?",
-    "Yes.",
-    "How good? Do you live together?",
-    "Wait a minute... Are you her little... bedbug?",
-    "I've seen a bee documentary or two. From what I understand, doesn't your queen give birth to all the bee children?",
-    "Yeah, but...",
-    "So those aren't your real parents!",
-    "Oh, Barry...",
-    "Yes, they are!",
-    "Hold me back!",
-    "You're an illegitimate bee, aren't you, Benson?",
-    "He's denouncing bees!",
-    "Don't y'all date your cousins?",
-    "Objection!",
-    "I'm going to pincushion this guy!",
-    "Adam, don't! It's what he wants!",
-    "Oh, I'm hit!! Oh, lordy, I am hit!",
-    "Order! Order!",
-    "The venom! The venom is coursing through my veins! I have been felled by a winged beast of destruction! You see? You can't treat them like equals! They're striped savages! Stinging's the only thing they know! It's their way!",
-    "Adam, stay with me.",
-    "I can't feel my legs.",
-    "What Angel of Mercy will come forward to suck the poison from my heaving buttocks?",
-    "I will have order in this court. Order! Order, please!",
-    "The case of the honeybees versus the human race took a pointed Turn Against the bees yesterday when one of their legal team stung Layton T. Montgomery.",
-    "Hey, buddy.",
-    "Hey.",
-    "Is there much pain?",
-    "Yeah.",
-    "I... I blew the whole case, didn't I?",
-    "It doesn't matter. What matters is",
-    "you're alive. You could have died.",
-    "I'd be better off dead. Look at me.",
-    "They got it from the cafeteria downstairs, in a tuna sandwich. Look, there's a little celery still on it.",
-    "What was it like to sting someone?",
-    "I can't explain it. It was all... All adrenaline and then...and then ecstasy!",
-    "All right.",
-    "You think it was all a trap?",
-    "Of course. I'm sorry. I flew us right into this.",
-    "What were we thinking? Look at us. We're just a couple of bugs in this world.",
-    "What will the humans do to us if they win?",
-    "I don't know.",
-    "I hear they put the roaches in motels. That doesn't sound so bad.",
-    "Adam, they check in, but they don't check out!",
-    "Oh, my.",
-    "Could you get a nurse to close that window?",
-    "Why?",
-    "The smoke.",
-    "Bees don't smoke.",
-    "Right. Bees don't smoke.",
-    "Bees don't smoke!",
-    "But some bees are smoking.",
-    "That's it! That's our case!",
-    "It is? It's not over?",
-    "Get dressed. I've gotta go somewhere.",
-    "Get back to the court and stall. Stall any way you can.",
-    "And assuming you've done step correctly, you're ready for the tub.",
-    "Mr. Flayman.",
-    "Yes? Yes, Your Honor!",
-    "Where is the rest of your team?",
-    "Well, Your Honor, it's interesting. Bees are trained to fly haphazardly, and as a result, we don't make very good time.",
-    "I actually heard a funny story about...",
-    "Your Honor, haven't these ridiculous bugs taken up enough of this court's valuable time? How much longer will we allow these absurd shenanigans to go on?",
-    "They have presented no compelling evidence to support their charges against my clients, who run legitimate businesses.",
-    "I move for a complete dismissal of this entire case!",
-    "Mr. Flayman, I'm afraid I'm going to have to consider Mr. Montgomery's motion.",
-    "But you can't! We have a terrific case.",
-    "Where is your proof?",
-    "Where is the evidence?",
-    "Show me the smoking gun!",
-    "Hold it, Your Honor!",
-    "You want a smoking gun? Here is your smoking gun.",
-    "What is that?",
-    "It's a bee smoker!",
-    "What, this? This harmless little contraption? This couldn't hurt a fly, let alone a bee.",
-    "Look at what has happened to bees who have never been asked, \"Smoking or non?\" Is this what nature intended for us? To be forcibly addicted to smoke machines and man-made wooden slat work camps?",
-    "Living out our lives as honey slaves to the white man?",
-    "What are we gonna do?",
-    "He's playing the species card.",
-    "Ladies and gentlemen, please, free these bees!",
-    "Free the bees! Free the bees! Free the bees! Free the bees! Free the bees!",
-    "The court finds in favor of the bees!",
-    "Vanessa, we won!",
-    "I knew you could do it! High-five!",
-    "Sorry.",
-    "I'm OK! You know what this means?",
-    "All the honey will finally belong to the bees.",
-    "Now we won't have to work so hard all the time.",
-    "This is an unholy perversion of the balance of nature, Benson.",
-    "You'll regret this.",
-    "Barry, how much honey is out there?",
-    "All right. One at a time.",
-    "Barry, who are you wearing?",
-    "My sweater is Ralph Lauren, and I have no pants.",
-    "What if Montgomery's right?",
-    "What do you mean?",
-    "We've been living the bee way a long time, 27 million years.",
-    "Congratulations on your victory. What will you demand as a settlement?",
-    "First, we'll demand a complete shutdown of all bee work camps.",
-    "Then we want back the honey that was ours to begin with, every last drop.",
-    "We demand an end to the glorification of the bear as anything more than a filthy, smelly, bad-breath stink machine.",
-    "We're all aware of what they do in the woods.",
-    "Wait for my signal. Take him out.",
-    "He'll have nauseous for a few hours, then he'll be fine.",
-    "And we will no longer tolerate bee-negative nicknames...",
-    "But it's just a prance-about stage name!",
-    "...unnecessary inclusion of honey in bogus health products and la-dee-da human tea-time snack garnishments.",
-    "Can't breathe.",
-    "Bring it in, boys!",
-    "Hold it right there! Good.",
-    "Tap it.",
-    "Mr. Buzzwell, we just passed three cups and there's gallons more coming!",
-    "I think we need to shut down!",
-    "Shut down? We've never shut down.",
-    "Shut down honey production!",
-    "Stop making honey!",
-    "Turn your key, sir!",
-    "What do we do now?",
-    "Cannonball!",
-    "We're shutting honey production!",
-    "Mission abort.",
-    "Aborting pollination and nectar detail.",
-    "Returning to base.",
-    "Adam, you wouldn't believe how much honey was out there.",
-    "Oh, yeah?",
-    "What's going on? Where is everybody?",
-    "Are they out celebrating?",
-    "They're home.",
-    "They don't know what to do. Laying out, sleeping in.",
-    "I heard your Uncle Carl was on his way to San Antonio with a cricket.",
-    "At least we got our honey back.",
-    "Sometimes I think, so what if humans liked our honey? Who wouldn't?",
-    "It's the greatest thing in the world! I was excited to be part of making it.",
-    "This was my new desk. This was my new job. I wanted to do it really well. And now...",
-    "Now I can't.",
-    "I don't understand why they're not happy.",
-    "I thought their lives would be better!",
-    "They're doing nothing. It's amazing.",
-    "Honey really changes people.",
-    "You don't have any idea what's going on, do you?",
-    "What did you want to show me?",
-    "This.",
-    "What happened here?",
-    "That is not the half of it.",
-    "Oh, no. Oh, my.",
-    "They're all wilting.",
-    "Doesn't look very good, does it?",
-    "No.",
-    "And whose fault do you think that is?",
-    "You know, I'm gonna guess bees.",
-    "Bees?",
-    "Specifically, me.",
-    "I didn't think bees not needing to make honey would affect all these things.",
-    "It's not just flowers. Fruits, vegetables, they all need bees.",
-    "That's our whole SAT test right there.",
-    "Take away produce, that affects the entire animal kingdom.",
-    "And then, of course...",
-    "The human species?",
-    "So if there's no more pollination, it could all just go south here, couldn't it?",
-    "I know this is also partly my fault.",
-    "How about a suicide pact?",
-    "How do we do it?",
-    "I'll sting you, you step on me.",
-    "That just kills you twice.",
-    "Right, right.",
-    "Listen, Barry... sorry, but I gotta get going.",
-    "I had to open my mouth and talk.",
-    "Vanessa?",
-    "Vanessa? Why are you leaving?",
-    "Where are you going?",
-    "To the final Tournament of Roses parade in Pasadena.",
-    "They've moved it to this weekend because all the flowers are dying.",
-    "It's the Last Chance I'll ever have to see it.",
-    "Vanessa, I just wanna say I'm sorry.",
-    "I never meant it to turn out like this.",
-    "I know. Me neither.",
-    "Tournament of Roses.",
-    "Roses can't do sports.",
-    "Wait a minute. Roses. Roses?",
-    "Roses!",
-    "Vanessa!",
-    "Roses?!",
-    "Barry?",
-    "Roses are flowers!",
-    "Yes, they are.",
-    "Flowers, bees, pollen!",
-    "I know.",
-    "That's why this is the last parade.",
-    "Maybe not.",
-    "Could you ask him to slow down?",
-    "Could you slow down?",
-    "Barry!",
-    "OK, I made a huge mistake.",
-    "This is a total disaster, all my fault.",
-    "Yes, it kind of is.",
-    "I've ruined the planet. I wanted to help you with the flower shop. I've made it worse.",
-    "Actually, it's completely closed down.",
-    "I thought maybe you were remodeling.",
-    "But I have another idea, and it's greater than my previous ideas combined.",
-    "I don't want to hear it!",
-    "All right, they have the roses, the roses have the pollen.",
-    "I know every bee, plant and flower bud in this park.",
-    "All we gotta do is get what they've got back here with what we've got.",
-    "Bees.",
-    "Park.",
-    "Pollen!",
-    "Flowers.",
-    "Repollination!",
-    "Across the nation!",
-    "Tournament of Roses, Pasadena, California.",
-    "They've got nothing but flowers, floats and cotton candy.",
-    "Security will be tight.",
-    "I have an idea.",
-    "Vanessa Bloome, FTD.",
-    "Official floral business. It's real.",
-    "Sorry, ma'am. Nice brooch.",
-    "Thank you. It was a gift.",
-    "Once inside, we just pick the right float.",
-    "How about The Princess and the Pea?",
-    "I could be the princess, and you could be the pea!",
-    "Yes, I got it.",
-    "Where should I sit?",
-    "What are you?",
-    "I believe I'm the pea.",
-    "The pea?",
-    "It goes under the mattresses.",
-    "Not in this fairy tale, sweetheart.",
-    "I'm getting the marshal.",
-    "You do that! This whole parade is a fiasco!",
-    "Let's see what this baby'll do.",
-    "Hey, what are you doing?!",
-    "Then all we do is blend in with traffic... without arousing suspicion.",
-    "Once at the airport, there's no stopping us.",
-    "Stop! Security.",
-    "You and your insect pack your float?",
-    "Yes.",
-    "Has it been in your possession the entire time?",
-    "Would you remove your shoes?",
-    "Remove your stinger.",
-    "It's part of me.",
-    "I know. Just having some fun.",
-    "Enjoy your flight.",
-    "Then if we're lucky, we'll have just enough pollen to do the job.",
-    "Can you believe how lucky we are? We have just enough pollen to do the job!",
-    "I think this is gonna work.",
-    "It's got to work.",
-    "Attention, passengers, this is Captain Scott. We have a bit of bad weather in New York. It looks like we'll experience a couple hours delay.",
-    "Barry, these are cut flowers with no water. They'll never make it.",
-    "I gotta get up there and talk to them.",
-    "Be careful.",
-    "Can I get help with the Sky Mall magazine? I'd like to order the talking inflatable nose and ear hair trimmer.",
-    "Captain, I'm in a real situation.",
-    "What'd you say, Hal?",
-    "Nothing.",
-    "Bee!",
-    "Don't freak out! My entire species...",
-    "What are you doing?",
-    "Wait a minute! I'm an attorney!",
-    "Who's an attorney?",
-    "Don't move.",
-    "Oh, Barry.",
-    "Good afternoon, passengers. This is your captain. Would a Miss Vanessa Bloome in 24B please report to the cockpit? And please hurry!",
-    "What happened here?",
-    "There was a DustBuster, a toupee, a life raft exploded.",
-    "One's bald, one's in a boat, they're both unconscious!",
-    "Is that another bee joke?",
-    "No!",
-    "No one's flying the plane!",
-    "This is JFK control tower, Flight 356. What's your status?",
-    "This is Vanessa Bloome. I'm a florist from New York.",
-    "Where's the pilot?",
-    "He's unconscious, and so is the copilot.",
-    "Not good. Does anyone onboard have flight experience?",
-    "As a matter of fact, there is.",
-    "Who's that?",
-    "Barry Benson.",
-    "From the honey trial?! Oh, great.",
-    "Vanessa, this is nothing more than a big metal bee.",
-    "It's got giant wings, huge engines.",
-    "I can't fly a plane.",
-    "Why not? Isn't John Travolta a pilot?",
-    "Yes.",
-    "How hard could it be?",
-    "Wait, Barry!",
-    "We're headed into some lightning.",
-    "This is Bob Bumble. We have some late-breaking news from JFK Airport, where a suspenseful scene is developing.",
-    "Barry Benson, fresh from his legal victory...",
-    "That's Barry!",
-    "...is attempting to land a plane, loaded with people, flowers and an incapacitated flight crew.",
-    "Flowers?!",
-    "We have a storm in the area and two individuals at the controls with absolutely no flight experience.",
-    "Just a minute. There's a bee on that plane.",
-    "I'm quite familiar with Mr. Benson and his no-account compadres.",
-    "They've done enough damage.",
-    "But isn't he your only hope?",
-    "Technically, a bee shouldn't be able to fly at all.",
-    "Their wings are too small... Haven't we heard this a million times?",
-    "\"The surface area of the wings and body mass make no sense.\"",
-    "Get this on the air!",
-    "Got it.",
-    "Stand by.",
-    "We're going live.",
-    "The way we work may be a mystery to you. Making honey takes a lot of bees doing a lot of small jobs.",
-    "But let me tell you about a small job. If you do it well, it makes a big difference.",
-    "More than we realized. To us, to everyone.",
-    "That's why I want to get bees back to working together. That's the bee way! We're not made of Jell-O.",
-    "We get behind a fellow.",
-    "Black and yellow!",
-    "Hello!",
-    "Left, right, down, hover.",
-    "Hover?",
-    "Forget hover.",
-    "This isn't so hard.",
-    "Beep-beep! Beep-beep!",
-    "Barry, what happened?!",
-    "Wait, I think we were on autopilot the whole time.",
-    "That may have been helping me.",
-    "And now we're not!",
-    "So it turns out I cannot fly a plane.",
-    "All of you, let's get behind this fellow! Move it out!",
-    "Move out!",
-    "Our only chance is if I do what I'd do, you copy me with the wings of the plane!",
-    "Don't have to yell.",
-    "I'm not yelling! We're in a lot of trouble.",
-    "It's very hard to concentrate with that panicky tone in your voice!",
-    "It's not a tone. I'm panicking!",
-    "I can't do this!",
-    "Vanessa, pull yourself together. You have to snap out of it!",
-    "You snap out of it.",
-    "You snap out of it.",
-    "You snap out of it!",
-    "You snap out of it!",
-    "You snap out of it!",
-    "You snap out of it!",
-    "You snap out of it!",
-    "You snap out of it!",
-    "Hold it!",
-    "Why? Come on, it's my turn.",
-    "How is the plane flying?",
-    "I don't know.",
-    "Hello?",
-    "Benson, got any flowers for a happy occasion in there?",
-    "The Pollen Jocks!",
-    "They do get behind a fellow.",
-    "Black and yellow.",
-    "Hello.",
-    "All right, let's drop this tin can on the blacktop.",
-    "Where? I can't see anything. Can you?",
-    "No, nothing. It's all cloudy.",
-    "Come on. You got to think bee, Barry.",
-    "Thinking bee.",
-    "Thinking bee.",
-    "Thinking bee!",
-    "Thinking bee! Thinking bee!",
-    "Wait a minute. I think I'm feeling something.",
-    "What?",
-    "I don't know. It's strong, pulling me.",
-    "Like a 27-million-year-old instinct.",
-    "Bring the nose down.",
-    "Thinking bee!",
-    "Thinking bee! Thinking bee!",
-    "What in the world is on the tarmac?",
-    "Get some lights on that!",
-    "Thinking bee!",
-    "Thinking bee! Thinking bee!",
-    "Vanessa, aim for the flower.",
-    "OK.",
-    "Cut the engines. We're going in on bee power. Ready, boys?",
-    "Affirmative!",
-    "Good. Good. Easy, now. That's it.",
-    "Land on that flower!",
-    "Ready? Full reverse!",
-    "Spin it around!",
-    "Not that flower! The other one!",
-    "Which one?",
-    "That flower.",
-    "I'm aiming at the flower!",
-    "That's a fat guy in a flowered shirt.",
-    "I mean the giant pulsating flower made of millions of bees!",
-    "Pull forward. Nose down. Tail up.",
-    "Rotate around it.",
-    "This is insane, Barry!",
-    "This's the only way I know how to fly.",
-    "Am I koo-koo-kachoo, or is this plane flying in an insect-like pattern?",
-    "Get your nose in there. Don't be afraid. Smell it. Full reverse!",
-    "Just drop it. Be a part of it.",
-    "Aim for the center!",
-    "Now drop it in! Drop it in, woman!",
-    "Come on, already.",
-    "Barry, we did it! You taught me how to fly!",
-    "Yes. No high-five!",
-    "Right.",
-    "Barry, it worked!",
-    "Did you see the giant flower?",
-    "What giant flower? Where? Of course",
-    "I saw the flower! That was genius!",
-    "Thank you.",
-    "But we're not done yet.",
-    "Listen, everyone!",
-    "This runway is covered with the last pollen from the last flowers available anywhere on Earth.",
-    "That means this is our Last Chance. We're the only ones who make honey, pollinate flowers and dress like this.",
-    "If we're gonna survive as a species, this is our moment! What do you say?",
-    "Are we going to be bees, or just Museum of Natural History keychains?",
-    "We're bees!",
-    "Keychain!",
-    "Then follow me! Except Keychain.",
-    "Hold on, Barry. Here. You've earned this.",
-    "Yeah!",
-    "I'm a Pollen Jock! And it's a perfect fit. All I gotta do are the sleeves.",
-    "Oh, yeah.",
-    "That's our Barry.",
-    "Mom! The bees are back!",
-    "If anybody needs to make a call, now's the time. I got a feeling we'll be working late tonight!",
-    "Here's your change. Have a great afternoon! Can I help who's next?",
-    "Would you like some honey with that?",
-    "It is bee-approved. Don't forget these.",
-    "Milk, cream, cheese, it's all me.  And I don't see a nickel!",
-    "Sometimes I just feel like a piece of meat!",
-    "I had no idea.",
-    "Barry, I'm sorry.",
-    "Have you got a moment?",
-    "Would you excuse me?",
-    "My mosquito associate will help you.",
-    "Sorry I'm late.",
-    "He's a lawyer too?",
-    "I was already a blood-sucking parasite. All I needed was a briefcase.",
-    "Have a great afternoon!",
-    "Barry, I just got this huge tulip order, and I can't get them anywhere.",
-    "No problem, Vannie. Just leave it to me.",
-    "You're a lifesaver, Barry. Can I help who's next?",
-    "All right, scramble, jocks! It's time to fly.",
-    "Thank you, Barry!",
-    "That bee is living my life!",
-    "Let it go, Kenny.",
-    "When will this nightmare end?!",
-    "Let it all go.",
-    "Beautiful day to fly.",
-    "Sure is.",
-    "Between you and me,",
-    "I was dying to get out of that office.",
-    "You have got to start thinking bee, my friend.",
-    "Thinking bee!",
-    "Me?",
-    "Hold it. Let's just stop for a second. Hold it.",
-    "I'm sorry. I'm sorry, everyone. Can we stop here?",
-    "I'm not making a major life decision during a production number!",
-    "All right. Take ten, everybody. Wrap it up, guys.",
-    "I had virtually no rehearsal for that."
-  ]
+   "beeMovieTuple": [
+      [
+         "According to all known laws of aviation, there is no way a bee should be able to fly.",
+         0
+      ],
+      [
+         "Its wings are too small to get its fat little body off the ground.",
+         1
+      ],
+      [
+         "The bee, of course, flies anyway because bees don't care what humans think is impossible.",
+         2
+      ],
+      [
+         "Yellow, black. Yellow, black. Yellow, black. Yellow, black.",
+         3
+      ],
+      [
+         "Ooh, black and yellow!",
+         4
+      ],
+      [
+         "Let's shake it up a little.",
+         5
+      ],
+      [
+         "Barry! Breakfast is ready!",
+         6
+      ],
+      [
+         "Coming!",
+         7
+      ],
+      [
+         "Hang on a second.",
+         8
+      ],
+      [
+         "Hello?",
+         9
+      ],
+      [
+         "Barry?",
+         10
+      ],
+      [
+         "Adam?",
+         11
+      ],
+      [
+         "Can you believe this is happening?",
+         12
+      ],
+      [
+         "I can't.",
+         13
+      ],
+      [
+         "I'll pick you up.",
+         14
+      ],
+      [
+         "Looking sharp.",
+         15
+      ],
+      [
+         "Use the stairs, Your father paid good money for those.",
+         16
+      ],
+      [
+         "Sorry. I'm excited.",
+         17
+      ],
+      [
+         "Here's the graduate.",
+         18
+      ],
+      [
+         "We're very proud of you, son.",
+         19
+      ],
+      [
+         "A perfect report card, all B's.",
+         20
+      ],
+      [
+         "Very proud.",
+         21
+      ],
+      [
+         "Ma! I got a thing going here.",
+         22
+      ],
+      [
+         "You got lint on your fuzz.",
+         23
+      ],
+      [
+         "Ow! That's me!",
+         24
+      ],
+      [
+         "Wave to us! We'll be in row 118,000.",
+         25
+      ],
+      [
+         "Bye!",
+         26
+      ],
+      [
+         "Barry, I told you, stop flying in the house!",
+         27
+      ],
+      [
+         "Hey, Adam.",
+         28
+      ],
+      [
+         "Hey, Barry.",
+         29
+      ],
+      [
+         "Is that fuzz gel?",
+         30
+      ],
+      [
+         "A little. Special day, graduation.",
+         31
+      ],
+      [
+         "Never thought I'd make it.",
+         32
+      ],
+      [
+         "Three days grade school, three days high school.",
+         33
+      ],
+      [
+         "Those were awkward.",
+         34
+      ],
+      [
+         "Three days college. I'm glad I took a day and hitchhiked around The Hive.",
+         35
+      ],
+      [
+         "You did come back different.",
+         36
+      ],
+      [
+         "Hi, Barry. Artie, growing a mustache? Looks good.",
+         37
+      ],
+      [
+         "Hear about Frankie?",
+         38
+      ],
+      [
+         "Yeah.",
+         39
+      ],
+      [
+         "You going to the funeral?",
+         40
+      ],
+      [
+         "No, I'm not going.",
+         41
+      ],
+      [
+         "Everybody knows, sting someone, you die.",
+         42
+      ],
+      [
+         "Don't waste it on a squirrel.",
+         43
+      ],
+      [
+         "Such a hothead.",
+         44
+      ],
+      [
+         "I guess he could have just gotten out of the way.",
+         45
+      ],
+      [
+         "I love this incorporating an amusement park into our day.",
+         46
+      ],
+      [
+         "That's why we don't need vacations.",
+         47
+      ],
+      [
+         "Boy, quite a bit of pomp under the circumstances.",
+         48
+      ],
+      [
+         "Well, Adam, today we are men.",
+         49
+      ],
+      [
+         "We are!",
+         50
+      ],
+      [
+         "Bee-men.",
+         51
+      ],
+      [
+         "Amen!",
+         52
+      ],
+      [
+         "Hallelujah!",
+         53
+      ],
+      [
+         "Students, faculty, distinguished bees,",
+         54
+      ],
+      [
+         "please welcome Dean Buzzwell.",
+         55
+      ],
+      [
+         "Welcome, New Hive City graduating class of 9:15.",
+         56
+      ],
+      [
+         "That concludes our ceremonies And begins your career at Honex Industries!",
+         57
+      ],
+      [
+         "Will we pick our job today?",
+         58
+      ],
+      [
+         "I heard it's just orientation.",
+         59
+      ],
+      [
+         "Heads up! Here we go.",
+         60
+      ],
+      [
+         "Keep your hands and antennas inside the tram at all times.",
+         61
+      ],
+      [
+         "Wonder what it'll be like?",
+         62
+      ],
+      [
+         "A little scary.",
+         63
+      ],
+      [
+         "Welcome to Honex, a division of Honesco and a part of the Hexagon Group.",
+         64
+      ],
+      [
+         "This is it!",
+         65
+      ],
+      [
+         "Wow.",
+         66
+      ],
+      [
+         "Wow.",
+         67
+      ],
+      [
+         "We know that you, as a bee, have worked your whole life to get to the point where you can work for your whole life.",
+         68
+      ],
+      [
+         "Honey begins when our valiant Pollen Jocks bring the nectar to The Hive.",
+         69
+      ],
+      [
+         "Our top-secret formula is automatically color-corrected, scent-adjusted and bubble-contoured into this soothing sweet syrup with its distinctive golden glow you know as... Honey!",
+         70
+      ],
+      [
+         "That girl was hot.",
+         71
+      ],
+      [
+         "She's my cousin!",
+         72
+      ],
+      [
+         "She is?",
+         73
+      ],
+      [
+         "Yes, we're all cousins.",
+         74
+      ],
+      [
+         "Right. You're right.",
+         75
+      ],
+      [
+         "At Honex, we constantly strive to improve every aspect of bee existence.",
+         76
+      ],
+      [
+         "These bees are stress-testing a new helmet technology.",
+         77
+      ],
+      [
+         "What do you think he makes?",
+         78
+      ],
+      [
+         "Not enough.",
+         79
+      ],
+      [
+         "Here we have our latest advancement, the Krelman.",
+         80
+      ],
+      [
+         "What does that do?",
+         81
+      ],
+      [
+         "Catches that little strand of honey that hangs after you pour it.",
+         82
+      ],
+      [
+         "Saves us millions.",
+         83
+      ],
+      [
+         "Can anyone work on the Krelman?",
+         84
+      ],
+      [
+         "Of course. Most bee jobs are small ones.",
+         85
+      ],
+      [
+         "But bees know that every small job, if it's done well, means a lot.",
+         86
+      ],
+      [
+         "But choose carefully because you'll stay in the job you pick for the rest of your life.",
+         87
+      ],
+      [
+         "The same job the rest of your life? I didn't know that.",
+         88
+      ],
+      [
+         "What's the difference?",
+         89
+      ],
+      [
+         "You'll be happy to know that bees, as a species, haven't had one day off in 27 million years.",
+         90
+      ],
+      [
+         "So you'll just work us to death?",
+         91
+      ],
+      [
+         "We'll sure try.",
+         92
+      ],
+      [
+         "Wow! That blew my mind!",
+         93
+      ],
+      [
+         "\"What's the difference?\"",
+         94
+      ],
+      [
+         "How can you say that?",
+         95
+      ],
+      [
+         "One job forever?",
+         96
+      ],
+      [
+         "That's an insane choice to have to make.",
+         97
+      ],
+      [
+         "I'm relieved. Now we only have to make one decision in life.",
+         98
+      ],
+      [
+         "But, Adam, how could they never have told us that?",
+         99
+      ],
+      [
+         "Why would you question anything? We're bees.",
+         100
+      ],
+      [
+         "We're the most perfectly functioning society on Earth.",
+         101
+      ],
+      [
+         "You ever think maybe things work a little too well here?",
+         102
+      ],
+      [
+         "Like what? Give me one example.",
+         103
+      ],
+      [
+         "I don't know. But you know what I'm talking about.",
+         104
+      ],
+      [
+         "Please clear the gate. Royal Nectar Force on approach.",
+         105
+      ],
+      [
+         "Wait a second. Check it out.",
+         106
+      ],
+      [
+         "Hey, those are Pollen Jocks!",
+         107
+      ],
+      [
+         "Wow.",
+         108
+      ],
+      [
+         "I've never seen them this close.",
+         109
+      ],
+      [
+         "They know what it's like outside The Hive.",
+         110
+      ],
+      [
+         "Yeah, but some don't come back.",
+         111
+      ],
+      [
+         "Hey, Jocks!",
+         112
+      ],
+      [
+         "Hi, Jocks!",
+         113
+      ],
+      [
+         "You guys did great!",
+         114
+      ],
+      [
+         "You're monsters!",
+         115
+      ],
+      [
+         "You're sky freaks! I love it! I love it!",
+         116
+      ],
+      [
+         "I wonder where they were.",
+         117
+      ],
+      [
+         "I don't know.",
+         118
+      ],
+      [
+         "Their day's not planned.",
+         119
+      ],
+      [
+         "Outside The Hive, flying who knows where, doing who knows what.",
+         120
+      ],
+      [
+         "You can't just decide to be a Pollen Jock. You have to be bred for that.",
+         121
+      ],
+      [
+         "Right.",
+         122
+      ],
+      [
+         "Look. That's more pollen than you and I will see in a lifetime.",
+         123
+      ],
+      [
+         "It's just a status symbol.",
+         124
+      ],
+      [
+         "Bees make too much of it.",
+         125
+      ],
+      [
+         "Perhaps. Unless you're wearing it and the ladies see you wearing it.",
+         126
+      ],
+      [
+         "Those ladies?",
+         127
+      ],
+      [
+         "Aren't they our cousins too?",
+         128
+      ],
+      [
+         "Distant. Distant.",
+         129
+      ],
+      [
+         "Look at these two.",
+         130
+      ],
+      [
+         "Couple of Hive Harrys.",
+         131
+      ],
+      [
+         "Let's have fun with them.",
+         132
+      ],
+      [
+         "It must be dangerous being a Pollen Jock.",
+         133
+      ],
+      [
+         "Yeah. Once a bear pinned me against a mushroom!",
+         134
+      ],
+      [
+         "He had a paw on my throat, and with the other, he was slapping me!",
+         135
+      ],
+      [
+         "Oh, my!",
+         136
+      ],
+      [
+         "I never thought I'd knock him out.",
+         137
+      ],
+      [
+         "What were you doing during this?",
+         138
+      ],
+      [
+         "Trying to alert the authorities.",
+         139
+      ],
+      [
+         "I can autograph that.",
+         140
+      ],
+      [
+         "A little gusty out there today, wasn't it, comrades?",
+         141
+      ],
+      [
+         "Yeah. Gusty.",
+         142
+      ],
+      [
+         "We're hitting a sunflower patch six miles from here tomorrow.",
+         143
+      ],
+      [
+         "Six miles, huh?",
+         144
+      ],
+      [
+         "Barry!",
+         145
+      ],
+      [
+         "A puddle jump for us, but maybe you're not up for it.",
+         146
+      ],
+      [
+         "Maybe I am.",
+         147
+      ],
+      [
+         "You are not!",
+         148
+      ],
+      [
+         "We're going 0900 at J-Gate.",
+         149
+      ],
+      [
+         "What do you think, buzzy-boy?",
+         150
+      ],
+      [
+         "Are you bee enough?",
+         151
+      ],
+      [
+         "I might be. It all depends on what 0900 means.",
+         152
+      ],
+      [
+         "Hey, Honex!",
+         153
+      ],
+      [
+         "Dad, you surprised me.",
+         154
+      ],
+      [
+         "You decide what you're interested in?",
+         155
+      ],
+      [
+         "Well, there's a lot of choices.",
+         156
+      ],
+      [
+         "But you only get one.",
+         157
+      ],
+      [
+         "Do you ever get bored doing the same job every day?",
+         158
+      ],
+      [
+         "Son, let me tell you about stirring.",
+         159
+      ],
+      [
+         "You grab that stick, and you just move it around, and you stir it around.",
+         160
+      ],
+      [
+         "You get yourself into a rhythm.",
+         161
+      ],
+      [
+         "It's a beautiful thing.",
+         162
+      ],
+      [
+         "You know, Dad, the more I think about it,",
+         163
+      ],
+      [
+         "maybe the honey field just isn't right for me.",
+         164
+      ],
+      [
+         "You were thinking of what, making balloon animals?",
+         165
+      ],
+      [
+         "That's a bad job for a guy with a stinger.",
+         166
+      ],
+      [
+         "Janet, your son's not sure he wants to go into honey!",
+         167
+      ],
+      [
+         "Barry, you are so funny sometimes.",
+         168
+      ],
+      [
+         "I'm not trying to be funny.",
+         169
+      ],
+      [
+         "You're not funny! You're going into honey. Our son, the stirrer!",
+         170
+      ],
+      [
+         "You're gonna be a stirrer?",
+         171
+      ],
+      [
+         "No one's listening to me!",
+         172
+      ],
+      [
+         "Wait till you see the sticks I have.",
+         173
+      ],
+      [
+         "I could say anything right now.",
+         174
+      ],
+      [
+         "I'm gonna get an ant tattoo!",
+         175
+      ],
+      [
+         "Let's open some honey and celebrate!",
+         176
+      ],
+      [
+         "Maybe I'll pierce my thorax. Shave my antennae. Shack up with a grasshopper. Get a gold tooth and call everybody \"dawg\"!",
+         177
+      ],
+      [
+         "I'm so proud.",
+         178
+      ],
+      [
+         "We're starting work today!",
+         179
+      ],
+      [
+         "Today's the day.",
+         180
+      ],
+      [
+         "Come on! All the good jobs will be gone.",
+         181
+      ],
+      [
+         "Yeah, right.",
+         182
+      ],
+      [
+         "Pollen counting, stunt bee, pouring, stirrer, front desk, hair removal...",
+         183
+      ],
+      [
+         "Is it still available?",
+         184
+      ],
+      [
+         "Hang on. Two left!",
+         185
+      ],
+      [
+         "One of them's yours! Congratulations!",
+         186
+      ],
+      [
+         "Step to the side.",
+         187
+      ],
+      [
+         "What'd you get?",
+         188
+      ],
+      [
+         "Picking crud out. Stellar!",
+         189
+      ],
+      [
+         "Wow!",
+         190
+      ],
+      [
+         "Couple of newbies?",
+         191
+      ],
+      [
+         "Yes, sir! Our first day! We are ready!",
+         192
+      ],
+      [
+         "Make your choice.",
+         193
+      ],
+      [
+         "You want to go first?",
+         194
+      ],
+      [
+         "No, you go.",
+         195
+      ],
+      [
+         "Oh, my. What's available?",
+         196
+      ],
+      [
+         "Restroom attendant's open, not for the reason you think.",
+         197
+      ],
+      [
+         "Any chance of getting the Krelman?",
+         198
+      ],
+      [
+         "Sure, you're on.",
+         199
+      ],
+      [
+         "I'm sorry, the Krelman just closed out.",
+         200
+      ],
+      [
+         "Wax monkey's always open.",
+         201
+      ],
+      [
+         "The Krelman opened up again.",
+         202
+      ],
+      [
+         "What happened?",
+         203
+      ],
+      [
+         "A bee died. Makes an opening. See? He's dead. Another dead one.",
+         204
+      ],
+      [
+         "Deady. Deadified. Two more dead.",
+         205
+      ],
+      [
+         "Dead from the neck up. Dead from the neck down. That's life!",
+         206
+      ],
+      [
+         "Oh, this is so hard!",
+         207
+      ],
+      [
+         "Heating, cooling, stunt bee, pourer, stirrer, humming, inspector number seven, lint coordinator, stripe supervisor, mite wrangler.",
+         208
+      ],
+      [
+         "Barry, what do you think I should... Barry?",
+         209
+      ],
+      [
+         "Barry!",
+         210
+      ],
+      [
+         "All right, we've got the sunflower patch in quadrant nine...",
+         211
+      ],
+      [
+         "What happened to you?",
+         212
+      ],
+      [
+         "Where are you?",
+         213
+      ],
+      [
+         "I'm going out.",
+         214
+      ],
+      [
+         "Out? Out where?",
+         215
+      ],
+      [
+         "Out there.",
+         216
+      ],
+      [
+         "Oh, no!",
+         217
+      ],
+      [
+         "I have to, before I go to work for the rest of my life.",
+         218
+      ],
+      [
+         "You're gonna die! You're crazy! Hello?",
+         219
+      ],
+      [
+         "Another call coming in.",
+         220
+      ],
+      [
+         "If anyone's feeling brave, there's a Korean deli on 83rd that gets their roses today.",
+         221
+      ],
+      [
+         "Hey, guys.",
+         222
+      ],
+      [
+         "Look at that.",
+         223
+      ],
+      [
+         "Isn't that the kid we saw yesterday?",
+         224
+      ],
+      [
+         "Hold it, son, flight deck's restricted.",
+         225
+      ],
+      [
+         "It's OK, Lou. We're gonna take him up.",
+         226
+      ],
+      [
+         "Really? Feeling lucky, are you?",
+         227
+      ],
+      [
+         "Sign here, here. Just initial that.",
+         228
+      ],
+      [
+         "Thank you.",
+         229
+      ],
+      [
+         "OK.",
+         230
+      ],
+      [
+         "You got a rain advisory today, and as you all know, bees cannot fly in rain.",
+         231
+      ],
+      [
+         "So be careful. As always, watch your brooms, hockey sticks, dogs, birds, bears and bats.",
+         232
+      ],
+      [
+         "Also, I got a couple of reports of root beer being poured on us.",
+         233
+      ],
+      [
+         "Murphy's in a home because of it, babbling like a cicada!",
+         234
+      ],
+      [
+         "That's awful.",
+         235
+      ],
+      [
+         "And a reminder for you rookies, bee law number one, absolutely no talking to humans!",
+         236
+      ],
+      [
+         " All right, launch positions!",
+         237
+      ],
+      [
+         "Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz!",
+         238
+      ],
+      [
+         "Black and yellow!",
+         239
+      ],
+      [
+         "Hello!",
+         240
+      ],
+      [
+         "You ready for this, hot shot?",
+         241
+      ],
+      [
+         "Yeah. Yeah, bring it on.",
+         242
+      ],
+      [
+         "Wind, check.",
+         243
+      ],
+      [
+         "Antennae, check.",
+         244
+      ],
+      [
+         "Nectar pack, check.",
+         245
+      ],
+      [
+         "Wings, check.",
+         246
+      ],
+      [
+         "Stinger, check.",
+         247
+      ],
+      [
+         "Scared out of my shorts, check.",
+         248
+      ],
+      [
+         "OK, ladies,",
+         249
+      ],
+      [
+         "let's move it out!",
+         250
+      ],
+      [
+         "Pound those petunias, you striped stem-suckers!",
+         251
+      ],
+      [
+         "All of you, drain those flowers!",
+         252
+      ],
+      [
+         "Wow! I'm out!",
+         253
+      ],
+      [
+         "I can't believe I'm out!",
+         254
+      ],
+      [
+         "So blue.",
+         255
+      ],
+      [
+         "I feel so fast and free!",
+         256
+      ],
+      [
+         "Box kite!",
+         257
+      ],
+      [
+         "Wow!",
+         258
+      ],
+      [
+         "Flowers!",
+         259
+      ],
+      [
+         "This is Blue Leader, We have roses visual.",
+         260
+      ],
+      [
+         "Bring it around 30 degrees and hold.",
+         261
+      ],
+      [
+         "Roses!",
+         262
+      ],
+      [
+         "30 degrees, roger. Bringing it around.",
+         263
+      ],
+      [
+         "Stand to the side, kid.",
+         264
+      ],
+      [
+         "It's got a bit of a kick.",
+         265
+      ],
+      [
+         "That is one nectar collector!",
+         266
+      ],
+      [
+         "Ever see pollination up close?",
+         267
+      ],
+      [
+         "No, sir.",
+         268
+      ],
+      [
+         "I pick up some pollen here, sprinkle it over here. Maybe a dash over there, a pinch on that one.",
+         269
+      ],
+      [
+         "See that? It's a little bit of magic.",
+         270
+      ],
+      [
+         "That's amazing. Why do we do that?",
+         271
+      ],
+      [
+         "That's pollen power. More pollen, more flowers, more nectar, more honey for us.",
+         272
+      ],
+      [
+         "Cool.",
+         273
+      ],
+      [
+         "I'm picking up a lot of bright yellow, Could be daisies, Don't we need those?",
+         274
+      ],
+      [
+         "Copy that visual.",
+         275
+      ],
+      [
+         "Wait. One of these flowers seems to be on the move.",
+         276
+      ],
+      [
+         "Say again? You're reporting a moving flower?",
+         277
+      ],
+      [
+         "Affirmative.",
+         278
+      ],
+      [
+         "That was on the line!",
+         279
+      ],
+      [
+         "This is the coolest. What is it?",
+         280
+      ],
+      [
+         "I don't know, but I'm loving this color.",
+         281
+      ],
+      [
+         "It smells good.",
+         282
+      ],
+      [
+         "Not like a flower, but I like it.",
+         283
+      ],
+      [
+         "Yeah, fuzzy.",
+         284
+      ],
+      [
+         "Chemical-y.",
+         285
+      ],
+      [
+         "Careful, guys. It's a little grabby.",
+         286
+      ],
+      [
+         "My sweet lord of bees!",
+         287
+      ],
+      [
+         "Candy-brain, get off there!",
+         288
+      ],
+      [
+         "Problem!",
+         289
+      ],
+      [
+         "Guys!",
+         290
+      ],
+      [
+         "This could be bad.",
+         291
+      ],
+      [
+         "Affirmative.",
+         292
+      ],
+      [
+         "Very close.",
+         293
+      ],
+      [
+         "Gonna hurt.",
+         294
+      ],
+      [
+         "Mama's little boy.",
+         295
+      ],
+      [
+         "You are way out of position, rookie!",
+         296
+      ],
+      [
+         "Coming in at you like a missile!",
+         297
+      ],
+      [
+         "Help me!",
+         298
+      ],
+      [
+         "I don't think these are flowers.",
+         299
+      ],
+      [
+         "Should we tell him?",
+         300
+      ],
+      [
+         "I think he knows.",
+         301
+      ],
+      [
+         "What is this?!",
+         302
+      ],
+      [
+         "Match point!",
+         303
+      ],
+      [
+         "You can start packing up, honey, because you're about to eat it!",
+         304
+      ],
+      [
+         "Yowser!",
+         305
+      ],
+      [
+         "Gross.",
+         306
+      ],
+      [
+         "There's a bee in the car!",
+         307
+      ],
+      [
+         "Do something!",
+         308
+      ],
+      [
+         "I'm driving!",
+         309
+      ],
+      [
+         "Hi, bee.",
+         310
+      ],
+      [
+         "He's back here!",
+         311
+      ],
+      [
+         "He's going to sting me!",
+         312
+      ],
+      [
+         "Nobody move. If you don't move, he won't sting you. Freeze!",
+         313
+      ],
+      [
+         "He blinked!",
+         314
+      ],
+      [
+         "Spray him, Granny!",
+         315
+      ],
+      [
+         "What are you doing?!",
+         316
+      ],
+      [
+         "Wow... the tension level out here is unbelievable.",
+         317
+      ],
+      [
+         "I gotta get home.",
+         318
+      ],
+      [
+         "Can't fly in rain. Can't fly in rain. Can't fly in rain.",
+         319
+      ],
+      [
+         "Mayday! Mayday! Bee going down!",
+         320
+      ],
+      [
+         "Ken, could you close the window please?",
+         321
+      ],
+      [
+         "Ken, could you close the window please?",
+         322
+      ],
+      [
+         "Check out my new resume. I made it into a fold-out brochure. You see? Folds out.",
+         323
+      ],
+      [
+         "Oh, no. More humans. I don't need this.",
+         324
+      ],
+      [
+         "What was that?",
+         325
+      ],
+      [
+         "Maybe this time. This time. This time. This time! This time! This... Drapes!",
+         326
+      ],
+      [
+         "That is diabolical.",
+         327
+      ],
+      [
+         "It's fantastic. It's got all my special skills, even my top-ten favorite movies.",
+         328
+      ],
+      [
+         "What's number one? Star Wars?",
+         329
+      ],
+      [
+         "Nah, I don't go for that... kind of stuff.",
+         330
+      ],
+      [
+         "No wonder we shouldn't talk to them. They're out of their minds.",
+         331
+      ],
+      [
+         "When I leave a job interview, they're flabbergasted, can't believe what I say.",
+         332
+      ],
+      [
+         "There's the sun. Maybe that's a way out.",
+         333
+      ],
+      [
+         "I don't remember the sun having a big 75 on it.",
+         334
+      ],
+      [
+         "I predicted global warming. I could feel it getting hotter. At first I thought it was just me.",
+         335
+      ],
+      [
+         "Wait! Stop! Bee!",
+         336
+      ],
+      [
+         "Stand back. These are winter boots.",
+         337
+      ],
+      [
+         "Wait!",
+         338
+      ],
+      [
+         "Don't kill him!",
+         339
+      ],
+      [
+         "You know I'm allergic to them! This thing could kill me!",
+         340
+      ],
+      [
+         "Why does his life have less value than yours?",
+         341
+      ],
+      [
+         "Why does his life have any less value than mine? Is that your statement?",
+         342
+      ],
+      [
+         "I'm just saying all life has value. You don't know what he's capable of feeling.",
+         343
+      ],
+      [
+         "My brochure!",
+         344
+      ],
+      [
+         "There you go, little guy.",
+         345
+      ],
+      [
+         "I'm not scared of him.It's an allergic thing.",
+         346
+      ],
+      [
+         " Put that on your resume brochure.",
+         347
+      ],
+      [
+         "My whole face could puff up.",
+         348
+      ],
+      [
+         "Make it one of your special skills.",
+         349
+      ],
+      [
+         "Knocking someone out is also a special skill.",
+         350
+      ],
+      [
+         "Right. Bye, Vanessa. Thanks.",
+         351
+      ],
+      [
+         "Vanessa, next week? Yogurt night?",
+         352
+      ],
+      [
+         "Sure, Ken. You know, whatever.",
+         353
+      ],
+      [
+         "You could put carob chips on there.",
+         354
+      ],
+      [
+         "Bye.",
+         355
+      ],
+      [
+         "Supposed to be less calories.",
+         356
+      ],
+      [
+         "Bye.",
+         357
+      ],
+      [
+         "I gotta say something. She saved my life. I gotta say something.",
+         358
+      ],
+      [
+         "All right, here it goes.",
+         359
+      ],
+      [
+         "Nah.",
+         360
+      ],
+      [
+         "What would I say?",
+         361
+      ],
+      [
+         "I could really get in trouble. It's a bee law. You're not supposed to talk to a human.",
+         362
+      ],
+      [
+         "I can't believe I'm doing this. I've got to.",
+         363
+      ],
+      [
+         "Oh, I can't do it. Come on!",
+         364
+      ],
+      [
+         "No. Yes. No. Do it. I can't.",
+         365
+      ],
+      [
+         "How should I start it? \"You like jazz?\" No, that's no good.",
+         366
+      ],
+      [
+         "Here she comes! Speak, you fool!",
+         367
+      ],
+      [
+         "Hi!",
+         368
+      ],
+      [
+         "I'm sorry. You're talking.",
+         369
+      ],
+      [
+         "Yes, I know.",
+         370
+      ],
+      [
+         "You're talking!",
+         371
+      ],
+      [
+         "I'm so sorry.",
+         372
+      ],
+      [
+         "No, it's OK. It's fine.",
+         373
+      ],
+      [
+         "I know I'm dreaming. But I don't recall going to bed.",
+         374
+      ],
+      [
+         "Well, I'm sure this is very disconcerting.",
+         375
+      ],
+      [
+         "This is a bit of a surprise to me. I mean, you're a bee!",
+         376
+      ],
+      [
+         "I am. And I'm not supposed to be doing this, but they were all trying to kill me.",
+         377
+      ],
+      [
+         "And if it wasn't for you... I had to thank you. It's just how I was raised.",
+         378
+      ],
+      [
+         "That was a little weird. I'm talking with a bee.",
+         379
+      ],
+      [
+         "Yeah.",
+         380
+      ],
+      [
+         "I'm talking to a bee. And the bee is talking to me!",
+         381
+      ],
+      [
+         "I just want to say I'm grateful.",
+         382
+      ],
+      [
+         "I'll leave now.",
+         383
+      ],
+      [
+         "Wait! How did you learn to do that?",
+         384
+      ],
+      [
+         "What?",
+         385
+      ],
+      [
+         "The talking thing.",
+         386
+      ],
+      [
+         "Same way you did, I guess. \"Mama, Dada, honey.\" You pick it up.",
+         387
+      ],
+      [
+         "That's very funny.",
+         388
+      ],
+      [
+         "Yeah.",
+         389
+      ],
+      [
+         "Bees are funny. If we didn't laugh, we'd cry with what we have to deal with.",
+         390
+      ],
+      [
+         "Anyway... Can I... get you something?",
+         391
+      ],
+      [
+         "Like what?",
+         392
+      ],
+      [
+         "I don't know. I mean... I don't know. Coffee?",
+         393
+      ],
+      [
+         "I don't want to put you out.",
+         394
+      ],
+      [
+         "It's no trouble. It takes two minutes.",
+         395
+      ],
+      [
+         "It's just coffee.",
+         396
+      ],
+      [
+         "I hate to impose.",
+         397
+      ],
+      [
+         "Don't be ridiculous!",
+         398
+      ],
+      [
+         "Actually, I would love a cup.",
+         399
+      ],
+      [
+         "Hey, you want rum cake?",
+         400
+      ],
+      [
+         "I shouldn't.",
+         401
+      ],
+      [
+         "Have some.",
+         402
+      ],
+      [
+         "No, I can't.",
+         403
+      ],
+      [
+         "Come on!",
+         404
+      ],
+      [
+         "I'm trying to lose a couple micrograms.",
+         405
+      ],
+      [
+         "Where?",
+         406
+      ],
+      [
+         "These stripes don't help.",
+         407
+      ],
+      [
+         "You look great!",
+         408
+      ],
+      [
+         "I don't know if you know anything about fashion.",
+         409
+      ],
+      [
+         "Are you all right?",
+         410
+      ],
+      [
+         "No.",
+         411
+      ],
+      [
+         "He's making the tie in the cab as they're flying up Madison.",
+         412
+      ],
+      [
+         "He finally gets there.",
+         413
+      ],
+      [
+         "He runs up the steps into the church.",
+         414
+      ],
+      [
+         "The wedding is on.",
+         415
+      ],
+      [
+         "And he says, \"Watermelon?",
+         416
+      ],
+      [
+         "I thought you said Guatemalan.",
+         417
+      ],
+      [
+         "Why would I marry a watermelon?\"",
+         418
+      ],
+      [
+         "Is that a bee joke?",
+         419
+      ],
+      [
+         "That's the kind of stuff we do.",
+         420
+      ],
+      [
+         "Yeah, different.",
+         421
+      ],
+      [
+         "So, what are you gonna do, Barry?",
+         422
+      ],
+      [
+         "About work? I don't know.",
+         423
+      ],
+      [
+         "I want to do my part for The Hive, but I can't do it the way they want.",
+         424
+      ],
+      [
+         "I know how you feel.",
+         425
+      ],
+      [
+         "You do?",
+         426
+      ],
+      [
+         "Sure.",
+         427
+      ],
+      [
+         "My parents wanted me to be a lawyer or a doctor, but I wanted to be a florist.",
+         428
+      ],
+      [
+         "Really?",
+         429
+      ],
+      [
+         "My only interest is flowers.",
+         430
+      ],
+      [
+         "Our new queen was just elected with that same campaign slogan.",
+         431
+      ],
+      [
+         "Anyway, if you look... There's my hive right there. See it?",
+         432
+      ],
+      [
+         "You're in Sheep Meadow!",
+         433
+      ],
+      [
+         "Yes! I'm right off the Turtle Pond!",
+         434
+      ],
+      [
+         "No way! I know that area. I lost a toe ring there once.",
+         435
+      ],
+      [
+         "Why do girls put rings on their toes?",
+         436
+      ],
+      [
+         "Why not?",
+         437
+      ],
+      [
+         "It's like putting a hat on your knee.",
+         438
+      ],
+      [
+         "Maybe I'll try that.",
+         439
+      ],
+      [
+         "You all right, ma'am?",
+         440
+      ],
+      [
+         "Oh, yeah. Fine.",
+         441
+      ],
+      [
+         "Just having two cups of coffee!",
+         442
+      ],
+      [
+         "Anyway, this has been great.",
+         443
+      ],
+      [
+         "Thanks for the coffee.",
+         444
+      ],
+      [
+         "Yeah, it's no trouble.",
+         445
+      ],
+      [
+         "Sorry I couldn't finish it. If I did, I'd be up the rest of my life.",
+         446
+      ],
+      [
+         "Are you...?",
+         447
+      ],
+      [
+         "Can I take a piece of this with me?",
+         448
+      ],
+      [
+         "Sure! Here, have a crumb.",
+         449
+      ],
+      [
+         "Thanks!",
+         450
+      ],
+      [
+         "Yeah.",
+         451
+      ],
+      [
+         "All right. Well, then... I guess I'll see you around. Or not.",
+         452
+      ],
+      [
+         "OK, Barry.",
+         453
+      ],
+      [
+         "And thank you so much again... for before.",
+         454
+      ],
+      [
+         "Oh, that? That was nothing.",
+         455
+      ],
+      [
+         "Well, not nothing, but... Anyway...",
+         456
+      ],
+      [
+         "This can't possibly work.",
+         457
+      ],
+      [
+         "He's all set to go.",
+         458
+      ],
+      [
+         "We may as well try it.",
+         459
+      ],
+      [
+         "OK, Dave, pull the chute.",
+         460
+      ],
+      [
+         "Sounds amazing.",
+         461
+      ],
+      [
+         "It was amazing!",
+         462
+      ],
+      [
+         "It was the scariest, happiest moment of my life.",
+         463
+      ],
+      [
+         "Humans! I can't believe you were with humans!",
+         464
+      ],
+      [
+         "Giant, scary humans!",
+         465
+      ],
+      [
+         "What were they like?",
+         466
+      ],
+      [
+         "Huge and crazy. They talk crazy.",
+         467
+      ],
+      [
+         "They eat crazy giant things.",
+         468
+      ],
+      [
+         "They drive crazy.",
+         469
+      ],
+      [
+         "Do they try and kill you, like on TV?",
+         470
+      ],
+      [
+         "Some of them. But some of them don't.",
+         471
+      ],
+      [
+         "How'd you get back?",
+         472
+      ],
+      [
+         "Poodle.",
+         473
+      ],
+      [
+         "You did it, and I'm glad. You saw whatever you wanted to see.",
+         474
+      ],
+      [
+         "You had your \"experience.\" Now you can pick out yourjob and be normal.",
+         475
+      ],
+      [
+         "Well...",
+         476
+      ],
+      [
+         "Well?",
+         477
+      ],
+      [
+         "Well, I met someone.",
+         478
+      ],
+      [
+         "You did? Was she Bee-ish?",
+         479
+      ],
+      [
+         "A wasp?! Your parents will kill you!",
+         480
+      ],
+      [
+         "No, no, no, not a wasp.",
+         481
+      ],
+      [
+         "Spider?",
+         482
+      ],
+      [
+         "I'm not attracted to spiders.",
+         483
+      ],
+      [
+         "I know it's the hottest thing, with the eight legs and all. I can't get by that face.",
+         484
+      ],
+      [
+         "So who is she?",
+         485
+      ],
+      [
+         "She's... human.",
+         486
+      ],
+      [
+         "No, no. That's a bee law. You wouldn't break a bee law.",
+         487
+      ],
+      [
+         "Her name's Vanessa.",
+         488
+      ],
+      [
+         "Oh, boy.",
+         489
+      ],
+      [
+         "She's so nice. And she's a florist!",
+         490
+      ],
+      [
+         "Oh, no! You're dating a human florist!",
+         491
+      ],
+      [
+         "We're not dating.",
+         492
+      ],
+      [
+         "You're flying outside The Hive, talking to humans that attack our homes with power washers and M-80s! One-eighth a stick of dynamite!",
+         493
+      ],
+      [
+         "She saved my life! And she understands me.",
+         494
+      ],
+      [
+         "This is over!",
+         495
+      ],
+      [
+         "Eat this.",
+         496
+      ],
+      [
+         "This is not over! What was that?",
+         497
+      ],
+      [
+         "They call it a crumb.",
+         498
+      ],
+      [
+         "It was so stingin' stripey!",
+         499
+      ],
+      [
+         "And that's not what they eat.",
+         500
+      ],
+      [
+         "That's what falls off what they eat!",
+         501
+      ],
+      [
+         "You know what a Cinnabon is?",
+         502
+      ],
+      [
+         "No.",
+         503
+      ],
+      [
+         "It's bread and cinnamon and frosting. They heat it up...",
+         504
+      ],
+      [
+         "Sit down!",
+         505
+      ],
+      [
+         "...really hot!",
+         506
+      ],
+      [
+         "Listen to me!",
+         507
+      ],
+      [
+         "We are not them! We're us.",
+         508
+      ],
+      [
+         "There's us and there's them!",
+         509
+      ],
+      [
+         "Yes, but who can deny the heart that is yearning?",
+         510
+      ],
+      [
+         "There's no yearning. Stop yearning. Listen to me!",
+         511
+      ],
+      [
+         "You have got to start thinking bee, my friend. Thinking bee!",
+         512
+      ],
+      [
+         "Thinking bee.",
+         513
+      ],
+      [
+         "Thinking bee.",
+         514
+      ],
+      [
+         "Thinking bee! Thinking bee! Thinking bee! Thinking bee!",
+         515
+      ],
+      [
+         "There he is. He's in the pool.",
+         516
+      ],
+      [
+         "You know what your problem is, Barry?",
+         517
+      ],
+      [
+         "I gotta start thinking bee?",
+         518
+      ],
+      [
+         "How much longer will this go on?",
+         519
+      ],
+      [
+         "It's been three days! Why aren't you working?",
+         520
+      ],
+      [
+         "I've got a lot of big life decisions to think about.",
+         521
+      ],
+      [
+         "What life? You have no life!",
+         522
+      ],
+      [
+         "You have no job. You're barely a bee!",
+         523
+      ],
+      [
+         "Would it kill you to make a little honey?",
+         524
+      ],
+      [
+         "Barry, come out. Your father's talking to you.",
+         525
+      ],
+      [
+         "Martin, would you talk to him?",
+         526
+      ],
+      [
+         "Barry, I'm talking to you!",
+         527
+      ],
+      [
+         "You coming?",
+         528
+      ],
+      [
+         "Got everything?",
+         529
+      ],
+      [
+         "All set!",
+         530
+      ],
+      [
+         "Go ahead. I'll catch up.",
+         531
+      ],
+      [
+         "Don't be too long.",
+         532
+      ],
+      [
+         "Watch this!",
+         533
+      ],
+      [
+         "Vanessa!",
+         534
+      ],
+      [
+         "We're still here.",
+         535
+      ],
+      [
+         "I told you not to yell at him.",
+         536
+      ],
+      [
+         "He doesn't respond to yelling!",
+         537
+      ],
+      [
+         "Then why yell at me?",
+         538
+      ],
+      [
+         "Because you don't listen!",
+         539
+      ],
+      [
+         "I'm not listening to this.",
+         540
+      ],
+      [
+         "Sorry, I've gotta go.",
+         541
+      ],
+      [
+         "Where are you going?",
+         542
+      ],
+      [
+         "I'm meeting a friend.",
+         543
+      ],
+      [
+         "A girl? Is this why you can't decide?",
+         544
+      ],
+      [
+         "Bye.",
+         545
+      ],
+      [
+         "I just hope she's Bee-ish.",
+         546
+      ],
+      [
+         "They have a huge parade of flowers every year in Pasadena?",
+         547
+      ],
+      [
+         "To be in the Tournament of Roses, that's every florist's dream!",
+         548
+      ],
+      [
+         "Up on a float, surrounded by flowers, crowds cheering.",
+         549
+      ],
+      [
+         "A tournament. Do the roses compete in athletic events?",
+         550
+      ],
+      [
+         "No. All right, I've got one.",
+         551
+      ],
+      [
+         "How come you don't fly everywhere?",
+         552
+      ],
+      [
+         "It's exhausting. Why don't you run everywhere? It's faster.",
+         553
+      ],
+      [
+         "Yeah, OK, I see, I see.",
+         554
+      ],
+      [
+         "All right, your turn.",
+         555
+      ],
+      [
+         "TiVo. You can just freeze live TV? That's insane!",
+         556
+      ],
+      [
+         "You don't have that?",
+         557
+      ],
+      [
+         "We have Hivo, but it's a disease. It's a horrible, horrible disease.",
+         558
+      ],
+      [
+         "Oh, my.",
+         559
+      ],
+      [
+         "Dumb bees!",
+         560
+      ],
+      [
+         "You must want to sting all those jerks.",
+         561
+      ],
+      [
+         "We try not to sting. It's usually fatal for us.",
+         562
+      ],
+      [
+         "So you have to watch your temper.",
+         563
+      ],
+      [
+         "Very carefully.",
+         564
+      ],
+      [
+         "You kick a wall, take a walk, write an angry letter and throw it out. Work through it like any emotion: Anger, jealousy, lust.",
+         565
+      ],
+      [
+         "Oh, my goodness! Are you OK?",
+         566
+      ],
+      [
+         "Yeah.",
+         567
+      ],
+      [
+         "What is wrong with you?!",
+         568
+      ],
+      [
+         "It's a bug.",
+         569
+      ],
+      [
+         "He's not bothering anybody.",
+         570
+      ],
+      [
+         "Get out of here, you creep!",
+         571
+      ],
+      [
+         "What was that? A Pic 'N' Save circular?",
+         572
+      ],
+      [
+         "Yeah, it was. How did you know?",
+         573
+      ],
+      [
+         "It felt like about 10 pages. Seventy-five is pretty much our limit.",
+         574
+      ],
+      [
+         "You've really got that down to a science.",
+         575
+      ],
+      [
+         "I lost a cousin to Italian Vogue.",
+         576
+      ],
+      [
+         "I'll bet.",
+         577
+      ],
+      [
+         "What in the name of Mighty Hercules is this?",
+         578
+      ],
+      [
+         "How did this get here? cute Bee, Golden Blossom, Ray Liotta Private Select?",
+         579
+      ],
+      [
+         "Is he that actor?",
+         580
+      ],
+      [
+         "I never heard of him.",
+         581
+      ],
+      [
+         "Why is this here?",
+         582
+      ],
+      [
+         "For people. We eat it.",
+         583
+      ],
+      [
+         "You don't have enough food of your own?",
+         584
+      ],
+      [
+         "Well, yes.",
+         585
+      ],
+      [
+         "How do you get it?",
+         586
+      ],
+      [
+         "Bees make it.",
+         587
+      ],
+      [
+         "I know who makes it! And it's hard to make it!",
+         588
+      ],
+      [
+         "There's heating, cooling, stirring. You need a whole Krelman thing!",
+         589
+      ],
+      [
+         "It's organic.",
+         590
+      ],
+      [
+         "It's our-ganic!",
+         591
+      ],
+      [
+         "It's just honey, Barry.",
+         592
+      ],
+      [
+         "Just what?!",
+         593
+      ],
+      [
+         "Bees don't know about this! This is stealing! A lot of stealing!",
+         594
+      ],
+      [
+         "You've taken our homes, schools,hospitals! This is all we have!",
+         595
+      ],
+      [
+         "And it's on sale?! I'm getting to the bottom of this.",
+         596
+      ],
+      [
+         "I'm getting to the bottom of all of this!",
+         597
+      ],
+      [
+         "Hey, Hector. You almost done?",
+         598
+      ],
+      [
+         "Almost.",
+         599
+      ],
+      [
+         "He is here. I sense it.",
+         600
+      ],
+      [
+         "Well, I guess I'll go home now and just leave this nice honey out, with no one around.",
+         601
+      ],
+      [
+         "You're busted, box boy!",
+         602
+      ],
+      [
+         "I knew I heard something.",
+         603
+      ],
+      [
+         "So you can talk!",
+         604
+      ],
+      [
+         "I can talk. And now you'll start talking!",
+         605
+      ],
+      [
+         "Where you getting the sweet stuff? Who's your supplier?",
+         606
+      ],
+      [
+         "I don't understand.",
+         607
+      ],
+      [
+         "I thought we were friends.",
+         608
+      ],
+      [
+         "The last thing we want to do is upset bees!",
+         609
+      ],
+      [
+         "You're too late! It's ours now!",
+         610
+      ],
+      [
+         "You, sir, have crossed the wrong sword!",
+         611
+      ],
+      [
+         "You, sir, will be lunch for my iguana, Ignacio!",
+         612
+      ],
+      [
+         "Where is the honey coming from? Tell me where!",
+         613
+      ],
+      [
+         "Honey Farms! It comes from Honey Farms!",
+         614
+      ],
+      [
+         "Crazy person!",
+         615
+      ],
+      [
+         "What horrible thing has happened here?",
+         616
+      ],
+      [
+         "These faces, they never knew what hit them. And now",
+         617
+      ],
+      [
+         "they're on the road to nowhere!",
+         618
+      ],
+      [
+         "Just keep still.",
+         619
+      ],
+      [
+         "What? You're not dead?",
+         620
+      ],
+      [
+         "Do I look dead? They will wipe anything that moves. Where you headed?",
+         621
+      ],
+      [
+         "To Honey Farms. I am onto something huge here.",
+         622
+      ],
+      [
+         "I'm going to Alaska. Moose blood, crazy stuff. Blows your head off!",
+         623
+      ],
+      [
+         "I'm going to Tacoma.",
+         624
+      ],
+      [
+         "And you?",
+         625
+      ],
+      [
+         "He really is dead.",
+         626
+      ],
+      [
+         "All right.",
+         627
+      ],
+      [
+         "Uh-oh!",
+         628
+      ],
+      [
+         "What is that?!",
+         629
+      ],
+      [
+         "Oh, no!",
+         630
+      ],
+      [
+         "A wiper! Triple blade!",
+         631
+      ],
+      [
+         "Triple blade?",
+         632
+      ],
+      [
+         "Jump on! It's your only chance, bee!",
+         633
+      ],
+      [
+         "Why does everything have",
+         634
+      ],
+      [
+         "to be so doggone clean?!",
+         635
+      ],
+      [
+         "How much do you people need to see?!",
+         636
+      ],
+      [
+         "Open your eyes!",
+         637
+      ],
+      [
+         "Stick your head out the window!",
+         638
+      ],
+      [
+         "From NPR News in Washington,",
+         639
+      ],
+      [
+         "I'm Carl Kasell.",
+         640
+      ],
+      [
+         "But don't kill no more bugs!",
+         641
+      ],
+      [
+         "Bee!",
+         642
+      ],
+      [
+         "Moose blood guy!!",
+         643
+      ],
+      [
+         "You hear something?",
+         644
+      ],
+      [
+         "Like what?",
+         645
+      ],
+      [
+         "Like tiny screaming.",
+         646
+      ],
+      [
+         "Turn off the radio.",
+         647
+      ],
+      [
+         "Whassup, bee boy?",
+         648
+      ],
+      [
+         "Hey, Blood.",
+         649
+      ],
+      [
+         "Just a row of honey jars, as far as the eye could see.",
+         650
+      ],
+      [
+         "Wow!",
+         651
+      ],
+      [
+         "I assume wherever this truck goes is where they're getting it. I mean, that honey's ours.",
+         652
+      ],
+      [
+         "Bees hang tight. We're all jammed in.",
+         653
+      ],
+      [
+         "It's a close community.",
+         654
+      ],
+      [
+         "Not us, man. We on our own. Every mosquito on his own.",
+         655
+      ],
+      [
+         "What if you get in trouble?",
+         656
+      ],
+      [
+         "You a mosquito, you in trouble. Nobody likes us. They just smack. See a mosquito, smack, smack!",
+         657
+      ],
+      [
+         "At least you're out in the world. You must meet girls.",
+         658
+      ],
+      [
+         "Mosquito girls try to trade up, get with a moth, dragonfly. Mosquito girl don't want no mosquito.",
+         659
+      ],
+      [
+         "You got to be kidding me!",
+         660
+      ],
+      [
+         "Mooseblood's about to leave the building! So long, bee!",
+         661
+      ],
+      [
+         "Hey, guys!",
+         662
+      ],
+      [
+         "Mooseblood!",
+         663
+      ],
+      [
+         "I knew I'd catch y'all down here.",
+         664
+      ],
+      [
+         "Did you bring your crazy straw?",
+         665
+      ],
+      [
+         "We throw it in jars, slap a label on it, and it's pretty much pure profit.",
+         666
+      ],
+      [
+         "What is this place?",
+         667
+      ],
+      [
+         "A bee's got a brain the size of a pinhead.",
+         668
+      ],
+      [
+         "They are pinheads!",
+         669
+      ],
+      [
+         "Pinhead.",
+         670
+      ],
+      [
+         "Check out the new smoker.",
+         671
+      ],
+      [
+         "Oh, sweet. That's the one you want. The Thomas 3000!",
+         672
+      ],
+      [
+         "Smoker?",
+         673
+      ],
+      [
+         "Ninety puffs a minute, semi-automatic. Twice the nicotine, all the tar. A couple breaths of this knocks them right out.",
+         674
+      ],
+      [
+         "They make the honey, and we make the money.",
+         675
+      ],
+      [
+         "\"They make the honey, and we make the money\"?",
+         676
+      ],
+      [
+         "Oh, my!",
+         677
+      ],
+      [
+         "What's going on? Are you OK?",
+         678
+      ],
+      [
+         "Yeah. It doesn't last too long.",
+         679
+      ],
+      [
+         "Do you know you're in a fake hive with fake walls?",
+         680
+      ],
+      [
+         "Our queen was moved here. We had no choice.",
+         681
+      ],
+      [
+         "This is your queen? That's a man in women's clothes! That's a drag queen!",
+         682
+      ],
+      [
+         "What is this?",
+         683
+      ],
+      [
+         "Oh, no!",
+         684
+      ],
+      [
+         "There's hundreds of them!",
+         685
+      ],
+      [
+         "Bee honey.",
+         686
+      ],
+      [
+         "Our honey is being brazenly stolen on a massive scale!",
+         687
+      ],
+      [
+         "This is worse than anything bears have done! I intend to do something.",
+         688
+      ],
+      [
+         "Oh, Barry, stop.",
+         689
+      ],
+      [
+         "Who told you humans are taking our honey? That's a rumor.",
+         690
+      ],
+      [
+         "Do these look like rumors?",
+         691
+      ],
+      [
+         "That's a conspiracy theory. These are obviously doctored photos. How did you get mixed up in this?",
+         692
+      ],
+      [
+         "He's been talking to humans.",
+         693
+      ],
+      [
+         "What? Talking to humans?!",
+         694
+      ],
+      [
+         "He has a human girlfriend. And they make out!",
+         695
+      ],
+      [
+         "Make out? Barry!",
+         696
+      ],
+      [
+         "We do not.",
+         697
+      ],
+      [
+         "You wish you could.",
+         698
+      ],
+      [
+         "Whose side are you on?",
+         699
+      ],
+      [
+         "The bees!",
+         700
+      ],
+      [
+         "I dated a cricket once in San Antonio. Those crazy legs kept me up all night.",
+         701
+      ],
+      [
+         "Barry, this is what you want to do with your life?",
+         702
+      ],
+      [
+         "I want to do it for all our lives. Nobody works harder than bees!",
+         703
+      ],
+      [
+         "Dad, I remember you coming home so overworked",
+         704
+      ],
+      [
+         "your hands were still stirring. You couldn't stop.",
+         705
+      ],
+      [
+         "I remember that.",
+         706
+      ],
+      [
+         "What right do they have to our honey?",
+         707
+      ],
+      [
+         "We live on two cups a year. They put it in lip balm for no reason whatsoever!",
+         708
+      ],
+      [
+         "Even if it's true, what can one bee do?",
+         709
+      ],
+      [
+         "Sting them where it really hurts.",
+         710
+      ],
+      [
+         "In the face! The eye!",
+         711
+      ],
+      [
+         "That would hurt.",
+         712
+      ],
+      [
+         "No.",
+         713
+      ],
+      [
+         "Up the nose? That's a killer.",
+         714
+      ],
+      [
+         "There's only one place you can sting the humans, one place where it matters.",
+         715
+      ],
+      [
+         "Hive at Five, The Hive's only full-hour action news source.",
+         716
+      ],
+      [
+         "No more bee beards!",
+         717
+      ],
+      [
+         "With Bob Bumble at the anchor desk. Weather with Storm Stinger. Sports with Buzz Larvi. And Jeanette Chung.",
+         718
+      ],
+      [
+         "Good evening. I'm Bob Bumble.",
+         719
+      ],
+      [
+         "And I'm Jeanette Ohung.",
+         720
+      ],
+      [
+         "A tri-county bee, Barry Benson, intends to sue the human race for stealing our honey, packaging it and profiting from it illegally!",
+         721
+      ],
+      [
+         "Tomorrow night on Bee Larry King, we'll have three former queens here in our studio, discussing their new book, classy Ladies, out this week on Hexagon.",
+         722
+      ],
+      [
+         "Tonight we're talking to Barry Benson.",
+         723
+      ],
+      [
+         "Did you ever think, \"I'm a kid from The Hive. I can't do this\"?",
+         724
+      ],
+      [
+         "Bees have never been afraid to change the world.",
+         725
+      ],
+      [
+         "What about Bee Oolumbus? Bee Gandhi? Bejesus?",
+         726
+      ],
+      [
+         "Where I'm from, we'd never sue humans.",
+         727
+      ],
+      [
+         "We were thinking of stickball or candy stores.",
+         728
+      ],
+      [
+         "How old are you?",
+         729
+      ],
+      [
+         "The bee community is supporting you in this case, which will be the trial of the bee century.",
+         730
+      ],
+      [
+         "You know, they have a Larry King in the human world too.",
+         731
+      ],
+      [
+         "It's a common name. Next week...",
+         732
+      ],
+      [
+         "He looks like you and has a show and suspenders and colored dots...",
+         733
+      ],
+      [
+         "Next week...",
+         734
+      ],
+      [
+         "Glasses, quotes on the bottom from the guest even though you just heard 'em.",
+         735
+      ],
+      [
+         "Bear Week next week! They're scary, hairy and here live.",
+         736
+      ],
+      [
+         "Always leans forward, pointy shoulders, squinty eyes, very Jewish.",
+         737
+      ],
+      [
+         "In tennis, you attack at the point of weakness!",
+         738
+      ],
+      [
+         "It was my grandmother, Ken. She's 81.",
+         739
+      ],
+      [
+         "Honey, her backhand's a joke!",
+         740
+      ],
+      [
+         "I'm not gonna take advantage of that?",
+         741
+      ],
+      [
+         "Quiet, please.",
+         742
+      ],
+      [
+         "Actual work going on here.",
+         743
+      ],
+      [
+         "Is that that same bee?",
+         744
+      ],
+      [
+         "Yes, it is!",
+         745
+      ],
+      [
+         "I'm helping him sue the human race.",
+         746
+      ],
+      [
+         "Hello.",
+         747
+      ],
+      [
+         "Hello, bee.",
+         748
+      ],
+      [
+         "This is Ken.",
+         749
+      ],
+      [
+         "Yeah, I remember you. Timberland, size ten and a half. Vibram sole, I believe.",
+         750
+      ],
+      [
+         "Why does he talk again?",
+         751
+      ],
+      [
+         "Listen, you better go 'cause we're really busy working.",
+         752
+      ],
+      [
+         "But it's our yogurt night!",
+         753
+      ],
+      [
+         "Bye-bye.",
+         754
+      ],
+      [
+         "Why is yogurt night so difficult?!",
+         755
+      ],
+      [
+         "You poor thing. You two have been at this for hours!",
+         756
+      ],
+      [
+         "Yes, and Adam here has been a huge help.",
+         757
+      ],
+      [
+         "Frosting...",
+         758
+      ],
+      [
+         "How many sugars?",
+         759
+      ],
+      [
+         "Just one. I try not to use the competition.",
+         760
+      ],
+      [
+         "So why are you helping me?",
+         761
+      ],
+      [
+         "Bees have good qualities. And it takes my mind off the shop. Instead of flowers, people are giving balloon bouquets now.",
+         762
+      ],
+      [
+         "Those are great, if you're three.",
+         763
+      ],
+      [
+         "And artificial flowers.",
+         764
+      ],
+      [
+         "Oh, those just get me psychotic!",
+         765
+      ],
+      [
+         "Yeah, me too.",
+         766
+      ],
+      [
+         "Bent stingers, pointless pollination.",
+         767
+      ],
+      [
+         "Bees must hate those fake things!",
+         768
+      ],
+      [
+         "Nothing worse than a daffodil that's had work done.",
+         769
+      ],
+      [
+         "Maybe this could make up for it a little bit.",
+         770
+      ],
+      [
+         "This lawsuit's a pretty big deal.",
+         771
+      ],
+      [
+         "I guess.",
+         772
+      ],
+      [
+         "You sure you want to go through with it?",
+         773
+      ],
+      [
+         "Am I sure? When I'm done with the humans, they won't be able to say, \"Honey, I'm home,\" without paying a royalty!",
+         774
+      ],
+      [
+         "It's an incredible scene here in downtown Manhattan, where the world anxiously waits, because for the first time in history, we will hear for ourselves if a honeybee can actually speak.",
+         775
+      ],
+      [
+         "What have we gotten into here, Barry?",
+         776
+      ],
+      [
+         "It's pretty big, isn't it?",
+         777
+      ],
+      [
+         "I can't believe how many humans don't work during the day.",
+         778
+      ],
+      [
+         "You think billion-dollar multinational food companies have good lawyers?",
+         779
+      ],
+      [
+         "Everybody needs to stay behind the barricade.",
+         780
+      ],
+      [
+         "What's the matter?",
+         781
+      ],
+      [
+         "I don't know, I just got a chill.",
+         782
+      ],
+      [
+         "Well, if it isn't the bee team.",
+         783
+      ],
+      [
+         "You boys work on this?",
+         784
+      ],
+      [
+         "All rise! The Honorable Judge Bumbleton presiding.",
+         785
+      ],
+      [
+         "All right. Case number 4475,",
+         786
+      ],
+      [
+         "Superior Court of New York,",
+         787
+      ],
+      [
+         "Barry Bee Benson v. the Honey Industry is now in session.",
+         788
+      ],
+      [
+         "Mr. Montgomery, you're representing the five food companies collectively?",
+         789
+      ],
+      [
+         "A privilege.",
+         790
+      ],
+      [
+         "Mr. Benson... you're representing all the bees of the world?",
+         791
+      ],
+      [
+         "I'm kidding. Yes, Your Honor, we're ready to proceed.",
+         792
+      ],
+      [
+         "Mr. Montgomery, your opening statement, please.",
+         793
+      ],
+      [
+         "Ladies and gentlemen of the jury, my grandmother was a simple woman. Born on a farm, she believed it was man's divine right to benefit from the bounty of nature God put before us.",
+         794
+      ],
+      [
+         "If we lived in the topsy-turvy world Mr. Benson imagines, just think of what would it mean.",
+         795
+      ],
+      [
+         "I would have to negotiate with the silkworm for the elastic in my britches!",
+         796
+      ],
+      [
+         "Talking bee!",
+         797
+      ],
+      [
+         "How do we know this isn't some sort of holographic motion-picture-capture Hollywood wizardry?",
+         798
+      ],
+      [
+         "They could be using laser beams! Robotics! Ventriloquism! Cloning! For all we know, he could be on steroids!",
+         799
+      ],
+      [
+         "Mr. Benson?",
+         800
+      ],
+      [
+         "Ladies and gentlemen, there's no trickery here. I'm just an ordinary bee. Honey's pretty important to me. It's important to all bees. We invented it! We make it. And we protect it with our lives.",
+         801
+      ],
+      [
+         "Unfortunately, there are some people in this room who think they can take it from us 'cause we're the little guys!",
+         802
+      ],
+      [
+         "I'm hoping that, after this is all over, you'll see how, by taking our honey, you not only take everything we have but everything we are!",
+         803
+      ],
+      [
+         "I wish he'd dress like that all the time. So nice!",
+         804
+      ],
+      [
+         "Call your first witness.",
+         805
+      ],
+      [
+         "So, Mr. Klauss Vanderhayden of Honey Farms, big company you have.",
+         806
+      ],
+      [
+         "I suppose so.",
+         807
+      ],
+      [
+         "I see you also own Honeyburton and Honron!",
+         808
+      ],
+      [
+         "Yes, they provide beekeepers for our farms.",
+         809
+      ],
+      [
+         "Beekeeper. I find that to be a very disturbing term.",
+         810
+      ],
+      [
+         "I don't imagine you employ any bee-free-ers, do you?",
+         811
+      ],
+      [
+         "No.",
+         812
+      ],
+      [
+         "I couldn't hear you.",
+         813
+      ],
+      [
+         "No.",
+         814
+      ],
+      [
+         "No. Because you don't free bees. You keep bees. Not only that, it seems you thought a bear would be an appropriate image for a jar of honey.",
+         815
+      ],
+      [
+         "They're very lovable creatures. Yogi Bear, Fozzie Bear, Build-A-Bear.",
+         816
+      ],
+      [
+         "You mean like this?",
+         817
+      ],
+      [
+         "Bears kill bees!",
+         818
+      ],
+      [
+         "How'd you like his head crashing through your living room?! Biting into your couch! Spitting out your throw pillows! OK, that's enough. Take him away.",
+         819
+      ],
+      [
+         "So, Mr. Sting, thank you for being here. Your name intrigues me. Where have I heard it before?",
+         820
+      ],
+      [
+         "I was with a band called The Police.",
+         821
+      ],
+      [
+         "But you've never been a police officer, have you?",
+         822
+      ],
+      [
+         "No, I haven't.",
+         823
+      ],
+      [
+         "No, you haven't. And so here we have yet another example of bee culture casually stolen by a human for nothing more than a prance-about stage name.",
+         824
+      ],
+      [
+         "Oh, please.",
+         825
+      ],
+      [
+         "Have you ever been stung, Mr. Sting? Because I'm feeling a little stung, Sting. Or should I say... Mr. Gordon M. Sumner!",
+         826
+      ],
+      [
+         "That's not his real name?! You idiots!",
+         827
+      ],
+      [
+         "Mr. Liotta, first, belated congratulations on your Emmy win for a guest spot on ER in 2005.",
+         828
+      ],
+      [
+         "Thank you. Thank you.",
+         829
+      ],
+      [
+         "I see from your resume that you're devilishly handsome with a churning inner turmoil that's ready to blow.",
+         830
+      ],
+      [
+         "I enjoy what I do. Is that a crime?",
+         831
+      ],
+      [
+         "Not yet it isn't. But is this what it's come to for you? Exploiting tiny, helpless bees so you don't have to rehearse your part and learn your lines, sir?",
+         832
+      ],
+      [
+         "Watch it, Benson! I could blow right now!",
+         833
+      ],
+      [
+         "This isn't a goodfella.",
+         834
+      ],
+      [
+         "This is a badfella!",
+         835
+      ],
+      [
+         "Why doesn't someone just step on this creep, and we can all go home?!",
+         836
+      ],
+      [
+         "Order in this court!",
+         837
+      ],
+      [
+         "You're all thinking it!",
+         838
+      ],
+      [
+         "Order! Order, I say!",
+         839
+      ],
+      [
+         "Say it!",
+         840
+      ],
+      [
+         "Mr. Liotta, please sit down!",
+         841
+      ],
+      [
+         "I think it was awfully nice of that bear to pitch in like that. I think the jury's on our side.",
+         842
+      ],
+      [
+         "Are we doing everything right, legally?",
+         843
+      ],
+      [
+         "I'm a florist.",
+         844
+      ],
+      [
+         "Right. Well, here's to a great team.",
+         845
+      ],
+      [
+         "To a great team!",
+         846
+      ],
+      [
+         "Well, hello.",
+         847
+      ],
+      [
+         "Ken!",
+         848
+      ],
+      [
+         "Hello.",
+         849
+      ],
+      [
+         "I didn't think you were coming.",
+         850
+      ],
+      [
+         "No, I was just late I tried to call, but... the battery.",
+         851
+      ],
+      [
+         "I didn't want all this to go to waste,",
+         852
+      ],
+      [
+         "so I called Barry. Luckily, he was free.",
+         853
+      ],
+      [
+         "Oh, that was lucky.",
+         854
+      ],
+      [
+         "There's a little left. I could heat it up.",
+         855
+      ],
+      [
+         "Yeah, heat it up, sure, whatever.",
+         856
+      ],
+      [
+         "So I hear you're quite a tennis player. I'm not much for the game myself. The ball's a little grabby.",
+         857
+      ],
+      [
+         "That's where I usually sit. Right... there.",
+         858
+      ],
+      [
+         "Ken, Barry was looking at your resume, and he agreed with me that eating with chopsticks isn't really a special skill.",
+         859
+      ],
+      [
+         "You think I don't see what you're doing?",
+         860
+      ],
+      [
+         "I know how hard it is to find the right job. We have that in common.",
+         861
+      ],
+      [
+         "Do we?",
+         862
+      ],
+      [
+         "Bees have 100 percent employment, but we do jobs like taking the crud out.",
+         863
+      ],
+      [
+         "That's just what I was thinking about doing.",
+         864
+      ],
+      [
+         "Ken, I let Barry borrow your razor for his fuzz. I hope that was all right.",
+         865
+      ],
+      [
+         "I'm going to drain the old stinger.",
+         866
+      ],
+      [
+         "Yeah, you do that.",
+         867
+      ],
+      [
+         "Look at that.",
+         868
+      ],
+      [
+         "You know, I've just about had it with your little Mind Games.",
+         869
+      ],
+      [
+         "What's that?",
+         870
+      ],
+      [
+         "Italian Vogue.",
+         871
+      ],
+      [
+         "Mamma mia, that's a lot of pages.",
+         872
+      ],
+      [
+         "A lot of ads.",
+         873
+      ],
+      [
+         "Remember what Van said, why is your life more valuable than mine?",
+         874
+      ],
+      [
+         "Funny, I just can't seem to recall that! I think something stinks in here!",
+         875
+      ],
+      [
+         "I love the smell of flowers.",
+         876
+      ],
+      [
+         "How do you like the smell of flames?!",
+         877
+      ],
+      [
+         "Not as much.",
+         878
+      ],
+      [
+         "Water bug! Not taking sides!",
+         879
+      ],
+      [
+         "Ken, I'm wearing a Chapstick hat!",
+         880
+      ],
+      [
+         "This is pathetic!",
+         881
+      ],
+      [
+         "I've got issues!",
+         882
+      ],
+      [
+         "Well, well, well, a royal flush!",
+         883
+      ],
+      [
+         "You're bluffing.",
+         884
+      ],
+      [
+         "Am I?",
+         885
+      ],
+      [
+         "Surf's up, dude!",
+         886
+      ],
+      [
+         "Poo water!",
+         887
+      ],
+      [
+         "That bowl is gnarly. Except for those dirty yellow rings!",
+         888
+      ],
+      [
+         "Kenneth! What are you doing?!",
+         889
+      ],
+      [
+         "You know, I don't even like honey! I don't eat it!",
+         890
+      ],
+      [
+         "We need to talk! He's just a little bee!",
+         891
+      ],
+      [
+         "And he happens to be the nicest bee I've met in a long time!",
+         892
+      ],
+      [
+         "Long time? What are you talking about?! Are there other bugs in your life?",
+         893
+      ],
+      [
+         " No, but there are other things bugging me in life. And you're one of them!",
+         894
+      ],
+      [
+         "Fine! Talking bees, no yogurt night...",
+         895
+      ],
+      [
+         "My nerves are fried from riding on this emotional roller coaster!",
+         896
+      ],
+      [
+         "Goodbye, Ken.",
+         897
+      ],
+      [
+         "And for your information, I prefer sugar-free, artificial sweeteners made by man!",
+         898
+      ],
+      [
+         "I'm sorry about all that.",
+         899
+      ],
+      [
+         "I know it's got an aftertaste! I like it!",
+         900
+      ],
+      [
+         "I always felt there was some kind of barrier between Ken and me. I couldn't overcome it.",
+         901
+      ],
+      [
+         "Oh, well.",
+         902
+      ],
+      [
+         "Are you OK for the trial?",
+         903
+      ],
+      [
+         "I believe Mr. Montgomery is about out of ideas.",
+         904
+      ],
+      [
+         "We would like to call Mr. Barry Benson Bee to the stand.",
+         905
+      ],
+      [
+         "Good idea! You can really see why he's considered one of the best lawyers...",
+         906
+      ],
+      [
+         "Yeah.",
+         907
+      ],
+      [
+         "Layton, you've gotta weave some magic with this jury, or it's gonna be all over.",
+         908
+      ],
+      [
+         "Don't worry. The only thing I have to do to turn this jury around is to remind them of what they don't like about bees.",
+         909
+      ],
+      [
+         "You got the tweezers?",
+         910
+      ],
+      [
+         "Are you allergic?",
+         911
+      ],
+      [
+         "Only to losing, son. Only to losing.",
+         912
+      ],
+      [
+         "Mr. Benson Bee, I'll ask you what I think we'd all like to know.",
+         913
+      ],
+      [
+         "What exactly is your relationship to that woman?",
+         914
+      ],
+      [
+         "We're friends.",
+         915
+      ],
+      [
+         "Good friends?",
+         916
+      ],
+      [
+         "Yes.",
+         917
+      ],
+      [
+         "How good? Do you live together?",
+         918
+      ],
+      [
+         "Wait a minute... Are you her little... bedbug?",
+         919
+      ],
+      [
+         "I've seen a bee documentary or two. From what I understand, doesn't your queen give birth to all the bee children?",
+         920
+      ],
+      [
+         "Yeah, but...",
+         921
+      ],
+      [
+         "So those aren't your real parents!",
+         922
+      ],
+      [
+         "Oh, Barry...",
+         923
+      ],
+      [
+         "Yes, they are!",
+         924
+      ],
+      [
+         "Hold me back!",
+         925
+      ],
+      [
+         "You're an illegitimate bee, aren't you, Benson?",
+         926
+      ],
+      [
+         "He's denouncing bees!",
+         927
+      ],
+      [
+         "Don't y'all date your cousins?",
+         928
+      ],
+      [
+         "Objection!",
+         929
+      ],
+      [
+         "I'm going to pincushion this guy!",
+         930
+      ],
+      [
+         "Adam, don't! It's what he wants!",
+         931
+      ],
+      [
+         "Oh, I'm hit!! Oh, lordy, I am hit!",
+         932
+      ],
+      [
+         "Order! Order!",
+         933
+      ],
+      [
+         "The venom! The venom is coursing through my veins! I have been felled by a winged beast of destruction! You see? You can't treat them like equals! They're striped savages! Stinging's the only thing they know! It's their way!",
+         934
+      ],
+      [
+         "Adam, stay with me.",
+         935
+      ],
+      [
+         "I can't feel my legs.",
+         936
+      ],
+      [
+         "What Angel of Mercy will come forward to suck the poison from my heaving buttocks?",
+         937
+      ],
+      [
+         "I will have order in this court. Order! Order, please!",
+         938
+      ],
+      [
+         "The case of the honeybees versus the human race took a pointed Turn Against the bees yesterday when one of their legal team stung Layton T. Montgomery.",
+         939
+      ],
+      [
+         "Hey, buddy.",
+         940
+      ],
+      [
+         "Hey.",
+         941
+      ],
+      [
+         "Is there much pain?",
+         942
+      ],
+      [
+         "Yeah.",
+         943
+      ],
+      [
+         "I... I blew the whole case, didn't I?",
+         944
+      ],
+      [
+         "It doesn't matter. What matters is",
+         945
+      ],
+      [
+         "you're alive. You could have died.",
+         946
+      ],
+      [
+         "I'd be better off dead. Look at me.",
+         947
+      ],
+      [
+         "They got it from the cafeteria downstairs, in a tuna sandwich. Look, there's a little celery still on it.",
+         948
+      ],
+      [
+         "What was it like to sting someone?",
+         949
+      ],
+      [
+         "I can't explain it. It was all... All adrenaline and then...and then ecstasy!",
+         950
+      ],
+      [
+         "All right.",
+         951
+      ],
+      [
+         "You think it was all a trap?",
+         952
+      ],
+      [
+         "Of course. I'm sorry. I flew us right into this.",
+         953
+      ],
+      [
+         "What were we thinking? Look at us. We're just a couple of bugs in this world.",
+         954
+      ],
+      [
+         "What will the humans do to us if they win?",
+         955
+      ],
+      [
+         "I don't know.",
+         956
+      ],
+      [
+         "I hear they put the roaches in motels. That doesn't sound so bad.",
+         957
+      ],
+      [
+         "Adam, they check in, but they don't check out!",
+         958
+      ],
+      [
+         "Oh, my.",
+         959
+      ],
+      [
+         "Could you get a nurse to close that window?",
+         960
+      ],
+      [
+         "Why?",
+         961
+      ],
+      [
+         "The smoke.",
+         962
+      ],
+      [
+         "Bees don't smoke.",
+         963
+      ],
+      [
+         "Right. Bees don't smoke.",
+         964
+      ],
+      [
+         "Bees don't smoke!",
+         965
+      ],
+      [
+         "But some bees are smoking.",
+         966
+      ],
+      [
+         "That's it! That's our case!",
+         967
+      ],
+      [
+         "It is? It's not over?",
+         968
+      ],
+      [
+         "Get dressed. I've gotta go somewhere.",
+         969
+      ],
+      [
+         "Get back to the court and stall. Stall any way you can.",
+         970
+      ],
+      [
+         "And assuming you've done step correctly, you're ready for the tub.",
+         971
+      ],
+      [
+         "Mr. Flayman.",
+         972
+      ],
+      [
+         "Yes? Yes, Your Honor!",
+         973
+      ],
+      [
+         "Where is the rest of your team?",
+         974
+      ],
+      [
+         "Well, Your Honor, it's interesting. Bees are trained to fly haphazardly, and as a result, we don't make very good time.",
+         975
+      ],
+      [
+         "I actually heard a funny story about...",
+         976
+      ],
+      [
+         "Your Honor, haven't these ridiculous bugs taken up enough of this court's valuable time? How much longer will we allow these absurd shenanigans to go on?",
+         977
+      ],
+      [
+         "They have presented no compelling evidence to support their charges against my clients, who run legitimate businesses.",
+         978
+      ],
+      [
+         "I move for a complete dismissal of this entire case!",
+         979
+      ],
+      [
+         "Mr. Flayman, I'm afraid I'm going to have to consider Mr. Montgomery's motion.",
+         980
+      ],
+      [
+         "But you can't! We have a terrific case.",
+         981
+      ],
+      [
+         "Where is your proof?",
+         982
+      ],
+      [
+         "Where is the evidence?",
+         983
+      ],
+      [
+         "Show me the smoking gun!",
+         984
+      ],
+      [
+         "Hold it, Your Honor!",
+         985
+      ],
+      [
+         "You want a smoking gun? Here is your smoking gun.",
+         986
+      ],
+      [
+         "What is that?",
+         987
+      ],
+      [
+         "It's a bee smoker!",
+         988
+      ],
+      [
+         "What, this? This harmless little contraption? This couldn't hurt a fly, let alone a bee.",
+         989
+      ],
+      [
+         "Look at what has happened to bees who have never been asked, \"Smoking or non?\" Is this what nature intended for us? To be forcibly addicted to smoke machines and man-made wooden slat work camps?",
+         990
+      ],
+      [
+         "Living out our lives as honey slaves to the white man?",
+         991
+      ],
+      [
+         "What are we gonna do?",
+         992
+      ],
+      [
+         "He's playing the species card.",
+         993
+      ],
+      [
+         "Ladies and gentlemen, please, free these bees!",
+         994
+      ],
+      [
+         "Free the bees! Free the bees! Free the bees! Free the bees! Free the bees!",
+         995
+      ],
+      [
+         "The court finds in favor of the bees!",
+         996
+      ],
+      [
+         "Vanessa, we won!",
+         997
+      ],
+      [
+         "I knew you could do it! High-five!",
+         998
+      ],
+      [
+         "Sorry.",
+         999
+      ],
+      [
+         "I'm OK! You know what this means?",
+         1000
+      ],
+      [
+         "All the honey will finally belong to the bees.",
+         1001
+      ],
+      [
+         "Now we won't have to work so hard all the time.",
+         1002
+      ],
+      [
+         "This is an unholy perversion of the balance of nature, Benson.",
+         1003
+      ],
+      [
+         "You'll regret this.",
+         1004
+      ],
+      [
+         "Barry, how much honey is out there?",
+         1005
+      ],
+      [
+         "All right. One at a time.",
+         1006
+      ],
+      [
+         "Barry, who are you wearing?",
+         1007
+      ],
+      [
+         "My sweater is Ralph Lauren, and I have no pants.",
+         1008
+      ],
+      [
+         "What if Montgomery's right?",
+         1009
+      ],
+      [
+         "What do you mean?",
+         1010
+      ],
+      [
+         "We've been living the bee way a long time, 27 million years.",
+         1011
+      ],
+      [
+         "Congratulations on your victory. What will you demand as a settlement?",
+         1012
+      ],
+      [
+         "First, we'll demand a complete shutdown of all bee work camps.",
+         1013
+      ],
+      [
+         "Then we want back the honey that was ours to begin with, every last drop.",
+         1014
+      ],
+      [
+         "We demand an end to the glorification of the bear as anything more than a filthy, smelly, bad-breath stink machine.",
+         1015
+      ],
+      [
+         "We're all aware of what they do in the woods.",
+         1016
+      ],
+      [
+         "Wait for my signal. Take him out.",
+         1017
+      ],
+      [
+         "He'll have nauseous for a few hours, then he'll be fine.",
+         1018
+      ],
+      [
+         "And we will no longer tolerate bee-negative nicknames...",
+         1019
+      ],
+      [
+         "But it's just a prance-about stage name!",
+         1020
+      ],
+      [
+         "...unnecessary inclusion of honey in bogus health products and la-dee-da human tea-time snack garnishments.",
+         1021
+      ],
+      [
+         "Can't breathe.",
+         1022
+      ],
+      [
+         "Bring it in, boys!",
+         1023
+      ],
+      [
+         "Hold it right there! Good.",
+         1024
+      ],
+      [
+         "Tap it.",
+         1025
+      ],
+      [
+         "Mr. Buzzwell, we just passed three cups and there's gallons more coming!",
+         1026
+      ],
+      [
+         "I think we need to shut down!",
+         1027
+      ],
+      [
+         "Shut down? We've never shut down.",
+         1028
+      ],
+      [
+         "Shut down honey production!",
+         1029
+      ],
+      [
+         "Stop making honey!",
+         1030
+      ],
+      [
+         "Turn your key, sir!",
+         1031
+      ],
+      [
+         "What do we do now?",
+         1032
+      ],
+      [
+         "Cannonball!",
+         1033
+      ],
+      [
+         "We're shutting honey production!",
+         1034
+      ],
+      [
+         "Mission abort.",
+         1035
+      ],
+      [
+         "Aborting pollination and nectar detail.",
+         1036
+      ],
+      [
+         "Returning to base.",
+         1037
+      ],
+      [
+         "Adam, you wouldn't believe how much honey was out there.",
+         1038
+      ],
+      [
+         "Oh, yeah?",
+         1039
+      ],
+      [
+         "What's going on? Where is everybody?",
+         1040
+      ],
+      [
+         "Are they out celebrating?",
+         1041
+      ],
+      [
+         "They're home.",
+         1042
+      ],
+      [
+         "They don't know what to do. Laying out, sleeping in.",
+         1043
+      ],
+      [
+         "I heard your Uncle Carl was on his way to San Antonio with a cricket.",
+         1044
+      ],
+      [
+         "At least we got our honey back.",
+         1045
+      ],
+      [
+         "Sometimes I think, so what if humans liked our honey? Who wouldn't?",
+         1046
+      ],
+      [
+         "It's the greatest thing in the world! I was excited to be part of making it.",
+         1047
+      ],
+      [
+         "This was my new desk. This was my new job. I wanted to do it really well. And now...",
+         1048
+      ],
+      [
+         "Now I can't.",
+         1049
+      ],
+      [
+         "I don't understand why they're not happy.",
+         1050
+      ],
+      [
+         "I thought their lives would be better!",
+         1051
+      ],
+      [
+         "They're doing nothing. It's amazing.",
+         1052
+      ],
+      [
+         "Honey really changes people.",
+         1053
+      ],
+      [
+         "You don't have any idea what's going on, do you?",
+         1054
+      ],
+      [
+         "What did you want to show me?",
+         1055
+      ],
+      [
+         "This.",
+         1056
+      ],
+      [
+         "What happened here?",
+         1057
+      ],
+      [
+         "That is not the half of it.",
+         1058
+      ],
+      [
+         "Oh, no. Oh, my.",
+         1059
+      ],
+      [
+         "They're all wilting.",
+         1060
+      ],
+      [
+         "Doesn't look very good, does it?",
+         1061
+      ],
+      [
+         "No.",
+         1062
+      ],
+      [
+         "And whose fault do you think that is?",
+         1063
+      ],
+      [
+         "You know, I'm gonna guess bees.",
+         1064
+      ],
+      [
+         "Bees?",
+         1065
+      ],
+      [
+         "Specifically, me.",
+         1066
+      ],
+      [
+         "I didn't think bees not needing to make honey would affect all these things.",
+         1067
+      ],
+      [
+         "It's not just flowers. Fruits, vegetables, they all need bees.",
+         1068
+      ],
+      [
+         "That's our whole SAT test right there.",
+         1069
+      ],
+      [
+         "Take away produce, that affects the entire animal kingdom.",
+         1070
+      ],
+      [
+         "And then, of course...",
+         1071
+      ],
+      [
+         "The human species?",
+         1072
+      ],
+      [
+         "So if there's no more pollination, it could all just go south here, couldn't it?",
+         1073
+      ],
+      [
+         "I know this is also partly my fault.",
+         1074
+      ],
+      [
+         "How about a suicide pact?",
+         1075
+      ],
+      [
+         "How do we do it?",
+         1076
+      ],
+      [
+         "I'll sting you, you step on me.",
+         1077
+      ],
+      [
+         "That just kills you twice.",
+         1078
+      ],
+      [
+         "Right, right.",
+         1079
+      ],
+      [
+         "Listen, Barry... sorry, but I gotta get going.",
+         1080
+      ],
+      [
+         "I had to open my mouth and talk.",
+         1081
+      ],
+      [
+         "Vanessa?",
+         1082
+      ],
+      [
+         "Vanessa? Why are you leaving?",
+         1083
+      ],
+      [
+         "Where are you going?",
+         1084
+      ],
+      [
+         "To the final Tournament of Roses parade in Pasadena.",
+         1085
+      ],
+      [
+         "They've moved it to this weekend because all the flowers are dying.",
+         1086
+      ],
+      [
+         "It's the Last Chance I'll ever have to see it.",
+         1087
+      ],
+      [
+         "Vanessa, I just wanna say I'm sorry.",
+         1088
+      ],
+      [
+         "I never meant it to turn out like this.",
+         1089
+      ],
+      [
+         "I know. Me neither.",
+         1090
+      ],
+      [
+         "Tournament of Roses.",
+         1091
+      ],
+      [
+         "Roses can't do sports.",
+         1092
+      ],
+      [
+         "Wait a minute. Roses. Roses?",
+         1093
+      ],
+      [
+         "Roses!",
+         1094
+      ],
+      [
+         "Vanessa!",
+         1095
+      ],
+      [
+         "Roses?!",
+         1096
+      ],
+      [
+         "Barry?",
+         1097
+      ],
+      [
+         "Roses are flowers!",
+         1098
+      ],
+      [
+         "Yes, they are.",
+         1099
+      ],
+      [
+         "Flowers, bees, pollen!",
+         1100
+      ],
+      [
+         "I know.",
+         1101
+      ],
+      [
+         "That's why this is the last parade.",
+         1102
+      ],
+      [
+         "Maybe not.",
+         1103
+      ],
+      [
+         "Could you ask him to slow down?",
+         1104
+      ],
+      [
+         "Could you slow down?",
+         1105
+      ],
+      [
+         "Barry!",
+         1106
+      ],
+      [
+         "OK, I made a huge mistake.",
+         1107
+      ],
+      [
+         "This is a total disaster, all my fault.",
+         1108
+      ],
+      [
+         "Yes, it kind of is.",
+         1109
+      ],
+      [
+         "I've ruined the planet. I wanted to help you with the flower shop. I've made it worse.",
+         1110
+      ],
+      [
+         "Actually, it's completely closed down.",
+         1111
+      ],
+      [
+         "I thought maybe you were remodeling.",
+         1112
+      ],
+      [
+         "But I have another idea, and it's greater than my previous ideas combined.",
+         1113
+      ],
+      [
+         "I don't want to hear it!",
+         1114
+      ],
+      [
+         "All right, they have the roses, the roses have the pollen.",
+         1115
+      ],
+      [
+         "I know every bee, plant and flower bud in this park.",
+         1116
+      ],
+      [
+         "All we gotta do is get what they've got back here with what we've got.",
+         1117
+      ],
+      [
+         "Bees.",
+         1118
+      ],
+      [
+         "Park.",
+         1119
+      ],
+      [
+         "Pollen!",
+         1120
+      ],
+      [
+         "Flowers.",
+         1121
+      ],
+      [
+         "Repollination!",
+         1122
+      ],
+      [
+         "Across the nation!",
+         1123
+      ],
+      [
+         "Tournament of Roses, Pasadena, California.",
+         1124
+      ],
+      [
+         "They've got nothing but flowers, floats and cotton candy.",
+         1125
+      ],
+      [
+         "Security will be tight.",
+         1126
+      ],
+      [
+         "I have an idea.",
+         1127
+      ],
+      [
+         "Vanessa Bloome, FTD.",
+         1128
+      ],
+      [
+         "Official floral business. It's real.",
+         1129
+      ],
+      [
+         "Sorry, ma'am. Nice brooch.",
+         1130
+      ],
+      [
+         "Thank you. It was a gift.",
+         1131
+      ],
+      [
+         "Once inside, we just pick the right float.",
+         1132
+      ],
+      [
+         "How about The Princess and the Pea?",
+         1133
+      ],
+      [
+         "I could be the princess, and you could be the pea!",
+         1134
+      ],
+      [
+         "Yes, I got it.",
+         1135
+      ],
+      [
+         "Where should I sit?",
+         1136
+      ],
+      [
+         "What are you?",
+         1137
+      ],
+      [
+         "I believe I'm the pea.",
+         1138
+      ],
+      [
+         "The pea?",
+         1139
+      ],
+      [
+         "It goes under the mattresses.",
+         1140
+      ],
+      [
+         "Not in this fairy tale, sweetheart.",
+         1141
+      ],
+      [
+         "I'm getting the marshal.",
+         1142
+      ],
+      [
+         "You do that! This whole parade is a fiasco!",
+         1143
+      ],
+      [
+         "Let's see what this baby'll do.",
+         1144
+      ],
+      [
+         "Hey, what are you doing?!",
+         1145
+      ],
+      [
+         "Then all we do is blend in with traffic... without arousing suspicion.",
+         1146
+      ],
+      [
+         "Once at the airport, there's no stopping us.",
+         1147
+      ],
+      [
+         "Stop! Security.",
+         1148
+      ],
+      [
+         "You and your insect pack your float?",
+         1149
+      ],
+      [
+         "Yes.",
+         1150
+      ],
+      [
+         "Has it been in your possession the entire time?",
+         1151
+      ],
+      [
+         "Would you remove your shoes?",
+         1152
+      ],
+      [
+         "Remove your stinger.",
+         1153
+      ],
+      [
+         "It's part of me.",
+         1154
+      ],
+      [
+         "I know. Just having some fun.",
+         1155
+      ],
+      [
+         "Enjoy your flight.",
+         1156
+      ],
+      [
+         "Then if we're lucky, we'll have just enough pollen to do the job.",
+         1157
+      ],
+      [
+         "Can you believe how lucky we are? We have just enough pollen to do the job!",
+         1158
+      ],
+      [
+         "I think this is gonna work.",
+         1159
+      ],
+      [
+         "It's got to work.",
+         1160
+      ],
+      [
+         "Attention, passengers, this is Captain Scott. We have a bit of bad weather in New York. It looks like we'll experience a couple hours delay.",
+         1161
+      ],
+      [
+         "Barry, these are cut flowers with no water. They'll never make it.",
+         1162
+      ],
+      [
+         "I gotta get up there and talk to them.",
+         1163
+      ],
+      [
+         "Be careful.",
+         1164
+      ],
+      [
+         "Can I get help with the Sky Mall magazine? I'd like to order the talking inflatable nose and ear hair trimmer.",
+         1165
+      ],
+      [
+         "Captain, I'm in a real situation.",
+         1166
+      ],
+      [
+         "What'd you say, Hal?",
+         1167
+      ],
+      [
+         "Nothing.",
+         1168
+      ],
+      [
+         "Bee!",
+         1169
+      ],
+      [
+         "Don't freak out! My entire species...",
+         1170
+      ],
+      [
+         "What are you doing?",
+         1171
+      ],
+      [
+         "Wait a minute! I'm an attorney!",
+         1172
+      ],
+      [
+         "Who's an attorney?",
+         1173
+      ],
+      [
+         "Don't move.",
+         1174
+      ],
+      [
+         "Oh, Barry.",
+         1175
+      ],
+      [
+         "Good afternoon, passengers. This is your captain. Would a Miss Vanessa Bloome in 24B please report to the cockpit? And please hurry!",
+         1176
+      ],
+      [
+         "What happened here?",
+         1177
+      ],
+      [
+         "There was a DustBuster, a toupee, a life raft exploded.",
+         1178
+      ],
+      [
+         "One's bald, one's in a boat, they're both unconscious!",
+         1179
+      ],
+      [
+         "Is that another bee joke?",
+         1180
+      ],
+      [
+         "No!",
+         1181
+      ],
+      [
+         "No one's flying the plane!",
+         1182
+      ],
+      [
+         "This is JFK control tower, Flight 356. What's your status?",
+         1183
+      ],
+      [
+         "This is Vanessa Bloome. I'm a florist from New York.",
+         1184
+      ],
+      [
+         "Where's the pilot?",
+         1185
+      ],
+      [
+         "He's unconscious, and so is the copilot.",
+         1186
+      ],
+      [
+         "Not good. Does anyone onboard have flight experience?",
+         1187
+      ],
+      [
+         "As a matter of fact, there is.",
+         1188
+      ],
+      [
+         "Who's that?",
+         1189
+      ],
+      [
+         "Barry Benson.",
+         1190
+      ],
+      [
+         "From the honey trial?! Oh, great.",
+         1191
+      ],
+      [
+         "Vanessa, this is nothing more than a big metal bee.",
+         1192
+      ],
+      [
+         "It's got giant wings, huge engines.",
+         1193
+      ],
+      [
+         "I can't fly a plane.",
+         1194
+      ],
+      [
+         "Why not? Isn't John Travolta a pilot?",
+         1195
+      ],
+      [
+         "Yes.",
+         1196
+      ],
+      [
+         "How hard could it be?",
+         1197
+      ],
+      [
+         "Wait, Barry!",
+         1198
+      ],
+      [
+         "We're headed into some lightning.",
+         1199
+      ],
+      [
+         "This is Bob Bumble. We have some late-breaking news from JFK Airport, where a suspenseful scene is developing.",
+         1200
+      ],
+      [
+         "Barry Benson, fresh from his legal victory...",
+         1201
+      ],
+      [
+         "That's Barry!",
+         1202
+      ],
+      [
+         "...is attempting to land a plane, loaded with people, flowers and an incapacitated flight crew.",
+         1203
+      ],
+      [
+         "Flowers?!",
+         1204
+      ],
+      [
+         "We have a storm in the area and two individuals at the controls with absolutely no flight experience.",
+         1205
+      ],
+      [
+         "Just a minute. There's a bee on that plane.",
+         1206
+      ],
+      [
+         "I'm quite familiar with Mr. Benson and his no-account compadres.",
+         1207
+      ],
+      [
+         "They've done enough damage.",
+         1208
+      ],
+      [
+         "But isn't he your only hope?",
+         1209
+      ],
+      [
+         "Technically, a bee shouldn't be able to fly at all.",
+         1210
+      ],
+      [
+         "Their wings are too small... Haven't we heard this a million times?",
+         1211
+      ],
+      [
+         "\"The surface area of the wings and body mass make no sense.\"",
+         1212
+      ],
+      [
+         "Get this on the air!",
+         1213
+      ],
+      [
+         "Got it.",
+         1214
+      ],
+      [
+         "Stand by.",
+         1215
+      ],
+      [
+         "We're going live.",
+         1216
+      ],
+      [
+         "The way we work may be a mystery to you. Making honey takes a lot of bees doing a lot of small jobs.",
+         1217
+      ],
+      [
+         "But let me tell you about a small job. If you do it well, it makes a big difference.",
+         1218
+      ],
+      [
+         "More than we realized. To us, to everyone.",
+         1219
+      ],
+      [
+         "That's why I want to get bees back to working together. That's the bee way! We're not made of Jell-O.",
+         1220
+      ],
+      [
+         "We get behind a fellow.",
+         1221
+      ],
+      [
+         "Black and yellow!",
+         1222
+      ],
+      [
+         "Hello!",
+         1223
+      ],
+      [
+         "Left, right, down, hover.",
+         1224
+      ],
+      [
+         "Hover?",
+         1225
+      ],
+      [
+         "Forget hover.",
+         1226
+      ],
+      [
+         "This isn't so hard.",
+         1227
+      ],
+      [
+         "Beep-beep! Beep-beep!",
+         1228
+      ],
+      [
+         "Barry, what happened?!",
+         1229
+      ],
+      [
+         "Wait, I think we were on autopilot the whole time.",
+         1230
+      ],
+      [
+         "That may have been helping me.",
+         1231
+      ],
+      [
+         "And now we're not!",
+         1232
+      ],
+      [
+         "So it turns out I cannot fly a plane.",
+         1233
+      ],
+      [
+         "All of you, let's get behind this fellow! Move it out!",
+         1234
+      ],
+      [
+         "Move out!",
+         1235
+      ],
+      [
+         "Our only chance is if I do what I'd do, you copy me with the wings of the plane!",
+         1236
+      ],
+      [
+         "Don't have to yell.",
+         1237
+      ],
+      [
+         "I'm not yelling! We're in a lot of trouble.",
+         1238
+      ],
+      [
+         "It's very hard to concentrate with that panicky tone in your voice!",
+         1239
+      ],
+      [
+         "It's not a tone. I'm panicking!",
+         1240
+      ],
+      [
+         "I can't do this!",
+         1241
+      ],
+      [
+         "Vanessa, pull yourself together. You have to snap out of it!",
+         1242
+      ],
+      [
+         "You snap out of it.",
+         1243
+      ],
+      [
+         "You snap out of it.",
+         1244
+      ],
+      [
+         "You snap out of it!",
+         1245
+      ],
+      [
+         "You snap out of it!",
+         1246
+      ],
+      [
+         "You snap out of it!",
+         1247
+      ],
+      [
+         "You snap out of it!",
+         1248
+      ],
+      [
+         "You snap out of it!",
+         1249
+      ],
+      [
+         "You snap out of it!",
+         1250
+      ],
+      [
+         "Hold it!",
+         1251
+      ],
+      [
+         "Why? Come on, it's my turn.",
+         1252
+      ],
+      [
+         "How is the plane flying?",
+         1253
+      ],
+      [
+         "I don't know.",
+         1254
+      ],
+      [
+         "Hello?",
+         1255
+      ],
+      [
+         "Benson, got any flowers for a happy occasion in there?",
+         1256
+      ],
+      [
+         "The Pollen Jocks!",
+         1257
+      ],
+      [
+         "They do get behind a fellow.",
+         1258
+      ],
+      [
+         "Black and yellow.",
+         1259
+      ],
+      [
+         "Hello.",
+         1260
+      ],
+      [
+         "All right, let's drop this tin can on the blacktop.",
+         1261
+      ],
+      [
+         "Where? I can't see anything. Can you?",
+         1262
+      ],
+      [
+         "No, nothing. It's all cloudy.",
+         1263
+      ],
+      [
+         "Come on. You got to think bee, Barry.",
+         1264
+      ],
+      [
+         "Thinking bee.",
+         1265
+      ],
+      [
+         "Thinking bee.",
+         1266
+      ],
+      [
+         "Thinking bee!",
+         1267
+      ],
+      [
+         "Thinking bee! Thinking bee!",
+         1268
+      ],
+      [
+         "Wait a minute. I think I'm feeling something.",
+         1269
+      ],
+      [
+         "What?",
+         1270
+      ],
+      [
+         "I don't know. It's strong, pulling me.",
+         1271
+      ],
+      [
+         "Like a 27-million-year-old instinct.",
+         1272
+      ],
+      [
+         "Bring the nose down.",
+         1273
+      ],
+      [
+         "Thinking bee!",
+         1274
+      ],
+      [
+         "Thinking bee! Thinking bee!",
+         1275
+      ],
+      [
+         "What in the world is on the tarmac?",
+         1276
+      ],
+      [
+         "Get some lights on that!",
+         1277
+      ],
+      [
+         "Thinking bee!",
+         1278
+      ],
+      [
+         "Thinking bee! Thinking bee!",
+         1279
+      ],
+      [
+         "Vanessa, aim for the flower.",
+         1280
+      ],
+      [
+         "OK.",
+         1281
+      ],
+      [
+         "Cut the engines. We're going in on bee power. Ready, boys?",
+         1282
+      ],
+      [
+         "Affirmative!",
+         1283
+      ],
+      [
+         "Good. Good. Easy, now. That's it.",
+         1284
+      ],
+      [
+         "Land on that flower!",
+         1285
+      ],
+      [
+         "Ready? Full reverse!",
+         1286
+      ],
+      [
+         "Spin it around!",
+         1287
+      ],
+      [
+         "Not that flower! The other one!",
+         1288
+      ],
+      [
+         "Which one?",
+         1289
+      ],
+      [
+         "That flower.",
+         1290
+      ],
+      [
+         "I'm aiming at the flower!",
+         1291
+      ],
+      [
+         "That's a fat guy in a flowered shirt.",
+         1292
+      ],
+      [
+         "I mean the giant pulsating flower made of millions of bees!",
+         1293
+      ],
+      [
+         "Pull forward. Nose down. Tail up.",
+         1294
+      ],
+      [
+         "Rotate around it.",
+         1295
+      ],
+      [
+         "This is insane, Barry!",
+         1296
+      ],
+      [
+         "This's the only way I know how to fly.",
+         1297
+      ],
+      [
+         "Am I koo-koo-kachoo, or is this plane flying in an insect-like pattern?",
+         1298
+      ],
+      [
+         "Get your nose in there. Don't be afraid. Smell it. Full reverse!",
+         1299
+      ],
+      [
+         "Just drop it. Be a part of it.",
+         1300
+      ],
+      [
+         "Aim for the center!",
+         1301
+      ],
+      [
+         "Now drop it in! Drop it in, woman!",
+         1302
+      ],
+      [
+         "Come on, already.",
+         1303
+      ],
+      [
+         "Barry, we did it! You taught me how to fly!",
+         1304
+      ],
+      [
+         "Yes. No high-five!",
+         1305
+      ],
+      [
+         "Right.",
+         1306
+      ],
+      [
+         "Barry, it worked!",
+         1307
+      ],
+      [
+         "Did you see the giant flower?",
+         1308
+      ],
+      [
+         "What giant flower? Where? Of course",
+         1309
+      ],
+      [
+         "I saw the flower! That was genius!",
+         1310
+      ],
+      [
+         "Thank you.",
+         1311
+      ],
+      [
+         "But we're not done yet.",
+         1312
+      ],
+      [
+         "Listen, everyone!",
+         1313
+      ],
+      [
+         "This runway is covered with the last pollen from the last flowers available anywhere on Earth.",
+         1314
+      ],
+      [
+         "That means this is our Last Chance. We're the only ones who make honey, pollinate flowers and dress like this.",
+         1315
+      ],
+      [
+         "If we're gonna survive as a species, this is our moment! What do you say?",
+         1316
+      ],
+      [
+         "Are we going to be bees, or just Museum of Natural History keychains?",
+         1317
+      ],
+      [
+         "We're bees!",
+         1318
+      ],
+      [
+         "Keychain!",
+         1319
+      ],
+      [
+         "Then follow me! Except Keychain.",
+         1320
+      ],
+      [
+         "Hold on, Barry. Here. You've earned this.",
+         1321
+      ],
+      [
+         "Yeah!",
+         1322
+      ],
+      [
+         "I'm a Pollen Jock! And it's a perfect fit. All I gotta do are the sleeves.",
+         1323
+      ],
+      [
+         "Oh, yeah.",
+         1324
+      ],
+      [
+         "That's our Barry.",
+         1325
+      ],
+      [
+         "Mom! The bees are back!",
+         1326
+      ],
+      [
+         "If anybody needs to make a call, now's the time. I got a feeling we'll be working late tonight!",
+         1327
+      ],
+      [
+         "Here's your change. Have a great afternoon! Can I help who's next?",
+         1328
+      ],
+      [
+         "Would you like some honey with that?",
+         1329
+      ],
+      [
+         "It is bee-approved. Don't forget these.",
+         1330
+      ],
+      [
+         "Milk, cream, cheese, it's all me.  And I don't see a nickel!",
+         1331
+      ],
+      [
+         "Sometimes I just feel like a piece of meat!",
+         1332
+      ],
+      [
+         "I had no idea.",
+         1333
+      ],
+      [
+         "Barry, I'm sorry.",
+         1334
+      ],
+      [
+         "Have you got a moment?",
+         1335
+      ],
+      [
+         "Would you excuse me?",
+         1336
+      ],
+      [
+         "My mosquito associate will help you.",
+         1337
+      ],
+      [
+         "Sorry I'm late.",
+         1338
+      ],
+      [
+         "He's a lawyer too?",
+         1339
+      ],
+      [
+         "I was already a blood-sucking parasite. All I needed was a briefcase.",
+         1340
+      ],
+      [
+         "Have a great afternoon!",
+         1341
+      ],
+      [
+         "Barry, I just got this huge tulip order, and I can't get them anywhere.",
+         1342
+      ],
+      [
+         "No problem, Vannie. Just leave it to me.",
+         1343
+      ],
+      [
+         "You're a lifesaver, Barry. Can I help who's next?",
+         1344
+      ],
+      [
+         "All right, scramble, jocks! It's time to fly.",
+         1345
+      ],
+      [
+         "Thank you, Barry!",
+         1346
+      ],
+      [
+         "That bee is living my life!",
+         1347
+      ],
+      [
+         "Let it go, Kenny.",
+         1348
+      ],
+      [
+         "When will this nightmare end?!",
+         1349
+      ],
+      [
+         "Let it all go.",
+         1350
+      ],
+      [
+         "Beautiful day to fly.",
+         1351
+      ],
+      [
+         "Sure is.",
+         1352
+      ],
+      [
+         "Between you and me,",
+         1353
+      ],
+      [
+         "I was dying to get out of that office.",
+         1354
+      ],
+      [
+         "You have got to start thinking bee, my friend.",
+         1355
+      ],
+      [
+         "Thinking bee!",
+         1356
+      ],
+      [
+         "Me?",
+         1357
+      ],
+      [
+         "Hold it. Let's just stop for a second. Hold it.",
+         1358
+      ],
+      [
+         "I'm sorry. I'm sorry, everyone. Can we stop here?",
+         1359
+      ],
+      [
+         "I'm not making a major life decision during a production number!",
+         1360
+      ],
+      [
+         "All right. Take ten, everybody. Wrap it up, guys.",
+         1361
+      ],
+      [
+         "I had virtually no rehearsal for that.",
+         1362
+      ]
+   ]
 }
