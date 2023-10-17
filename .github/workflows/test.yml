@@ -1,0 +1,39 @@
+name: Test
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up node
+        uses: actions/setup-node@v3
+        with:
+          python-version: '10.x'
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          npm install
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade jsonchecker
+
+      - name: JSON lint
+        shell: bash
+        run: |
+          grunt
+
+      - name: Check for duplicate values
+        shell: bash
+        run: |
+          # Skip this file, it has valid duplicates:
+          rm data/words/verbs_with_conjugations.json
+
+          jsonchecker data --values --quiet

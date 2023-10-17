@@ -1,0 +1,82 @@
+{
+    "description": "A list of genders paired with associated pronoun options.",
+    "genders": [
+        {
+            "gender": "male",
+            "they": "he",
+            "them": "him",
+            "their": "his",
+            "theirs": "his"
+        },
+        {
+            "gender": "man",
+            "they": "he",
+            "them": "him",
+            "their": "his",
+            "theirs": "his"
+        },
+        {
+            "gender": "female",
+            "they": "she",
+            "them": "her",
+            "their": "her",
+            "theirs": "hers"
+        },
+        {
+            "gender": "woman",
+            "they": "she",
+            "them": "her",
+            "their": "her",
+            "theirs": "hers"
+        },
+        {
+            "gender": "nonbinary",
+            "they": "they",
+            "them": "them",
+            "their": "their",
+            "theirs": "theirs"
+        },
+        {
+            "gender": "nonbinary",
+            "they": "xe",
+            "them": "xer",
+            "their": "xer",
+            "theirs": "xers"
+        },
+        {
+            "gender": "nonbinary",
+            "they": "ze",
+            "them": "zir",
+            "their": "zir",
+            "theirs": "zirs"
+        },
+        {
+            "gender": "neuter",
+            "they": "they",
+            "them": "them",
+            "their": "their",
+            "theirs": "theirs"
+        },
+        {
+            "gender": "neuter",
+            "they": "xe",
+            "them": "xer",
+            "their": "xer",
+            "theirs": "xers"
+        },
+        {
+            "gender": "neuter",
+            "they": "ze",
+            "them": "zir",
+            "their": "zir",
+            "theirs": "zirs"
+        },
+        {
+            "gender": "neuter",
+            "they": "it",
+            "them": "it",
+            "their": "its",
+            "theirs": "its"
+        }
+    ]
+}

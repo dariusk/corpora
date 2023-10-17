@@ -1,0 +1,30 @@
+{
+	"description":"Gods and Goddesses from Roman myth",
+	"roman_deities": [
+		"Apollo",
+		"Bacchus",
+		"Caelus",
+		"Ceres",
+		"Cupid",
+		"Diana",
+		"Fortuna",
+		"Janus",
+		"Juno",
+		"Jupiter",
+		"Mars",
+		"Mercury",
+		"Minerva",
+		"Neptune",
+		"Nox",
+		"Pluto",
+		"Proserpina",
+		"Saturn",
+		"Sol Invictus",
+		"Spes",
+		"Terra",
+		"Venus",
+		"Veritas",
+		"Vesta",
+		"Vulcan"
+	]
+}

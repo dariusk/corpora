@@ -1,0 +1,373 @@
+{
+  "description": "IATA and ICAO airport codes for the primary commercial airports in each state.",
+  "states": [
+        {"Alabama":[
+          {"Birmingham": {"IATA": "BHM", "ICAO": "KBHM"}},
+          {"Huntsville": {"IATA": "HSV", "ICAO": "KHSV"}},
+          {"Mobile": {"IATA": "MOB", "ICAO": "KMOB"}},
+          {"Montgomery": {"IATA": "MGM", "ICAO": "KMGM"}}
+          ] 
+        },
+        {"Alaska": [
+          {"Anchorage": {"IATA": "ANC", "ICAO": "PANC"}},
+          {"Bethel": {"IATA": "BET", "ICAO": "PABE"}},
+          {"Fairbanks": {"IATA": "FAI", "ICAO": "PAFA"}},
+          {"Juneau": {"IATA": "JNU", "ICAO": "PAJN"}},
+          {"Ketchikan": {"IATA":"KTN", "ICAO": "PAKT"}}
+          ]
+
+        }, 
+        {"Arizona": [
+          {"Bullhead City": {"IATA": "IFP", "ICAO": "KIFP"}},
+          {"Grand Canyon": {"IATA": "GCN", "ICAO": "KGCN"}},
+          {"Mesa": {"IATA": "AZA", "ICAO": "KIWA"}},
+          {"Phoenix": {"IATA":"PHX", "ICAO": "KPHX"}},
+          {"Tucson": {"IATA": "TUS", "ICAO": "KTUS"}}
+          ]
+        }, 
+        {"Arkansas": [
+          {"Fayetteville": {"IATA":"XNA", "ICAO": "KXNA"}},
+          {"Little Rock": {"IATA": "LIT", "ICAO": "KLIT"}}
+          ]
+        },
+        {"California": [
+          {"Bakersfield": {"IATA":"BFL", "ICAO": "KBFL"}},
+          {"Burbank": {"IATA": "BUR", "ICAO": "KBUR"}},
+          {"Fresno": {"IATA": "FAT", "ICAO": "KFAT"}},
+          {"Long Beach": {"IATA": "LGB", "ICAO": "KLGB"}},
+          {"Los Angeles": {"IATA": "LAX", "ICAO": "LAX"}},
+          {"Monterey": {"IATA": "MRY", "ICAO": "KMRY"}},
+          {"Oakland": {"IATA": "OAK", "ICAO": "KOAK"}},
+          {"Ontario": {"IATA": "ONT", "ICAO": "KONT"}},
+          {"Palm Springs": {"IATA": "PSP", "ICAO": "KPSP"}},
+          {"Sacramento": {"IATA": "SMF", "ICAO": "SMF"}},
+          {"San Diego": {"IATA": "SAN", "ICAO": "KSAN"}},
+          {"San Francisco": {"IATA": "SFO", "ICAO": "KSFO"}},
+          {"San Jose": {"IATA": "SJC", "ICAO": "KSJC"}},
+          {"San Luis Obispo": {"IATA": "SBP", "ICAO": "KSBP"}},
+          {"Santa Ana": {"IATA": "SNA", "ICAO": "KSNA"}},
+          {"Santa Barbara": {"IATA": "SBA", "ICAO": "KSBA"}},
+          {"Santa Rosa": { "IATA": "STS", "ICAO": "KSTS"}}
+          ]
+        }, 
+        {"Colorado": [
+          {"Aspen": {"IATA": "ASE", "ICAO": "KASE"}},
+          {"Colorado Springs": {"IATA": "COS", "ICAO": "KCOS"}},
+          {"Denver": {"IATA": "DEN", "ICAO": "KDEN"}},
+          {"Durango": {"IATA": "DRO", "ICAO": "KDRO"}},
+          {"Eagle": {"IATA": "EGE", "ICAO": "KEGE"}},
+          {"Grand Junction": {"IATA": "GJT", "ICAO": "KGJT"}}
+          ]
+        },
+        {"Conecticut": [
+          {"Hartford": {"IATA": "BDL", "ICAO": "KBDL"}}
+          ]
+        },
+        {"Delaware": [
+          {"Wilmington": {"IATA": "ILG", "ICAO": "KILG"}}
+          ]
+        },
+        {"Florida": [
+          {"Daytona Beach": {"IATA": "DAB", "ICAO": "KDAB"}},
+          {"Fort Lauderdale": {"IATA": "FLL", "ICAO": "KFLL"}},
+          {"Fort Myers": {"IATA": "RSW", "ICAO": "KRSW"}},
+          {"Gainesville": {"IATA": "GNV", "ICAO": "KGNV"}},
+          {"Jacksonville": {"IATA": "JAX", "ICAO": "KJAX"}},
+          {"Key West": {"IATA": "EYW", "ICAO": "KEYW"}},
+          {"Melbourne": {"IATA": "MLB", "ICAO": "KMLB"}},
+          {"Miami": {"IATA": "MIA", "ICAO": "KMIA"}},
+          {"Orlando": {"IATA":"MCO", "ICAO": "KMCO"}},
+          {"Orlando/ Sanford": {"IATA": "SFB", "ICAO": "KSFB"}},
+          {"Panama City Beach": {"IATA": "ECP", "ICAO": "KECP"}},
+          {"Pensacola": {"IATA": "PNS", "ICAO": "KPNS"}},
+          {"Punta Gorda": {"IATA": "PGD", "ICAO": "KPGD"}},
+          {"Sarasota": {"IATA": "SRQ", "ICAO": "KSRQ"}},
+          {"St. Petersburg": {"IATA": "PIE", "ICAO": "KPIE"}},
+          {"Tallahassee": {"IATA": "TLH", "ICAO": "KTLH"}},
+          {"Tampa": {"IATA": "TPA", "ICAO": "KTPA"}},
+          {"Valparaiso": {"IATA": "VPS", "ICAO": "KVPS"}}
+          ]
+        },
+        {"Georgia":[
+          {"Atlanta": {"IATA": "ATL", "ICAO": "KATL"}},
+          {"Augusta": {"IATA": "AGS", "ICAO": "KAGS"}},
+          {"Savannah": {"IATA": "SAV", "ICAO": "KSAV"}}
+          ]
+        },
+        {"Hawaii": [
+          {"Hilo": {"IATA": "ITO", "ICAO": "PHTO"}},
+          {"Honolulu": {"IATA": "HNL", "ICAO": "PHNL"}},
+          {"Kahului": {"IATA": "OGG", "ICAO": "PHOG"}},
+          {"Kailua-Kona": {"IATA": "KOA", "ICAO": "PHKO"}},
+          {"Lihue": {"IATA": "LIH", "ICAO": "PHLI"}}
+          ]
+        },
+        {"Idaho": [
+          {"Boise": {"IATA":"BOI", "ICAO": "KBOI"}},
+          {"Idaho Falls": {"IATA": "IDA", "ICAO": "KIDA"}}
+          ]
+        },
+        {"Illinois": [
+          {"Bloomington/Normal": {"IATA": "BMI", "ICAO": "KBMI"}},
+          {"Chicago O'Hare": {"IATA": "ORD", "ICAO": "KORD"}},
+          {"Chicago Midway": {"IATA": "MDW", "ICAO": "KMDW"}},
+          {"Moline": {"IATA": "MLI", "ICAO": "KMLI"}},
+          {"Peoria": {"IATA": "PIA", "ICAO": "KPIA"}},
+          {"Rockford": {"IATA": "RFD", "ICAO": "KRFD"}}
+          ]
+        },
+        {"Indiana": [
+          {"Evansville": {"IATA": "EVV", "ICAO": "KEVV"}},
+          {"Fort Wayne": {"IATA": "FWA", "ICAO": "KFWA"}},
+          {"Indianapolis": {"IATA": "IND", "ICAO": "KIND"}},
+          {"South Bend": {"IATA": "SBN", "ICAO": "KSBN"}}
+          ]
+        },
+        {"Iowa": [
+          {"Cedar Rapids": {"IATA": "CID", "ICAO": "KCID"}},
+          {"Des Moines": {"IATA": "DSM", "ICAO": "KDSM"}}
+          ]
+        },
+        {"Kansas": [
+          {"Wichita": {"IATA": "ICT", "ICAO": "KICT"}}
+          ]
+        },
+        {"Kentucky": [
+          {"Cincinnati/Covington": {"IATA": "CVG", "ICAO": "KCVG"}},
+          {"Lexington": {"IATA": "LEX", "ICAO": "KLEX"}},
+          {"Louisville": {"IATA": "SDF", "ICAO": "KSDF"}}
+          ]
+        },
+        {"Louisiana": [
+          {"Alexandria": {"IATA": "AEX", "ICAO": "KAEX"}},
+          {"Baton Rouge": {"IATA": "BTR", "ICAO": "KBTR"}},
+          {"Lafayette": {"IATA": "LFT", "ICAO": "KLFT"}},
+          {"Monroe": {"IATA": "MLU", "ICAO": "KMLU"}},
+          {"New Orleans": {"IATA": "MSY", "ICAO": "KMSY"}},
+          {"Shreveport": {"IATA": "SHV", "ICAO": "KSHV"}}
+          ]
+        },
+        {"Maine": [
+          {"Bangor": {"IATA": "BGR", "ICAO": "KBGR"}},
+          {"Portland": {"IATA": "PWM", "ICAO": "KPWM"}}
+          ]
+        },
+        {"Maryland": [
+          {"Baltimore": {"IATA": "BWI", "ICAO": "KBWI"}}
+          ]
+        },
+        {"Massachusetts": [
+          {"Boston": {"IATA": "BOS", "ICAO": "KBOS"}},
+          {"Nantucket": {"IATA": "ACK", "ICAO": "KACK"}}
+          ]
+        },
+        {"Michigan": [
+          {"Detroit": {"IATA": "DTW", "ICAO": "KDTW"}},
+          {"Flint": {"IATA": "FNT", "ICAO": "KFNT"}},
+          {"Grand Rapids": {"IATA": "GRR", "ICAO": "KGRR"}},
+          {"Kalamazoo": {"IATA": "AZO", "ICAO": "KAZO"}},
+          {"Lansing": {"IATA": "LAN", "ICAO": "KLAN"}},
+          {"Saginaw": {"IATA": "MBS", "ICAO": "KMBS"}},
+          {"Traverse City": {"IATA": "TVC", "ICAO": "KTVC"}}
+          ]
+        },
+        {"Minnesota": [
+          {"Duluth": {"IATA": "DLH", "ICAO": "KDLH"}},
+          {"Minneapolis": {"IATA": "MSP", "ICAO": "KMSP"}},
+          {"Rochester": {"IATA": "RST", "ICAO": "KRST"}}
+          ]
+        },
+        {"Mississippi": [
+          {"Gulfport": {"IATA": "GPT", "ICAO": "KGPT"}},
+          {"Jackson": {"IATA": "JAN", "ICAO": "KJAN"}}
+          ]
+        },
+        {"Missouri": [
+          {"Kansas City": {"IATA": "MCI", "ICAO": "KMCI"}},
+          {"Springfield": {"IATA": "SGF", "ICAO": "KSGF"}},
+          {"St. Louis": {"IATA": "STL", "ICAO": "KSTL"}}
+          ]
+        },
+        {"Montana": [
+          {"Billings": {"IATA": "BIL", "ICAO": "KBIL"}},
+          {"Bozeman": {"IATA": "BZN", "ICAO": "KBZN"}},
+          {"Great Falls": {"IATA": "GTF", "ICAO": "KGTF"}},
+          {"Kalispell": {"IATA": "FCA", "ICAO": "KGPI"}},
+          {"Missoula": {"IATA": "MSO", "ICAO": "KMSO"}}
+          ]
+        },
+        {"Nebraska": [
+          {"Lincoln": {"IATA": "LNK", "ICAO": "KLNK"}},
+          {"Omaha": {"IATA": "OMA", "ICAO": "KOMA"}}
+          ]
+        },
+        {"Nevada": [
+          {"Boulder City": {"IATA": "BLD", "ICAO": "KBVU"}},
+          {"Las Vegas": {"IATA": "LAS", "ICAO": "KLAS"}},
+        { "Reno": {"IATA": "RNO", "ICAO": "KRNO"}}
+          ]
+        },
+        {"New Hampshire": [
+          {"Manchester": {"IATA": "MHT", "ICAO": "KMHT"}}
+          ]
+        },
+        {"New Jersey": [  
+          {"Atlantic City": {"IATA": "ACY", "ICAO": "KACY"}},
+          {"Trenton": {"IATA": "TTN", "ICAO": "KTTN"}},
+          {"Newark": {"IATA": "EWR", "ICAO": "KEWR"}}
+
+          ]
+        },
+        {"New Mexico": [
+          {"Albuquerque": {"IATA": "ABQ", "ICAO": "KABQ"}}
+          ]
+        },
+        {"New York": [
+          {"Albany": {"IATA": "ALB", "ICAO": "KALB"}},
+          {"Buffalo": {"IATA": "BUF", "ICAO": "KBUF"}},
+          {"Elmira": {"IATA": "ELM", "ICAO": "KELM"}},
+          {"Islip": {"IATA": "ISP", "ICAO": "KISP"}},
+          {"Ithaca": {"IATA": "ITH", "ICAO": "KITH"}},
+          {"New York, Kennedy": {"IATA": "JFK", "ICAO": "KJFK"}},
+          {"New York, LaGuardia": {"IATA": "LGA", "ICAO": "KLGA"}},
+          {"Newburgh": {"IATA": "SWF", "ICAO": "KSWF"}},
+          {"Plattsburgh": {"IATA": "PBG", "ICAO": "KPBG"}},
+          {"Rochester": {"IATA": "ROC", "ICAO": "KROC"}},
+          {"Syracuse": {"IATA": "SYR", "ICAO": "KSYR"}},
+          {"White Plains": {"IATA": "HPN", "ICAO": "KHPN"}}
+          ]
+        },
+        {"North Carolina": [
+          {"Asheville": {"IATA": "AVL", "ICAO": "KAVL"}},
+          {"Charlotte": {"IATA": "CLT", "ICAO": "KCLT"}},
+          {"Fayetteville": {"IATA": "FAY", "ICAO": "KFAY"}},
+          {"Greensboro": {"IATA": "GSO", "ICAO": "KGSO"}},
+          {"Jacksonville": {"IATA": "OAJ", "ICAO": "KOAJ"}},
+          {"New Bern": {"IATA": "EWN", "ICAO": "KEWN"}},
+          {"Raleigh-Durham": {"IATA": "RDU", "ICAO": "KRDU"}},
+          {"Wilmington": {"IATA": "ILM", "ICAO": "KILM"}}
+          ]
+        },
+        {"North Dakota": [
+          {"Bismarck": {"IATA": "BIS", "ICAO": "KBIS"}},
+          {"Fargo": {"IATA": "FAR", "ICAO": "KFAR"}},
+          {"Grand Forks": {"IATA": "GFK", "ICAO": "KGFK"}},
+          {"Minot": {"IATA": "MOT", "ICAO": "KMOT"}}
+          ]
+        },
+        {"Ohio": [
+          {"Akron/Canton": {"IATA": "CAK", "ICAO": "KCAK"}},
+          {"Clevelend": {"IATA": "CLE", "ICAO": "KCLE"}},
+          {"Columbus": {"IATA": "CMH", "ICAO": "KCMH"}},
+          {"Dayton": {"IATA": "DAY", "ICAO": "KDAY"}}
+          ]
+        },
+        {"Oklahoma": [
+          {"Oklahoma City": {"IATA": "OKC", "ICAO": "KOKC"}},
+          {"Tulsa": {"IATA": "TUL", "ICAO": "KTUL"}}
+          ]
+        },
+        {"Oragon": [
+          {"Eugene": {"IATA": "EUG", "ICAO": "KEUG"}},
+          {"Medford": {"IATA": "MFR", "ICAO": "KMFR"}},
+          {"Portland": {"IATA": "PDX", "ICAO": "KPDX"}},
+          {"Redmond": {"IATA": "RDM", "ICAO": "KRDM"}}
+          ]
+        },
+        {"Pennsylvania": [
+          {"Allentown": {"IATA": "ABE", "ICAO": "KABE"}},
+          {"Erie": {"IATA": "ERI", "ICAO": "KERI"}},
+          {"Harrisburg": {"IATA": "MDT", "ICAO": "KMDT"}},
+          {"Latrobe": {"IATA": "LBE", "ICAO": "KLBE"}},
+          {"Philadelphia": {"IATA": "PHL", "ICAO": "KPHL"}},
+          {"Pittsburgh": {"IATA": "PIT", "ICAO": "KPIT"}},
+          {"State College": {"IATA": "SCE", "ICAO": "KUNV"}},
+          {"Wilkes-Barre/Scranton": {"IATA": "AVP", "ICAO": "KAVP"}}
+          ]
+        },
+        {"Rhode Island": [
+          {"Providence": {"IATA": "PVD", "ICAO": "KPVD"}}
+          ]
+        },
+        {"South Carolina": [
+          {"Charleston": {"IATA": "CHS", "ICAO": "KCHS"}},
+          {"Columbia": {"IATA": "CAE", "ICAO": "KCAE"}},
+          {"Greenville": {"IATA": "GSP", "ICAO": "KGSP"}},
+          {"Myrtle Beach": {"IATA": "MYR", "ICAO": "KMYR"}}
+          ]
+        },
+        {"South Dakota": [
+          {"Rapid City": {"IATA": "RAP", "ICAO": "KRAP"}},
+          {"Sioux Falls": {"IATA": "FSD", "ICAO": "KFSD"}}
+          ]
+        },
+        {"Tennessee": [
+          {"Bristol/Johnson City/Kingsport": {"IATA": "TRI", "ICAO": "KTRI"}},
+          {"Chattanooga": {"IATA": "CHA", "ICAO": "KCHA"}},
+          {"Knoxville": {"IATA": "TYS", "ICAO": "KTYS"}},
+          {"Memphis": {"IATA": "MEM", "ICAO": "KMEM"}},
+          {"Nashville": {"IATA": "BNA", "ICAO": "KBNA"}}
+          ]
+        },
+        {"Texas": [
+          {"Amarillo": {"IATA": "AMA", "ICAO": "KAMA"}},
+          {"Austin": {"IATA": "AUS", "ICAO": "KAUS"}},
+          {"Corpus Christi": {"IATA": "CRP", "ICAO": "KCRP"}},
+          {"Dallas, Love Field": {"IATA": "DAL", "ICAO": "KDAL"}},
+          {"Dallas-Fort Worth": {"IATA": "DFW", "ICAO": "KDFW"}},
+          {"El Paso": {"IATA": "ELP", "ICAO": "KELP"}},
+          {"Fort Hood": {"IATA": "GRK", "ICAO": "KGRK"}},
+          {"Harlingen": {"IATA": "HRL", "ICAO": "KHRL"}},
+          {"Houston, George Bush": {"IATA": "IAH", "ICAO": "KIAH"}},
+          {"Houston, Hobby": {"IATA": "HOU", "ICAO": "KHOU"}},
+          {"Laredo": {"IATA": "LRD", "ICAO": "KLRD"}},
+          {"Lubbock": {"IATA": "LBB", "ICAO": "KLBB"}},
+          {"McAllen": {"IATA": "MFE", "ICAO": "KMFE"}},
+          {"Midland": {"IATA": "MAF", "ICAO": "KMAF"}},
+          {"San Antonio": {"IATA": "SAT", "ICAO": "KSAT"}}
+          ]
+        },
+        {"Utah": [
+          {"Salt Lake City": {"IATA": "SLC", "ICAO": "KSLC"}}
+          ]
+        },
+        {"Vermont": [
+        {"Burlington": {"IATA": "BVT", "ICAO": "KBVT"}}
+          ]
+        },
+        {"Virginia": [
+          {"Charlottesville": {"IATA": "CHO", "ICAO": "KCHO"}},
+          {"Newport News": {"IATA": "PHF", "ICAO": "KPHF"}},
+          {"Norfolk": {"IATA": "ORF", "ICAO": "KORF"}},
+          {"Richmond": {"IATA": "RIC", "ICAO": "KRIC"}},
+          {"Roanoke": {"IATA": "ROA", "ICAO": "KROA"}},
+          {"Washington DC, Reagan": {"IATA": "DCA", "ICAO": "KDCA"}},
+          {"Washington DC, Dulles": {"IATA": "IAD", "ICAO": "KIAD"}}
+          ]
+        },
+        {"Washington": [
+          {"Bellingham": {"IATA": "BLI", "ICAO": "KBLI"}},
+          {"Pasco": {"IATA": "PSC", "ICAO": "KPSC"}},
+          {"Seattle/Tacoma": {"IATA": "SEA", "ICAO": "KSEA"}},
+          {"Spokane": {"IATA": "GEG", "ICAO": "KGEG"}}
+          ]
+        },
+        {"West Virginia": [
+          {"Charleston": {"IATA": "CRW", "ICAO": "KCRW"}},
+          {"Huntington": {"IATA": "HTS", "ICAO": "KHTS"}}
+          ]
+        },
+        {"Wisconsin": [
+          {"Appleton": {"IATA": "ATW", "ICAO": "KATW"}},
+          {"Green Bay": {"IATA": "GRB", "ICAO": "KGRB"}},
+          {"Madison": {"IATA": "MSN", "ICAO": "KMSN"}},
+          {"Milwaukee": {"IATA": "MKE", "ICAO": "KMKE"}},
+          {"Mosinee": {"IATA": "CWA", "ICAO": "KCWA"}}
+          ]
+        },
+        {"Wyoming": [
+          {"Jackson": {"IATA": "JAC", "ICAO": "KJAC"}}
+          ]
+        }
+      ] 
+}

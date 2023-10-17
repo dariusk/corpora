@@ -1,0 +1,17 @@
+{
+  "description" : "Every rapper that's ever made the XXL Annual Freshman Cover",
+  
+  "2007" : ["Plies", "Saigon", "Rich Boy", "Gorilla Zoe", "Joell Ortiz", "Lupe Fiasco", "Lil Boosie", "Crooked I", "Papoose",  "Young Dro"],
+  "2009" : ["Wale", "B.o.B","Charles Hamilton", "Asher Roth", "Cory Gunz", "Blu", "Mickey Factz", "Ace Hood", "Curren$y", "Kid Cudi"],
+  "2010" : ["J. Cole", "Pill", "Nipsey Hussle", "Freddie Gibbs", "Big Sean", "Wiz Khalifa", "OJ da Juiceman", "Jay Rock", "Fashawn", "Donnis"],
+  "2011" : ["Meek Mill", "Big K.R.I.T", "Cyhi the Prynce", "Lil Twist", "Yelawolf", "Fred the Godson", "Mac Miller", "YG", "Lil B", "Kendrick Lamar", "Diggy Simmons"],
+  "2012" : ["Future", "Kid Ink", "Danny Brown", "French Montana", "Macklemore", "Don Trip", "Machine Gun Kelly", "Hopsin", "Iggy Azalea", "Roscoe Dash"],
+  "2013" : ["Schoolboy Q", "Trinidad James", "Joey Bada$$", "Ab-Soul", "Logic", "Action Bronson", "Kirko Bangz", "Travi$ Scott", "Dizzy Wright", "Angel Haze", "Chief Keef"],
+  "2014" : ["Chance The Rapper", "Rich Homie Quan", "Isaiah Rashad", "Ty Dolla $ign", "Lil Durk","Kevin Gates","Troy Ave", "Vic Mensa", "Jon Connor", "Lil Bibby", "Jarren Benton", "August Alsina"],
+  "2015" : ["Fetty Wap", "Dej Loaf"," Raury", "Kidd Kidd"," OG Maco", "Shy Glizzy", "K Camp", "Vince Staples", "Tink", "GoldLink"],
+  "2016" : ["Lil Uzi Vert", "Lil Yachty", "Kodak Black", "Denzel Curry", "G Herbo", "Dave East", "Lil Dicky", "Anderson Paak", "Desiigner", "21 Savage"],
+  "2017" : ["Kamaiyah", "A Boogie wit da Hoodie", "PnB Rock", "MadeinTYO", "Playboi Carti", "Aminé", "Kap G", "Kyle", "Ugly God","XXXTentacion"],
+  "2018" : ["Ski Mask the Slump God", "Lil Purp", "Smokepurpp", "JID", "Stefflon Don", "BlocBoy JB", "YBN Nahmir", "Wifisfuneral", "Trippie Red"],
+  "2019" : ["Comethazine", "Tierra Whack", "DaBaby", "Lil Mosey", "Roddy Ricch", "Cordae", "YK Osiris", "Rico Nasty", "Gunna", "Blueface", "Megan Thee Stallion"],
+  "2020" : ["Polo G", "Chika", "NLE Choppa", "Jack Harlow", "Lil Keed", "Lil Tjay", "Fivio Foreign", "Calboy", "Rod Wave", "Baby Keem", "24kGoldn", "Mulatto"]
+}

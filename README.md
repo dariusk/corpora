@@ -20,7 +20,7 @@ This project is not meant to replace exhaustive APIs -- if you want nouns, and y
 
 ## What is Corpora?
 
- * Corpora is repository of JSON files, meant to be language-neutral. If you want to create an NPM repo or whatever based on this, be my guest, but this repository will remain a collection of data files that can be interpreted by any language that can parse JSON.
+ * Corpora is a repository of JSON files, meant to be language-neutral. If you want to create an NPM repo or whatever based on this, be my guest, but this repository will remain a collection of data files that can be interpreted by any language that can parse JSON.
  * Corpora is a collection of _small_ files. It is not meant to be an exhaustive source of anything: a list of resources should contain somewhere in the vicinity of 1000 items.
    * For example, Corpora will not contain any complete "dictionary" style files. Instead we host a sampling of 1000 common nouns, adjectives, and verbs.
    * Some lists are small enough by nature that we may contain a complete list of things in their category. For example, a list of heavily populated U.S. cities may only have 75 cities and be considered complete.
@@ -29,8 +29,7 @@ This project is not meant to replace exhaustive APIs -- if you want nouns, and y
 
  * [corpora-project](https://www.npmjs.com/package/corpora-project), a Node.js NPM package for accessing corpora data offline.
  * [pycorpora](https://github.com/aparrish/pycorpora), a simple Python interface for corpora
- * [Botwiki Corpora API](https://botwiki.org/projects/corpora/), an API access to the Corpora data
- * [corpora-api](https://github.com/coleww/corpora-api), a Node.js server that offers up the corpora as a JSON API
+ * [corpora-api](https://github.com/coleww/corpora-api), a Node.js server that offers up the corpora as a JSON API (now live at <https://corpora-api.glitch.me>)
 
 ## I have some data, how do I submit?
 
@@ -41,7 +40,7 @@ We accept pull requests to this repository. Some guidelines:
  * Keep individual files to about 1000 "things" maximum. Fewer than 1000 is fine, too.
  * If you'd like attribution, I'm happy to include your name in this Readme file. Just remember that nobody who uses this data is obligated to include attribution in their own projects.
 
-## Contributors:
+## Contributors
 
- * Tyler Kellen ([tkellen](https://github.com/tkellen)): prefixes and suffixes
- * Parker Higgins ([thisisparker](https://github.com/thisisparker)): apple cultivars from the pomological watercolor collection
+By [Darius Kazemi and Many Wonderful Contributors](https://github.com/dariusk/corpora/graphs/contributors).
+

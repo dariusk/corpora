@@ -1,0 +1,69 @@
+{
+  "description":"A list of video games banned in Saudi Arabia",
+  "games":[
+    {
+    "name":"God of War (franchise)",
+    "reason":"Banned for a few weeks due to the presence of interactive sex scenes, partial nudity and sexual themes, as well as the word \"God\" in the title. In 2018, the newest game in the series was approved for release."
+    },
+    {
+    "name":"Call of Duty 4: Modern Warfare",
+    "reason":"Banned for a few weeks because of role-playing the Middle East as terrorists."
+    },
+    {
+    "name":"Assassin's Creed",
+    "reason":"Banned for two weeks because of a perceived negative portrayal of Arabs. Later completely banned due to its use in the Blue Whale Challenge."
+    },
+    {
+    "name":"Grand Theft Auto (series)",
+    "reason":"Banned for extreme impact violence and nudity."
+    },
+    {
+    "name":"Heavy Rain",
+    "reason":"Banned because of high impact violence, nudity and a sex scene."
+    },
+    {
+    "name":"L.A. Noire",
+    "reason":"Banned because of extreme impact violence and nudity."
+    },
+    {
+    "name":"Postal 2",
+    "reason":"Banned because of extreme impact violence, nudity and the portrayal of Muslims as terrorists."
+    },
+    {
+    "name":"Red Dead Redemption",
+    "reason":"Banned due to nudity, prostitution, violence and cruelty."
+    },
+    {
+    "name":"Red Dead Redemption 2",
+    "reason":"Banned due to nudity, prostitution, violence and cruelty."
+    },
+    {
+    "name":"Manhunt (video game series) (all versions)",
+    "reason":"Banned because of low impact scary violence and cruelty."
+    },
+    {
+    "name":"Manhunt 2",
+    "reason":"Banned for \"gross, unrelenting, and gratuitous violence\"."
+    },
+    {
+    "name":"South Park: The Stick of Truth/The Fractured but Whole (all versions)",
+    "reason":"Banned because of extremely offensive content."
+    },
+    {
+    "name":"Valkyrie Drive: Bhikkhuni",
+    "reason":"Banned due to sexual content and excessive themes of glorifying homosexuality."
+    },
+    {
+    "name":"Wolfenstein",
+    "reason":"Banned because of the presence of interactive sex scenes."
+    },
+    {
+    "name":"Metro (series)",
+    "reason":"Banned due to its use in the Blue Whale Challenge."
+    },
+    {
+    "name":"The Witcher 3: Wild Hunt",
+    "reason":"Banned because of the presence of sex scenes."
+    }
+  ]
+}

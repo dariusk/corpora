@@ -1,0 +1,43 @@
+[{
+	"word": "my",
+	"people": "f",
+	"number": "s"
+}, {
+	"word": "your",
+	"people": "s"
+}, {
+	"word": "our",
+	"people": "f"
+}, {
+	"word": "their",
+	"people": "t"
+}, {
+	"word": "his",
+	"people": "t",
+	"gender": "m"
+}, {
+	"word": "her",
+	"people": "t",
+	"gender": "f",
+	"number": "s"
+}, {
+	"word": "its",
+	"people": "t",
+	"number": "s"
+}, {
+	"word": "hers",
+	"people": "t",
+	"gender": "f",
+	"number": "s"
+}, {
+	"word": "yours",
+	"people": "s"
+}, {
+	"word": "ours",
+	"people": "f",
+	"number": "p"
+}, {
+	"word": "theirs",
+	"people": "t",
+	"number": "p"
+}]

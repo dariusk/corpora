@@ -1,0 +1,370 @@
+{
+	"description": "Top Norwegian Cities by 2017 population",
+	"source": ["Norway Population 2017 (Demographics, Maps, Graphs)", "http://worldpopulationreview.com/countries/norway-population"],
+	"cities": [
+		{
+			"city": "Oslo",
+			"population": "580,000"
+		},
+		{
+			"city": "Bergen",
+			"population": "213,585"
+		},
+		{
+			"city": "Trondheim",
+			"population": "147,139"
+		},
+		{
+			"city": "Stavanger",
+			"population": "121,610"
+		},
+		{
+			"city": "Drammen",
+			"population": "90,722"
+		},
+		{
+			"city": "Fredrikstad",
+			"population": "72,760"
+		},
+		{
+			"city": "Kristiansand",
+			"population": "63,814"
+		},
+		{
+			"city": "Sandnes",
+			"population": "63,032"
+		},
+		{
+			"city": "Tromso",
+			"population": "52,436"
+		},
+		{
+			"city": "Sarpsborg",
+			"population": "52,159"
+		},
+		{
+			"city": "Skien",
+			"population": "50,595"
+		},
+		{
+			"city": "Alesund",
+			"population": "44,096"
+		},
+		{
+			"city": "Sandefjord",
+			"population": "42,654"
+		},
+		{
+			"city": "Haugesund",
+			"population": "40,321"
+		},
+		{
+			"city": "Tonsberg",
+			"population": "38,914"
+		},
+		{
+			"city": "Moss",
+			"population": "34,492"
+		},
+		{
+			"city": "Porsgrunn",
+			"population": "34,377"
+		},
+		{
+			"city": "Bodo",
+			"population": "34,073"
+		},
+		{
+			"city": "Arendal",
+			"population": "30,916"
+		},
+		{
+			"city": "Hamar",
+			"population": "29,479"
+		},
+		{
+			"city": "Ytrebygda",
+			"population": "24,044"
+		},
+		{
+			"city": "Larvik",
+			"population": "23,113"
+		},
+		{
+			"city": "Halden",
+			"population": "21,970"
+		},
+		{
+			"city": "Steinkjer",
+			"population": "20,000"
+		},
+		{
+			"city": "Harstad",
+			"population": "19,433"
+		},
+		{
+			"city": "Lillehammer",
+			"population": "19,096"
+		},
+		{
+			"city": "Molde",
+			"population": "18,594"
+		},
+		{
+			"city": "Mo i Rana",
+			"population": "17,853"
+		},
+		{
+			"city": "Kongsberg",
+			"population": "17,667"
+		},
+		{
+			"city": "Horten",
+			"population": "17,660"
+		},
+		{
+			"city": "Gjovik",
+			"population": "17,596"
+		},
+		{
+			"city": "Askoy",
+			"population": "17,224"
+		},
+		{
+			"city": "Kristiansund",
+			"population": "16,785"
+		},
+		{
+			"city": "Narvik",
+			"population": "14,114"
+		},
+		{
+			"city": "Lillestrom",
+			"population": "14,000"
+		},
+		{
+			"city": "Honefoss",
+			"population": "13,678"
+		},
+		{
+			"city": "Ski",
+			"population": "12,513"
+		},
+		{
+			"city": "Elverum",
+			"population": "12,490"
+		},
+		{
+			"city": "Askim",
+			"population": "12,482"
+		},
+		{
+			"city": "Jessheim",
+			"population": "12,365"
+		},
+		{
+			"city": "Alta",
+			"population": "12,077"
+		},
+		{
+			"city": "Stjordalshalsen",
+			"population": "11,416"
+		},
+		{
+			"city": "Drobak",
+			"population": "11,363"
+		},
+		{
+			"city": "Kongsvinger",
+			"population": "11,181"
+		},
+		{
+			"city": "Leirvik",
+			"population": "11,028"
+		},
+		{
+			"city": "Vennesla",
+			"population": "10,931"
+		},
+		{
+			"city": "Nesoddtangen",
+			"population": "10,911"
+		},
+		{
+			"city": "Mandal",
+			"population": "10,143"
+		},
+		{
+			"city": "Mosjoen",
+			"population": "9,636"
+		},
+		{
+			"city": "Grimstad",
+			"population": "9,561"
+		},
+		{
+			"city": "Egersund",
+			"population": "9,502"
+		},
+		{
+			"city": "Namsos",
+			"population": "9,035"
+		},
+		{
+			"city": "Sogne",
+			"population": "9,000"
+		},
+		{
+			"city": "Raholt",
+			"population": "8,593"
+		},
+		{
+			"city": "Forde",
+			"population": "8,510"
+		},
+		{
+			"city": "Brumunddal",
+			"population": "8,441"
+		},
+		{
+			"city": "Levanger",
+			"population": "8,411"
+		},
+		{
+			"city": "Notodden",
+			"population": "8,306"
+		},
+		{
+			"city": "Floro",
+			"population": "8,230"
+		},
+		{
+			"city": "Bryne",
+			"population": "8,006"
+		},
+		{
+			"city": "As",
+			"population": "7,961"
+		},
+		{
+			"city": "Verdal",
+			"population": "7,154"
+		},
+		{
+			"city": "Hammerfest",
+			"population": "6,788"
+		},
+		{
+			"city": "Sogndal",
+			"population": "6,700"
+		},
+		{
+			"city": "Kopervik",
+			"population": "6,507"
+		},
+		{
+			"city": "Fetsund",
+			"population": "6,441"
+		},
+		{
+			"city": "Malvik",
+			"population": "6,419"
+		},
+		{
+			"city": "Orsta",
+			"population": "6,337"
+		},
+		{
+			"city": "Holmestrand",
+			"population": "6,135"
+		},
+		{
+			"city": "Indre Arna",
+			"population": "6,117"
+		},
+		{
+			"city": "Lillesand",
+			"population": "6,081"
+		},
+		{
+			"city": "Raufoss",
+			"population": "6,052"
+		},
+		{
+			"city": "Fauske",
+			"population": "5,953"
+		},
+		{
+			"city": "Klofta",
+			"population": "5,942"
+		},
+		{
+			"city": "Tananger",
+			"population": "5,817"
+		},
+		{
+			"city": "Sandnessjoen",
+			"population": "5,778"
+		},
+		{
+			"city": "Hommersak",
+			"population": "5,692"
+		},
+		{
+			"city": "Flekkefjord",
+			"population": "5,615"
+		},
+		{
+			"city": "Stavern",
+			"population": "5,593"
+		},
+		{
+			"city": "Voss",
+			"population": "5,571"
+		},
+		{
+			"city": "Tranby",
+			"population": "5,552"
+		},
+		{
+			"city": "Jorpeland",
+			"population": "5,537"
+		},
+		{
+			"city": "Mysen",
+			"population": "5,516"
+		},
+		{
+			"city": "Volda",
+			"population": "5,376"
+		},
+		{
+			"city": "Odda",
+			"population": "5,359"
+		},
+		{
+			"city": "Vestby",
+			"population": "5,330"
+		},
+		{
+			"city": "Kragero",
+			"population": "5,158"
+		},
+		{
+			"city": "Vadso",
+			"population": "5,139"
+		},
+		{
+			"city": "Ulsteinvik",
+			"population": "5,103"
+		},
+		{
+			"city": "Akrehamn",
+			"population": "5,018"
+		},
+		{
+			"city": "Hermansverk",
+			"population": "2,000"
+		}
+	]
+}

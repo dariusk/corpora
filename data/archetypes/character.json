@@ -9,7 +9,7 @@
         },
         {
             "name": "anti-hero",
-            "synonyms": [],
+            "synonyms": ["antagonist"],
             "qualities": ["unwilling","reluctant"],
             "nature": "neutral"
         },
@@ -117,14 +117,14 @@
         },
         {
             "name": "weaver",
-            "synonyms": ["creator","spinner"],
+            "synonyms": ["creator","spinner", "crafter"],
             "qualities": ["thorough","crafty"],
             "nature": "neutral"
         },
         {
             "name": "death",
             "synonyms": ["executioner"],
-            "qualities": ["final","morbid","dark"],
+            "qualities": ["final","morbid","dark", "sombre"],
             "nature": "evil"
         },
         {
@@ -135,7 +135,7 @@
         },
         {
             "name": "superhuman",
-            "synonyms": ["god"],
+            "synonyms": ["god", "demigod"],
             "qualities": ["incredible"],
             "nature": "good"
         },
@@ -166,7 +166,7 @@
         {
             "name": "leader",
             "synonyms": ["captain","general"],
-            "qualities": [],
+            "qualities": ["inspiring", "compelling"],
             "nature": "good"
         },
         {

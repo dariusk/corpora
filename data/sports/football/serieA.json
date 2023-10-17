@@ -1,0 +1,104 @@
+{
+	"description": "Teams in the Italian First División, Serie A(2017-18) with their details ",
+	"serieA_teams" : [
+	{"name":"Atalanta",
+	 "homecity":"Bergamo",
+	 "stadium":"Stadio Atleti Azzurri d'Italia",
+	 "manager":"Gian Piero Gasperini"},
+	{
+		"name":"Benevento",
+		"homecity":"Benevento",
+		"stadium":"Stadio Ciro Vigorito",
+		"manager":"Marco Baroni"},
+	{
+		"name":"Bologna",
+		"homecity":"Bologna",
+		"stadium":"Stadio Renato Dall'Ara",
+		"manager":"Roberto Donadoni"},
+	{
+		"name":"Cagliari",
+		"homecity":"Cagliari",
+		"stadium":"Sardegna Arena",
+		"manager":"Massimo Rastelli"},
+	{
+		"name":"Chievo",
+		"homecity":"Verona",
+		"stadium":"Stadio Marc'Antonio Bentegodi",
+		"manager":"Rolando Maran"},
+	{
+		"name":"Crotone",
+		"homecity":"Crotone",
+		"stadium":"Stadio Ezio Scida",
+		"manager":"Davide Nicola"},
+	{	
+		"name":"Fiorentina",
+		"homecity":"Florence",
+		"stadium":"Stadio Artemio Franchi",
+		"manager":"Stefano Pioli"},
+	{ 
+		"name":"Genoa",
+		"homecity":"Genoa",
+		"stadium":"Stadio Luigi Ferraris",
+		"manager":"Ivan Jurić"},
+	{	
+		"name":"Hellas Verona",
+		"homecity":"Verona",
+		"stadium":"Stadio Marc'Antonio Bentegodi",
+		"manager":"Fabio Pecchia"},
+	{	
+		"name":"Internazionale",
+		"homecity":"Milan",
+		"stadium":"San Siro",
+		"manager":"Luciano Spalletti"},
+	{	
+		"name":"Juventus",
+		"homecity":"Turin",
+		"stadium":"Juventus Stadium",
+		"manager":"Massimiliano Allegri"},
+	{	
+		"name":"Lazio",
+		"homecity":"Rome",
+		"stadium":"Stadio Olimpico",
+		"manager":"Simone Inzaghi"},
+	{	
+		"name":"Milan",
+		"homecity":"Milan",
+		"stadium":"San Siro",
+		"manager":"Vincenzo Montella"},
+	{	
+		"name":"Napoli",
+		"homecity":"Naples",
+		"stadium":"Stadio San Paolo",
+		"manager":"Maurizio Sarri"},
+	{	
+		"name":"Roma",
+		"homecity":"Rome",
+		"stadium":"Stadio Olimpico",
+		"manager":"Eusebio Di Francesco"},
+	{	
+		"name":"Sampdoria",
+		"homecity":"Genoa",
+		"stadium":"Stadio Luigi Ferraris",
+		"manager":"Marco Giampaolo"},
+	{	
+		"name":"Sassuolo",
+		"homecity":"Sassuolo",
+		"stadium":"Mapei Stadium – Città del Tricolore(Reggio Emilia)",
+		"manager":"Cristian Bucchi"},
+	{	
+		"name":"SPAL",
+		"homecity":"Ferrara",
+		"stadium":"Paolo Mazza",
+		"manager":"Leonardo Semplici"},
+	{	
+		"name":"Torino",
+		"homecity":"Turin",
+		"stadium":"Stadio Olimpico Grande Torino",
+		"manager":"Siniša Mihajlović"},
+	{	
+		"name":"Udinese",
+		"homecity":"Udine",
+		"stadium":"Stadio Friuli-Dacia Arena",
+		"manager":"Luigi Delneri"}
+	]
+}
