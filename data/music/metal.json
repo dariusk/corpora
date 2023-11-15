@@ -1,0 +1,46 @@
+{
+    "description": "list of metal bands/artists and their subgenres of metal",
+    "source": "https://en.wikipedia.org/wiki/Heavy_metal_genres#",
+    "data": [
+        {
+            "name": "Linkin Park",
+            "genre": "numetal"
+        },
+        {
+            "name": "Breaking Bemjamin",
+            "genre": "alternative"
+        },
+        {
+            "name": "Soilwork",
+            "genre": "melodic metalcore"
+        },
+        {
+            "name": "Babymetal",
+            "genre": "kawaii metal"
+        },
+        {
+            "name": "Nightwish",
+            "genre": "symphonic metal"
+        },
+        {
+            "name": "Dazzle Vision",
+            "genre": "kawaii metal"
+        },
+        {
+            "name": "Dark Tranquility",
+            "genre": "melodic death metal"
+        },
+        {
+            "name": "Unleashed",
+            "genre": "viking metal"
+        },
+        {
+            "name": "Paradise Lost",
+            "genre": "death/doom"
+        },
+        {
+            "name": "Ex Deo",
+            "genre": "symphonic death metal"
+        }
+    ]
+}
