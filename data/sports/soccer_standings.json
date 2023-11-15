@@ -1,0 +1,36 @@
+{
+    "description": "Top team for the top 5 soccer leagues",
+    "soccer_standings": [
+      {
+        "Country": "England",
+        "League": "Premier League",
+        "1stclub": "Man City",
+        "record": "9-1-2"
+      },
+    {
+        "Country":"Germany",
+        "League": "Bundesliga",
+        "1stclub": "Leverkusen",
+        "record": "10-1-0"  
+    },
+    {
+        "Country":"Italy",
+        "League": "Serie A",
+        "1stclub": "Inter",
+        "record": "10-1-1"  
+    },
+    {
+        "Country":"Spain",
+        "League": "Laliga",
+        "1stclub": "Girona",
+        "record": "11-1-1" 
+
+    },
+    {
+        "Country":"France",
+        "League": "Ligue 1",
+        "1stclub": "PSG",
+        "record": "8-3-1" 
+    }
+    ]
+    }
