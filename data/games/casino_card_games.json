@@ -1,0 +1,46 @@
+{
+  "description": "List of Card Games Played in Casinos.",
+  "source": "https://upswingpoker.com/the-top-10-casino-card-games-odds-wise/",
+  "games": [
+      {
+          "Name": "BlackJack",
+          "How_To_Play": "Make your cards add to 21"
+      },
+      {
+          "Name": "Baccarat",
+          "How_To_Play": "Baccarat involves hands played between the “Player” and the “Banker” in each round. Both sides must get as close as possible to nine points, based on the game rules"
+      },
+      {
+          "Name": "Casino War",
+          "How_To_Play": "War, but versus everybody plus gambling"
+      },
+      {
+          "Name": "Caribbean Stud",
+          "How_To_Play": "Three card poker, but betting is different"
+      },
+      {
+          "Name": "Let It Ride",
+          "How_To_Play": "You need the biggest hand with 3 cards. You can add your hand to the community card in the middle"
+      },
+      {
+          "Name": "Pai Gow Poker",
+          "How_To_Play": "Poker, but tasks the player with making the best possible five-card hand and two-card hand out of a total of seven cards."
+      },
+      {
+          "Name": "Poker",
+          "How_To_Play": "o-o"
+      },
+      {
+          "Name": "Three Card Poker",
+          "How_To_Play": "The player gets 3 face up cards and the dealer gets 3 face down. The dealer needs to beat the player"
+      },
+      {
+          "Name": "Ultimate Texas Hold'em",
+          "How_To_Play": "Texas Hold'em, but against the house"
+      },
+      {
+          "Name": "Video Poker",
+          "How_To_Play": "Poker, but with only one draw"
+      }
+  ]
+}
