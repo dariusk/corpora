@@ -1,0 +1,53 @@
+{
+  "description":"Integration rules for any function",
+
+  "constant": [
+    "integral a dx = ax + C, where a and C are both constants"
+  ],
+
+  "variable": [
+    "integral x dx = (x^2)/2+ C"
+  ],
+
+  "square": [
+    "integral x^2 dx  = (x^3)/3 + C"
+  ],
+
+  "reciprocals": [
+    "integral (1/x) dx = ln|x| + C"
+
+  ],
+ 
+  "exponential functions": [
+    "integral e^x dx = e^x + C",
+    "integral a^x dx = a^x/ln(a) + C",
+    "integral ln(x) dx = x ln(x) -x + C"
+
+  ],
+  "trigonometric functions":[
+    "integral cos(x) dx = sin(x) + C",
+    "integral sin(x) dx = -cos(x) + C",
+    "integral sec^2(x) dx = tan(x) + C"
+    
+  ],
+
+  "power":[
+    "integral x^n dx = (x^(n+1)/n+1) C"
+    
+  ],
+
+  "difference":[
+    "integral (f - g) dx = integral f dx - integral g dx"
+    
+  ],
+  "multiplication by constant":[
+    "integral cf(x) dx = c (integral f(x) dx), where c is a constant"
+    
+  ],
+
+  "parts":[
+    "integral u v da = u(integral v da) - integral u`(integral v da) da; u isfunction of u(a); v is function of v(a); u` is derivative of function u(a)"
+    
+  ]
+
+}
