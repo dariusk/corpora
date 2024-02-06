@@ -883,7 +883,7 @@
         },
         {
             "present": "expand",
-            "past": "expand"
+            "past": "expanded"
         },
         {
             "present": "expect",
@@ -1443,7 +1443,7 @@
         },
         {
             "present": "look",
-            "past": "look"
+            "past": "looked"
         },
         {
             "present": "love",
@@ -2127,7 +2127,7 @@
         },
         {
             "present": "rhyme",
-            "past": "rhyme"
+            "past": "rhymed"
         },
         {
             "present": "rinse",
@@ -2251,7 +2251,7 @@
         },
         {
             "present": "separate",
-            "past": "separate"
+            "past": "separated"
         },
         {
             "present": "serve",
