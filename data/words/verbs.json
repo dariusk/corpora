@@ -30,8 +30,16 @@
             "past": "agreed"
         },
         {
+            "present": "adjust",
+            "past": "adjusted"
+        },
+        {
             "present": "alert",
             "past": "alerted"
+        },
+        {
+            "present": "align",
+            "past": "aligned"
         },
         {
             "present": "allow",
@@ -44,6 +52,10 @@
         {
             "present": "analyse",
             "past": "analysed"
+        },
+        {
+            "present": "annotate",
+            "past": "annotated"
         },
         {
             "present": "announce",
@@ -66,8 +78,16 @@
             "past": "appeared"
         },
         {
+            "present": "append",
+            "past": "appended"
+        },
+        {
             "present": "applaud",
             "past": "applauded"
+        },
+        {
+            "present": "apply",
+            "past": "applied"
         },
         {
             "present": "appreciate",
@@ -98,6 +118,10 @@
             "past": "asked"
         },
         {
+            "present": "assume",
+            "past": "assumed"
+        },
+        {
             "present": "attach",
             "past": "attached"
         },
@@ -118,12 +142,28 @@
             "past": "attracted"
         },
         {
+            "present": "attribute",
+            "past": "attributed"
+        },
+        {
+            "present": "autocommit",
+            "past": "autocommitted"
+        },
+        {
+            "present": "automate",
+            "past": "automated"
+        },
+        {
             "present": "avoid",
             "past": "avoided"
         },
         {
             "present": "back",
             "past": "backed"
+        },
+        {
+            "present": "backmerge",
+            "past": "backmerged"
         },
         {
             "present": "bake",
@@ -190,6 +230,10 @@
             "past": "blinked"
         },
         {
+            "present": "block",
+            "past": "blocked"
+        },
+        {
             "present": "blot",
             "past": "blotted"
         },
@@ -246,8 +290,16 @@
             "past": "branched"
         },
         {
+            "present": "break",
+            "past": "broke"
+        },
+        {
             "present": "breathe",
             "past": "breathed"
+        },
+        {
+            "present": "bring",
+            "past": "brought"
         },
         {
             "present": "bruise",
@@ -260,6 +312,10 @@
         {
             "present": "bubble",
             "past": "bubbled"
+        },
+        {
+            "present": "build",
+            "past": "built"
         },
         {
             "present": "bump",
@@ -276,6 +332,10 @@
         {
             "present": "buzz",
             "past": "buzzed"
+        },
+        {
+            "present": "cache",
+            "past": "cached"
         },
         {
             "present": "calculate",
@@ -394,6 +454,14 @@
             "past": "commanded"
         },
         {
+            "present": "comment",
+            "past": "commented"
+        },
+        {
+            "present": "commit",
+            "past": "committed"
+        },
+        {
             "present": "communicate",
             "past": "communicated"
         },
@@ -450,6 +518,10 @@
             "past": "continued"
         },
         {
+            "present": "convert",
+            "past": "converted"
+        },
+        {
             "present": "copy",
             "past": "copied"
         },
@@ -482,6 +554,10 @@
             "past": "crawled"
         },
         {
+            "present": "create",
+            "past": "created"
+        },
+        {
             "present": "cross",
             "past": "crossed"
         },
@@ -504,6 +580,10 @@
         {
             "present": "curve",
             "past": "curved"
+        },
+        {
+            "present": "customise",
+            "past": "customised"
         },
         {
             "present": "cycle",
@@ -538,12 +618,24 @@
             "past": "decided"
         },
         {
+            "present": "decommission",
+            "past": "decommissioned"
+        },
+        {
             "present": "decorate",
             "past": "decorated"
         },
         {
+            "present": "define",
+            "past": "defined"
+        },
+        {
             "present": "delay",
             "past": "delayed"
+        },
+        {
+            "present": "delete",
+            "past": "deleted"
         },
         {
             "present": "delight",
@@ -556,6 +648,10 @@
         {
             "present": "depend",
             "past": "depended"
+        },
+        {
+            "present": "dereference",
+            "past": "dereferenced"
         },
         {
             "present": "describe",
@@ -578,8 +674,16 @@
             "past": "detected"
         },
         {
+            "present": "determine",
+            "past": "determined"
+        },
+        {
             "present": "develop",
             "past": "developed"
+        },
+        {
+            "present": "disable",
+            "past": "disabled"
         },
         {
             "present": "disagree",
@@ -598,6 +702,10 @@
             "past": "disarmed"
         },
         {
+            "present": "discard",
+            "past": "discarded"
+        },
+        {
             "present": "discover",
             "past": "discovered"
         },
@@ -606,8 +714,20 @@
             "past": "disliked"
         },
         {
+            "present": "dismiss",
+            "past": "dismissed"
+        },
+        {
+            "present": "display",
+            "past": "displayed"
+        },
+        {
             "present": "divide",
             "past": "divided"
+        },
+        {
+            "present": "document",
+            "past": "documented"
         },
         {
             "present": "double",
@@ -624,6 +744,10 @@
         {
             "present": "drain",
             "past": "drained"
+        },
+        {
+            "present": "draw",
+            "past": "drew"
         },
         {
             "present": "dream",
@@ -654,6 +778,10 @@
             "past": "dried"
         },
         {
+            "present": "duplicate",
+            "past": "duplicated"
+        },
+        {
             "present": "dust",
             "past": "dusted"
         },
@@ -666,8 +794,16 @@
             "past": "educated"
         },
         {
+            "present": "email",
+            "past": "emailed"
+        },
+        {
             "present": "embarrass",
             "past": "embarrassed"
+        },
+        {
+            "present": "embed",
+            "past": "embedded"
         },
         {
             "present": "employ",
@@ -678,6 +814,14 @@
             "past": "emptied"
         },
         {
+            "present": "enable",
+            "past": "enabled"
+        },
+        {
+            "present": "encode",
+            "past": "encoded"
+        },
+        {
             "present": "encourage",
             "past": "encouraged"
         },
@@ -686,8 +830,20 @@
             "past": "ended"
         },
         {
+            "present": "enforce",
+            "past": "enforced"
+        },
+        {
+            "present": "enhance",
+            "past": "enhanced"
+        },
+        {
             "present": "enjoy",
             "past": "enjoyed"
+        },
+        {
+            "present": "ensure",
+            "past": "ensured"
         },
         {
             "present": "enter",
@@ -710,6 +866,10 @@
             "past": "excited"
         },
         {
+            "present": "exclude",
+            "past": "excluded"
+        },
+        {
             "present": "excuse",
             "past": "excused"
         },
@@ -723,7 +883,7 @@
         },
         {
             "present": "expand",
-            "past": "expand"
+            "past": "expanded"
         },
         {
             "present": "expect",
@@ -740,6 +900,10 @@
         {
             "present": "extend",
             "past": "extended"
+        },
+        {
+            "present": "extract",
+            "past": "extracted"
         },
         {
             "present": "face",
@@ -788,6 +952,14 @@
         {
             "present": "film",
             "past": "filmed"
+        },
+        {
+            "present": "filter",
+            "past": "filtered"
+        },
+        {
+            "present": "find",
+            "past": "found"
         },
         {
             "present": "fire",
@@ -846,6 +1018,10 @@
             "past": "formed"
         },
         {
+            "present": "format",
+            "past": "formatted"
+        },
+        {
             "present": "found",
             "past": "founded"
         },
@@ -868,6 +1044,14 @@
         {
             "present": "gaze",
             "past": "gazed"
+        },
+        {
+            "present": "generalise",
+            "past": "generalised"
+        },
+        {
+            "present": "generate",
+            "past": "generated"
         },
         {
             "present": "glow",
@@ -922,6 +1106,10 @@
             "past": "guided"
         },
         {
+            "present": "hack",
+            "past": "hacked"
+        },
+        {
             "present": "hammer",
             "past": "hammered"
         },
@@ -950,6 +1138,10 @@
             "past": "harmed"
         },
         {
+            "present": "hash",
+            "past": "hashed"
+        },
+        {
             "present": "hate",
             "past": "hated"
         },
@@ -976,6 +1168,10 @@
         {
             "present": "help",
             "past": "helped"
+        },
+        {
+            "present": "hide",
+            "past": "hid"
         },
         {
             "present": "hook",
@@ -1022,8 +1218,16 @@
             "past": "imagined"
         },
         {
+            "present": "implement",
+            "past": "implemented"
+        },
+        {
             "present": "impress",
             "past": "impressed"
+        },
+        {
+            "present": "import",
+            "past": "imported"
         },
         {
             "present": "improve",
@@ -1054,6 +1258,10 @@
             "past": "injured"
         },
         {
+            "present": "inline",
+            "past": "inlined"
+        },
+        {
             "present": "instruct",
             "past": "instructed"
         },
@@ -1080,6 +1288,10 @@
         {
             "present": "invent",
             "past": "invented"
+        },
+        {
+            "present": "invert",
+            "past": "inverted"
         },
         {
             "present": "invite",
@@ -1222,16 +1434,24 @@
             "past": "locked"
         },
         {
+            "present": "log",
+            "past": "logged"
+        },
+        {
             "present": "long",
             "past": "longed"
         },
         {
             "present": "look",
-            "past": "look"
+            "past": "looked"
         },
         {
             "present": "love",
             "past": "loved"
+        },
+        {
+            "present": "make",
+            "past": "made"
         },
         {
             "present": "man",
@@ -1286,6 +1506,10 @@
             "past": "mended"
         },
         {
+            "present": "merge",
+            "past": "merged"
+        },
+        {
             "present": "mess up",
             "past": "messed up"
         },
@@ -1308,6 +1532,10 @@
         {
             "present": "moan",
             "past": "moaned"
+        },
+        {
+            "present": "modify",
+            "past": "modified"
         },
         {
             "present": "moor",
@@ -1402,6 +1630,10 @@
             "past": "opened"
         },
         {
+            "present": "optimise",
+            "past": "optimised"
+        },
+        {
             "present": "order",
             "past": "ordered"
         },
@@ -1432,6 +1664,10 @@
         {
             "present": "park",
             "past": "parked"
+        },
+        {
+            "present": "parse",
+            "past": "parsed"
         },
         {
             "present": "part",
@@ -1558,6 +1794,10 @@
             "past": "preached"
         },
         {
+            "present": "precalculate",
+            "past": "precalculated"
+        },
+        {
             "present": "precede",
             "past": "preceded"
         },
@@ -1618,6 +1858,10 @@
             "past": "provided"
         },
         {
+            "present": "publish",
+            "past": "published"
+        },
+        {
             "present": "pull",
             "past": "pulled"
         },
@@ -1638,8 +1882,20 @@
             "past": "punished"
         },
         {
+            "present": "pull",
+            "past": "pulled"
+        },
+        {
             "present": "push",
             "past": "pushed"
+        },
+        {
+            "present": "put",
+            "past": "put"
+        },
+        {
+            "present": "query",
+            "past": "queried"
         },
         {
             "present": "question",
@@ -1670,6 +1926,10 @@
             "past": "reached"
         },
         {
+            "present": "read",
+            "past": "read"
+        },
+        {
             "present": "realise",
             "past": "realised"
         },
@@ -1686,8 +1946,28 @@
             "past": "recorded"
         },
         {
+            "present": "rebuild",
+            "past": "rebuilt"
+        },
+        {
+            "present": "redirect",
+            "past": "redirected"
+        },
+        {
             "present": "reduce",
             "past": "reduced"
+        },
+        {
+            "present": "re-enable",
+            "past": "re-enabled"
+        },
+        {
+            "present": "refactor",
+            "past": "refactored"
+        },
+        {
+            "present": "reference",
+            "past": "referenced"
         },
         {
             "present": "reflect",
@@ -1742,6 +2022,14 @@
             "past": "removed"
         },
         {
+            "present": "rename",
+            "past": "renamed"
+        },
+        {
+            "present": "re-order",
+            "past": "re-ordered"
+        },
+        {
             "present": "repair",
             "past": "repaired"
         },
@@ -1770,20 +2058,76 @@
             "past": "requested"
         },
         {
+            "present": "require",
+            "past": "required"
+        },
+        {
             "present": "rescue",
             "past": "rescued"
+        },
+        {
+            "present": "resequence",
+            "past": "resequenced"
+        },
+        {
+            "present": "resign",
+            "past": "resigned"
+        },
+        {
+            "present": "resolve",
+            "past": "resolved"
+        },
+        {
+            "present": "restore",
+            "past": "restored"
+        },
+        {
+            "present": "restrict",
+            "past": "restricted"
+        },
+        {
+            "present": "resurrect",
+            "past": "resurrected"
+        },
+        {
+            "present": "retain",
+            "past": "retained"
         },
         {
             "present": "retire",
             "past": "retired"
         },
         {
+            "present": "retrieve",
+            "past": "retrieved"
+        },
+        {
             "present": "return",
             "past": "returned"
         },
         {
+            "present": "reveal",
+            "past": "revealed"
+        },
+        {
+            "present": "reverse",
+            "past": "reversed"
+        },
+        {
+            "present": "revert",
+            "past": "reverted"
+        },
+        {
+            "present": "reword",
+            "past": "reworded"
+        },
+        {
+            "present": "rewrite",
+            "past": "rewritten"
+        },
+        {
             "present": "rhyme",
-            "past": "rhyme"
+            "past": "rhymed"
         },
         {
             "present": "rinse",
@@ -1822,6 +2166,10 @@
             "past": "ruled"
         },
         {
+            "present": "run",
+            "past": "ran"
+        },
+        {
             "present": "rush",
             "past": "rushed"
         },
@@ -1852,6 +2200,10 @@
         {
             "present": "scatter",
             "past": "scattered"
+        },
+        {
+            "present": "schedule",
+            "past": "scheduled"
         },
         {
             "present": "scold",
@@ -1894,8 +2246,12 @@
             "past": "searched"
         },
         {
+            "present": "send",
+            "past": "sent"
+        },
+        {
             "present": "separate",
-            "past": "separate"
+            "past": "separated"
         },
         {
             "present": "serve",
@@ -1934,6 +2290,10 @@
             "past": "shopped"
         },
         {
+            "present": "show",
+            "past": "shown"
+        },
+        {
             "present": "shrug",
             "past": "shrugged"
         },
@@ -1948,6 +2308,10 @@
         {
             "present": "signal",
             "past": "signalled"
+        },
+        {
+            "present": "simplify",
+            "past": "simplified"
         },
         {
             "present": "sin",
@@ -2038,6 +2402,14 @@
             "past": "sparkled"
         },
         {
+            "present": "specify",
+            "past": "specified"
+        },
+        {
+            "present": "speed",
+            "past": "sped"
+        },
+        {
             "present": "spell",
             "past": "spelled"
         },
@@ -2078,12 +2450,20 @@
             "past": "squeezed"
         },
         {
+            "present": "stage",
+            "past": "staged"
+        },
+        {
             "present": "stain",
             "past": "stained"
         },
         {
             "present": "stamp",
             "past": "stamped"
+        },
+        {
+            "present": "standardise",
+            "past": "standardised"
         },
         {
             "present": "stare",
@@ -2202,6 +2582,10 @@
             "past": "switched"
         },
         {
+            "present": "sync",
+            "past": "synced"
+        },
+        {
             "present": "talk",
             "past": "talked"
         },
@@ -2212,6 +2596,10 @@
         {
             "present": "tap",
             "past": "tapped"
+        },
+        {
+            "present": "target",
+            "past": "targeted"
         },
         {
             "present": "taste",
@@ -2330,6 +2718,10 @@
             "past": "troubled"
         },
         {
+            "present": "truncate",
+            "past": "truncated"
+        },
+        {
             "present": "trust",
             "past": "trusted"
         },
@@ -2382,12 +2774,32 @@
             "past": "untidied"
         },
         {
+            "present": "update",
+            "past": "updated"
+        },
+        {
+            "present": "upgrade",
+            "past": "upgraded"
+        },
+        {
+            "present": "upload",
+            "past": "uploaded"
+        },
+        {
             "present": "use",
             "past": "used"
         },
         {
+            "present": "validate",
+            "past": "validated"
+        },
+        {
             "present": "vanish",
             "past": "vanished"
+        },
+        {
+            "present": "void",
+            "past": "voided"
         },
         {
             "present": "visit",
