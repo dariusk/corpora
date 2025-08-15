@@ -8,7 +8,7 @@
     "grunt-cli": "^0.1.13"
   },
   "scripts": {
-    "test": "grunt travis --verbose"
+    "test": "grunt --verbose"
   },
   "repository": {
     "type": "git",
