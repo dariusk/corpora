@@ -16,8 +16,4 @@ module.exports = function (grunt) {
 
   // Default task.
   grunt.registerTask('default', 'jsonlint');
-
-  // Travis CI task.
-  grunt.registerTask('travis', 'jsonlint');
-
 };
