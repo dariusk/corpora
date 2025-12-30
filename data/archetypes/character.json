@@ -184,7 +184,7 @@
         {
             "name": "poet",
             "synonyms": ["bard","singer","philosopher"],
-            "qualities": ["thoughtful","lyrical","myterious","enlightening"],
+            "qualities": ["thoughtful","lyrical","mysterious","enlightening"],
             "nature": "good"
         },
         {
