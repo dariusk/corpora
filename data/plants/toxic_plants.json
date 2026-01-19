@@ -1,5 +1,5 @@
 {
-    "discription": "common names of plants that are toxic or can be toxic if not prepared properly",
+    "description": "common names of plants that are toxic or can be toxic if not prepared properly",
     "plants": [
         "Achillea Yarrow",
         "Aconite Monkshood",
@@ -87,7 +87,7 @@
         "Cineraria",
         "Clematis",
         "Climbing lily",
-        "Clivia", 
+        "Clivia",
         "Coast redwood",
         "Coffee plant",
         "Coffeeberry",
