@@ -1,4 +1,6 @@
-	"scent": [
+{
+		"description": "Scents taken from various perfume notes",
+		"scent": [
 		"rose",
 		"cardamom",
 		"hibiscus",
@@ -177,3 +179,4 @@
 		"white chocolate",
 		"yew"
 	]
+}
