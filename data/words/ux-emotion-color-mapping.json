@@ -1,0 +1,68 @@
+[
+  {
+    "emotion": "Joy",
+    "color_hex": "#F6C443",
+    "color_rgb": [246, 196, 67],
+    "design_token": "emotion-joy",
+    "valence": "positive",
+    "arousal": "high",
+    "ux_context": ["memory recall", "celebration", "achievement"],
+    "associated_interactions": ["pulse animation", "warm glow", "expanding motion"],
+    "typography_pairing": "serif for emotional content, sans-serif for UI chrome"
+  },
+  {
+    "emotion": "Calm",
+    "color_hex": "#7ECEC1",
+    "color_rgb": [126, 206, 193],
+    "design_token": "emotion-calm",
+    "valence": "positive",
+    "arousal": "low",
+    "ux_context": ["reflection", "focus", "rest"],
+    "associated_interactions": ["slow fade", "gentle breathing animation", "soft glow"],
+    "typography_pairing": "serif for emotional content, sans-serif for UI chrome"
+  },
+  {
+    "emotion": "Love",
+    "color_hex": "#E88B9C",
+    "color_rgb": [232, 139, 156],
+    "design_token": "emotion-love",
+    "valence": "positive",
+    "arousal": "medium",
+    "ux_context": ["connection", "intimacy", "warmth"],
+    "associated_interactions": ["heartbeat pulse", "soft bloom", "gentle float"],
+    "typography_pairing": "serif for emotional content, sans-serif for UI chrome"
+  },
+  {
+    "emotion": "Wonder",
+    "color_hex": "#D4A76A",
+    "color_rgb": [212, 167, 106],
+    "design_token": "emotion-wonder",
+    "valence": "positive",
+    "arousal": "medium",
+    "ux_context": ["discovery", "curiosity", "novelty"],
+    "associated_interactions": ["sparkle burst", "expanding ripple", "warm shimmer"],
+    "typography_pairing": "serif for emotional content, sans-serif for UI chrome"
+  },
+  {
+    "emotion": "Melancholy",
+    "color_hex": "#8BA4C4",
+    "color_rgb": [139, 164, 196],
+    "design_token": "emotion-melancholy",
+    "valence": "negative",
+    "arousal": "low",
+    "ux_context": ["grief", "loss", "longing"],
+    "associated_interactions": ["slow dissolve", "gentle desaturation", "downward drift"],
+    "typography_pairing": "serif for emotional content, sans-serif for UI chrome"
+  },
+  {
+    "emotion": "Nostalgia",
+    "color_hex": "#C4A1D7",
+    "color_rgb": [196, 161, 215],
+    "design_token": "emotion-nostalgia",
+    "valence": "mixed",
+    "arousal": "low",
+    "ux_context": ["memory", "past experiences", "bittersweet recall"],
+    "associated_interactions": ["slow fade in", "soft vignette", "gentle float"],
+    "typography_pairing": "serif for emotional content, sans-serif for UI chrome"
+  }
+]
